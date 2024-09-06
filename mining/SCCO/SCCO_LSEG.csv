@@ -1,0 +1,12 @@
+﻿Name,Asset Type,Location,Commodity,Operating Company,Status,Capacity (Tonnes),Production (tonnes),Mine Opened,Mine Life (years),Mine Closed,Avg. Seam Thickness (meters),Total Seam Thickness (meters),No. Seams,Strip Ratio
+Nueva Rosita Coal and Coke Complex,Coal Mine,Mexico,Coal,Southern Copper Corp,Normal Operation,"350,000.00",--,1924,--,,--,--,--,--
+Angangueo,Mine (General),Mexico,"Zinc, Copper",Southern Copper Corp,Feasibility,--,0,,--,,--,--,--,--
+Buenavista (Cananea),Mine (General),Mexico,"Molybdenum, Silver, Copper,Zinc",Southern Copper Corp,Normal Operation,--,--,,YES,,--,--,--,--
+Charcas,Mine (General),Mexico,"Zinc, Copper",Southern Copper Corp,Normal Operation,--,"69,000.00",,--,,--,--,--,--
+La Caridad Mine,Mine (General),Mexico,"Molybdenum, Copper, Silver",Southern Copper Corp,Normal Operation,--,"13,020.00",,YES,,--,--,--,--
+El Arco,Mine (General),Mexico,Copper,Southern Copper Corp,Feasibility,--,0,,--,,--,--,--,--
+Michiquillay,Mine (General),Peru,Copper,Southern Copper Corp,Feasibility,--,0,,--,,--,--,--,--
+Los Chalchihuites,Mine (General),Mexico,Copper,Southern Copper Corp,Feasibility,--,0,,--,,--,--,--,--
+Taxco,Mine (General),Mexico,Zinc,Southern Copper Corp,Permanently Closed,--,0,,YES,,--,--,--,--
+Los Chancas,Mine (General),Peru,"Copper, Molybdenum",Southern Copper Corp,Feasibility,--,0,,--,,--,--,--,--
+Pilares,Mine (General),Mexico,Copper,Southern Copper Corp,Normal Operation,--,"35,000.00",,--,,--,--,--,--

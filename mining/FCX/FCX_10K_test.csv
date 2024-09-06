@@ -1,0 +1,1976 @@
+physical asset,location,ownership,commodity,status
+Morenci mine,North America,FMC,Copper,
+Bagdad mine,North America,FMC,Copper,
+Safford (including Lone Star) mine,North America,FMC,Copper,
+Sierrita mine,North America,FMC,Copper,
+Miami mine,North America,FMC,Copper,
+Chino mine,North America,FMC,Copper,
+Tyrone mine,North America,FMC,Copper,
+Henderson mine,North America,FMC,Molybdenum,
+Climax mine,North America,FMC,Molybdenum,
+Cerro Verde mine,South America,FMC,Copper,
+El Abra mine,South America,FMC,Copper,
+Grasberg minerals district,Indonesia,PT-FI,Copper,
+mines,U.S.,Company,copper,operational
+smelting and refining facilities,Various,Company,copper,operational
+mines,Peru,Company,copper,operational
+mines,Indonesia,Company,molybdenum,operational
+Smelters,"North America, South America",Company owned,Sulfuric acid,Operational
+sulfur burners,Safford mine,Company owned,Sulfuric acid,Operational
+facilities,Grasberg minerals district,PT-FI,Minerals,
+equipment,Grasberg minerals district,PT-FI,Minerals,
+Copper mines,North America,,Copper,Operational
+Molybdenum mines,North America,,Molybdenum,Operational
+Leach operations,North America,,Copper,Operational
+Mill operations,North America,,Copper,Operational
+Copper mines,South America,,Copper,Operational
+Molybdenum mines,South America,,Molybdenum,Operational
+Leach operations,South America,,Copper,Operational
+Mill operations,South America,,Copper,Operational
+Estimated recoverable copper reserves,North America,Net equity interest,Copper,estimated recoverable proven and probable
+Estimated recoverable gold reserves,South America,Net equity interest,Gold,estimated recoverable proven and probable
+Estimated recoverable molybdenum reserves,Indonesia,Net equity interest,Molybdenum,estimated recoverable proven and probable
+Cerro Verde stockpiles,Cerro Verde,FCX - 100% basis,copper,active
+North America copper mines,North America,FCX - 100% basis,copper,active
+Morenci stockpiles,Morenci,FCX - 100% basis,copper,active
+Bagdad stockpiles,Bagdad,FCX - 100% basis,copper,active
+Safford stockpiles,"Safford, including Lone Star",FCX - 100% basis,copper,active
+Sierrita stockpiles,Sierrita,FCX - 100% basis,copper,active
+Miami stockpiles,Miami,FCX - 100% basis,copper,active
+Chino stockpiles,"Chino, including Cobre",FCX - 100% basis,copper,active
+Tyrone stockpiles,Tyrone,FCX - 100% basis,copper,active
+Cerro Verde stockpiles,Cerro Verde,FCX - 100% basis,copper,active
+El Abra stockpiles,El Abra,FCX - 100% basis,copper,active
+Facilities,South America,Freeport-McMoRan (FCX),Copper,Operational
+Equipment,Indonesia,Freeport-McMoRan (FCX),Copper,Operational
+mining operations,Indonesia,PT Freeport Indonesia (PT-FI),copper,
+facilities,"Indonesia, Peru, Chile",PT Freeport Indonesia (PT-FI),"copper, gold, molybdenum",
+infrastructure,"Indonesia, Peru, Chile",PT Freeport Indonesia (PT-FI),"copper, gold, molybdenum",
+Mining and processing operations,,Company,"Copper, gold, molybdenum","Operational, under construction, end-of-life"
+mine,Cerro Verde,Company,,operational
+facilities,PT-FI’s remote operating site,Company,,under construction
+mining properties,U.S.,FCX and subsidiaries,,
+Facilities,"Grasberg minerals district, Indonesia",PT-FI,Copper concentrate,Operational
+Smelting capacity,Indonesia,PT Smelting,Anode slimes,Under construction
+machines,,,input materials for equipment creation,
+equipment,,,,
+information technology systems,,,,
+transportation,,,commodities used in our operations and the commodities we produce,
+Mineral reserves,,,copper,under construction
+Mineral reserves,,,gold,operational
+Mineral reserves,,,molybdenum,under construction
+North America copper mines,North America,,copper,operational
+South America mining,South America,,copper,operational
+Indonesia mining,Indonesia,,copper,operational
+Molybdenum mines,,,molybdenum,operational
+smelting capacity,Indonesia,,"copper, gold, molybdenum",under construction
+tangible long-lived assets,,Company,oil and gas,operational
+oil and gas wells,,Company,oil and gas,operational
+overburden stockpile,Indonesia,Company,coal,under construction
+platforms,,Company,oil and gas,operational
+tanks,,Company,oil and gas,operational
+production equipment,,Company,oil and gas,operational
+flow lines,,Company,oil and gas,operational
+wellsite,,Company,oil and gas,end-of-life
+mining operations,,Company,metal,operational
+Mining operations,,,"copper, gold, molybdenum",operational
+Metals Inventory,,Company,Metals,Operational
+Copper mines,North America,,"copper, molybdenum",operational
+Cerro Verde,Peru,53.56% interest,copper,operational
+El Abra,Chile,51.0% interest,copper,operational
+Expansion of PT Smelting's capacity,,PT-FI,Concentrate,Under construction
+PMR to process gold and silver,,PT-FI,"Gold, Silver",Under construction
+Facilities,Indonesia,PT-FI,"Copper, Gold, Molybdenum",
+Facilities,Peru,Cerro Verde,"Copper, Gold, Molybdenum",
+Facilities,,Freeport Cobalt,Cobalt,
+Facilities,,Jervois Global Limited,Cobalt,
+copper mining operations,,,copper,
+Copper Mines,,,Copper,
+Copper Mines,,,Molybdenum,
+Copper Mines,,,Gold,
+Copper Mines,,,Silver,
+North America Copper Mines,,Company,"Copper, Molybdenum, Gold, Silver",Operational
+mining operations,,Company,copper,operational
+mining operations,,Company,silver,operational
+mining operations,,Company,molybdenum,operational
+mining operations,Indonesia,Company,Copper,operational
+mining operations,Indonesia,Company,Gold,operational
+mining operations,Indonesia,Company,Silver,operational
+mining operations,Indonesia,company,copper,
+mining operations,Indonesia,PT Smelting,gold,
+mining operations,Indonesia,company,silver,
+Molybdenum mines,,,molybdenum,
+other mining operations,,,copper,
+Mineral resource,,Freeport-McMoRan Inc.,"Copper, Molybdenum","Measured, indicated and inferred; Under construction"
+North America copper mines,North America,Freeport-McMoRan Inc.,Copper,
+South America,South America,Freeport-McMoRan Inc.,,
+Indonesia mining,Indonesia,Freeport-McMoRan Inc.,,
+Indonesia smelter development,Indonesia,Freeport-McMoRan Inc.,,
+Molybdenum mines,,Freeport-McMoRan Inc.,Molybdenum,
+"Property, plant, equipment and mine development costs, net",,Freeport-McMoRan Inc.,,
+Mill and leach stockpiles,,Freeport-McMoRan Inc.,,
+Other long-term assets,,Freeport-McMoRan Inc.,,
+Morenci,Morenci,FCX,Copper,
+Cerro Verde,Cerro Verde,FCX,Copper,
+Grasberg (Indonesia mining),"Grasberg, Indonesia",PT-FI,Copper,
+Rod & Refining operations,,FCX,,
+Atlantic Copper Smelting & Refining,,FCX,,
+stockpiles,,Atlantic Copper,copper,operational
+mill,,Atlantic Copper,copper,operational
+leach facilities,,Atlantic Copper,copper,operational
+Mining Operations,,"PT-FI, FCX (81% economic interest through 2022), PT Inalum (26.24%), PTI (25.00%)",Copper,Operational
+concentrator,Cerro Verde,Cerro Verde,minerals,operational
+remediation projects,"U.S., 24 U.S. states","FCX, FMC",,remediation projects
+Facilities,New Mexico,FCX,Mining,Operational
+Equipment,Arizona,FCX,Leaching,Operational
+Infrastructure,Colorado,FCX,Concentrating and Smelting,Under Construction
+Facilities,Chile,FCX,Mining,End-of-Life
+Equipment,Peru,FCX,Leaching,Operational
+greenfield smelter,"Gresik, Indonesia",PT-FI (owned by FCX),copper concentrate,under construction
+Copper Mines,North America,FCX,Copper,
+Molybdenum Mines,,FCX,Molybdenum,
+Rod & Smelting & Refining facilities,,FCX,"Copper, Molybdenum",
+Infrastructure,,FCX,,
+Indonesia smelter projects,Indonesia,FCX,Metal Smelting,under construction
+Indonesia smelter projects,Indonesia,FCX,"copper, molybdenum",under construction
+pad,,,copper,operational
+pad,,,copper,under construction
+Stope,,,Ore,
+Mines,Morenci mine (North America),,Copper,
+Mines,Bagdad mine (North America),,Copper,
+Mines,Safford mine (North America),,Copper,
+Mines,Sierrita mine (North America),,Copper,
+Mines,Miami mine (North America),,Copper,
+Mines,Chino mine (North America),,Copper,
+Mines,Tyrone mine (North America),,Copper,
+Mines,Cerro Verde mine (South America),,Copper,
+Mines,El Abra mine (South America),,Copper,
+Smelting facilities,Miami smelter (Arizona),,Copper concentrate,
+Refineries,"El Paso, Texas",,Copper cathode,
+Electrolytic refinery,"El Paso, Texas",,Copper cathode,
+Continuous cast copper rod plants,"El Paso, Texas",,Continuous cast copper rod,
+Continuous cast copper rod plants,"Miami, Arizona",,Continuous cast copper rod,
+Copper concentrate,,,Copper,
+Copper cathode,,,Copper,
+Continuous cast copper rod,,,Copper,
+PT Smelting,,39.5% owned by PT-FI,Copper,
+Atlantic Copper,Spain,Wholly owned by company,Copper,
+Mining Operations,North America,Company A (implied),Copper,Operational
+Leach operations,North America,Company A (implied),Copper,Operational
+Mill operations,North America,Company A (implied),Copper,Operational
+Mining Operations,South America,Company A (implied),Copper,Operational
+Leach operations,South America,Company A (implied),Copper,Operational
+Mill operations,South America,Company A (implied),Copper,Operational
+Ore milled (metric tons per day),INDONESIA,PT-FI,"Copper, Gold, Molybdenum",operational
+Facilities,INDONESIA,PT-FI,"Copper, Gold, Molybdenum",operational
+Copper reserves,North America,Consolidated basis,Copper,
+Gold reserves,North America,Consolidated basis,Gold,
+Molybdenum reserves,North America,Consolidated basis,Molybdenum,
+Copper reserves,South America,Consolidated basis,Copper,
+Gold reserves,South America,Consolidated basis,Gold,
+Molybdenum reserves,South America,Consolidated basis,Molybdenum,
+Copper reserves,Indonesia,Consolidated basis,Copper,
+Gold reserves,Indonesia,Consolidated basis,Gold,
+Molybdenum reserves,Indonesia,Consolidated basis,Molybdenum,
+Copper reserves,,Net equity interest,Copper,
+Gold reserves,,Net equity interest,Gold,
+Molybdenum reserves,,Net equity interest,Molybdenum,
+molybdenum properties,North America,FCX’s Interest,molybdenum,operational
+ore bodies,North America,FCX’s Interest,copper,operational
+mill and leach stockpiles,North America,FCX’s Interest,copper,operational
+copper concentrate,,PT-FI,copper concentrate,
+anode slimes,,PT Smelting,anode slimes,
+greenfield smelter and precious metals refinery (PMR),Grasberg minerals district,PT-FI,"copper concentrate, anode slimes",under construction
+PT Smelting,"Gresik, Indonesia",PT-FI (39.5%) owned,copper concentrate,operational
+North America copper mines,North America,Company,Copper,Operational
+South America mining,South America,Company,Copper,Operational
+Indonesia mining,Indonesia,Company,Copper,Operational
+Morenci mine,North America,Company,Copper,Operational
+Cerro Verde mine,Peru,Company,Copper,Operational
+Grasberg minerals district,Indonesia,Company,Copper,Operational
+Henderson and Climax molybdenum mines,North America,Company,Molybdenum,Operational
+mining and milling assets,,Company,"copper, gold, molybdenum",operational
+mines,,,copper,
+Mining operations,,,Copper,
+Mining operations,,,Gold,
+Mining operations,,,Molybdenum,
+Grasberg Block Cave,"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+Deep Mill Level Zone (DMLZ),"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+Big Gossan,"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+Milling equipment,"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+Mining Rights,Indonesia,PT-FI and the Indonesia government,,Under discussion for extension
+Grasberg minerals district,Indonesia,PT-FI,"Copper, Gold",Operational
+Grasberg Block Cave underground mine,Grasberg minerals district,PT-FI,"Copper, Gold",Operational
+DMLZ underground mine,Grasberg minerals district,PT-FI,"Copper, Gold",Operational
+Big Gossan underground mine,Grasberg minerals district,PT-FI,"Copper, Gold",Operational
+Deep Ore Zone (DOZ) underground mine ore body,Grasberg minerals district,PT-FI,"Copper, Gold",Depleted at the end of 2021
+Molybdenum mines,Colorado,wholly owned,molybdenum concentrate,operational
+Henderson underground mine,Colorado,wholly owned,molybdenum concentrate,operational
+Climax open-pit mine,Colorado,wholly owned,molybdenum concentrate,operational
+Miami smelter,Arizona,wholly owned,"copper concentrate, refined copper","operational, undergoing major maintenance turnaround"
+El Paso refinery,Texas,wholly owned,"copper concentrate, refined copper",operational
+Atlantic Copper,Spain,joint ownership (39.5%),"copper concentrate, refined copper, precious metals",operational
+facilities,Indonesia,PT-FI,,
+equipment,Indonesia,PT-FI,,
+infrastructure,Indonesia,Cerro Verde,,
+copper mining operations,,,copper,
+North America Copper Mines,,,Copper,operational
+North America Copper Mines,,,Molybdenum,operational
+Mining operations,,Company,"Copper, Molybdenum, Gold, Silver",Operational
+mining operations,,,copper,operational
+mining operations,,,silver,operational
+mining operations,,,molybdenum,operational
+mining operations,South America,Company,copper,operational
+mining operations,Cerro Verde,Company,silver,operational
+mining operations,Cerro Verde,Company,molybdenum,operational
+Mining operations,Indonesia,Company (not specified),"Copper, Gold, Silver",Operational
+Molybdenum mines,,,molybdenum,operational
+North America copper mines,North America,Freeport-McMoRan Inc.,Copper,
+South America mines,South America,Freeport-McMoRan Inc.,Copper,
+Indonesia mining,Indonesia,Freeport-McMoRan Inc.,Copper,
+Indonesia smelter development,Indonesia,Freeport-McMoRan Inc.,Copper,
+Molybdenum mines,,Freeport-McMoRan Inc.,Molybdenum,
+"Property, plant, equipment and mine development costs, net",,Freeport-McMoRan Inc.,,
+Mill and leach stockpiles,,Freeport-McMoRan Inc.,,
+"Inventories: Materials and supplies, net",,Freeport-McMoRan Inc.,,
+Other current assets,,Freeport-McMoRan Inc.,,
+mining operations,New Mexico,FCX,,
+mining operations,Indonesia,PT-FI,,
+facilities,Arizona,FCX,minerals,operational
+equipment,Arizona,FCX,minerals,operational
+facilities,Colorado,FCX,minerals,operational
+equipment,Colorado,FCX,minerals,operational
+facilities,Chile,FCX,minerals,operational
+equipment,Chile,FCX,minerals,operational
+facilities,Peru,FCX,minerals,operational
+equipment,Peru,FCX,minerals,operational
+facilities,Indonesia,FCX,minerals,under construction
+equipment,Indonesia,FCX,minerals,under construction
+aodes slimes,Indonesia,PT Smelting,copper concentrate,operational
+smelter,Indonesia,PT-FI,copper concentrate,under construction
+greenfield smelter,Indonesia,PT-FI,copper concentrate,under construction
+,Spain,Atlantic Copper,copper,
+Mines,North America,FCX,Copper,
+Mines,South America,FCX,Copper,
+Mines,Indonesia,FCX,Molybdenum,
+Rod & Smelting,,FCX,Copper,
+Refining,,FCX,Copper,
+Facilities,,FCX,,
+Indonesia smelter projects,Indonesia,FCX,,under construction
+Indonesia smelter projects,Indonesia,FCX,,under construction
+facilities,"El Paso, Texas",Company owns facilities,copper,
+facilities,"Miami, Arizona",Company owns facilities,copper,
+mines,North America copper mines,Company owns mines,copper,
+mines,South America mines,Company owns mines,copper,
+mines,Indonesia,Company owns mines,copper,
+refinery,"El Paso, Texas",Company owns refinery,copper,
+rod plants,"El Paso, Texas",Company owns rod plants,copper,
+rod plants,"Miami, Arizona",Company owns rod plants,copper,
+molybdenum mines,Henderson,Company,molybdenum concentrate,
+Climax mine,Climax,Company,molybdenum concentrate,
+North America copper mines,North America,Company,molybdenum concentrate,
+Cerro Verde copper mine,Peru,Company,molybdenum concentrate,
+conversion facilities,,Company,molybdenum concentrate,
+mines,U.S.,Atlantic Copper,copper,operational
+industrial facilities,"U.S., California",Atlantic Copper,"copper, molybdenum",operational
+mines,EU,Atlantic Copper,copper,operational
+70-mile main service road,portsite to the mill complex,PT-FI,,operational
+Grasberg minerals district,Grasberg,PT-FI,"copper, gold",operational
+Grasberg Block Cave underground mine,Grasberg minerals district,PT-FI,"copper, gold",operational
+Deep Mill Level Zone (DMLZ) underground mine,Grasberg minerals district,PT-FI,"copper, gold",operational
+Big Gossan underground mine,Grasberg minerals district,PT-FI,"copper, gold",operational
+new milling facilities,Grasberg minerals district,PT-FI,"copper, gold",completed
+mill recovery project with a new copper cleaner circuit,Grasberg minerals district,PT-FI,"copper, gold",under construction
+coal-fired power plant,Grasberg minerals district,PT-FI,,operational
+diesel generators,Grasberg minerals district,PT-FI,,operational
+dual-fuel power plant,Grasberg minerals district,PT-FI,,operational
+gas-fired combined cycle facility,Grasberg minerals district,PT-FI,,under construction
+mountain streams,Grasberg minerals district,,,operational
+underground operations,Grasberg minerals district,PT-FI,"copper, gold",operational
+contractors,Indonesia,,,
+contractors,North America,,,
+contractors,South America,,,
+contractors,Europe,,,
+Copper mines,North America,100% Operating Data Leach operations,Copper,Operational
+Leach operations,North America,100% Operating Data Leach operations,Copper,Operational
+Mill operations,North America,100% Operating Data Leach operations,Copper,Operational
+Copper mines,South America,Joint venture interests,Copper,Operational
+Leach operations,South America,Joint venture interests,Copper,Operational
+Mill operations,South America,Joint venture interests,Copper,Operational
+Mining operations,INDONESIA,Company,Copper,Operational
+Mill,INDONESIA,Company,Copper,Operational
+Molybdenum mines,INDONESIA,Company,Molybdenum,Operational
+Mineral reserves,North America,Consolidated basis,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,North America,Net equity interest,Gold,Estimated Recoverable Proven and Probable
+Mineral reserves,North America,Consolidated basis,Molybdenum,Estimated Recoverable Proven and Probable
+Mineral reserves,South America,Consolidated basis,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,South America,Net equity interest,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,South America,Consolidated basis,Molybdenum,Estimated Recoverable Proven and Probable
+Mineral reserves,Indonesia,Consolidated basis,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,Indonesia,Net equity interest,Gold,Estimated Recoverable Proven and Probable
+Mineral reserves,Indonesia,Consolidated basis,Molybdenum,Estimated Recoverable Proven and Probable
+Morenci Milling,North America,FCX – 100% basis,Milling,Operational
+Morenci Leaching,North America,FCX – 100% basis,Leaching,Operational
+Bagdad Milling,North America,FCX – 100% basis,Milling,Operational
+Bagdad Leaching,North America,FCX – 100% basis,Leaching,Operational
+"Safford, including Lone Star Milling",North America,FCX – 100% basis,Milling,Operational
+"Safford, including Lone Star Leaching",North America,FCX – 100% basis,Leaching,Operational
+Sierrita Milling,North America,FCX – 100% basis,Milling,Operational
+Sierrita Leaching,North America,FCX – 100% basis,Leaching,Operational
+"Chino, including Cobre Milling",North America,FCX – 100% basis,Milling,Operational
+"Chino, including Cobre Leaching",North America,FCX – 100% basis,Leaching,Operational
+Morenci,,72%,"copper, gold, molybdenum",
+Cerro Verde,,53.56%,"copper, gold, molybdenum",
+Grasberg minerals district,,48.76%,"copper, gold, molybdenum",
+mining operations,Indonesia,PT Freeport Indonesia (PT-FI),"copper, molybdenum",operational
+smelting and refining capacity,Indonesia,PT Freeport Indonesia (PT-FI),"copper, molybdenum",under construction
+mining operations,,the company,copper,operational
+processing facilities,,the company,copper,operational
+mine sites,US,Company and its subsidiaries,,operational
+smelter sites,US,Company and its subsidiaries,,operational
+Mining operations,Indonesia,Company,"Copper, Gold",Operational
+Mining operations,North America,Company,"Copper, Gold",Operational
+Facilities,Grasberg minerals district,Company,"Copper, Gold",Operational
+mill stockpiles,,,copper,
+leach stockpiles,,,copper,
+Copper mines,North America (Arizona and New Mexico),Wholly owned,"Copper, Molybdenum concentrate, Gold, Silver",Operational
+Concentrating facilities,Bagdad (Arizona),Wholly owned,Copper,Operational
+Leaching processes,North America and South America,Wholly owned,Copper,Operational
+Tailings infrastructure,North America (Arizona and New Mexico),Wholly owned,Copper,Under construction
+Copper mines,North America,Partially owned by the company,Copper,Operational
+Concentrator,"Cerro Verde, Peru",Partially owned by the company,Copper,Operational
+Sulfide project at El Abra,"El Abra, Chile",Partially owned by the company,Copper,Under construction
+mill recovery project,Grasberg minerals district,PT-FI,copper and gold,under construction
+copper cleaner circuit,Grasberg minerals district,PT-FI,copper and gold,under construction
+gas-fired combined cycle facility,Grasberg minerals district,PT-FI,electricity,under construction
+Kucing Liar deposit,Grasberg minerals district,PT-FI,copper and gold,pre-production development
+PT Smelting expansion,Indonesia,PT-FI,copper concentrate,operational
+Manyar smelter,"Gresik, Indonesia",PT-FI,copper concentrate,under construction
+PMR,Indonesia,PT-FI,gold and silver,under construction
+Copper mining facilities,,PT-FI,Copper,Operational
+Equipment used in copper mining,,PT-FI,Copper,Operational
+Climax open-pit mine,Colorado,wholly owned by the company,molybdenum,operational
+Henderson underground mine,Colorado,wholly owned by the company,molybdenum,operational
+smelter in Arizona,Arizona,wholly owned by the company,"copper concentrate, anode slimes",operational
+Atlantic Copper,Spain,wholly owned by the company,copper concentrate,operational
+El Paso refinery in Texas,Texas,wholly owned by the company,copper concentrate,operational
+Indonesia smelter projects,Indonesia,wholly owned by the company,"copper concentrate, anode slimes",under construction
+Mining projects,Grasberg minerals district,PT-FI,minerals,under construction
+underground development activities,Grasberg minerals district,PT-FI,minerals,operational
+smelter projects,Indonesia,PT-FI,minerals,under construction
+copper mining operations,,,copper,
+North America Copper Mines,,,Copper,operational
+North America Copper Mines,,,Molybdenum,operational
+North America Copper Mines,,,Gold,operational
+North America Copper Mines,,,Silver,operational
+North America Copper Mines,North America,Company,"Copper, Molybdenum, Gold, Silver",Operational
+Mining operations,,Company,Copper,Operational
+Mining operations,,Company,Silver,Operational
+Mining operations,,Company,Molybdenum,Operational
+mining operations,,Company,copper,operational
+mining operations,,Company,silver,operational
+mining operations,,Company,molybdenum,operational
+mining operations,Indonesia,Company,Copper,operational
+mining operations,Indonesia,Company,Gold,operational
+mining operations,Indonesia,Company,Silver,operational
+mining operations,Indonesia,Company (implied),"copper, gold, silver",operational
+mining operations,other mining locations,Company (implied),various,operational
+Molybdenum Mines,,,molybdenum,operational
+North America copper mines,North America,Freeport-McMoRan Inc.,Copper,
+South America mining operations,South America,Freeport-McMoRan Inc.,Copper,
+Indonesia mining,Indonesia,Freeport-McMoRan Inc.,"Copper, Gold",
+Indonesia smelter projects,Indonesia,Freeport-McMoRan Inc.,Copper,
+Molybdenum mines,,Freeport-McMoRan Inc.,Molybdenum,
+"Property, plant, equipment and mine development costs",,Freeport-McMoRan Inc.,,
+Mill,,FCX,Copper,Operational
+Leaching Facility,,FCX,Copper,Operational
+Refining Facility,,FCX,Copper,Operational
+Mining Machinery,,FCX,Copper,Operational
+Processing Equipment,,FCX,Molybdenum,Operational
+Mining Area,,FCX,Minerals,Operational
+Pit,,FCX,Minerals,Operational
+Facilities,,FCX,Minerals,Operational
+Morenci mine,Arizona,FCX owns 72% interest,,
+Bagdad mine,Arizona,FCX owns 100%,,
+Safford mine (including Lone Star),Arizona,FCX owns 100%,,
+Sierrita mine,Arizona,FCX owns 100%,,
+Miami mine,Arizona,FCX owns 100%,,
+Tyrone mine,New Mexico,FCX owns 100%,,
+Chino mine,New Mexico,FCX owns 100%,,
+Henderson mine,Colorado,FCX owns 100%,,
+Climax mine,Colorado,FCX owns 100%,,
+Cerro Verde mine,Peru,FCX owns 53.56%,,
+El Abra mine,Chile,FCX owns 51%,,
+buildings and facilities located at properties owned or operated by affiliates of FCX,properties owned or operated by affiliates of FCX,FCX affiliates,"asbestos, talc",
+electrical wire and cable,,,asbestos,
+paint,,,asbestos,
+joint compounds,,,asbestos,
+talc-based lubricants used in rubber manufacturing,,,talc,
+Copper Forward Contracts,Spain,Atlantic Copper,copper,
+Copper mines,North America,FCX,copper concentrate,operational
+Smelting & Refining operations,,FCX,copper concentrate,operational
+Molybdenum mines,,FCX,molybdenum,operational
+Morenci open-pit mine,Southeastern Arizona,FCX,"copper, molybdenum concentrate",operational
+Safford (including Lone Star),Arizona,FCX,copper,operational
+Bagdad,Arizona,FCX,copper,operational
+Sierrita and Miami in Arizona,Arizona,FCX,copper,operational
+Chino and Tyrone in New Mexico,New Mexico,FCX,copper,operational
+Cerro Verde,Peru,FCX,"copper, molybdenum concentrate, silver",operational
+El Abra,Chile,FCX,copper,operational
+PT-FI’s Grasberg minerals district,Indonesia,FCX,"copper concentrate, gold and silver",operational
+Henderson underground mine,Colorado,FCX,molybdenum concentrate,operational
+Climax open-pit mine,Colorado,FCX,molybdenum concentrate,operational
+Facilities,North America,FCX,Copper,
+Equipment,South America,FCX,Molybdenum,
+Infrastructure,Indonesia,PT Smelting,Copper,
+Mining Operations,Cerro Verde,FCX,Copper,
+Smelter,Morenci,FCX,Copper,
+Other Assets,Other,FCX,N/A,
+Facilities,North America,FCX,Copper,Operational
+Equipment,South America,FCX,Gold,Operational
+Infrastructure,Indonesia,FCX,Molybdenum,Operational
+,,,,
+Anode,,,copper,operational
+Bench,open-pit mine,,copper,operational
+Cathode,,,copper,refined
+Grasberg minerals district,Indonesia,PT Freeport Indonesia (PT-FI),"copper, gold",operational
+Morenci minerals district,Arizona,Freeport-McMoRan Inc.,copper,operational
+Cerro Verde operation,Peru,Freeport-McMoRan Inc.,copper,operational
+Safford mine,Arizona,Freeport-McMoRan Inc.,copper,operational
+Morenci mine,North America,FMC,Copper,
+Bagdad mine,North America,FMC,Copper,
+Safford (including Lone Star) mine,North America,FMC,Copper,
+Sierrita mine,North America,FMC,Copper,
+Miami mine,North America,FMC,Copper,
+Chino mine,North America,FMC,Copper,
+Tyrone mine,North America,FMC,Copper,
+Henderson mine,North America,FMC,Molybdenum,
+Climax mine,North America,FMC,Molybdenum,
+Cerro Verde mine,South America,FMC,Copper,
+El Abra mine,South America,FMC,Copper,
+Grasberg minerals district,Indonesia,PT-FI,Copper,
+Morenci mine,North America,PT-FI,copper,operational
+Bagdad mine,North America,PT-FI,copper,operational
+Sierrita mine,North America,PT-FI,copper,operational
+Chino mine,North America,PT-FI,copper,operational
+Cerro Verde mine,Peru,PT-FI,copper,operational
+Grasberg minerals district,Indonesia,PT-FI,copper,operational
+Miami smelter,Arizona,PT-FI,copper,operational
+El Paso electrolytic refinery,Texas,PT-FI,copper,operational
+Atlantic Copper,Spain,wholly owned,copper,operational
+PT Smelting,"Gresik, Indonesia",39.5-percent-owned,copper,operational
+facilities,"El Paso, Texas",Company,copper rod,operational
+equipment,"Miami, Arizona",Company,copper rod,operational
+infrastructure,North America copper mines,Company,copper cathode,operational
+facilities,"Miami, Arizona, North America",FMC and certain of its affiliates,minerals,operational
+equipment,"Miami, Arizona, North America",FMC and certain of its affiliates,copper concentrate,operational
+mines,U.S.,Company,copper,operational
+smelting and refining facilities,Various,Company,copper,operational
+mines,Peru,Company,copper,operational
+mines,Indonesia,Company,molybdenum,operational
+mines,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+concentrators,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+SX/EW facilities,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+smelter,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+refinery,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+rod mills,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+molybdenum roasters,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+processing facilities,"Greenlee County, Arizona","owned by FCX or Sumitomo Metal Mining Arizona, Inc., SMM Morenci, Inc.","copper, molybdenum",operational
+electric shovels,Morenci mine site,owned by FCX,"copper, molybdenum",operational
+concentrating facilities,Cerro Verde,Cerro Verde,copper,operational
+milling design capacity,Cerro Verde,Cerro Verde,copper,operational
+SX/EW leaching facilities,Cerro Verde,Cerro Verde,copper,operational
+crushed leach facility,Cerro Verde,Cerro Verde,copper,operational
+ROM leach system,Cerro Verde,Cerro Verde,copper,operational
+electric shovels,Cerro Verde,Cerro Verde,copper,operational
+hydraulic shovels,Cerro Verde,Cerro Verde,copper,operational
+SX/EW facility,El Abra,Corporación Nacional del Cobre de Chile (49%) and Cerro Verde (51%),copper,operational
+crushed leach circuit,El Abra,Corporación Nacional del Cobre de Chile (49%) and Cerro Verde (51%),copper,operational
+ROM leaching operation,El Abra,Corporación Nacional del Cobre de Chile (49%) and Cerro Verde (51%),copper,operational
+electric shovels,El Abra,Corporación Nacional del Cobre de Chile (49%) and Cerro Verde (51%),copper,operational
+Grasberg Block Cave underground mine,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,"copper, gold",operational
+Deep Mill Level Zone (DMLZ) underground mine,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,"copper, gold",operational
+Big Gossan,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,"copper, gold",operational
+Kucing Liar underground ore body,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,"copper, gold",under construction
+Deep Ore Zone (DOZ) underground mine,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,"copper, gold",end-of-life
+coal-fired power plant,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,electricity,operational
+diesel generators,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,electricity,operational
+dual-fuel power plant,"Sudirman Mountain Range in the province of Papua, Indonesia",PT-FI,electricity,under construction
+main service road,Grasberg minerals district,PT-FI,transportation,operational
+DOZ Underground Mine,Indonesia,PT-FI,copper,in end-of-life
+Grasberg Open Pit,Indonesia,PT-FI,copper,in end-of-life
+Atlantic Copper smelter and refinery,"Huelva, Spain",PT-FI,copper,operational
+PT Smelting copper smelter and refinery,"Gresik, Indonesia","60.5% Mitsubishi Materials Corporation, 39.5% PT-FI",copper,operational
+PT Smelting’s smelter,Indonesia,PT-FI,copper concentrate,operational
+Miami smelter,Arizona,company,copper concentrate,operational
+El Paso refinery,"El Paso, Texas",company,copper anode,operational
+"rod mills in El Paso, Texas, and Miami, Arizona","El Paso, Texas, and Miami, Arizona",company,copper,operational
+molybdenum conversion plants,U.S. and Europe,company,molybdenum concentrate,operational
+molybdenum roasters,"Sierrita, Arizona; Fort Madison, Iowa; Rotterdam, the Netherlands",company,molybdenum,operational
+molybdenum pressure-leach plant,"Bagdad, Arizona",company,molybdenum,operational
+conversion plant,"Stowmarket, United Kingdom",company,ferromolybdenum,operational
+"copper mines (Ajo, Bisbee, Tohono, Twin Buttes and Christmas)",Arizona,company,copper,on care and maintenance status
+underground development activities in the Grasberg minerals district,Grasberg minerals district,company,copper,under construction
+Lone Star copper leach project at our Safford mine,Safford mine,company,copper,completed
+Smelters,"North America, South America",Company owned,Sulfuric acid,Operational
+sulfur burners,Safford mine,Company owned,Sulfuric acid,Operational
+water treatment plant,Arequipa,Cerro Verde,potable water,operational
+wastewater treatment plant,Arequipa,Cerro Verde,wastewater treatment,operational
+concentrator,Arequipa,Cerro Verde,mining,operational
+security department facilities,Arequipa,Cerro Verde,security,operational
+facilities,Grasberg minerals district,PT-FI,Minerals,
+equipment,Grasberg minerals district,PT-FI,Minerals,
+Morenci,North America,FCX,Copper,Operational
+Bagdad,North America,FCX,Copper,Operational
+Safford,North America,FCX,Copper,Operational
+Sierrita,North America,FCX,Copper,Operational
+Miami,North America,FCX,Copper,Operational
+Chino,North America,FCX,Copper,Operational
+Tyrone,North America,FCX,Copper,Operational
+Cerro Verde,South America,FCX,Copper,Operational
+El Abra,South America,FCX,Copper,Operational
+Grasberg minerals district,Indonesia,PT-FI,Copper,Operational
+Copper mines,North America,,Copper,Operational
+Molybdenum mines,North America,,Molybdenum,Operational
+Leach operations,North America,,Copper,Operational
+Mill operations,North America,,Copper,Operational
+Copper mines,South America,,Copper,Operational
+Molybdenum mines,South America,,Molybdenum,Operational
+Leach operations,South America,,Copper,Operational
+Mill operations,South America,,Copper,Operational
+Cerro Verde mill,INDONESIA,PT-FI,"Copper, Gold, Molybdenum",operational
+Estimated recoverable copper reserves,North America,Net equity interest,Copper,estimated recoverable proven and probable
+Estimated recoverable gold reserves,South America,Net equity interest,Gold,estimated recoverable proven and probable
+Estimated recoverable molybdenum reserves,Indonesia,Net equity interest,Molybdenum,estimated recoverable proven and probable
+Morenci Mill,North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Bagdad Mill,North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+"Safford, including Lone Star",North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Sierrita Mill,North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+"Chino, including Cobre Mill",North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Tyrone,North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Henderson Mill,North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Climax Mill,North America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Cerro Verde Mill,South America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+El Abra,South America,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Grasberg Block Cave Mill,Indonesia,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+DMLZ Mill,Indonesia,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Big Gossan Mill,Indonesia,FCX - 100% Basis,"Copper, Gold, Moly, Silver",operational
+Kucing Liar c Mill,Indonesia,FCX - 100% Basis,"Copper, Gold, Moly, Silver",under construction
+Morenci Mill,North America,FCX’s Processing,Copper,Operational
+Bagdad Mill,North America,FCX’s Processing,Copper,Operational
+"Safford, including Lone Star",North America,FCX’s Processing,Copper,Operational
+Sierrita Mill,North America,FCX’s Processing,Copper,Operational
+"Chino, including Cobre Mill",North America,FCX’s Processing,Copper,Operational
+Tyrone,North America,FCX’s Processing,Copper,Operational
+Henderson Mill,North America,FCX’s Processing,Copper,Operational
+Climax Mill,North America,FCX’s Processing,Copper,Operational
+Cerro Verde Mill,South America,FCX’s Processing,Copper,Operational
+El Abra,South America,FCX’s Processing,Copper,Operational
+Grasberg Block Cave Mill,Indonesia,PT-FI,Copper,Operational
+DMLZ Mill,Indonesia,PT-FI,Copper,Operational
+Big Gossan Mill,Indonesia,PT-FI,Copper,Operational
+Kucing Liar Mill,Indonesia,PT-FI,Copper,Under construction
+Mill,Morenci,100%,copper,operational
+ROM leach,Morenci,100%,copper,operational
+Crushed leach,Morenci,100%,copper,operational
+Stockpiles,Morenci,100%,copper,operational
+Morenci,North America,PT-FI,copper,operational
+Cerro Verde,South America,PT-FI,copper,operational
+Grasberg minerals district,Indonesia,PT-FI,copper,operational
+Cerro Verde stockpiles,Cerro Verde,FCX - 100% basis,copper,active
+North America copper mines,North America,FCX - 100% basis,copper,active
+Morenci stockpiles,Morenci,FCX - 100% basis,copper,active
+Bagdad stockpiles,Bagdad,FCX - 100% basis,copper,active
+Safford stockpiles,"Safford, including Lone Star",FCX - 100% basis,copper,active
+Sierrita stockpiles,Sierrita,FCX - 100% basis,copper,active
+Miami stockpiles,Miami,FCX - 100% basis,copper,active
+Chino stockpiles,"Chino, including Cobre",FCX - 100% basis,copper,active
+Tyrone stockpiles,Tyrone,FCX - 100% basis,copper,active
+Cerro Verde stockpiles,Cerro Verde,FCX - 100% basis,copper,active
+El Abra stockpiles,El Abra,FCX - 100% basis,copper,active
+Milling,Morenci,72%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Morenci,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Bagdad,100%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Bagdad,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Safford,100%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Safford,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Sierrita,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Chino,100%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Chino,100%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Tyrone,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Henderson,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Climax,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Ajo,100%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Cochise/Bisbee,100%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Sanchez,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Tohono,100%,"Copper, Gold, Moly, Silver",Operational
+Leaching,Tohono,100%,"Copper, Gold, Moly, Silver",Operational
+Milling,Twin Buttes,100%,"Copper, Gold, Moly, Silver",Operational
+Facilities,South America,Freeport-McMoRan (FCX),Copper,Operational
+Equipment,Indonesia,Freeport-McMoRan (FCX),Copper,Operational
+Morenci,North America,100%,,Milling
+Bagdad,North America,100%,,Milling
+"Safford, including Lone Star",North America,100%,,Milling
+Sierrita,North America,100%,,Milling
+"Chino, including Cobre",North America,100%,,Milling
+Tyrone,North America,100%,,Leaching
+Henderson,North America,100%,,Milling
+Climax,North America,100%,,Milling
+Ajo,North America,100%,,Milling
+Cochise/Bisbee,North America,100%,,Leaching
+Sanchez,North America,100%,,Leaching
+Tohono,North America,100%,,Milling
+Twin Buttes,North America,100%,,Milling
+Christmas,North America,100%,,Milling
+Cerro Verde,South America,53.56%,,Milling
+El Abra,South America,51%,,Milling
+Grasberg minerals district,Indonesia,48.76%,,Milling
+Morenci,,joint venture partner interests,copper,
+Cerro Verde,,noncontrolling interest ownership,copper,
+Grasberg minerals district,,,copper,
+mining operations,Indonesia,PT Freeport Indonesia (PT-FI),copper,
+facilities,"Indonesia, Peru, Chile",PT Freeport Indonesia (PT-FI),"copper, gold, molybdenum",
+infrastructure,"Indonesia, Peru, Chile",PT Freeport Indonesia (PT-FI),"copper, gold, molybdenum",
+Mining and processing operations,,Company,"Copper, gold, molybdenum","Operational, under construction, end-of-life"
+mine,Cerro Verde,Company,,operational
+facilities,PT-FI’s remote operating site,Company,,under construction
+mining properties,U.S.,FCX and subsidiaries,,
+"""mining operations""","""Indonesia""","""PT-FI""","""copper concentrate""","""operational"""
+"""Contract of Work (COW)""","""Indonesia""","""PT-FI""","""not specified""","""not specified"""
+"""greenfield smelter""","""Indonesia""","""PT-FI""","""copper concentrate""","""under construction"""
+Facilities,"Grasberg minerals district, Indonesia",PT-FI,Copper concentrate,Operational
+Smelting capacity,Indonesia,PT Smelting,Anode slimes,Under construction
+facilities,Indonesia,PT-FI,minerals,operational
+equipment,Grasberg minerals district,PT-FI,minerals,operational
+infrastructure,El Abra operation in Chile,PT-FI,minerals,operational
+tailings storage facilities,Indonesia,subsidiaries of the company,minerals,operational
+embankments,U.S.,subsidiaries of the company,minerals,operational
+leach pads,U.S.,subsidiaries of the company,minerals,operational
+mining equipment,U.S.,subsidiaries of the company,minerals,operational
+production facilities,U.S.,subsidiaries of the company,minerals,operational
+mineral properties,U.S.,subsidiaries of the company,minerals,operational
+facilities,Indonesia,PT-FI,mineral ores,operational
+equipment,Indonesia,PT-FI,mineral ores,operational
+infrastructure,highlands near mine,PT-FI,tailings transport,operational
+facilities,lowlands tailings management area,PT-FI,tailings deposition,operational
+overburden stockpiles,Grasberg open pit,PT-FI,overburden management,end-of-life
+facilities,Indonesia,PT-FI,minerals,operational
+rail facilities,Indonesia,PT-FI,minerals,under construction
+underground mining production operations,Indonesia,PT-FI,minerals,operational
+levees,lowlands,PT-FI,minerals,under construction
+mining and milling operations,Papua,PT-FI,minerals,operational
+Mining operations,South America,Company,Minerals,Operational
+storage reservoirs,Cerro Verde,Company,Water,Operational
+Salar de Ascotán aquifer,El Abra,Company (permit holder),Groundwater for sulfide processing plant,Operational
+sulfide processing plant,El Abra,Company,Minerals,Operational
+machines,,,input materials for equipment creation,
+equipment,,,,
+information technology systems,,,,
+transportation,,,commodities used in our operations and the commodities we produce,
+mining operations,Grasberg minerals district,the company,"copper, gold",operational
+underground mines,Grasberg minerals district,the company,"copper, gold",under construction
+Grasberg Block Cave,Grasberg minerals district,the company,"copper, gold",under construction
+DMLZ,Grasberg minerals district,the company,"copper, gold",under construction
+Kucing Liar ore bodies,Grasberg minerals district,the company,"copper, gold",under construction
+Mineral reserves,,,copper,under construction
+Mineral reserves,,,gold,operational
+Mineral reserves,,,molybdenum,under construction
+Remediation projects,"U.S., 24 U.S. states, copper mine sites","Subsidiary companies we now own, FMC and certain affiliates and predecessor companies",,"active remediation projects, operational, under construction (implied)"
+mine trucks,"North America, South America",owned by the company,mining,operational
+coal-fired power plant,Indonesia,owned and operated by the company,energy production,operational
+tailings facilities,mine sites,owned by the company,mining,operational
+Mines,Western U.S.,The company,Mining and ore processing activities,Operational
+Mines,Arizona,The company,Mining and ore processing activities,Operational
+Mines,Gila River system,The company,Mining and ore processing activities,Operational
+Morenci Mine,Morenci,The company,Mining and ore processing activities,Operational
+Safford (including Lone Star) Mine,Safford,The company,Mining and ore processing activities,Operational
+Sierrita Mine,Sierrita,The company,Mining and ore processing activities,Operational
+Wells,San Pedro River Basin,Private well owners,Groundwater,Operational
+Wells,Verde River watershed,Private well owners,Groundwater,Operational
+Wells,Gila River,Private well owners,Groundwater,Operational
+Wells,Arizona,Private well owners,Groundwater,Under construction (Cone of depression analyses)
+Wells,Indian and non-Indian federal lands throughout Arizona,U.S.,Groundwater,In end-of-life (Some wells)
+Grasberg minerals district,Indonesia,Company,"Copper, gold",Operational
+Lone Star copper leach project,Safford mine,Company,Copper,Operational
+Safford mine,North America,Company,Copper,Operational
+Cerro Verde's concentrator facilities,Cerro Verde mine,Company,Copper,Operational
+Morenci mine,North America,Company,Copper,Operational
+Cerro Verde mine,Peru,Company,Copper,Operational
+Grasberg minerals district,Indonesia,Company,"Copper, gold",Operational
+Henderson and Climax molybdenum mines,North America,Company,Molybdenum,Operational
+North America copper mines,North America,,copper,operational
+South America mining,South America,,copper,operational
+Indonesia mining,Indonesia,,copper,operational
+Molybdenum mines, ,,molybdenum,operational
+smelting capacity,Indonesia,,"copper, gold, molybdenum",under construction
+tangible long-lived assets,,Company,oil and gas,operational
+oil and gas wells,,Company,oil and gas,operational
+overburden stockpile,Indonesia,Company,coal,under construction
+platforms,,Company,oil and gas,operational
+tanks,,Company,oil and gas,operational
+production equipment,,Company,oil and gas,operational
+flow lines,,Company,oil and gas,operational
+wellsite,,Company,oil and gas,end-of-life
+\'mining and milling assets\,\'\,\'The company\,"\'copper, gold, molybdenum\","\'operational, under construction\"
+mining operations,,Company,metal,operational
+Mining operations,,,"copper, gold, molybdenum",operational
+Mining operations,Grasberg minerals district,Company,Copper,Operational
+Equipment,Cerro Verde,Company,Copper,Operational
+Facilities,Indonesia mining operation,Company,Copper,Operational
+Metals Inventory,,Company,Metals,Operational
+Morenci,Arizona,Joint venture,Copper,Operational
+Bagdad,Arizona,Wholly owned,Copper,Operational
+Safford (including Lone Star),Arizona,Wholly owned,Copper,Operational
+Sierrita,Arizona,Wholly owned,Copper,Operational
+Miami,Arizona,Wholly owned,Copper,Operational
+Chino,New Mexico,Wholly owned,Copper,Operational
+Tyrone,New Mexico,Wholly owned,Copper,Operational
+Copper mines,North America,,"copper, molybdenum",operational
+Cerro Verde,Peru,53.56% interest,copper,operational
+El Abra,Chile,51.0% interest,copper,operational
+Mines,South America,Company,"Copper, Molybdenum, Silver",Operational
+Concentrator facilities,Cerro Verde,Company,"Copper, Molybdenum, Silver",Operational
+Mill,El Abra,Company,"Copper, Molybdenum, Silver",Operational
+Grasberg minerals district,"Grasberg minerals district in Papua, Indonesia",48.76 percent interest,"copper concentrate, gold, silver",operational
+Block Cave,"Grasberg minerals district in Papua, Indonesia",48.76 percent interest,"copper concentrate, gold, silver",operational
+DMLZ,"Grasberg minerals district in Papua, Indonesia",48.76 percent interest,"copper concentrate, gold, silver",operational
+Big Gossan,"Grasberg minerals district in Papua, Indonesia",48.76 percent interest,"copper concentrate, gold, silver",operational
+drawbells,Grasberg Block Cave and DMLZ underground mines,PT-FI,copper,operational
+milling facilities,Grasberg Block Cave and DMLZ underground mines,PT-FI,copper,operational
+power plant,N/A,PT-FI,N/A,under construction
+mill circuit,N/A,PT-FI,copper,under construction
+greenfield smelter,N/A,PT-FI,copper,under construction
+Expansion of PT Smelting's capacity,,PT-FI,Concentrate,Under construction
+PMR to process gold and silver,,PT-FI,"Gold, Silver",Under construction
+Mining Operations,Indonesia,PT-FI (a subsidiary),"Copper, Gold",Operational
+Equipment,Indonesia,PT-FI (a subsidiary),"Copper, Gold",Operational
+Henderson underground mine,Colorado,wholly owned,molybdenum concentrate,operational
+Climax open-pit mine,Colorado,wholly owned,molybdenum concentrate,operational
+Miami smelter,Arizona,wholly owned,copper concentrate,operational
+El Paso refinery,Texas,wholly owned,copper concentrate,operational
+smelter and refinery in Spain (Atlantic Copper),Spain,partially owned,copper concentrate,operational
+PT Smelting,Indonesia,39.5 percent ownership interest,copper concentrate,under construction
+smelts,,Atlantic Copper,copper concentrate,operational
+refineries,,Atlantic Copper,refined copper,operational
+mining operations,"North America, Indonesia, South America",PT-FI,copper concentrate,operational
+facilities,,PT-Smelting,copper concentrate,operational
+equipment,,PT-FI,copper concentrate,operational
+underground mining operations,Grasberg minerals district,PT-FI,copper,operational
+Kucing Liar deposit at the Grasberg minerals district,Grasberg minerals district,PT-FI,copper,under construction
+Lone Star copper leach project,Safford operation,FCX,copper,operational
+Bagdad,North America,FCX,unspecified,unspecified
+Lone Star,North America,FCX,unspecified,unspecified
+El Abra,South America,FCX,unspecified,unspecified
+Indonesia smelter projects,Indonesia,PT-FI,copper,under construction
+Facilities,Indonesia,PT-FI,"Copper, Gold, Molybdenum",
+Facilities,Peru,Cerro Verde,"Copper, Gold, Molybdenum",
+Facilities,,Freeport Cobalt,Cobalt,
+Facilities,,Jervois Global Limited,Cobalt,
+Mine reclamation costs,,,,end-of-life
+"property, plant, equipment",,,,operational
+mine development costs,,,,under construction
+oil and gas properties,,,,operational
+copper mining operations,,,copper,
+Copper Mines,,,Copper,
+Copper Mines,,,Molybdenum,
+Copper Mines,,,Gold,
+Copper Mines,,,Silver,
+North America Copper Mines,,Company,"Copper, Molybdenum, Gold, Silver",Operational
+mining operations,,Company,copper,operational
+mining operations,,Company,silver,operational
+mining operations,,Company,molybdenum,operational
+mining operations,South America,Company,copper,operational
+Cerro Verde (idle facility),South America,Company,copper,idle facility
+mining operations,Indonesia,Company,Copper,operational
+mining operations,Indonesia,Company,Gold,operational
+mining operations,Indonesia,Company,Silver,operational
+mining operations,Indonesia,company,copper,
+mining operations,Indonesia,PT Smelting,gold,
+mining operations,Indonesia,company,silver,
+Molybdenum mines,,,molybdenum,
+other mining operations,,,copper,
+Mineral resource,,Freeport-McMoRan Inc.,"Copper, Molybdenum","Measured, indicated and inferred; Under construction"
+North America copper mines,North America,Freeport-McMoRan Inc.,Copper,
+South America,South America,Freeport-McMoRan Inc.,,
+Indonesia mining,Indonesia,Freeport-McMoRan Inc.,,
+Indonesia smelter development,Indonesia,Freeport-McMoRan Inc.,,
+Molybdenum mines,,Freeport-McMoRan Inc.,Molybdenum,
+"Property, plant, equipment and mine development costs, net",,Freeport-McMoRan Inc.,,
+Mill and leach stockpiles,,Freeport-McMoRan Inc.,,
+Other long-term assets,,Freeport-McMoRan Inc.,,
+Morenci,Morenci,FCX,Copper,
+Cerro Verde,Cerro Verde,FCX,Copper,
+Grasberg (Indonesia mining),"Grasberg, Indonesia",PT-FI,Copper,
+Rod & Refining operations,,FCX,,
+Atlantic Copper Smelting & Refining,,FCX,,
+stockpiles,,Atlantic Copper,copper,operational
+mill,,Atlantic Copper,copper,operational
+leach facilities,,Atlantic Copper,copper,operational
+facilities,N/A,FCX,"copper, molybdenum",operational
+machinery & equipment,N/A,FCX,"copper, molybdenum",operational
+mobile equipment,N/A,FCX,"copper, molybdenum",operational
+mine development,N/A,FCX,"copper, molybdenum","under construction, end-of-life"
+AROs,Mining operations,FCX,mine reclamation and closure activities,operational
+long-lived assets,N/A,FCX,"copper concentrate, cathode, gold, molybdenum",operational
+Morenci,Arizona,FCX (72%),copper,operational
+Bagdad,Arizona,FCX (100%),copper,operational
+Safford,Arizona,FCX (100%),copper,operational
+Sierrita,Arizona,FCX (100%),copper,operational
+Miami,Arizona,FCX (100%),copper,operational
+Tyrone,New Mexico,FCX (100%),copper,operational
+Chino,New Mexico,FCX (100%),copper,operational
+Henderson,Colorado,FCX (100%),copper,operational
+Climax,Colorado,FCX (100%),molybdenum,operational
+Cerro Verde,Peru,FCX (53.56%),copper,operational
+El Abra,Chile,FCX (51%),copper,operational
+smelting and refining unit in Spain,Spain,FCX (100%),copper,operational
+Mining Operations,,"PT-FI, FCX (81% economic interest through 2022), PT Inalum (26.24%), PTI (25.00%)",Copper,Operational
+Proven and probable mineral reserves,Morenci mine,FCX,copper,operational
+VBPP,Morenci mine,FCX,copper,operational
+Mine development and other,Morenci mine,FCX,copper,operational
+Buildings and infrastructure,Morenci mine,FCX,copper,operational
+Machinery and equipment,Morenci mine,FCX,copper,operational
+Mobile equipment,Morenci mine,FCX,copper,operational
+Construction in progress,Morenci mine,FCX,copper,under construction
+Oil and gas properties,Morenci mine,FCX,oil and gas,operational
+concentrator,Cerro Verde,Cerro Verde,minerals,operational
+remediation projects,"U.S., 24 U.S. states","FCX, FMC",,remediation projects
+Pinal Creek site,Arizona,Freeport-McMoRan Miami Inc.,remediation of environmental contamination,remediation work ongoing
+Newtown Creek site,New York City,Phelps Dodge Refining Corporation,remediation of environmental contamination,remediation work ongoing
+historical smelter sites,"Arizona, Indiana, Kansas, Missouri, New Jersey, Oklahoma and Pennsylvania",FCX subsidiaries,remediation of environmental contamination,various stages of assessment and remediation
+uranium mining sites,western U.S.,FCX subsidiaries,remediation of environmental contamination,not specified
+"""copper smelter and refinery""","""Borough of Carteret, New Jersey""","""United States Metals Refining Company (USMR)""","""copper""","""under investigation and remediation"""
+"""copper smelter and refinery""","""Arthur Kill""","""United States Metals Refining Company (USMR)""","""copper""","""in the later stages of remediation"""
+Mine features,U.S. Forest Service land,BLM or U.S Forest Service,Mining,"operational, under construction, end-of-life"
+Mine features,"New Mexico, Arizona, Colorado, federal land",FCX subsidiaries,Mining,"operational, under construction, end-of-life"
+Facilities,New Mexico,FCX,Mining,Operational
+Equipment,Arizona,FCX,Leaching,Operational
+Infrastructure,Colorado,FCX,Concentrating and Smelting,Under Construction
+Facilities,Chile,FCX,Mining,End-of-Life
+Equipment,Peru,FCX,Leaching,Operational
+Cerro Verde operation,Indonesia,FCX,mining activities,operational
+PT-FI’s operations,Indonesia,PT-FI (affiliate of FCX),mining activities,operational
+West Wanagon overburden stockpile,Indonesia,PT-FI (affiliate of FCX),mining activities,under construction
+135 wells,California and the Gulf of Mexico (GOM),FM O&G,oil and gas exploration and production operations,operational
+approximately 100 platforms and other structures,California and the Gulf of Mexico (GOM),FM O&G,oil and gas exploration and production operations,operational
+facilities located at properties owned or operated by affiliates of FCX,south Louisiana parishes,FCX affiliates,asbestos and talc,
+buildings,properties owned or operated by affiliates of FCX,FCX affiliates,asbestos and talc,
+electrical wire and cable,,,asbestos,
+raw materials such as paint and joint compounds,,,asbestos and talc,
+talc-based lubricants used in rubber manufacturing,,,talc,
+talc mines,Cyprus,"Imerys, Cyprus Mines, CAMC",talc,operational
+talc mines,United States,"FCX, Johnson & Johnson",talc,end-of-life
+greenfield smelter,"Gresik, Indonesia",PT-FI (owned by FCX),copper concentrate,under construction
+oil and gas wells,GOM,FCX,oil,operational
+production facilities,GOM,FCX,gas,operational
+mining rights,Grasberg minerals district,PT-FI,minerals,operational
+smelter,"Gresik, Indonesia",PT-FI,"copper, gold, silver",under construction
+Morenci,Arizona,FCX,copper,operational
+Cerro Verde,Arizona,FCX,copper,operational
+Grasberg,Indonesia,FCX,copper,operational
+Rod & Refining operations,Not specified,FCX,copper,operational
+Atlantic Copper Smelting & Refining,Not specified,FCX,copper,operational
+Morenci open-pit mine,southeastern Arizona,FCX,"copper cathode, copper concentrate, molybdenum concentrate",operational
+Cerro Verde open-pit copper mine,"Arequipa, Peru",FCX,"copper cathode, copper concentrate, molybdenum concentrate, silver",operational
+PT-FI’s Grasberg minerals district,Indonesia,PT-FI,"copper concentrate, gold, silver",operational
+Henderson underground mine,Colorado,FCX,"high-purity, chemical-grade molybdenum concentrate",operational
+Climax open-pit mine,Colorado,FCX,"high-purity, chemical-grade molybdenum concentrate",operational
+copper conversion facilities,North America,FCX,copper cathode and rod,operational
+rod mills,North America,FCX,copper cathode and rod,operational
+refinery,North America,FCX,copper cathode and rod,operational
+Copper Mines,North America,FCX,Copper,
+Molybdenum Mines,,FCX,Molybdenum,
+Rod & Smelting & Refining facilities,,FCX,"Copper, Molybdenum",
+Infrastructure,,FCX,,
+Indonesia smelter projects,Indonesia,FCX,Metal Smelting,under construction
+Indonesia smelter projects,Indonesia,FCX,"copper, molybdenum",under construction
+Proven mineral reserves,North America,FCX,Copper,Operational
+Probable mineral reserves,South America,FCX,Gold,Operational
+Proven mineral reserves,Indonesia,PT-FI (with 81% FCX equity interest in 2022),Molybdenum,Under construction
+Probable mineral reserves,North America,Joint venture partner at the Morenci mine,Copper,Operational
+Proven mineral reserves,Indonesia,PT-FI (with 48.76% FCX equity interest from 2023 through 2041),Gold,Under construction
+Morenci,North America,FCX,"Copper, Gold, Molybdenum",Production stage
+Sierrita,North America,FCX,"Copper, Gold, Molybdenum",Production stage
+Bagdad,North America,FCX,"Copper, Gold, Molybdenum",Production stage
+"Safford, including Lone Star",North America,FCX,"Copper, Gold, Molybdenum",Production stage
+"Chino, including Cobre",North America,FCX,"Copper, Gold, Molybdenum",Production stage
+Climax,North America,FCX,"Copper, Gold, Molybdenum",Production stage
+Henderson,North America,FCX,"Copper, Gold, Molybdenum",Production stage
+Tyrone,North America,FCX,"Copper, Gold, Molybdenum",Production stage
+Cerro Verde,South America,FCX,"Copper, Gold, Molybdenum",Production stage
+El Abra,South America,FCX,"Copper, Gold, Molybdenum",Production stage
+Grasberg Block Cave,Indonesia,FCX,"Copper, Gold, Molybdenum",Production stage
+Deep Mill Level Zone,Indonesia,FCX,"Copper, Gold, Molybdenum",Production stage
+Big Gossan,Indonesia,FCX,"Copper, Gold, Molybdenum",Production stage
+Kucing Liar,Indonesia,FCX,"Copper, Gold, Molybdenum",Development stage
+pad,,,copper,operational
+pad,,,copper,under construction
+Stope,,,Ore,
+Grasberg minerals district,Indonesia,Freeport-McMoRan Inc. (FCX),"copper, gold",operational
+Morenci minerals district,Arizona,Freeport-McMoRan Inc. (FCX),copper,operational
+Cerro Verde operation,Peru,Freeport-McMoRan Inc. (FCX),copper,operational
+Morenci mine,North America,FMC,Copper,Operational
+Bagdad mine,North America,Freeport Minerals Corporation (FMC),Copper,Operational
+Safford mine,North America,Freeport Minerals Corporation (FMC),Copper,Operational
+Sierrita mine,North America,Freeport Minerals Corporation (FMC),Copper,Operational
+Miami mine,North America,Freeport Minerals Corporation (FMC),Copper,Operational
+Chino mine,North America,Freeport Minerals Corporation (FMC),Copper,Operational
+Tyrone mine,North America,Freeport Minerals Corporation (FMC),Copper,Operational
+Henderson mine,North America,Freeport Minerals Corporation (FMC),Molybdenum,Operational
+Climax mine,North America,Freeport Minerals Corporation (FMC),Molybdenum,Operational
+Cerro Verde mine,South America,Freeport Minerals Corporation (FMC),Copper,Operational
+El Abra mine,South America,Freeport Minerals Corporation (FMC),Copper,Operational
+Grasberg minerals district,Indonesia,PT Freeport Indonesia (PT-FI),Copper,Operational
+Mines,Morenci mine (North America),,Copper,
+Mines,Bagdad mine (North America),,Copper,
+Mines,Safford mine (North America),,Copper,
+Mines,Sierrita mine (North America),,Copper,
+Mines,Miami mine (North America),,Copper,
+Mines,Chino mine (North America),,Copper,
+Mines,Tyrone mine (North America),,Copper,
+Mines,Cerro Verde mine (South America),,Copper,
+Mines,El Abra mine (South America),,Copper,
+Smelting facilities,Miami smelter (Arizona),,Copper concentrate,
+Refineries,"El Paso, Texas",,Copper cathode,
+Electrolytic refinery,"El Paso, Texas",,Copper cathode,
+Continuous cast copper rod plants,"El Paso, Texas",,Continuous cast copper rod,
+Continuous cast copper rod plants,"Miami, Arizona",,Continuous cast copper rod,
+Copper concentrate,,,Copper,
+Copper cathode,,,Copper,
+Continuous cast copper rod,,,Copper,
+PT Smelting,,39.5% owned by PT-FI,Copper,
+Atlantic Copper,Spain,Wholly owned by company,Copper,
+mines,North America,Company,copper concentrate,
+mines,South America,Company,copper concentrate,
+mines,Indonesia,PT-FI,copper concentrate,
+smelting and refining facilities,unspecified,Atlantic Copper,copper anode and cathode,
+conversion facilities,unspecified,Company,molybdenum concentrate,
+Mining properties,"U.S., Peru, Chile, Indonesia",FMC and certain of its affiliates,Minerals,"Operational, under construction, end-of-life"
+mining operations,U.S.,the company,copper concentrate,operational
+smelter,"Miami, Arizona",the company,copper concentrate,operational
+tailings storage facilities,Cerro Verde,the company,copper concentrate,operational
+leach pad stockpiles,Cerro Verde,the company,copper concentrate,operational
+mining operations,Peru,the company,copper concentrate,operational
+tailings storage facilities,El Abra,the company,copper concentrate,operational
+facilities,Chile and Indonesia,PT-FI,minerals,operational
+permits,Indonesia,PT-FI,various (minerals production),operational
+tailings management area,Indonesia,PT-FI,mineral processing waste,operational
+protection structures,lowlands tailings management areas,PT-FI,minerals,under construction
+mines,U.S.,Company,copper,operational
+industrial facilities,U.S.,Company,copper,operational
+mines,other jurisdictions,Company,copper,operational
+mines,U.S.,Company,molybdenum,operational
+mines,other jurisdictions,Company,molybdenum,operational
+tailings storage facilities,"Greenlee County, Arizona, United States",company,copper,operational
+concentrators,"Morenci, Arizona",company,copper and molybdenum,operational
+milling design capacity,"Morenci, Arizona",company,copper and molybdenum,operational
+leach pad and stacking system,"Morenci, Arizona",company,copper,operational
+low-grade run-of-mine (ROM) leaching system,"Morenci, Arizona",company,copper,operational
+SX plants,"Morenci, Arizona",company,copper,operational
+EW tank houses,"Morenci, Arizona",company,copper,operational
+Bagdad operation,Bagdad,wholly owned by the company,copper,operational
+Safford mine,Safford,wholly owned by the company,copper,operational
+Lone Star deposit,Safford,wholly owned by the company,copper,operational
+Sierrita mine,Sierrita,wholly owned by the company,copper,operational
+Chino mine,"Grant County, New Mexico, 15 miles east of Silver City off of State Highway 180",wholly owned,copper,operational
+Tyrone mine,"Grant County, New Mexico,  10 miles south of Silver City, New Mexico, along State Highway 90",wholly owned,copper,operational
+Climax mine,"13 miles northeast of Leadville, Colorado, off Colorado State Highway 91 at the top of Fremont Pass",wholly owned,molybdenum,operational
+Grasberg Block Cave,Grasberg minerals district,PT-FI,copper and gold,operational
+Deep Mill Level Zone (DMLZ),Grasberg minerals district,PT-FI,copper and gold,operational
+Big Gossan,Grasberg minerals district,PT-FI,copper and gold,operational
+Additional domestic smelting capacity,Indonesia,PT-FI,copper concentrate,under construction
+main service road,Grasberg minerals district,PT-FI,N/A,operational
+mill complex,Grasberg minerals district,PT-FI,copper and gold,operational
+smelter,Arizona,PT Smelting,copper concentrate,operational
+anode slimes,N/A,PT Smelting,"copper, gold",under construction
+copper concentrate,North America,company,copper,operational
+copper cathode,"El Paso, Texas",company,copper,operational
+sulfuric acid,Arizona,company,N/A,operational
+rod mills,"El Paso, Texas, Miami, Arizona",company,copper,operational
+refinery,"El Paso, Texas",company,copper,operational
+molybdenum roasters,"Sierrita, Arizona, Fort Madison, Iowa, Rotterdam, the Netherlands",company,molybdenum,operational
+molybdenum pressure-leach plant,"Bagdad, Arizona",company,molybdenum,operational
+conversion plants,U.S. and Europe,company,molybdenum,operational
+major mining projects,Grasberg minerals district,PT-FI,copper,operational
+processing facilities,Grasberg minerals district,PT-FI,copper,operational
+underground ore bodies,Grasberg minerals district,PT-FI,copper,under construction
+power generation,Indonesia,PT-FI,electricity,operational
+transmission lines,Indonesia,PT-FI,electricity,operational
+coal units,Indonesia,PT-FI,coal,operational
+mines,North America and South America,PT-FI,copper,operational
+smelters,Indonesia,PT-FI,copper,operational
+community development programs,Arequipa,Cerro Verde,"health, education, economic development and local infrastructure",operational
+potable water treatment plant,Arequipa,Cerro Verde,Water,completed
+wastewater treatment plant,Arequipa,Cerro Verde,Wastewater,completed
+social investment fund,Mimika Regency,PT-FI,social and economic development,operational
+company facilities,Grasberg minerals district,PT-FI,,operational
+internal civilian security department,Grasberg minerals district,PT-FI,,operational
+Morenci,North America,FCX (72%),copper,operational
+Safford,North America,FCX (100%),copper,operational
+Sierrita,North America,FCX (100%),copper,operational
+Bagdad,North America,FCX (100%),copper,operational
+Chino,North America,FCX (100%),copper,operational
+Tyrone,North America,FCX (100%),copper,operational
+Miami,North America,FCX (100%),copper,operational
+Other,North America,FCX (100%),copper,operational
+Cerro Verde,South America,FCX (53.56%),copper,operational
+El Abra,South America,FCX (51%),copper,operational
+Grasberg minerals district,Indonesia,PT-FI (48.76% by FCX),"copper, gold, molybdenum",operational
+Mining Operations,North America,Company A (implied),Copper,Operational
+Leach operations,North America,Company A (implied),Copper,Operational
+Mill operations,North America,Company A (implied),Copper,Operational
+Mining Operations,South America,Company A (implied),Copper,Operational
+Leach operations,South America,Company A (implied),Copper,Operational
+Mill operations,South America,Company A (implied),Copper,Operational
+Ore milled (metric tons per day),INDONESIA,PT-FI,"Copper, Gold, Molybdenum",operational
+Facilities,INDONESIA,PT-FI,"Copper, Gold, Molybdenum",operational
+Copper reserves,North America,Consolidated basis,Copper,
+Gold reserves,North America,Consolidated basis,Gold,
+Molybdenum reserves,North America,Consolidated basis,Molybdenum,
+Copper reserves,South America,Consolidated basis,Copper,
+Gold reserves,South America,Consolidated basis,Gold,
+Molybdenum reserves,South America,Consolidated basis,Molybdenum,
+Copper reserves,Indonesia,Consolidated basis,Copper,
+Gold reserves,Indonesia,Consolidated basis,Gold,
+Molybdenum reserves,Indonesia,Consolidated basis,Molybdenum,
+Copper reserves,,Net equity interest,Copper,
+Gold reserves,,Net equity interest,Gold,
+Molybdenum reserves,,Net equity interest,Molybdenum,
+Morenci,North America,FCX’s 100%,"Copper, Gold, Silver",Operational
+Bagdad,North America,100%,"Copper, Gold, Silver",Operational
+Safford,North America,100%,"Copper, Gold, Silver",Operational
+Sierrita,North America,100%,"Copper, Gold, Silver",Operational
+Chino,North America,100%,"Copper, Gold, Silver",Operational
+Tyrone,North America,100%,"Copper, Gold, Silver",Operational
+Henderson,North America,100%,"Copper, Gold, Silver",Operational
+Climax,North America,100%,"Copper, Gold, Silver",Operational
+Cerro Verde,South America,53.56%,"Copper, Gold, Silver",Operational
+El Abra,South America,51%,"Copper, Gold, Silver",Operational
+Grasberg Block Cave,Indonesia,48.76%,"Copper, Gold, Silver",Operational
+DMLZ,Indonesia,48.76%,"Copper, Gold, Silver",Operational
+Big Gossan,Indonesia,48.76%,"Copper, Gold, Silver",Operational
+Kucing Liar,Indonesia,48.76%,"Copper, Gold, Silver",Under Construction
+Morenci Mill,North America,72%,Copper,operational
+Morenci Crushed leach,North America,72%,Copper,operational
+Morenci ROM leach,North America,72%,Copper,operational
+Bagdad Mill,North America,100%,Copper,operational
+Bagdad ROM leach,North America,100%,Copper,operational
+Safford Crushed leach,North America,100%,Copper,operational
+Sierrita Mill,North America,100%,Copper,operational
+Chino Mill,North America,100%,Copper,operational
+Chino ROM leach,North America,100%,Copper,operational
+Tyrone ROM leach,North America,100%,Copper,operational
+Henderson Mill,North America,100%,Copper,operational
+Climax Mill,North America,100%,Copper,operational
+Cerro Verde Mill,South America,53.56%,Copper,operational
+Cerro Verde Crushed leach,South America,53.56%,Copper,operational
+Cerro Verde ROM leach,South America,53.56%,Copper,operational
+El Abra Crushed leach,South America,51%,Copper,operational
+El Abra ROM leach,South America,51%,Copper,operational
+Grasberg Block Cave Mill,Indonesia,48.76%,Copper,operational
+DMLZ Mill,Indonesia,48.76%,Copper,operational
+Big Gossan Mill,Indonesia,48.76%,Copper,operational
+Kucing Liar Mill,Indonesia,48.76%,Copper,operational
+Morenci,,,"copper, gold, molybdenum",operational
+Cerro Verde,,,"copper, gold, molybdenum",operational
+molybdenum properties,North America,FCX’s Interest,molybdenum,operational
+ore bodies,North America,FCX’s Interest,copper,operational
+mill and leach stockpiles,North America,FCX’s Interest,copper,operational
+Mill stockpiles,North America,FCX - 100% basis,copper,operational
+Cerro Verde,North America,FCX - 100% basis,copper,operational
+Morenci,North America,"FCX - 72%, Joint venture partner interests (Morenci)",copper,operational
+Leach stockpiles,North America,FCX - 100% basis,copper,operational
+Bagdad,North America,FCX - 100% basis,copper,operational
+"Safford, including Lone Star",North America,FCX - 100% basis,copper,operational
+Sierrita,North America,FCX - 100% basis,copper,operational
+Miami,North America,FCX - 100% basis,copper,operational
+"Chino, including Cobre",North America,FCX - 100% basis,copper,operational
+Tyrone,North America,FCX - 100% basis,copper,operational
+El Abra,North America,FCX - 51%,copper,operational
+22,Bagdad,100%,Milling,operational
+"1,231",Bagdad,100%,Milling,operational
+"1,709",Bagdad,100%,Milling,operational
+"1,086",Bagdad,100%,Milling,operational
+"1,509",Bagdad,100%,Milling,operational
+837,Bagdad,100%,Leaching,operational
+"1,165",Bagdad,100%,Leaching,operational
+713,Bagdad,100%,Milling,operational
+991,Bagdad,100%,Milling,operational
+529,Bagdad,100%,Milling,operational
+736,Bagdad,100%,Milling,operational
+Bagdad,Bagdad,100%,Milling,operational
+467,Bagdad,100%,Milling,operational
+467,Bagdad,100%,Milling,operational
+"1,560",Bagdad,100%,Milling,operational
+Leaching,Bagdad,100%,Milling,operational
+Morenci,North America,72%,Copper,Milling
+Morenci,North America,72%,Gold,Milling
+Morenci,North America,72%,Moly,Milling
+Morenci,North America,72%,Silver,Milling
+Bagdad,North America,100%,Copper,Milling
+Bagdad,North America,100%,Gold,Milling
+Bagdad,North America,100%,Moly,Milling
+Bagdad,North America,100%,Silver,Milling
+"Safford, including Lone Star",North America,100%,Copper,Milling
+"Safford, including Lone Star",North America,100%,Gold,Milling
+"Safford, including Lone Star",North America,100%,Moly,Milling
+"Safford, including Lone Star",North America,100%,Silver,Milling
+Sierrita,North America,100%,Copper,Milling
+Sierrita,North America,100%,Gold,Milling
+Sierrita,North America,100%,Moly,Milling
+Sierrita,North America,100%,Silver,Milling
+"Chino, including Cobre",North America,100%,Copper,Milling
+"Chino, including Cobre",North America,100%,Gold,Milling
+"Chino, including Cobre",North America,100%,Moly,Milling
+"Chino, including Cobre",North America,100%,Silver,Milling
+Tyrone,North America,100%,Copper,Leaching
+Henderson,North America,100%,Copper,Milling
+Climax,North America,100%,Copper,Milling
+Ajo,North America,100%,Copper,Milling
+El,Indonesia,50%,Copper,Leaching
+Cochise/Bisbee,Cochise/Bisbee,100%,Leaching,operational
+Sanchez,Sanchez,100%,Leaching,operational
+Tohono,Tohono,100%,Milling,operational
+Twin Buttes,Twin Buttes,100%,Milling,operational
+Christmas,Christmas,100%,Milling,operational
+South America Cerro Verde,South America Cerro Verde,53.56%,Milling,operational
+El Abra,El Abra,51%,Milling,operational
+Indonesia Grasberg minerals district,Indonesia Grasberg minerals district,48.76%,Milling,operational
+Morenci,,72%,Copper,operational
+Cerro Verde,,53.56%,Copper,operational
+Grasberg minerals district,,48.76%,Copper,operational
+facilities,,,"natural gas, diesel, coal, ammonium nitrate, chemical reagents (including sulfuric acid), steel-related products, grinding media, fuel, lubricants, cobalt sulfate, acid mist suppressant, acid, commodities",
+equipment,,,"natural gas, diesel, coal, ammonium nitrate, chemical reagents (including sulfuric acid), steel-related products, grinding media, fuel, lubricants, cobalt sulfate, acid mist suppressant, acid, commodities",
+mining operations,Indonesia,PT-FI,minerals,operational
+exploration activities,"Indonesia, Peru, Chile",PT-FI,minerals,under construction
+Contract of Work (COW),Indonesia,PT-FI,minerals,operational
+copper concentrate,,PT-FI,copper concentrate,
+anode slimes,,PT Smelting,anode slimes,
+greenfield smelter and precious metals refinery (PMR),Grasberg minerals district,PT-FI,"copper concentrate, anode slimes",under construction
+PT Smelting,"Gresik, Indonesia",PT-FI (39.5%) owned,copper concentrate,operational
+"""mining rights""","""Indonesia""","""PT-FI""","""minerals (copper and gold)""",""""""
+"""domestic smelting capacity""","""Indonesia""","""PT-FI""","""concentrate""","""under construction"""
+"""greenfield smelter""","""Indonesia""","""PT-FI""","""concentrate""","""under construction"""
+"""precious metal refinery""","""Indonesia""","""PT-FI""","""gold""","""under construction"""
+facilities,El Abra operation in Chile,owned by the company,minerals,operational
+equipment,Grasberg minerals district in Indonesia,owned by the company,minerals and gaseous form,operational
+tailings impoundments,Grasberg minerals district in Indonesia,owned by the company,waste rock,operational
+tailings storage facilities,U.S.,subsidiaries of the company,minerals,active
+embankments,U.S.,subsidiaries of the company,minerals,active
+leach pads,U.S.,subsidiaries of the company,minerals,active
+production facilities,U.S.,subsidiaries of the company,minerals,active
+tailings management area,lowlands,PT-FI,mineral ore,operational
+levees,lowlands,PT-FI,mineral ore,operational
+protection structures,lowlands,PT-FI,mineral ore,under construction
+overburden stockpiles,Grasberg open pit,PT-FI,mineral ore,operational
+open pit mine,Grasberg,PT-FI,mineral ore,operational
+tailings management area,Indonesia,PT-FI,minerals,operational
+protection structures,Indonesia,PT-FI,minerals,under construction
+Cerro Verde mine,Peru,Company,Mining,Operational
+El Abra mining operation,Chile,Company,Mining,Operational
+Morenci,Arizona,Company,Mining,Operational
+Safford,Arizona,Company,Mining,Operational
+Sierrita,Arizona,Company,Mining,Operational
+sulfide processing plant,Chile,El Abra mining operation,Sulfide Processing,Under construction
+Cerro Verde mine,Peru,,products we produce,operational
+PT-FI’s remote operating site,PT-FI’s remote operating site,,products we produce,operational
+underground mines,"Grasberg minerals district, Indonesia",Company (not specified),"copper, gold",operational
+mining operations,U.S.,"Freeport Minerals Corporation (FMC), affiliates and predecessor companies",minerals,operational
+facilities,U.S.,"Freeport Minerals Corporation (FMC), affiliates and predecessor companies",minerals,operational
+properties,U.S.,"Freeport Minerals Corporation (FMC), affiliates and predecessor companies",minerals,"operational, under construction for expansion projects, end-of-life for properties no longer in operation"
+mines,western U.S.,not specified,mining and ore processing activities,operational
+mines,Arizona,not specified,water for mining and ore processing activities,under adjudication
+Morenci mine,Gila River system,not specified,mining and ore processing activities,operational
+Safford mine,Gila River system,not specified,mining and ore processing activities,operational
+Sierrita mine,Gila River system,not specified,mining and ore processing activities,operational
+Wells,Arizona,Not specified,Groundwater,operational
+Wells,San Pedro River Basin,Not specified,Groundwater,operational
+Wells,Verde River watershed,Not specified,Groundwater,operational
+Wells,Gila River,Not specified,Groundwater,operational
+Grasberg minerals district,Indonesia,Company,"copper, gold",operational
+Morenci minerals district,Arizona,Company,"copper, gold",operational
+Cerro Verde operation,Peru,Company,"copper, gold",operational
+North America copper mines,North America,Company,Copper,Operational
+South America mining,South America,Company,Copper,Operational
+Indonesia mining,Indonesia,Company,Copper,Operational
+Morenci mine,North America,Company,Copper,Operational
+Cerro Verde mine,Peru,Company,Copper,Operational
+Grasberg minerals district,Indonesia,Company,Copper,Operational
+Henderson and Climax molybdenum mines,North America,Company,Molybdenum,Operational
+copper mines,Grasberg minerals district,Company,copper,operational
+major mining projects,Grasberg minerals district,Company,copper,under construction
+Indonesia smelter projects,Indonesia,Company (partially funded by PT-FI),"copper, molybdenum, gold",under construction
+mining and milling assets,,Company,"copper, gold, molybdenum",operational
+mines,,,copper,
+Mining operations,,,Copper,
+Mining operations,,,Gold,
+Mining operations,,,Molybdenum,
+Grasberg minerals district,,,"copper, gold",operational
+Cerro Verde,,,"copper, gold",operational
+Mining operations,"North America, South America, Indonesia",Company,Copper,Operational
+"Facilities (Morenci, Bagdad, Cerro Verde)","North America, South America",Company,Copper,Operational
+Equipment,"North America, South America, Indonesia",Company,Copper,Operational
+Coal power plant,Indonesia,Company,Energy (coal),Operational
+Morenci,Arizona,FCX,copper,operational
+Bagdad,Arizona,FCX,copper,operational
+Safford (including Lone Star),Arizona,FCX,copper,operational
+Sierrita,Arizona,FCX,copper,operational
+Miami,Arizona,FCX,copper,operational
+Chino,New Mexico,FCX,copper,operational
+Tyrone,New Mexico,FCX,copper,operational
+mining operations,North America,wholly owned,copper,operational
+Morenci,North America,72% undivided joint venture interest,copper,operational
+open-pit mines,North America,wholly owned,copper,operational
+sulfide-ore concentrating facilities,North America,wholly owned,copper,operational
+leaching facilities,North America,wholly owned,copper,operational
+solution extraction/electrowinning (SX/EW) operations,North America,wholly owned,copper,operational
+Rod & Refining segment facilities,North America,wholly owned,copper,operational
+concentrator,Bagdad operation in northwest Arizona,wholly owned,copper,operational
+tailings infrastructure,Bagdad operation in northwest Arizona,wholly owned,copper,planned expansion
+Copper mines,North America,,Copper concentrate,operational
+Copper mines,South America (Peru),53.56% interest,Copper concentrate,operational
+Copper mines,South America (Chile),51.0% interest,Copper concentrate,operational
+equipment,North America and South America,,Copper concentrate,operational
+Cerro Verde,Peru,Company,Copper,Operational
+El Abra,Chile,Company,Copper,Operational
+Grasberg Block Cave,"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+Deep Mill Level Zone (DMLZ),"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+Big Gossan,"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+Milling equipment,"Grasberg minerals district in Central Papua, Indonesia",PT-FI (48.76% owned by Freeport-McMoRan),"Copper, gold, silver",Operational
+milling facilities,PT-FI,PT-FI,copper and gold,under construction
+copper cleaner circuit,PT-FI,PT-FI,copper and gold,under construction
+smelter,"Gresik, Indonesia",PT-FI,copper concentrate,under construction
+PMR,PT-FI,PT-FI,gold and silver,under construction
+Mining Rights,Indonesia,PT-FI and the Indonesia government,,Under discussion for extension
+Grasberg minerals district,Indonesia,PT-FI,"Copper, Gold",Operational
+Grasberg Block Cave underground mine,Grasberg minerals district,PT-FI,"Copper, Gold",Operational
+DMLZ underground mine,Grasberg minerals district,PT-FI,"Copper, Gold",Operational
+Big Gossan underground mine,Grasberg minerals district,PT-FI,"Copper, Gold",Operational
+Deep Ore Zone (DOZ) underground mine ore body,Grasberg minerals district,PT-FI,"Copper, Gold",Depleted at the end of 2021
+Equipment,N/A,PT-FI,Copper,Operational
+Facilities,N/A,PT-FI,Copper,Operational
+Infrastructure,N/A,PT-FI,Copper,Operational
+Equipment,N/A,PT-FI,Gold,Operational
+Facilities,N/A,PT-FI,Gold,Operational
+Infrastructure,N/A,PT-FI,Gold,Operational
+Molybdenum mines,Colorado,wholly owned,molybdenum concentrate,operational
+Henderson underground mine,Colorado,wholly owned,molybdenum concentrate,operational
+Climax open-pit mine,Colorado,wholly owned,molybdenum concentrate,operational
+Miami smelter,Arizona,wholly owned,"copper concentrate, refined copper","operational, undergoing major maintenance turnaround"
+El Paso refinery,Texas,wholly owned,"copper concentrate, refined copper",operational
+Atlantic Copper,Spain,joint ownership (39.5%),"copper concentrate, refined copper, precious metals",operational
+copper concentrate,Indonesia,PT-FI,copper,operational
+facilities,Indonesia,PT-FI,copper,operational
+equipment,Indonesia,PT-FI,copper,operational
+copper concentrate,South America,Atlantic Copper,copper,operational
+facilities,South America,Atlantic Copper,copper,operational
+equipment,South America,Atlantic Copper,copper,operational
+copper concentrate,North America,Atlantic Copper,copper,operational
+facilities,North America,Atlantic Copper,copper,operational
+equipment,North America,Atlantic Copper,copper,operational
+facilities,Indonesia,PT-FI,,
+equipment,Indonesia,PT-FI,,
+infrastructure,Indonesia,Cerro Verde,,
+Major mining projects in Grasberg minerals district,Grasberg minerals district,Freeport-McMoRan,Copper and gold,Under construction
+Indonesia smelter projects,Indonesia,Freeport-McMoRan,Copper and gold,Under construction
+Mine reclamation costs,N/A,Company,N/A,In process
+"Property, plant, equipment and mine development costs",N/A,Company,"Copper, Gold, Molybdenum",Operational
+Copper concentrate,N/A,Company,"Copper, Gold",Operational
+copper cathode,N/A,Company,Copper,Operational
+copper rod,N/A,Company,Copper,Operational
+gold,N/A,Company,Gold,Operational
+molybdenum,N/A,Company,Molybdenum,Operational
+copper mining operations,,,copper,
+North America Copper Mines,,,Copper,operational
+North America Copper Mines,,,Molybdenum,operational
+Mining operations,,Company,"Copper, Molybdenum, Gold, Silver",Operational
+mining operations,,,copper,operational
+mining operations,,,silver,operational
+mining operations,,,molybdenum,operational
+mining operations,South America,Company,copper,operational
+mining operations,Cerro Verde,Company,silver,operational
+mining operations,Cerro Verde,Company,molybdenum,operational
+\'mining operations\,\'Indonesia\,\'Company\,\'copper\,\'operational\
+\'mining operations\,\'Indonesia\,\'Company\,\'gold\,\'operational\
+\'mining operations\,\'Indonesia\,\'Company\,\'silver\,\'operational\
+Mining operations,Indonesia,Company (not specified),"Copper, Gold, Silver",Operational
+Molybdenum mines,,,molybdenum,operational
+North America copper mines,North America,Freeport-McMoRan Inc.,Copper,
+South America mines,South America,Freeport-McMoRan Inc.,Copper,
+Indonesia mining,Indonesia,Freeport-McMoRan Inc.,Copper,
+Indonesia smelter development,Indonesia,Freeport-McMoRan Inc.,Copper,
+Molybdenum mines,,Freeport-McMoRan Inc.,Molybdenum,
+"Property, plant, equipment and mine development costs, net",,Freeport-McMoRan Inc.,,
+Mill and leach stockpiles,,Freeport-McMoRan Inc.,,
+"Inventories: Materials and supplies, net",,Freeport-McMoRan Inc.,,
+Other current assets,,Freeport-McMoRan Inc.,,
+Morenci,North America,FCX,Copper,operational
+Cerro Verde,South America,FCX,Copper,operational
+Grasberg (Indonesia mining),Indonesia,FCX,Copper,operational
+Rod & Refining operations,unspecified,FCX,Copper,operational
+Atlantic Copper Smelting & Refining,unspecified,FCX,Copper,operational
+facilities,,FCX,copper,operational
+equipment,,FCX,copper,operational
+infrastructure,,FCX,copper,operational
+AROs,N/A,FCX,metals,accreted to full value over time
+long-lived assets,N/A,FCX,"copper concentrate, cathode, gold, molybdenum","operational, under construction, end-of-life"
+tangible assets,N/A,FCX,metals,"operational, under construction, end-of-life"
+Freeport Cobalt,"Kokkola, Finland","FCX's 56 % owned subsidiary, Koboltti Chemicals Holdings Limited (KCHL)",Cobalt,Operational
+Freeport Cobalt,"Kokkola, Finland",Jervois Global Limited,Cobalt,Sold
+Morenci mine,Arizona,"FCX (72%), Sumitomo, SMM Morenci, Inc. (remaining 28%)",copper,operational
+Bagdad mine,Arizona,FCX,copper,operational
+Safford mine,Arizona,FCX,copper,operational
+Sierrita mine,Arizona,FCX,copper,operational
+Miami mine,Arizona,FCX,copper,operational
+Tyrone mine,New Mexico,FCX,copper,operational
+Chino mine,New Mexico,FCX,copper,operational
+Henderson mine,Colorado,FCX,copper,operational
+Climax mine,Colorado,FCX,molybdenum,operational
+Cerro Verde mine,Peru,FCX (53.56%),copper,operational
+El Abra mine,Chile,FCX (51%),copper,operational
+facilities,Spain,FCX,,
+equipment,Spain,FCX,,
+infrastructure,Spain,FCX,,
+Copper smelter and refinery facilities,"Gresik, Indonesia","PT-FI (39.5%), MMC (60.5%)",Copper,Operational
+Morenci's copper cathode production,Morenci,"Sumitomo (15%), SMM Morenci, Inc. (13%), FMC (72%)",Copper,Operational
+inventories,N/A,FCX,"copper, molybdenum",operational
+mill stockpiles,N/A,FCX,"copper, molybdenum",operational
+leach stockpiles,N/A,FCX,"copper, molybdenum",operational
+materials and supplies,N/A,FCX,N/A,operational
+concentrate,N/A,FCX,"copper, molybdenum",operational
+work-in-process,N/A,FCX,N/A,operational
+finished goods,N/A,FCX,N/A,operational
+"property, plant, equipment",N/A,FCX,"copper, molybdenum",operational
+mine development costs,N/A,FCX,"copper, molybdenum",operational
+mining operations,New Mexico,FCX,,
+mining operations,Indonesia,PT-FI,,
+Pinal Creek site,Arizona,Freeport-McMoRan Miami Inc.,Groundwater remediation,operational
+Newtown Creek site,New York City,Phelps Dodge Refining Corporation,Remediation of contaminated waterway,under construction
+historical smelter sites,"Arizona, Indiana, Kansas, Missouri, New Jersey, Oklahoma and Pennsylvania",Freeport-McMoRan,Smelting and refining of copper,in end-of-life
+uranium mining sites,western U.S.,Freeport-McMoRan,Uranium extraction,operational
+copper smelter and refinery,"Borough of Carteret, New Jersey",USMR,copper,in later stages of remediation
+processing facilities,"Arizona, Indiana, Kansas, Missouri, New Jersey, Oklahoma and Pennsylvania",FCX subsidiaries and their predecessors,"copper, zinc and lead",ongoing investigation
+Uranium Mining Sites,Four Corners region,FCX subsidiaries and their predecessors,Uranium,"under construction, in end-of-life"
+Uranium Mining Sites,tribal lands,Navajo Nation,Uranium,"under construction, in end-of-life"
+Uranium Mining Sites,non-tribal federal lands,US Government,Uranium,"under construction, in end-of-life"
+mining operations,New Mexico,FCX,minerals,operational
+oil and gas wellbores,federal land,FCX,"oil, gas",end-of-life
+platforms,Arizona,FCX,"oil, gas",operational
+tanks,New Mexico,FCX,"oil, gas",operational
+production equipment,Colorado,FCX,"oil, gas",operational
+flow lines,Arizona,FCX,"oil, gas",operational
+wellsites,New Mexico,FCX,"oil, gas",end-of-life
+facilities,federal land,FMC,minerals,operational
+stockpiles,Arizona,FCX,minerals,operational
+tailings impoundments,New Mexico,FCX,minerals,operational
+facilities,Arizona,FCX,minerals,operational
+equipment,Arizona,FCX,minerals,operational
+facilities,Colorado,FCX,minerals,operational
+equipment,Colorado,FCX,minerals,operational
+facilities,Chile,FCX,minerals,operational
+equipment,Chile,FCX,minerals,operational
+facilities,Peru,FCX,minerals,operational
+equipment,Peru,FCX,minerals,operational
+facilities,Indonesia,FCX,minerals,under construction
+equipment,Indonesia,FCX,minerals,under construction
+Oil and Gas Leases,Offshore California,FM O&G,oil and gas production,operational
+Wellbores,Offshore California,FM O&G,oil and gas production,operational
+Equipment and Facilities,Offshore California,FM O&G,oil and gas production,operational
+Platforms,Offshore California,FM O&G,oil and gas production,operational
+other structures,Offshore California,FM O&G,oil and gas production,operational
+Oil and Gas Leases,Gulf of Mexico (GOM),FM O&G,oil and gas production,operational
+Wellbores,Gulf of Mexico (GOM),FM O&G,oil and gas production,operational
+Equipment and Facilities,Gulf of Mexico (GOM),FM O&G,oil and gas production,operational
+Platforms,Gulf of Mexico (GOM),FM O&G,oil and gas production,operational
+other structures,Gulf of Mexico (GOM),FM O&G,oil and gas production,operational
+buildings and facilities,properties owned or operated by affiliates of FCX,FCX affiliates,asbestos,
+electrical wire and cable,N/A,N/A,asbestos,
+paint,N/A,N/A,asbestos,
+joint compounds,N/A,N/A,asbestos,
+talc-based lubricants,N/A,N/A,talc,
+raw materials,N/A,N/A,asbestos and talc,
+greenfield smelter,"Central Papua, Indonesia",PT-FI,copper concentrate,under construction
+unknown asset,"Central Papua, Indonesia",PT Smelting,anodes slimes,operational
+aodes slimes,Indonesia,PT Smelting,copper concentrate,operational
+smelter,Indonesia,PT-FI,copper concentrate,under construction
+greenfield smelter,Indonesia,PT-FI,copper concentrate,under construction
+\'Facilities\,\'Indonesia\,\'PT-FI (owned by FCX)\,\'Copper concentrate\,\'Under construction\
+\'Equipment\,\'Indonesia\,\'PT-FI (owned by FCX)\,\'Copper concentrate\,\'Operational\
+\'Facilities\,\'North America\,\'FCX\,\'Electricity\,\'Operational\
+greenfield smelter,"Gresik, Indonesia",PT-FI,,under construction
+ ,Spain,Atlantic Copper,copper, 
+Morenci,North America,FCX,copper concentrate,operational
+Cerro Verde,South America,FCX,copper concentrate,operational
+Grasberg,Indonesia,PT-FI,copper concentrate,operational
+Rod & Refining operations,,FCX,copper concentrate,operational
+Atlantic Copper Smelting & Refining,,FCX,copper concentrate,operational
+Morenci open-pit mine,southeastern Arizona,FCX,copper cathode and copper concentrate,operational
+Safford (including Lone Star),Arizona,FCX,copper,operational
+Bagdad,Arizona,FCX,copper,operational
+Sierrita and Miami mines,Arizona,FCX,copper,operational
+Chino and Tyrone mines,New Mexico,FCX,copper,operational
+Cerro Verde open-pit copper mine,"near Arequipa, Peru",FCX,copper cathode and copper concentrate,operational
+El Abra mine,Chile,FCX,copper,operational
+PT-FI’s Grasberg minerals district,Indonesia,FCX,"copper concentrate, gold, and silver",operational
+Henderson underground mine,Colorado,FCX,molybdenum concentrate,operational
+Climax open-pit mine,Colorado,FCX,molybdenum concentrate,operational
+copper conversion facilities located in North America,North America,FCX,copper,operational
+refinery and two rod mills,North America,FCX,copper,operational
+Atlantic Copper smelter and refinery,not specified,FCX,"copper concentrate, refined copper, precious metals",operational
+Miami smelter,not specified,FCX,not specified,not specified
+molybdenum conversion facilities in the U.S. and Europe,U.S. and Europe,FCX,molybdenum concentrate,operational
+greenfield smelter and PMR in Indonesia,Indonesia,FCX,not specified,not specified
+"Ajo, Bisbee and Tohono mines",Arizona,FCX,copper,not specified
+Mines,North America,FCX,Copper,
+Mines,South America,FCX,Copper,
+Mines,Indonesia,FCX,Molybdenum,
+Rod & Smelting,,FCX,Copper,
+Refining,,FCX,Copper,
+Facilities,,FCX,,
+Indonesia smelter projects,Indonesia,FCX,,under construction
+Indonesia smelter projects,Indonesia,FCX,,under construction
+Proven mineral reserves,North America,FCX,Copper,Proven
+Probable mineral reserves,North America,FCX,Gold,Probable
+Proven mineral reserves,South America,PT-FI,Molybdenum,Proven
+Probable mineral reserves,Indonesia,PT-FI,Copper,Probable
+Morenci,North America,FCX,Copper,Production stage
+Sierrita,North America,FCX,Copper,Production stage
+Bagdad,North America,FCX,Copper,Production stage
+Safford,North America,FCX,Copper,Production stage
+Chino,North America,FCX,Copper,Production stage
+Climax,North America,FCX,Copper,Production stage
+Henderson,North America,FCX,Copper,Production stage
+Tyrone,North America,FCX,Copper,Production stage
+Miami,North America,FCX,Copper,Production stage
+Cerro Verde,South America,FCX (53.56%),Copper,Production stage
+El Abra,South America,FCX (51.00%),Copper,Production stage
+Grasberg Block Cave,Indonesia,FCX (48.76%),Copper,Production stage
+Deep Mill Level Zone,Indonesia,FCX (48.76%),Copper,Production stage
+Big Gossan,Indonesia,FCX (48.76%),Copper,Production stage
+Kucing Liar,Indonesia,FCX (48.76%),Copper,Development stage
+Smelting,,,Copper,
+Sulfide ore,,,Copper,
+Equipment,,,Copper,
+Grasberg minerals district,Indonesia,Freeport-McMoRan Inc.,copper and gold,operational
+Morenci minerals district,Arizona,Freeport-McMoRan Inc.,"copper, gold, molybdenum",operational
+Cerro Verde operation,Peru,Freeport-McMoRan Inc.,copper,operational
+Morenci mine,North America,FMC,copper,operational
+Bagdad mine,North America,FMC,copper,operational
+Safford mine (including Lone Star),North America,FMC,copper,operational
+Sierrita mine,North America,FMC,copper,operational
+Miami mine,North America,FMC,copper,operational
+Chino mine,North America,FMC,copper,operational
+Tyrone mine,North America,FMC,copper,operational
+Henderson mine,North America,FMC,molybdenum,operational
+Climax mine,North America,FMC,molybdenum,operational
+Cerro Verde mine,South America,FMC,copper,operational
+El Abra mine,South America,FMC,copper,operational
+Grasberg minerals district,Indonesia,PT-FI,"copper, gold, molybdenum",operational
+mines,"Morenci, Bagdad, Safford, Sierrita, Miami, Chino, Tyrone, Cerro Verde, El Abra, Peru, Indonesia, North America, Grasberg minerals district",PT-FI,copper,operational
+smelter,"Miami, Arizona",PT-FI,copper,operational
+refinery,"El Paso, Texas",PT-FI,copper,operational
+stockpile,"Morenci, Bagdad, Safford, Sierrita, Miami, Chino, Tyrone, Cerro Verde, El Abra, Peru, Indonesia, North America, Grasberg minerals district",PT-FI,copper,operational
+electrolytic refinery,"El Paso, Texas",PT-FI,copper,operational
+copper concentrate,"Morenci, Bagdad, Sierrita, Chino, Cerro Verde, Grasberg minerals district",PT-FI,copper,operational
+copper cathode,"El Paso, Texas, Morenci, Bagdad, Safford, Sierrita, Miami, Chino, Tyrone, Cerro Verde, El Abra",PT-FI,copper,operational
+copper rod,North America,PT-FI,copper,operational
+Atlantic Copper,Spain,wholly owned by PT-FI,copper,operational
+PT Smelting,Indonesia,39.5% owned by PT-FI,copper,operational
+facilities,"El Paso, Texas",Company owns facilities,copper,
+facilities,"Miami, Arizona",Company owns facilities,copper,
+mines,North America copper mines,Company owns mines,copper,
+mines,South America mines,Company owns mines,copper,
+mines,Indonesia,Company owns mines,copper,
+refinery,"El Paso, Texas",Company owns refinery,copper,
+rod plants,"El Paso, Texas",Company owns rod plants,copper,
+rod plants,"Miami, Arizona",Company owns rod plants,copper,
+molybdenum mines,Henderson,Company,molybdenum concentrate,
+Climax mine,Climax,Company,molybdenum concentrate,
+North America copper mines,North America,Company,molybdenum concentrate,
+Cerro Verde copper mine,Peru,Company,molybdenum concentrate,
+conversion facilities,,Company,molybdenum concentrate,
+Mining operations,"USA (Colorado, Arizona)",Company,Copper concentrate,Operational
+Smelter sites,USA (Arizona),Company,Copper concentrate,Operational
+water treatment facilities,USA (Colorado),Company,Water,Under construction
+mine,Peru,Cerro Verde,minerals,operational
+tailings storage facilities,Peru,Cerro Verde,waste,operational
+leach pad stockpiles,Peru,Cerro Verde,ore,operational
+mine,Chile,El Abra,minerals,operational
+closure plan,Chile,El Abra,N/A,updated
+permits,Indonesia,PT-FI,N/A,active
+underground mining production operations,Indonesia,PT-FI,minerals,under construction
+tailings management area,Indonesia,PT-FI,waste,operational
+mines,U.S.,Atlantic Copper,copper,operational
+industrial facilities,"U.S., California",Atlantic Copper,"copper, molybdenum",operational
+mines,EU,Atlantic Copper,copper,operational
+Morenci mine,"Greenlee County, Arizona, U.S.","FCX (72%), Sumitomo Metal Mining Arizona, Inc. (15%), SMM Morenci, Inc. (13%)",copper,operational
+concentrators,"Greenlee County, Arizona, U.S.",FCX,copper,operational
+SX/EW facilities,"Greenlee County, Arizona, U.S.",FCX,copper,operational
+smelter,"Greenlee County, Arizona, U.S.",FCX,copper,operational
+refinery,"Greenlee County, Arizona, U.S.",FCX,copper,operational
+rod mills,"Greenlee County, Arizona, U.S.",FCX,copper,operational
+molybdenum roasters and processing facilities,"Greenlee County, Arizona, U.S.",FCX,molybdenum,operational
+"Bagdad, Sierrita, Miami, Chino, Tyrone, Henderson and Climax operations",U.S.,FCX,copper,operational
+tailings facilities,"Greenlee County, Arizona, U.S.",FCX,copper,operational
+mining claims,"Greenlee County, Arizona, U.S.",FCX,copper,operational
+Safford operation,desert environment,,copper,operational
+Sierrita mine,"Pima County, Arizona",wholly owned,copper,operational
+Twin Buttes EW facility,,,copper,operational
+Miami mine,"Gila County, Arizona",wholly owned,copper,operational
+mining claims,El Abra,Company X (Implied),minerals,operational
+ore deposit,El Abra,PT-FI,minerals,operational
+stockpiles,El Abra,PT-FI,minerals,operational
+process plant,El Abra,PT-FI,minerals,operational
+water wellfield and pipeline,El Abra,PT-FI,water,operational
+road between processing plant and mine,El Abra,PT-FI,transport,operational
+power transmission lines,El Abra,PT-FI,electricity,operational
+water pipeline from the Salar de Ascotán aquifer,El Abra,PT-FI,water,operational
+70-mile main service road,portsite to the mill complex,PT-FI,,operational
+Grasberg minerals district,Grasberg,PT-FI,"copper, gold",operational
+Grasberg Block Cave underground mine,Grasberg minerals district,PT-FI,"copper, gold",operational
+Deep Mill Level Zone (DMLZ) underground mine,Grasberg minerals district,PT-FI,"copper, gold",operational
+Big Gossan underground mine,Grasberg minerals district,PT-FI,"copper, gold",operational
+new milling facilities,Grasberg minerals district,PT-FI,"copper, gold",completed
+mill recovery project with a new copper cleaner circuit,Grasberg minerals district,PT-FI,"copper, gold",under construction
+coal-fired power plant,Grasberg minerals district,PT-FI,,operational
+diesel generators,Grasberg minerals district,PT-FI,,operational
+dual-fuel power plant,Grasberg minerals district,PT-FI,,operational
+gas-fired combined cycle facility,Grasberg minerals district,PT-FI,,under construction
+mountain streams,Grasberg minerals district, ,,operational
+underground operations,Grasberg minerals district,PT-FI,"copper, gold",operational
+Manyar smelter,"Gresik, Indonesia",PT-FI,copper concentrate,under construction
+Precious Metal Refinery (PMR),"Gresik, Indonesia",PT-FI,"gold, silver",under construction
+Atlantic Copper smelter and refinery,"Huelva, Spain",PT-FI,copper concentrate,operational
+PT Smelting copper smelter and refinery,"Gresik, Indonesia","PT-FI (39.5%), Mitsubishi Materials Corporation (60.5%)",copper concentrate,operational
+smelter,"Miami, Arizona",PT-FI,copper concentrate,operational
+smelter,"El Paso, Texas",PT-FI,copper anode,operational
+rod mills,"El Paso, Texas",PT-FI,copper anode,operational
+refinery,"El Paso, Texas",PT-FI,copper anode,operational
+molybdenum roasters,"Sierrita, Arizona",PT-FI,molybdenum concentrate,operational
+pressure-leach plant,"Bagdad, Arizona",PT-FI,molybdenum concentrate,operational
+conversion plants,U.S. and Europe,PT-FI,molybdenum concentrate,operational
+copper mines,Arizona,PT-FI,copper concentrate,end-of-life
+facilities,Grasberg minerals district,PT-FI,copper,under construction
+equipment,Grasberg minerals district,PT-FI,copper,operational
+infrastructure,Grasberg minerals district,PT-FI,copper,operational
+processing facilities,Indonesia,PT-FI,copper,operational
+gas-fired combined cycle facility,Indonesia,PT-FI,power generation for mining operations,under construction
+contractors,Indonesia,,,
+contractors,North America,,,
+contractors,South America,,,
+contractors,Europe,,,
+facilities,Mimika Regency,PT-FI,social and economic development programs,operational
+equipment,Central Papua,PT-FI,"public health, education, local economic development",operational
+infrastructure,Grasberg minerals district,PT-FI,security,operational
+Copper mines,North America,100% Operating Data Leach operations,Copper,Operational
+Leach operations,North America,100% Operating Data Leach operations,Copper,Operational
+Mill operations,North America,100% Operating Data Leach operations,Copper,Operational
+Copper mines,South America,Joint venture interests,Copper,Operational
+Leach operations,South America,Joint venture interests,Copper,Operational
+Mill operations,South America,Joint venture interests,Copper,Operational
+Mining operations,INDONESIA,Company,Copper,Operational
+Mill,INDONESIA,Company,Copper,Operational
+Molybdenum mines,INDONESIA,Company,Molybdenum,Operational
+Mineral reserves,North America,Consolidated basis,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,North America,Net equity interest,Gold,Estimated Recoverable Proven and Probable
+Mineral reserves,North America,Consolidated basis,Molybdenum,Estimated Recoverable Proven and Probable
+Mineral reserves,South America,Consolidated basis,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,South America,Net equity interest,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,South America,Consolidated basis,Molybdenum,Estimated Recoverable Proven and Probable
+Mineral reserves,Indonesia,Consolidated basis,Copper,Estimated Recoverable Proven and Probable
+Mineral reserves,Indonesia,Net equity interest,Gold,Estimated Recoverable Proven and Probable
+Mineral reserves,Indonesia,Consolidated basis,Molybdenum,Estimated Recoverable Proven and Probable
+Morenci Mill,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Morenci Crushed Leach,North America,FCX’s Processing,"Copper, Gold, Moly, Silver",Operational
+Morenci ROM leach,North America,FCX’s Processing,"Copper, Gold, Moly, Silver",Operational
+Bagdad Mill,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Bagdad ROM leach,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Safford Crushed Leach,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Sierrita Mill,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Chino Mill,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Chino ROM leach,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Tyrone ROM leach,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Henderson Mill,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Climax Mill,North America,FCX’s 100%,"Copper, Gold, Moly, Silver",Operational
+Cerro Verde Mill,South America,FCX’s Processing,"Copper, Gold, Moly, Silver",Operational
+El Abra Crushed Leach,South America,FCX’s Processing,"Copper, Gold, Moly, Silver",Operational
+El Abra ROM leach,South America,FCX’s Processing,"Copper, Gold, Moly, Silver",Operational
+Grasberg Block Cave Mill,Indonesia,48.76%,"Copper, Gold, Moly, Silver",Operational
+DMLZ Mill,Indonesia,48.76%,"Copper, Gold, Moly, Silver",Operational
+Big Gossan Mill,Indonesia,48.76%,"Copper, Gold, Moly, Silver",Operational
+Kucing Liar b Mill,Indonesia,48.76%,"Copper, Gold, Moly, Silver",Operational
+Mill,North America,FCX,Copper,Operational
+Crushed leach,North America,FCX,Copper,Operational
+ROM leach,North America,FCX,Copper,Operational
+Mill,South America,FCX,Copper,Operational
+Crushed leach,South America,FCX,Copper,Operational
+ROM leach,South America,FCX,Copper,Operational
+Mill,Indonesia,FCX,Copper,Operational
+Mill,North America,100%,copper,operational
+ROM leach,North America,100%,copper,operational
+Crushed leach,North America,100%,copper,operational
+Mill,Bagdad,100%,copper,operational
+ROM leach,Bagdad,100%,copper,operational
+Mill,Safford,100%,copper,operational
+Crushed leach,Safford,100%,copper,operational
+Mill,Sierrita,100%,copper,operational
+Mill,Chino,100%,copper,operational
+ROM leach,Chino,100%,copper,operational
+Mill,Tyrone,100%,copper,operational
+ROM leach,Tyrone,100%,copper,operational
+Mill,Henderson,100%,copper,operational
+Mill,Climax,100%,copper,operational
+Mill,South America,53.56%,copper,operational
+ROM leach,South America,53.56%,copper,operational
+Crushed leach,South America,51%,copper,operational
+ROM leach,South America,51%,copper,operational
+Mill,Indonesia,48.76%,copper,operational
+DMLZ,Indonesia,48.76%,copper,operational
+Big Gossan,Indonesia,48.76%,copper,operational
+Kucing Liar,Indonesia,48.76%,copper,operational
+Morenci,,,"Copper, Gold, Molybdenum",operational
+Cerro Verde,,,"Copper, Gold, Molybdenum",operational
+Grasberg minerals district,,,"Copper, Gold, Molybdenum",operational
+\'Ore bodies\,\'North America\,\'PT-FI\,\'Copper\,\'Operational\
+\'Ore bodies\,\'South America\,\'PT-FI\,\'Copper\,\'Operational\
+\'Ore bodies\,\'Indonesia\,\'PT-FI\,\'Copper\,\'Operational\
+\'Mill stockpiles\,\'North America\,\'PT-FI\,\'Copper\,\'Operational\
+\'Mill stockpiles\,\'South America\,\'PT-FI\,\'Copper\,\'Operational\
+\'Leach stockpiles\,\'North America\,\'PT-FI\,\'Copper\,\'Operational\
+\'Leach stockpiles\,\'South America\,\'PT-FI\,\'Copper\,\'Operational\
+Cerro Verde stockpiles,Cerro Verde,"FCX’s Interest, 100% Basis",copper,
+North America copper mines a stockpiles,North America,"FCX’s Interest, 100% Basis",copper,
+Morenci stockpiles,Morenci,Joint venture partner interests (Morenci),copper,
+Bagdad stockpiles,Bagdad,"FCX’s Interest, 100% Basis",copper,
+"Safford, including Lone Star stockpiles",Safford,"FCX’s Interest, 100% Basis",copper,
+Sierrita stockpiles,Sierrita,"FCX’s Interest, 100% Basis",copper,
+Miami stockpiles,Miami,"FCX’s Interest, 100% Basis",copper,
+"Chino, including Cobre stockpiles",Chino,"FCX’s Interest, 100% Basis",copper,
+Tyrone stockpiles,Tyrone,"FCX’s Interest, 100% Basis",copper,
+Cerro Verde stockpiles,Cerro Verde,"FCX’s Interest, 53.56%",copper,
+El Abra stockpiles,El Abra,"FCX’s Interest, 51%",copper,
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Copper,Milling
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Gold,Milling
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Moly,Milling
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Silver,Milling
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Copper,Leaching
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Gold,Leaching
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Moly,Leaching
+Morenci,North America,FCX's 100% Copper Gold Moly Silver,Silver,Leaching
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Copper,Milling
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Gold,Milling
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Moly,Milling
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Silver,Milling
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Copper,Leaching
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Gold,Leaching
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Moly,Leaching
+Bagdad,Bagdad,FCX's 100% Copper Gold Moly Silver,Silver,Leaching
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Copper,Milling
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Gold,Milling
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Moly,Milling
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Silver,Milling
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Copper,Leaching
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Gold,Leaching
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Moly,Leaching
+Safford,Safford,FCX's 100% Copper Gold Moly Silver,Silver,Leaching
+Sierrita,Sierrita,FCX's 100% Copper Gold Moly Silver,Copper,Milling
+Sierrita,Sierrita,FCX's 100% Copper Gold Moly Silver,Gold,Milling
+Sierrita,Sierrita,FCX's 100% Copper Gold Moly Silver,Moly,Milling
+Sierrita,Sierrita,FCX's 100% Copper Gold Moly Silver,Silver,Milling
+Chino,Chino,FCX's 100% Copper Gold Moly Silver,Copper,Milling
+Chino,Chino,FCX's 100% Copper Gold Moly Silver,Gold,Milling
+Chino,Chino,FCX's 100% Copper Gold Moly Silver,Moly,Milling
+Chino,Chino,FCX's 100% Copper Gold Moly Silver,Silver,Milling
+Tyrone,Tyrone,FCX's 100% Copper Gold Moly Silver,Copper,Milling
+Tyrone,Tyrone,FCX's 100% Copper Gold Moly Silver,Gold,Milling
+Tyrone,Tyrone,FCX's 100% Copper Gold Moly Silver,Moly,Milling
+Tyrone,Tyrone,FCX's 100% Copper Gold Moly Silver,Silver,Milling
+Henderson,Henderson,FCX's 100% Copper Gold Moly Silver,Copper,Milling
+Henderson,Henderson,FCX's 100% Copper Gold Moly Silver,Gold,Milling
+Henderson,Henderson,FCX's 100% Copper Gold Moly Silver,Moly,Milling
+Henderson,Henderson,FCX's 100% Copper Gold Moly Silver,Silver,Milling
+Morenci Milling,North America,FCX – 100% basis,Milling,Operational
+Morenci Leaching,North America,FCX – 100% basis,Leaching,Operational
+Bagdad Milling,North America,FCX – 100% basis,Milling,Operational
+Bagdad Leaching,North America,FCX – 100% basis,Leaching,Operational
+"Safford, including Lone Star Milling",North America,FCX – 100% basis,Milling,Operational
+"Safford, including Lone Star Leaching",North America,FCX – 100% basis,Leaching,Operational
+Sierrita Milling,North America,FCX – 100% basis,Milling,Operational
+Sierrita Leaching,North America,FCX – 100% basis,Leaching,Operational
+"Chino, including Cobre Milling",North America,FCX – 100% basis,Milling,Operational
+"Chino, including Cobre Leaching",North America,FCX – 100% basis,Leaching,Operational
+Tyrone,Tyrone,FCX,Copper,Operational
+Henderson,Henderson,FCX,Molybdenum,Operational
+Climax,Climax,FCX,Molybdenum,Operational
+Ajo,Ajo,FCX,Copper,Operational
+Cochise/Bisbee,Cochise/Bisbee,FCX,Copper,Operational
+Sanchez,Sanchez,FCX,Copper,Operational
+Tohono,Tohono,FCX,Copper,Operational
+Twin Buttes,Twin Buttes,FCX,Copper,Operational
+Christmas,Christmas,FCX,Copper,Operational
+South America Cerro Verde,South America Cerro Verde,FCX,Copper,Operational
+El Abra,El Abra,FCX,Copper,Operational
+Indonesia Grasberg minerals district,Indonesia Grasberg minerals district,FCX,Copper,Operational
+Morenci,,72%,"copper, gold, molybdenum",
+Cerro Verde,,53.56%,"copper, gold, molybdenum",
+Grasberg minerals district,,48.76%,"copper, gold, molybdenum",
+mining operations,Indonesia,PT Freeport Indonesia (PT-FI),"copper, molybdenum",operational
+smelting and refining capacity,Indonesia,PT Freeport Indonesia (PT-FI),"copper, molybdenum",under construction
+mining operations,,the company,copper,operational
+processing facilities,,the company,copper,operational
+machines and equipment,unspecified,company,metals,operational
+consumables,unspecified,company,"various (metals, energy, chemicals)",operational
+mine sites,US,Company and its subsidiaries,,operational
+smelter sites,US,Company and its subsidiaries,,operational
+mining operations,Indonesia,U.S.-based mining company,copper concentrates and anode slimes,
+exploration activities,Peru,U.S.-based mining company,copper,
+mining operations,Chile,U.S.-based mining company,gold,
+Mining operations in Indonesia,Indonesia,"PT-FI, MIND ID, local population",Minerals,Operational
+Grasberg minerals district,Indonesia,"PT-FI, MIND ID, local population","Copper concentrates, anode slimes",Operational
+"""Mining operations""","""Indonesia""","""PT-FI""","""minerals""","""operational"""
+"""Grasberg minerals district""","""Indonesia""","""PT-FI""","""minerals""","""planned"""
+"""additional domestic smelting and refining capacity""","""Indonesia""","""PT-FI""","""copper"", ""gold""","""under construction"""
+facilities,Morenci,the company,minerals,operational
+equipment,El Abra 55 Table of Contents operation,the company,crushed leach stacking,operational
+infrastructure,Grasberg minerals district in Indonesia,PT-FI,minerals,operational
+mines (open-pit and underground),Grasberg minerals district in Indonesia,PT-FI,ores,operational
+tailings impoundments,Grasberg minerals district in Indonesia,PT-FI,slimes,operational
+milling equipment,El Abra 55 Table of Contents operation,the company,concentrates,operational
+conveyor systems,Morenci,the company,"chemicals, explosives or other materials",operational
+smelting and refinery facilities,Indonesia,subsidiaries of the company,copper and gold,operational
+equipment,Indonesia,subsidiaries of the company,copper and gold,operational
+leach pads,"U.S., Peru",subsidiaries of the company,copper and gold,operational
+tailings impoundments,"U.S., Peru",subsidiaries of the company,copper and gold,"operational, inactive, closed, safely closed"
+embankments,"U.S., Peru",subsidiaries of the company,copper and gold,operational
+tailings storage facilities,Indonesia,PT-FI,minerals,operational
+mill,Indonesia,PT-FI,minerals,operational
+levees,lowlands,PT-FI,minerals,operational
+tailings management area,lowlands,PT-FI,minerals,operational
+overburden stockpiles,Grasberg open pit,PT-FI,minerals,operational
+open pit mine,Grasberg minerals district,PT-FI,minerals,operational
+Tailings containment structures (levees or protection structures),"Southern (estuary) portion of the approved tailings management area, Central Papua, Indonesia",PT-FI,Tailings,"Operational, under construction (proposed extensions to levees)"
+Cerro Verde mine,Peru,PT-FI,minerals,operational
+El Abra mining operation,Chile,PT-FI,minerals,operational
+Morenci,Arizona,PT-FI,minerals,operational
+Safford (including Lone Star),Arizona,PT-FI,minerals,operational
+Sierrita,Arizona,PT-FI,minerals,operational
+water infrastructure,Chile,Company,mining operations,under construction (potential expansion)
+water infrastructure,Indonesia,Company,water supply for operations,operational
+Information technology infrastructure,Global,Company,Communication and operational data processing,operational
+decision support systems,Global,Company,Data analysis and decision making,operational
+equipment reliability tools,Operational sites,Company,Equipment maintenance and failure prediction,operational
+mineral extraction equipment,Operational sites,Company,Copper ore extraction,operational
+remote/autonomous operation systems,Operational sites,Company,Remote mining operations,under construction
+Mining operations,Indonesia,Company,"Copper, Gold",Operational
+Mining operations,North America,Company,"Copper, Gold",Operational
+Facilities,Grasberg minerals district,Company,"Copper, Gold",Operational
+"""Kucing Liar deposit""","""Grasberg minerals district""","""PT-FI""","""copper, gold, molybdenum""",""""""
+"""Grasberg minerals district""","""""","""PT-FI""","""copper, gold, molybdenum""",""""""
+"""ore bodies""","""""","""PT-FI""","""copper, gold, molybdenum""",""""""
+remediation projects,"U.S., 22 U.S. states","FMC, subsidiary companies",,"active, under construction, end-of-life"
+facilities,Arizona,The company,mining and ore processing activities,operational
+facilities,Gila River system,The company,mining and ore processing activities,operational
+facilities,Morenci,The company,mining and ore processing activities,operational
+facilities,Safford (including Lone Star),The company,mining and ore processing activities,operational
+facilities,Sierrita,The company,mining and ore processing activities,operational
+Grasberg minerals district,Indonesia,Freeport-McMoRan Inc.,"copper, gold",operational
+Morenci minerals district,Arizona,Freeport-McMoRan Inc.,"copper, gold",operational
+Cerro Verde operation,Peru,Freeport-McMoRan Inc.,"copper, gold",operational
+mines,North America,,copper,operational
+mines,South America,,copper,operational
+mines,Indonesia,PT-FI,copper,operational
+mines,North America,,gold,operational
+mines,South America,,gold,operational
+mines,Indonesia,PT-FI,gold,operational
+mines,North America,,molybdenum,operational
+mines,South America,,molybdenum,operational
+"Manyar smelter and precious metals refinery (PMR) in Indonesia – collectively, the Indonesia smelter projects",Indonesia,,,operational
+facilities,Indonesia,PT-FI,copper,operational
+equipment,Grasberg minerals district,PT-FI,copper,operational
+infrastructure,North America,,copper,under construction
+mining and milling assets,North America,Company,copper,operational
+mining and milling assets,South America,Company,gold,operational
+mining and milling assets,Grasberg minerals district,Company,molybdenum,operational
+mill stockpiles,,,copper,
+leach stockpiles,,,copper,
+Equipment,Indonesia,Company,Copper,Operational
+Facilities,North America,Company,Copper,Operational
+facilities,North America,,diesel fuel,operational
+equipment,South America,,electricity,operational
+infrastructure,Indonesia,,coal,operational
+Copper mines,North America (Arizona and New Mexico),Wholly owned,"Copper, Molybdenum concentrate, Gold, Silver",Operational
+Concentrating facilities,Bagdad (Arizona),Wholly owned,Copper,Operational
+Leaching processes,North America and South America,Wholly owned,Copper,Operational
+Tailings infrastructure,North America (Arizona and New Mexico),Wholly owned,Copper,Under construction
+Facilities,Safford/Lone Star,Company,Copper,Operational
+Equipment,Safford/Lone Star,Company,Copper,Operational
+Infrastructure,Safford/Lone Star,Company,Copper,Operational
+Facilities,Morenci,Company,Copper,Operational
+Equipment,Morenci,Company,Copper,Operational
+Infrastructure,Morenci,Company,Copper,Operational
+Copper mines,North America,Partially owned by the company,Copper,Operational
+Concentrator,"Cerro Verde, Peru",Partially owned by the company,Copper,Operational
+Sulfide project at El Abra,"El Abra, Chile",Partially owned by the company,Copper,Under construction
+mining operations,South America,Company,copper,operational
+mining operations,South America,Company,molybdenum,operational
+\'mines\,\'South America\,\'Company\,\'copper\,\'operational\
+\'mines\,"\'Central Papua, Indonesia\",\'48.76% ownership interest in PT-FI\,\'copper and gold\,\'operational\
+\'milling facilities\,\'Grasberg minerals district\,\'Company\,\'copper and gold\,\'under construction\
+\'processing plants\,\'South America\,\'Company\,\'copper\,\'operational\
+mill recovery project,Grasberg minerals district,PT-FI,copper and gold,under construction
+copper cleaner circuit,Grasberg minerals district,PT-FI,copper and gold,under construction
+gas-fired combined cycle facility,Grasberg minerals district,PT-FI,electricity,under construction
+Kucing Liar deposit,Grasberg minerals district,PT-FI,copper and gold,pre-production development
+PT Smelting expansion,Indonesia,PT-FI,copper concentrate,operational
+Manyar smelter,"Gresik, Indonesia",PT-FI,copper concentrate,under construction
+PMR,Indonesia,PT-FI,gold and silver,under construction
+Grasberg Block Cave underground mine,Indonesia,PT-FI,"Copper, Gold",operational
+DMLZ underground mine,Indonesia,PT-FI,"Copper, Gold",operational
+Big Gossan underground mine,Indonesia,PT-FI,"Copper, Gold",operational
+Copper mining facilities,,PT-FI,Copper,Operational
+Equipment used in copper mining,,PT-FI,Copper,Operational
+Climax open-pit mine,Colorado,wholly owned by the company,molybdenum,operational
+Henderson underground mine,Colorado,wholly owned by the company,molybdenum,operational
+smelter in Arizona,Arizona,wholly owned by the company,"copper concentrate, anode slimes",operational
+Atlantic Copper,Spain,wholly owned by the company,copper concentrate,operational
+El Paso refinery in Texas,Texas,wholly owned by the company,copper concentrate,operational
+Indonesia smelter projects,Indonesia,wholly owned by the company,"copper concentrate, anode slimes",under construction
+smelting and refining facilities,N/A,N/A,copper,operational
+mining operations,"Grasberg minerals district, North America","FCX, PT-FI, Cerro Verde","copper, gold, molybdenum",operational
+Indonesia smelter projects,Indonesia,PT-FI,copper,under construction
+Mining projects,Grasberg minerals district,PT-FI,minerals,under construction
+underground development activities,Grasberg minerals district,PT-FI,minerals,operational
+smelter projects,Indonesia,PT-FI,minerals,under construction
+underground mine development projects,Grasberg minerals district,PT Mineral Industri Indonesia (MIND ID),"copper concentrate, gold, molybdenum",under construction
+copper mining operations,,,copper,
+North America Copper Mines,,,Copper,operational
+North America Copper Mines,,,Molybdenum,operational
+North America Copper Mines,,,Gold,operational
+North America Copper Mines,,,Silver,operational
+North America Copper Mines,North America,Company,"Copper, Molybdenum, Gold, Silver",Operational
+Mining operations,,Company,Copper,Operational
+Mining operations,,Company,Silver,Operational
+Mining operations,,Company,Molybdenum,Operational
+mining operations,,Company,copper,operational
+mining operations,,Company,silver,operational
+mining operations,,Company,molybdenum,operational
+mining operations,Indonesia,Company,Copper,operational
+mining operations,Indonesia,Company,Gold,operational
+mining operations,Indonesia,Company,Silver,operational
+mining operations,Indonesia,Company (implied),"copper, gold, silver",operational
+mining operations,other mining locations,Company (implied),various,operational
+Molybdenum Mines,,,molybdenum,operational
+North America copper mines,North America,Freeport-McMoRan Inc.,Copper,
+South America mining operations,South America,Freeport-McMoRan Inc.,Copper,
+Indonesia mining,Indonesia,Freeport-McMoRan Inc.,"Copper, Gold",
+Indonesia smelter projects,Indonesia,Freeport-McMoRan Inc.,Copper,
+Molybdenum mines,,Freeport-McMoRan Inc.,Molybdenum,
+"Property, plant, equipment and mine development costs",,Freeport-McMoRan Inc.,,
+PT Freeport Indonesia (PT-FI),Indonesia,48.76%-owned subsidiary of FCX,copper,operational
+Freeport Minerals Corporation (FMC),North America,wholly owned subsidiary of FCX,copper,operational
+"Atlantic Copper, S.L.U. (Atlantic Copper)",South America,wholly owned subsidiary of FCX,copper,operational
+Morenci copper mine,North America,"operated by FMC, a subsidiary of FCX",copper,operational
+Cerro Verde copper mine,South America,operated by FCX,copper,operational
+Grasberg (Indonesia mining) copper mine,Indonesia,"operated by PT-FI, a subsidiary of FCX",copper,operational
+Rod & Refining operations,North America,operated by FCX,copper,operational
+Mill,,FCX,Copper,Operational
+Leaching Facility,,FCX,Copper,Operational
+Refining Facility,,FCX,Copper,Operational
+Mining Machinery,,FCX,Copper,Operational
+Processing Equipment,,FCX,Molybdenum,Operational
+Mining Area,,FCX,Minerals,Operational
+Pit,,FCX,Minerals,Operational
+Facilities,,FCX,Minerals,Operational
+Morenci mine,Arizona,FCX owns 72% interest,,
+Bagdad mine,Arizona,FCX owns 100%,,
+Safford mine (including Lone Star),Arizona,FCX owns 100%,,
+Sierrita mine,Arizona,FCX owns 100%,,
+Miami mine,Arizona,FCX owns 100%,,
+Tyrone mine,New Mexico,FCX owns 100%,,
+Chino mine,New Mexico,FCX owns 100%,,
+Henderson mine,Colorado,FCX owns 100%,,
+Climax mine,Colorado,FCX owns 100%,,
+Cerro Verde mine,Peru,FCX owns 53.56%,,
+El Abra mine,Chile,FCX owns 51%,,
+Atlantic Copper,Spain,FCX,copper,operational
+"copper smelter facility in Gresik, Indonesia","Gresik, Indonesia","PT-FI owns 39.5 % of the outstanding common stock of PT Smelting., MMC owns the remaining 60.5 % of PT Smelting’s outstanding common stock.",copper concentrate,operational
+Raw materials (primarily concentrate),,PT-FI,Metals,Operational
+Work-in-process,,PT-FI,Metals,Operational
+Finished goods,,PT-FI,Metals,Operational
+Materials and supplies,,PT-FI,Metals,Operational
+Mill stockpiles,,PT-FI,Metals,Operational
+Leach stockpiles,,PT-FI,Metals,Operational
+Proven and probable mineral reserves,,FCX,Metals,Operational
+VBPP,,FCX,Metals,Operational
+Mine development and other,,FCX,Metals,Operational
+Buildings and infrastructure,,FCX,Metals,Operational
+Machinery and equipment,,FCX,Metals,Operational
+Mobile equipment,,FCX,Metals,Operational
+Construction in progress,,FCX,Metals,Under construction
+Oil and gas properties,,FCX,Metals,Operational
+remediation projects,U.S. states,"Freeport-McMoRan Miami Inc., Phelps Dodge Refining Corporation, Pinal Creek Group, City of New York",,"operational, under construction, end-of-life"
+creek,Newtown Creek,"PDRC and four other companies (the Newtown Creek Group, NCG), City of New York",environmental remediation,under construction
+smelter,"Borough of Carteret, New Jersey",United States Metals Refining Company (USMR),copper smelting and refining,in end-of-life
+refinery,"Borough of Carteret, New Jersey",United States Metals Refining Company (USMR),copper smelting and refining,in end-of-life
+94 former uranium mining sites,tribal lands,FCX subsidiaries,uranium,remediation
+"15,000 mining claims",Four Corners region,FCX subsidiaries,uranium,"undisturbed, mining features"
+facilities,New Mexico,FCX,mining,operational
+infrastructure,Arizona,FCX,oil and gas,operational
+FCX’s operating and non-operating sites,Arizona,FCX,,operational
+Henderson's mine,Colorado,FCX,,operational
+Climax operation,Colorado,FCX,,operational
+El Abra operation,Chile,FCX,,operational
+Cerro Verde operation,Peru,FCX,,operational
+PT-FI’s operations,Indonesia,FCX,,operational
+West Wanagon overburden stockpile,PT-FI’s operations,FCX,,under construction
+buildings and facilities located at properties owned or operated by affiliates of FCX,properties owned or operated by affiliates of FCX,FCX affiliates,"asbestos, talc",
+electrical wire and cable,,,asbestos,
+paint,,,asbestos,
+joint compounds,,,asbestos,
+talc-based lubricants used in rubber manufacturing,,,talc,
+Manyar smelter,Indonesia,PT-FI,copper concentrates and anode slimes,under construction
+Manyar smelter,Indonesia,PT-FI,copper concentrate,under construction
+Copper Forward Contracts,Spain,Atlantic Copper,copper,
+Copper mines,North America,FCX,copper concentrate,operational
+Smelting & Refining operations, ,FCX,copper concentrate,operational
+Molybdenum mines, ,FCX,molybdenum,operational
+Morenci open-pit mine,Southeastern Arizona,FCX,"copper, molybdenum concentrate",operational
+Safford (including Lone Star),Arizona,FCX,copper,operational
+Bagdad,Arizona,FCX,copper,operational
+Sierrita and Miami in Arizona,Arizona,FCX,copper,operational
+Chino and Tyrone in New Mexico,New Mexico,FCX,copper,operational
+Cerro Verde,Peru,FCX,"copper, molybdenum concentrate, silver",operational
+El Abra,Chile,FCX,copper,operational
+PT-FI’s Grasberg minerals district,Indonesia,FCX,"copper concentrate, gold and silver",operational
+Henderson underground mine,Colorado,FCX,molybdenum concentrate,operational
+Climax open-pit mine,Colorado,FCX,molybdenum concentrate,operational
+Facilities,North America,FCX,Copper,
+Equipment,South America,FCX,Molybdenum,
+Facilities,North America,FCX,Copper,
+Equipment,South America,FCX,Molybdenum,
+Infrastructure,Indonesia,PT Smelting,Copper,
+Mining Operations,Cerro Verde,FCX,Copper,
+Smelter,Morenci,FCX,Copper,
+Other Assets,Other,FCX,N/A,
+Facilities,North America,FCX,Copper,Operational
+Equipment,South America,FCX,Gold,Operational
+Infrastructure,Indonesia,FCX,Molybdenum,Operational
+Morenci mine,North America,FCX,copper,Production stage
+Sierrita,North America,FCX,copper,Production stage
+Bagdad,North America,FCX,copper,Production stage
+"Safford, including Lone Star",North America,FCX,copper,Production stage
+"Chino, including Cobre",North America,FCX,copper,Production stage
+Climax,North America,FCX,molybdenum,Production stage
+Henderson,North America,FCX,copper,Production stage
+Tyrone,North America,FCX,copper,Production stage
+Miami,North America,FCX,copper,Production stage
+Cerro Verde,South America,FCX,copper,Production stage
+El Abra,South America,FCX,copper,Production stage
+Grasberg Block Cave,Indonesia,PT-FI,"copper, gold",Production stage
+Deep Mill Level Zone,Indonesia,PT-FI,"copper, gold",Production stage
+Big Gossan,Indonesia,PT-FI,"copper, gold",Production stage
+Kucing Liar,Indonesia,PT-FI,"copper, gold",Development stage
+,,,,
+Anode,,,copper,operational
+Bench,open-pit mine,,copper,operational
+Cathode,,,copper,refined

@@ -1,0 +1,26 @@
+physical asset,location,ownership,commodity,Countries
+concentrator ii,"Toquepala (Peru), Sonora (Mexico)",Southern Copper Corporation,Copper ore,"Peru, Mexico"
+cuajone open-pit mine,Cuajone (Peru),Southern Copper Corporation,Copper ore,Peru
+toquepala open-pit mine; concentrator i,Toquepala (Peru),Southern Copper Corporation,Copper ore,Peru
+toquepala sx-ew plant,Toquepala (Peru),Southern Copper Corporation,Refined copper,Peru
+ilo copper smelter,Ilo (Peru),Southern Copper Corporation,Copper concentrate,Peru
+ilo copper refinery,Ilo (Peru),Southern Copper Corporation,Refined copper,Peru
+ilo acid plants,Ilo (Peru),Southern Copper Corporation,Sulfuric acid,Peru
+ilo precious metals refinery,Ilo (Peru),Southern Copper Corporation,"Gold, Silver",Peru
+buenavista open-pit mine; concentrator i,Sonora (Mexico),Southern Copper Corporation,Copper ore,Mexico
+buenavista: sx-ew plant i,Sonora (Mexico),Southern Copper Corporation,Refined copper,Mexico
+sx-ew plant ii,Sonora (Mexico),Southern Copper Corporation,Refined copper,Mexico
+sx-ew plant iii,Sonora (Mexico),Southern Copper Corporation,Refined copper,Mexico
+la caridad open-pit mine,Sonora (Mexico),Southern Copper Corporation,Copper ore,Mexico
+la caridad sx-ew plant,Sonora (Mexico),Southern Copper Corporation,Refined copper,Mexico
+la caridad copper smelter,Sonora (Mexico),Southern Copper Corporation,Copper concentrate,Mexico
+la caridad copper refinery,Sonora (Mexico),Southern Copper Corporation,Refined copper,Mexico
+la caridad copper rod plant,Sonora (Mexico),Southern Copper Corporation,Copper rod,Mexico
+la caridad precious metals refinery,Sonora (Mexico),Southern Copper Corporation,"Gold, Silver",Mexico
+la caridad sulfuric acid plant,Sonora (Mexico),Southern Copper Corporation,Sulfuric acid,Mexico
+san martin,Zacatecas (Mexico),Southern Copper Corporation,"Lead, Zinc, Copper, Silver",Mexico
+santa barbara,Chihuahua (Mexico),Southern Copper Corporation,"Lead, Copper and Zinc",Mexico
+santa eulalia,Chihuahua (Mexico),Southern Copper Corporation,Lead & Zinc,Mexico
+taxco(2),Guerrero (Mexico),Southern Copper Corporation,"Lead, Zinc Silver & Gold",Mexico
+san luis potosi zinc refinery,San Luis Potosi (Mexico),Southern Copper Corporation,Zinc concentrate,Mexico
+san luis potosi sulfuric acid plant,San Luis Potosi (Mexico),Southern Copper Corporation,Sulfuric acid,Mexico

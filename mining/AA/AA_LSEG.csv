@@ -1,0 +1,8 @@
+﻿Name,Asset Type,Location,Commodity,Operating Company,Status,Capacity (Tonnes),Production (tonnes),Mine Opened,Mine Life (years),Mine Closed,Avg. Seam Thickness (meters),Total Seam Thickness (meters),No. Seams,Strip Ratio
+Huntly,Bauxite Mine (Aluminium),Australia,Aluminium / Primary Aluminium,Alcoa Corp,Normal Operation,--,"33,500,000.00",,--,,--,--,--,--
+Pocos de Caldas,Bauxite Mine (Aluminium),Brazil,Aluminium / Primary Aluminium,Alcoa Corp,Normal Operation,--,"400,000.00",,--,,--,--,--,--
+Juruti,Bauxite Mine (Aluminium),Brazil,Aluminium / Primary Aluminium,Alcoa Corp,Normal Operation,--,"5,700,000.00",,--,,--,--,--,--
+Willowdale,Bauxite Mine (Aluminium),Australia,Aluminium / Primary Aluminium,Alcoa World Alumina LLC,Normal Operation,--,"6,500,000.00",,--,,--,--,--,--
+Jarrahdale,Bauxite Mine (Aluminium),Australia,Aluminium / Primary Aluminium,Alcoa World Alumina LLC,Permanently Closed,--,0,,--,,--,--,--,--
+Anglesea Coal Mine,Coal Mine,Australia,Coal,Alcoa of Australia Ltd,Normal Operation,"1,100,000.00","1,100,000.00",,--,,27,--,2,--
+Sandow Coal Mine,Coal Mine,United States,Coal,Alcoa Inc,Closed,0,0,,--,2005,--,--,1,--
