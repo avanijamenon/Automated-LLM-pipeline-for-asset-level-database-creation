@@ -1,0 +1,155 @@
+# PROPERTIES
+
+# ITEM 2. PROPERTIES
+
+# ELECTRIC UTILITIES AND INFRASTRUCTURE
+
+|Facility|Plant Type|Primary Fuel|Location|Capacity|
+|---|---|---|---|---|
+|Duke Energy Carolinas Oconee|Nuclear|Uranium|SC|2,554|
+|Duke Energy Carolinas McGuire(a)|Nuclear|Uranium|NC|2,316|
+|Duke Energy Carolinas Catawba|Nuclear|Uranium|SC|445|
+|Duke Energy Carolinas Belews Creek|Fossil|Coal/Gas|NC|2,220|
+|Duke Energy Carolinas Marshall|Fossil|Coal/Gas|NC|2,058|
+|J.E. Rogers|Fossil|Coal/Gas|NC|1,388|
+|Lincoln Combustion Turbine (CT)|Fossil|Gas/Oil|NC|1,161|
+|Allen|Fossil|Coal|NC|840|
+|Rockingham CT|Fossil|Gas/Oil|NC|825|
+|W.S. Lee Combined Cycle (CC)(b)|Fossil|Gas|SC|686|
+|Buck CC|Fossil|Gas|NC|668|
+|Dan River CC|Fossil|Gas|NC|662|
+|Mill Creek CT|Fossil|Gas/Oil|SC|563|
+|W.S. Lee|Fossil|Gas|SC|170|
+|W.S. Lee CT|Fossil|Gas/Oil|SC|84|
+|Clemson CHP|Fossil|Gas|SC|13|
+|Bad Creek|Hydro|Water|SC|1,520|
+|Jocassee|Hydro|Water|SC|780|
+|Cowans Ford|Hydro|Water|NC|324|
+|Keowee|Hydro|Water|SC|152|
+|Other small facilities (19 plants)|Hydro|Water|NC/SC|581|
+|Distributed generation|Renewable|Solar|NC|71|
+|Total Duke Energy Carolinas| | | |20,081|
+
+|Facility|Plant Type|Primary Fuel|Location|Capacity|
+|---|---|---|---|---|
+|Duke Energy Progress Brunswick|Nuclear|Uranium|NC|1,870|
+|Duke Energy Progress Harris|Nuclear|Uranium|NC|964|
+|Duke Energy Progress Robinson|Nuclear|Uranium|SC|759|
+|Duke Energy Progress Roxboro|Fossil|Coal|NC|2,439|
+|Duke Energy Progress Smith CC|Fossil|Gas/Oil|NC|1,083|
+|Duke Energy Progress H.F. Lee CC|Fossil|Gas/Oil|NC|888|
+|Duke Energy Progress Wayne County CT|Fossil|Gas/Oil|NC|822|
+|Duke Energy Progress Smith CT|Fossil|Gas/Oil|NC|772|
+|Duke Energy Progress Mayo|Fossil|Coal|NC|704|
+|Duke Energy Progress L.V. Sutton CC|Fossil|Gas/Oil|NC|607|
+|Duke Energy Progress Asheville CC|Fossil|Gas/Oil|NC|476|
+|Duke Energy Progress Asheville CT|Fossil|Gas/Oil|NC|320|
+|Duke Energy Progress Darlington CT|Fossil|Gas/Oil|SC|234|
+|Duke Energy Progress Weatherspoon CT|Fossil|Gas/Oil|NC|124|
+|Duke Energy Progress L.V. Sutton CT (Black Start)|Fossil|Gas/Oil|NC|84|
+|Duke Energy Progress Blewett CT|Fossil|Oil|NC|52|
+|Duke Energy Progress Walters|Hydro|Water|NC|112|
+|Duke Energy Progress Other small facilities (3)|Hydro|Water|NC|116|
+|Duke Energy Progress Distributed generation|Renewable|Solar|NC|35|
+|Duke Energy Progress Asheville – Rock Hill Battery|Renewable|Storage|NC|7|
+|Duke Energy Progress Total| | | |12,468|
+---
+# PROPERTIES
+
+|Facility|Plant Type|Primary Fuel|Location|Capacity| |
+|---|---|---|---|---|---|
+|Duke Energy Florida|Hines CC|Fossil|Gas/Oil|FL|2,061|
+| |Citrus County CC|Fossil|Gas|FL|1,610|
+| |Crystal River|Fossil|Coal|FL|1,410|
+| |Bartow CC|Fossil|Gas/Oil|FL|1,112|
+| |Anclote|Fossil|Gas|FL|1,013|
+| |Intercession City CT|Fossil|Gas/Oil|FL|931|
+| |Osprey CC|Fossil|Gas/Oil|FL|583|
+| |DeBary CT|Fossil|Gas/Oil|FL|524|
+| |Tiger Bay CC|Fossil|Gas/Oil|FL|193|
+| |Bayboro CT|Fossil|Oil|FL|171|
+| |Bartow CT|Fossil|Gas/Oil|FL|168|
+| |Suwannee River CT|Fossil|Gas|FL|145|
+| |University of Florida CoGen CT|Fossil|Gas|FL|44|
+| |Distributed generation|Renewable|Solar|FL|323|
+|Total Duke Energy Florida| | | | |10,288|
+
+|Facility|Plant Type|Primary Fuel|Location|Capacity| |
+|---|---|---|---|---|---|
+|Duke Energy Ohio|East Bend|Fossil|Coal|KY|600|
+| |Woodsdale CT|Fossil|Gas/Propane|OH|476|
+|Total Duke Energy Ohio| | | | |1,076|
+
+|Facility|Plant Type|Primary Fuel|Location|Capacity| |
+|---|---|---|---|---|---|
+|Duke Energy Indiana|Gibson(d)(c)|Fossil|Coal|IN|2,822|
+| |Cayuga|Fossil|Coal/Oil|IN|1,005|
+| |Edwardsport|Fossil|Coal|IN|595|
+| |Madison CT|Fossil|Gas|OH|566|
+| |Wheatland CT|Fossil|Gas|IN|444|
+| |Vermillion CT(e)|Fossil|Gas|IN|360|
+| |Noblesville CC|Fossil|Gas/Oil|IN|264|
+| |Henry County CT|Fossil|Gas/Oil|IN|129|
+| |Cayuga CT|Fossil|Gas/Oil|IN|84|
+| |Markland|Hydro|Water|IN|54|
+| |Distributed generation|Renewable|Solar|IN|11|
+| |Camp Atterbury Battery|Renewable|Storage|IN|4|
+| |Nabb Battery|Renewable|Storage|IN|4|
+| |Crane Battery|Renewable|Storage|IN|4|
+|Total Duke Energy Indiana| | | | |6,346|
+
+# COMMERCIAL RENEWABLES
+
+|Facility|Plant Type|Primary Fuel|Location|Capacity|Owned MW|Ownership Interest (%)|
+|---|---|---|---|---|---|---|
+|Commercial Renewables – Wind|Renewable|Wind|TX|465|51%| |
+|Los Vientos (five sites)|Renewable|Wind|TX|352|100%| |
+|Frontier Windpower II(a)|Renewable|Wind|OK|202|100%| |
+|Mesteno(a)(a)|Renewable|Wind|TX|182|100%| |
+|Maryneal|Renewable|Wind|TX|113|47%| |
+|Frontier Windpower|Renewable|Wind|OK|103|51%| |
+|Top of the World|Renewable|Wind|WY|102|51%| |
+|Notrees|Renewable|Wind|TX|78|51%| |
+|Mesquite Creek|Renewable|Wind|TX|54|26%| |
+|Campbell Hill|Renewable|Wind|WY|50|51%| |
+|Ironwood|Renewable|Wind|KS|43|26%| |
+|Sweetwater V|Renewable|Wind|TX|38|47%| |
+|North Allegheny|Renewable|Wind|PA|36|51%| |
+|Laurel Hill|Renewable|Wind|PA|35|51%| |
+|Cimarron II|Renewable|Wind|KS|34|26%| |
+|Kit Carson|Renewable|Wind|CO|26|51%| |
+|Silver Sage|Renewable|Wind|WY|21|51%| |
+|Happy Jack|Renewable|Wind|WY|15|51%| |
+|Shirley|Renewable|Wind|WI|10|51%| |
+|Total Renewables – Wind| | | |1,959| | |
+
+|Facility| | | | |Plant Type|Primary Fuel|Location|Capacity|Owned MW|Ownership Interest (%)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Commercial Renewables – Solar|Renewable|Solar|TX|200|100%| | | | | |
+|Holstein(a)(a)|Renewable|Solar|TX|200|100%| | | | | |
+|Rambler|Renewable|Solar|CA|150|100%| | | | | |
+|North Rosamond(a)|Renewable|Solar|TX|144|100%| | | | | |
+|Pflugerville(a)|Renewable|Solar|TX|100|100%| | | | | |
+|Lapetus(a)|Renewable|Solar|NC|80|100%| | | | | |
+|Conetoe II|Renewable|Solar|CO|60|100%| | | | | |
+|Palmer(a)|Renewable|Solar|NC|50|100%| | | | | |
+|Broad River(a)|Renewable|Solar|CA|34|67%| | | | | |
+|Seville I & II|Renewable|Solar|CA|27|67%| | | | | |
+|Rio Bravo I & II|Renewable|Solar|CA|23|67%| | | | | |
+|Wildwood I & II|Renewable|Solar|NC|23|100%| | | | | |
+|Speedway(a)|Renewable|Solar|NC|22|100%| | | | | |
+|Kelford|Renewable|Solar|NC|20|100%| | | | | |
+|Dogwood|Renewable|Solar|NC|20|100%| | | | | |
+|Halifax Airport|Renewable|Solar|NC|20|100%| | | | | |
+|Pasquotank|Renewable|Solar|NC|20|100%| | | | | |
+|Shawboro|Renewable|Solar|NC|20|100%| | | | | |
+|Caprock|Renewable|Solar|NM|17|67%| | | | | |
+|Creswell Alligood|Renewable|Solar|NC|14|100%| | | | | |
+|Pumpjack|Renewable|Solar|CA|13|67%| | | | | |
+|Longboat|Renewable|Solar|CA|13|67%| | | | | |
+|Shoreham(a)|Renewable|Solar|NY|13|51%| | | | | |
+|Washington White Post|Renewable|Solar|NC|12|100%| | | | | |
+|Whitakers|Renewable|Solar|NC|12|100%| | | | | |
+|Highlander I & II|Renewable|Solar|CA|11|51%| | | | | |
+|Other small solar(a)|Renewable|Solar|Various|233|Various| | | | | |
+|Total Renewables – Solar| | | |1,531| | | | | | |

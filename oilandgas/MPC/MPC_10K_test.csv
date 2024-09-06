@@ -1,0 +1,645 @@
+physical asset,location,ownership,commodity,status
+refineries,,,refined products,
+infrastructure,,,refined products,
+equipment,,,refined products,
+Refineries,,"MPC, competitors","Petroleum-based motor fuels, crude oil, refined products",
+refining facilities,,,refined products,operational
+gathering and processing infrastructure,,,crude oil,operational
+pipeline and terminal infrastructure,,,"crude oil, refined products",operational
+Refineries,"Galveston Bay, Texas",,Crude oil,Operational
+Refineries,"City, Texas",,Crude oil,Operational
+Refineries,"Garyville, Louisiana",,Crude oil,Operational
+Refineries,"Catlettsburg, Kentucky",,Crude oil,Operational
+Refineries,"Robinson, Illinois",,Crude oil,Operational
+Refineries,"Detroit, Michigan",,Crude oil,Operational
+Refineries,"El Paso, Texas",,Crude oil,Operational
+Refineries,Martinez,MPC,Refined products,Operational
+Refineries,Gallup,MPC,Refined products,End-of-life
+Equipment,,MPC,Refined products,Operational
+Refineries,Martinez,MPC,refined products,Idled
+Refineries,Gallup,MPC,crude oil,Idled
+refineries,,,refined petroleum products,operational
+refineries,,,biodiesel,operational
+Refineries,,Company,refined products,operational
+Refineries,,Company,crude oil,operational
+Refineries,,Company,"Crude oil, Refined Products",Operational
+Infrastructure,,Company,Transport of crude oil and refined products,Operational
+"property, plant and equipment",,MPC,,operational
+"property, plant and equipment",,MPC,,under construction
+Refinery,,MPC,crude oil,operational
+distribution system,,MPC,crude oil,operational
+plant,,MPC,"natural gas, natural gas liquids",operational
+pipeline system,,MPC,"natural gas, natural gas liquids",operational
+"Property, plant and equipment",,Marathon Petroleum Corporation,,
+"property, plant and equipment",,Marathon Petroleum Corporation,,operational
+refining system,"Findlay, Ohio",Marathon Petroleum Corporation,refined products,
+transportation fuel,,Marathon Petroleum Corporation,transportation fuel,
+Refining & Marketing,,,,operational
+Midstream,,,,operational
+Corporate,,,,operational
+Tesoro High Plains Pipeline,Fort Berthold Reservation in North Dakota,"MPLX subsidiary Tesoro High Plains Pipeline Company, LLC (THPP)",,operational
+four product tankers,,MPC,transportation of petroleum products,
+refineries,,Marathon Petroleum Corporation (“MPC”),refined products,
+machinery,,Marathon Petroleum Corporation (“MPC”),refined products,
+pipelines,,Marathon Petroleum Corporation (“MPC”),"crude oil, natural gas, NGLs, feedstocks, refined products and renewables",
+"processing, fractionation and treating facilities or equipment",,Marathon Petroleum Corporation (“MPC”),"crude oil, natural gas, NGLs, feedstocks",
+means of transportation,,Marathon Petroleum Corporation (“MPC”),"crude oil, natural gas, NGLs, feedstocks, refined products and renewables",
+facilities,,,crude oil,
+infrastructure,,,refined products,
+equipment,,,crude oil,
+Facilities,California,,Crude oil,operational
+Pollution control equipment,Washington,,Natural gas,under construction
+rail transportation systems,,,crude oil,
+"property, plant and equipment","Martinez, California",50/50 joint venture between MPC and Neste,renewable fuels,under construction
+Refining & Marketing facilities,,MPC,refined products,operational
+Midstream infrastructure,,MPC,natural gas liquids,operational
+Refineries,Gulf Coast,MPLX,Crude oil,Operational
+Refineries,Mid-Continent,MPLX,Crude oil,Operational
+Refineries,West Coast,MPLX,Crude oil,Operational
+Facilities,,MPC,Refined products,
+Equipment,,MPC,Refined products,
+Infrastructure,,MPC,Refined products,
+Refineries,,Company,"Crude oil, Refined products",Operational
+Refinery,,,"Crude oil, refined products",Operational
+Pipelines,,,"Natural gas, crude oil",Operational
+Terminals,,,"Crude oil, refined products",Operational
+"property, plant and equipment",,,"crude , refined product, energy",operational
+"property, plant and equipment",,,,
+"Property, plant and equipment",,Marathon Petroleum Corporation,,
+"property, plant and equipment",,Marathon Petroleum Corporation,,operational
+refining system,"Findlay, Ohio",Marathon Petroleum Corporation,refined products,operational
+transportation infrastructure,,MPLX LP,crude oil and light product,operational
+"gathering, processing and fractionation assets",,MPLX LP,crude oil and light product,operational
+Speedway’s PP&E,,7-Eleven,,operational
+Speedway’s finite-lived intangible assets and right of use lease assets,,7-Eleven,,end-of-life
+"Property, Plant and Equipment",,,,operational
+"Property, Plant and Equipment",,,,under construction
+"Property, Plant and Equipment",,,,end-of-life
+MPLX crude oil and light product transportation and logistics infrastructure,,Majority Limited Partner Interest,"crude oil, light products",operational
+"MPLX gathering, processing and fractionation assets",,General Partner,"crude oil, light products",operational
+,,,,
+"Property, plant and equipment",,MPC,refined product sales,
+Refineries,Gulf Coast,MPC,"crude oil, other feedstocks, including renewable feedstocks",operational
+Refineries,Mid-Continent,MPC,"crude oil, other feedstocks, including renewable feedstocks",operational
+Refineries,West Coast,MPC,"crude oil, other feedstocks, including renewable feedstocks",operational
+refining logistics assets,,MPLX,crude oil and refined products,
+pipelines,,MPLX,"crude oil and refined products, natural gas",
+terminals,,MPLX,"crude oil and refined products, natural gas",
+towboats,,MPLX,crude oil and refined products,
+barges,,MPLX,crude oil and refined products,
+"property, plant and equipment",,MPC,renewable energy,operational
+inventory,,MPC,renewable energy,operational
+"Property, Plant and Equipment (PP&E)",Refineries,MPC,,Operational
+Construction in Progress,Refineries,MPC,,Under Construction
+Refinery,"Gallup, New Mexico",MPC,,Indefinitely Idled
+"Martinez, California refinery","Martinez, California",MPC,Renewable Diesel,Operational
+refinery processing units,Gallup refinery,MPC,renewable diesel,decommissioned
+storage tanks,Gallup refinery,MPC,renewable diesel,decommissioned
+refinery processing units,Martinez refinery,MPC,renewable diesel,under construction
+"Property, plant and equipment",,MPLX,,operational
+Right of use assets,,MPLX,,operational
+Gathering and transportation,,,,
+Processing and fractionation,,,,
+Terminals,,,,
+"Land, building and other",,,,
+"Property, plant and equipment",,,,
+Bakken Pipeline system,,MPLX and other joint venture owners,oil transport,operational
+Facilities,,MPLX,,
+Equipment,,MPLX,,
+Infrastructure,,MPLX,,
+refining,,,crude oil,
+gathering and processing,,,crude oil,
+pipeline and terminal infrastructure,,,refined products,
+other energy assets,,,crude oil,
+facilities,,,,
+Refinery,Los Angeles Refinery,,,under construction
+Distillate Hydrotreater project,Galveston Bay Refinery,,,under construction
+properties,,,,
+facilities,,,,
+Refineries,"Galveston Bay, Texas City, Texas",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Garyville, Louisiana",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Catlettsburg, Kentucky",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Robinson, Illinois",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Detroit, Michigan",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"El Paso, Texas",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"St. Paul Park, Minnesota",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Canton, Ohio",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Mandan, North Dakota",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Salt Lake City, Utah",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Los Angeles, California",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Anacortes, Washington",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Kenai, Alaska",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Dickinson, North Dakota",Marathon Petroleum Corporation (MPC),Renewable diesel,Operational
+Refineries,"Martinez, California",Marathon Petroleum Corporation (MPC),Renewable diesel,Operational
+Terminals,Various,Marathon Petroleum Corporation (MPC),"Crude oil, refined products",Operational
+Bakken Pipeline system,Lake Oahe in North Dakota,MPLX holds a 9.19 percent indirect interest in a joint venture (“Dakota Access”) which owns and operates the Bakken Pipeline system.,petroleum products,operational
+Martinez Renewables facility,,MPC,renewable diesel,operational
+Refineries,Gulf Coast,Company,Crude oil,Operational
+Refineries,Mid-Continent,Company,Refined products,Operational
+Refineries,West Coast,Company,Refined products,Operational
+Facilities,,MPC,Refined Products,
+Equipment,,MPC,Refined Products,
+Infrastructure,,MPC,Refined Products,
+Refineries,,,Crude oil,Operational
+Refineries,,,Refined petroleum products,Operational
+Refineries,Chicago,MPC,Gasoline,Operational
+Refineries,USGC,MPC,Gasoline,Operational
+Refineries,LA CARB,MPC,Gasoline,Operational
+Refineries,Mid-Continent,MPC,Crude oil,Operational
+Refineries,West Coast,MPC,Crude oil,Operational
+"property, plant and equipment",,,,operational
+gathering and processing joint venture,,MPLX,,
+Crowley Ocean Partners LLC and its four subsidiaries,,MPLX,,
+tankers,,MPLX,,
+Bakken Pipeline joint venture,,MPLX,,
+Midstream assets,,MPC,,operational
+Martinez Renewables joint venture,,MPC,,
+LF Bioenergy,,MPC,,
+refineries,Los Angeles refinery,MPC,oil,operational
+refineries,Galveston Bay refinery,MPC,oil,operational
+refineries,Martinez facility,MPC,oil,end-of-life
+gas processing plants,Marcellus basin,MPLX,natural gas,operational
+gas processing plants,Permian basin,MPLX,natural gas,operational
+crude oil infrastructure,Bakken basin,MPLX,oil,operational
+refined petroleum products infrastructure,various,"MPC, MPLX",distillate fuel,operational
+information technology systems,various,MPC,data,operational
+facilities,,,"crude oil, NGLs, renewable feedstocks",
+equipment,,,"crude oil, NGLs, renewable feedstocks",
+infrastructure,,,"crude oil, NGLs, renewable feedstocks",
+Long-lived assets,,MPC,,"operational, under construction, end-of-life"
+Refineries,,MPC,,"operational, under construction, end-of-life"
+Distribution systems,,MPC,,"operational, under construction, end-of-life"
+Plants,,MPC,,"operational, under construction, end-of-life"
+Pipeline systems,,MPC,,"operational, under construction, end-of-life"
+"Property, plant and equipment",,Marathon Petroleum Corporation,,
+"property, plant and equipment",,Marathon Petroleum Corporation,,"operational, under construction, end-of-life"
+MPLX,,"Majority-owned, controlled subsidiaries, general partner and approximately 65 percent of the outstanding MPLX common units",,
+"Property, plant and equipment","Spiritwood, North Dakota",ADM owns 75 percent of the joint venture and MPC owns 25 percent,,
+Refineries,"Gulf Coast, Mid-Continent and West Coast regions of the United States",Marathon Petroleum Corporation (MPC),"Crude oil, refined products, renewable diesel",operational
+pipelines,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+terminals,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+towboats,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+barges,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+"Torñado's property, plant and equipment",Permian basin,MPLX,natural gas gathering and processing,operational
+South Texas Gateway's oil export facility,U.S. Gulf Coast,Gibson Energy Inc.,oil export,operational
+facilities,,MPC,,operational
+equipment,,MPC,,operational
+infrastructure,,MPC,,operational
+"Property, plant and equipment",,MPLX,,operational
+"Property, plant and equipment",,MPLX,,under construction
+"Property, plant and equipment",,MPLX,,end-of-life
+Gathering and transportation,,,,
+Processing and fractionation,,,,
+Pipelines,,,,
+Terminals,,,,
+"Land, building and other",,,,
+natural gas processing plants,,,natural gas,
+natural gas gathering pipelines,,,natural gas,
+NGL pipelines,,,NGL,
+Refineries,"Gulf Coast, Mid-Continent and West Coast regions of the United States",Marathon Petroleum Corporation,"crude oil, natural gas, NGLs, refined products",operational
+pipelines,United States,Marathon Petroleum Corporation,"crude oil, natural gas, NGLs, refined products",operational
+"processing, fractionation and treating facilities",United States,Marathon Petroleum Corporation,"crude oil, natural gas, NGLs, refined products",operational
+equipment,"Refineries, pipelines, processing, fractionation and treating facilities",Marathon Petroleum Corporation,"crude oil, natural gas, NGLs, refined products",operational
+means of transportation,United States,Marathon Petroleum Corporation,"crude oil, natural gas, NGLs, refined products",operational
+refinery,"Texas Gulf Coast southeast of Houston, Texas",,"crude oils into gasoline, distillates, feedstocks, petrochemicals, propane and heavy fuel oil",
+cogeneration facility,Galveston Bay,,"electrical production, steam",
+refinery,"Robinson, Illinois",,"sweet and sour crude oils into gasoline, distillates, feedstocks, propane, petrochemicals and heavy fuel oil",
+refinery,"Mandan, North Dakota",,"primarily sweet domestic crude oil from North Dakota to manufacture gasoline, distillates, propane, heavy fuel oil, feedstocks and petrochemicals",
+refinery,"Salt Lake City, Utah",,"crude oil from Utah, Colorado, Wyoming and Canada to manufacture gasoline, distillates, petrochemicals, heavy fuel oil, propane and feedstocks",
+Los Angeles refinery,Los Angeles,owned by the company,heavy crude,operational
+Anacortes refinery,"Anacortes, Washington, Puget Sound",owned by the company,"Canadian crude, domestic crude from North Dakota and Alaska North Slope and international crudes",operational
+Kenai refinery,"Kenai, Alaska, Cook Inlet, Southwest of Anchorage",owned by the company,"Alaska domestic crude, domestic crude from North Dakota, along with limited international crude",operational
+"Dickinson, North Dakota, renewable fuels facility","Dickinson, North Dakota",owned by the company,"corn oil, soybean oil, fats, and greases",operational
+Martinez refinery,California,owned by the company,petroleum,operational
+Virent's advanced biofuels facility,"Madison, Wisconsin",owned by the company,biobased feedstocks,operational
+pipelines,market areas,MPLX and third parties,"crude oil, feedstocks, refined products",operational
+terminals,market areas,MPLX and third parties,"crude oil, feedstocks, refined products",operational
+marine fleets,market areas,MPLX and third parties,"crude oil, feedstocks, refined products",operational
+transport trucks,market areas,MPC-Retained Midstream Assets and Investments,refined products,operational
+trailers,market areas,MPC-Retained Midstream Assets and Investments,refined products,operational
+railcars,market areas,MPC-Retained Midstream Assets and Investments,refined products,operational
+pipelines,,,natural gas,
+pipelines,,,NGLs,
+pipelines,,,crude oil,
+pipelines,,,petroleum products,
+pipelines,,,refined products,
+facilities,California,,fuel,operational
+emission controls,facilities,,fuel,under construction
+combustion equipment,petroleum refineries,,fuel,operational
+utility lines,United States,United States Army Corps of Engineers,vapor and fire suppressant,
+pipeline,United States,,petroleum-based liquid,
+storage tanks,United States,,petroleum-based liquid,
+convenience stores,United States,,refined products,
+refineries,United States,,refined products,
+terminals,United States,,refined products,
+pipelines,United States,,petroleum-based liquid,
+refineries,,,refined products,
+infrastructure,,,refined products,
+equipment,,,refined products,
+tankers,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways on which we operate, international jurisdictions in which we operate",MPLX/MPC,"crude oil, other feedstocks, refined products",operational
+pipelines,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways on which we operate, international jurisdictions in which we operate",MPLX/MPC,"crude oil, other feedstocks, refined products",operational
+rail cars,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways on which we operate, international jurisdictions in which we operate",MPLX/MPC,"crude oil, other feedstocks, refined products",operational
+above ground storage tanks,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways on which we operate, international jurisdictions in which we operate",MPLX/MPC,"crude oil, other feedstocks, refined products",operational
+refineries,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways on which we operate, international jurisdictions in which we operate",MPC,"crude oil, other feedstocks, refined products",operational
+fleet of boats and barges,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways on which we operate, international jurisdictions in which we operate",MPLX,"light products, heavy oils, crude oil, renewable fuels, chemicals",operational
+Refineries,,"MPC, competitors","Petroleum-based motor fuels, crude oil, refined products",
+MPLX’s facilities,Galveston Bay,MPLX,"oil, natural gas, NGL and refined product supplies",operational
+pipelines,Garyville,MPLX,"oil, natural gas, NGL and refined product supplies",operational
+refining facilities,,,refined products,operational
+gathering and processing infrastructure,,,crude oil,operational
+pipeline and terminal infrastructure,,,"crude oil, refined products",operational
+refinery,Martinez,Company,renewable diesel,under construction
+pipeline,,,crude oil and natural gas,under construction
+facilities,"California, Washington, federal lands","MPLX, energy companies",refined products,operational
+emission controls,facilities,"MPLX, energy companies",natural gas,operational
+facilities,,,crude oil,
+pipelines,,,crude oil,
+refineries,St. Paul Park,company,oil,operational
+pipelines,North Dakota,company (leases),natural gas,operational (partially shut down)
+pipelines,Native American tribal lands,company (leases),oil and/or natural gas,operational
+Refineries,"Galveston Bay, Texas",,Crude oil,Operational
+Refineries,"City, Texas",,Crude oil,Operational
+Refineries,"Garyville, Louisiana",,Crude oil,Operational
+Refineries,"Catlettsburg, Kentucky",,Crude oil,Operational
+Refineries,"Robinson, Illinois",,Crude oil,Operational
+Refineries,"Detroit, Michigan",,Crude oil,Operational
+Refineries,"El Paso, Texas",,Crude oil,Operational
+Dakota Access Pipeline,Lake Oahe in North Dakota,MPLX holds a 9.19 percent indirect interest in a joint venture (“Dakota Access”),Crude oil,Operational
+Energy Transfer Crude Oil Pipeline,District of Columbia,MPLX holds a 9.19 percent indirect interest in a joint venture (“Dakota Access”),Crude oil,Operational
+refinery,Gallup,MPC,"gasoline, distillates, jet fuel",indefinitely idling
+refinery,Martinez,MPC,renewable diesel fuel,strategically repositioning
+soybean processing complex,"Spiritwood, North Dakota","Green Bison Soy Processing, LLC (75% ADM, 25% MPC)",soybean oil,operational
+Spiritwood facility,Spiritwood,MPC,soybeans,operational
+Martinez refinery,"Martinez, California",MPC,petroleum,under construction
+"Dickinson, North Dakota, renewable fuels facility","Dickinson, North Dakota",MPC,"corn oil, soybean oil, fats, and greases",operational
+Refineries,Martinez,MPC,Refined products,Operational
+Refineries,Gallup,MPC,Refined products,End-of-life
+Equipment,,MPC,Refined products,Operational
+refineries,not specified,not specified,refined products and crude oil,operational
+Catlettsburg Refinery,Catlettsburg,Refining & Marketing segment,Crude oil and refined products,operational
+Galveston Bay Refinery,Galveston Bay,Refining & Marketing segment,Crude oil and refined products,operational
+MPLX pipelines,various locations,Midstream segment,crude oil and refined products,operational
+Marine vessels,various locations,Midstream segment,crude oil and refined products,operational
+terminals,various locations,Midstream segment,crude oil and refined products,operational
+refining logistics assets,various locations,Refining & Marketing segment,crude oil and refined products,operational
+Refineries,Martinez,MPC,refined products,Idled
+Refineries,Gallup,MPC,crude oil,Idled
+refineries,Martinez,company,"crude oil, refined products",operational (implied)
+refineries,Gallup,company,"crude oil, refined products",under construction (implied - idling)
+refineries,,,refined petroleum products,operational
+refineries,,,biodiesel,operational
+Refineries,,Company,refined products,operational
+Refineries,,Company,crude oil,operational
+Refineries,,Company,"Crude oil, Refined Products",Operational
+Infrastructure,,Company,Transport of crude oil and refined products,Operational
+"property, plant and equipment",,MPC,,operational
+"property, plant and equipment",,MPC,,under construction
+refineries,"Martinez facility, Galveston Bay refinery",MPC,"crude oil, refined petroleum products, renewable fuels",operational
+pipelines,"Permian basin, Bakken basins, U.S. Gulf Coast, Delaware basin, Marcellus region, Utica region",MPLX,"natural gas liquids (NGLs), natural gas,  status: operational]\n[asset: processing capacity, location: Delaware basin, Marcellus, ownership: MPLX, commodity: natural gas liquids (NGLs)",under construction
+facilities,,,crude oil,operational
+equipment,,,crude oil,operational
+infrastructure,,,crude oil,operational
+Refinery,,MPC,crude oil,operational
+distribution system,,MPC,crude oil,operational
+plant,,MPC,"natural gas, natural gas liquids",operational
+pipeline system,,MPC,"natural gas, natural gas liquids",operational
+"Property, plant and equipment",,Marathon Petroleum Corporation,,
+"property, plant and equipment",,Marathon Petroleum Corporation,,operational
+refining system,"Findlay, Ohio",Marathon Petroleum Corporation,refined products,
+transportation fuel,,Marathon Petroleum Corporation,transportation fuel,
+Speedway’s PP&E,,Owned and operated by the Company prior to being sold to 7-Eleven Inc.,transportation fuel,under construction (prior to sale)
+Speedway’s finite-lived intangible assets,,Owned and operated by the Company prior to being sold to 7-Eleven Inc.,convenience store goods,end-of-life (after ceasing depreciation & amortization)
+Speedway’s right of use lease assets,,Owned and operated by the Company prior to being sold to 7-Eleven Inc.,transportation fuel and convenience store goods,end-of-life (after ceasing depreciation & amortization)
+Facilities,,MPLX,"Crude oil, light product transportation and logistics infrastructure as well as gathering, processing and fractionation assets",
+Equipment,,MPLX,"Crude oil, light product transportation and logistics infrastructure as well as gathering, processing and fractionation assets",
+Infrastructure,,MPLX,"Crude oil, light product transportation and logistics infrastructure as well as gathering, processing and fractionation assets",
+Speedway,,7-Eleven,Transportation fuel and convenience store business,
+MarkWest Javelina Company,,MPLX,"Crude oil, light product transportation and logistics infrastructure as well as gathering, processing and fractionation assets",
+MarkWest Javelina Pipeline Company,,MPLX,"Crude oil, light product transportation and logistics infrastructure as well as gathering, processing and fractionation assets",
+MarkWest Gas Services,,MPLX,"Crude oil, light product transportation and logistics infrastructure as well as gathering, processing and fractionation assets",
+Refinery,Gallup,Company,Refined products,Operational
+Distribution system,Gallup,Company,Refined products,Operational
+Plant,Martinez,Company,Refined products,Operational
+Pipeline system,N/A,Company,Refined products,Operational
+"Property, plant and equipment",Gallup,Company,Refined products,Impaired
+Terminal assets,near Gallup refinery,MPLX,Refined products,Abandoned
+Martinez refinery,Martinez,Company,Refined products,Under construction
+Renewable diesel facility,Martinez,Company,Renewable diesel,Planned
+Refinery asset groups,Western Gathering and Processing (“G&P”) reporting unit,MPLX,Crude oil/Petroleum products,Operational
+"property, plant and equipment",East Texas G&P asset group,MPLX,Crude oil/Petroleum products,Under impairment review
+intangibles,N/A,MPLX,N/A,Under impairment review
+Refining & Marketing,,,,operational
+Midstream,,,,operational
+Corporate,,,,operational
+Gallup refinery,Gallup,MPC,renewable diesel,indefinite idling
+Martinez refinery,Martinez,MPC,renewable diesel,strategically repositioned
+refinery processing units,,MPC,,decommissioning
+storage tanks,,MPC,,decommissioning
+facilities,implied by operation,MPC,operations,operational
+equipment,implied by operation,MPC,operations,operational
+land,implied by operation,MPC,operations,operational
+Tesoro High Plains Pipeline,Fort Berthold Reservation in North Dakota,"MPLX subsidiary Tesoro High Plains Pipeline Company, LLC (THPP)",,operational
+four product tankers,,MPC,transportation of petroleum products,
+refineries,,Marathon Petroleum Corporation (“MPC”),refined products,
+machinery,,Marathon Petroleum Corporation (“MPC”),refined products,
+pipelines,,Marathon Petroleum Corporation (“MPC”),"crude oil, natural gas, NGLs, feedstocks, refined products and renewables",
+"processing, fractionation and treating facilities or equipment",,Marathon Petroleum Corporation (“MPC”),"crude oil, natural gas, NGLs, feedstocks",
+means of transportation,,Marathon Petroleum Corporation (“MPC”),"crude oil, natural gas, NGLs, feedstocks, refined products and renewables",
+Salt Lake City refinery,"Salt Lake City, Utah",Owned by MPC,crude oil,operational
+Los Angeles refinery,"Los Angeles County, California",Owned by MPC,heavy crude,operational
+Anacortes refinery,"Anacortes, Washington",Owned by MPC,"Canadian crude, domestic crude from North Dakota and the Alaska North Slope and international crudes",operational
+Kenai refinery,"Cook Inlet, Alaska",Owned by MPC,"Alaska domestic crude, domestic crude from North Dakota",operational
+Dickinson renewable fuels facility,"Dickinson, North Dakota",Owned by MPC,"corn oil, soybean oil, fats and greases",operational
+Martinez facility,"Martinez, California",Owned by MPC,crude oil,under construction
+Virent facility,"Madison, Wisconsin",Owned by MPC,biobased feedstocks,operational
+propane production facilities,Refineries,MPC,propane,operational
+heavy fuel oil production facilities,Refineries,MPC,heavy residual fuel oil,operational
+pipelines,N/A,"MPLX, third parties","crude oil, natural gas, refined products",operational
+terminals,N/A,"MPLX, third parties","crude oil, natural gas, refined products",operational
+marine fleets,N/A,"MPLX, third parties","crude oil, natural gas, refined products",operational
+transport trucks and trailers,N/A,MPC,"refined products, crude oil",operational
+railcars,N/A,MPC,refined products,operational
+pipelines,,,refined products,operational
+facilities,,,renewable fuels,operational
+hydrofluoric acid alkylation units,,,refined products,operational
+refineries,unspecified,company (implied),petroleum-based transportation fuels,operational implied
+transportation infrastructure,unspecified,company (implied),petroleum products transportation,operational implied
+"property, plant and equipment",unspecified,company (implied),production of refined products,operational implied
+inventory,unspecified,company (implied),refined products storage,operational implied
+refineries,"populated areas, environmentally sensitive waters",MPC,"petroleum-based transportation fuels, crude oil, other feedstocks, refined products",
+tanker,"U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate",MPC,"crude oil, other feedstocks, refined products",
+pipeline,"U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate",MPC,"crude oil, other feedstocks, refined products",
+rail car,"U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate",MPC,"crude oil, other feedstocks, refined products",
+above ground storage tanks,"populated areas, environmentally sensitive waters",MPC,"crude oil, other feedstocks, refined products",
+pipelines,,MPLX,crude oil and refined products,
+railways,,MPLX,crude oil and refined products,
+vessels,,MPLX,crude oil and refined products,
+refineries,,MPLX,refined products,
+trucks,,,crude oil and refined products,
+Galveston Bay refinery,Galveston Bay,MPLX,refined products,operational
+Garyville refinery,Garyville,MPLX,refined products,operational
+facilities,,,crude oil,
+infrastructure,,,refined products,
+equipment,,,crude oil,
+refinery,Martinez,Company,renewable diesel,under construction
+pipeline,,Company,,
+Facilities,California,,Crude oil,operational
+Pollution control equipment,Washington,,Natural gas,under construction
+Facilities,United States,Not specified,Carbon-based fuels,
+rail transportation systems,,,crude oil,
+facilities,Native American tribal lands,MPC,natural gas and oil,
+pipeline,North Dakota,MPC,natural gas and oil,
+Dakota Access Pipeline,Lake Oahe in North Dakota,"MPLX (9.19% indirect interest), joint venture (“Dakota Access”), Energy Transfer Crude Oil Pipeline projects",Crude oil,operational
+Tesoro High Plains Pipeline,Fort Berthold Reservation in North Dakota,THPP (a subsidiary of MPLX),Crude oil,operational
+"property, plant and equipment","Martinez, California",50/50 joint venture between MPC and Neste,renewable fuels,under construction
+Refining & Marketing facilities,,MPC,refined products,operational
+Midstream infrastructure,,MPC,natural gas liquids,operational
+Refineries,Gulf Coast,MPLX,Crude oil,Operational
+Refineries,Mid-Continent,MPLX,Crude oil,Operational
+Refineries,West Coast,MPLX,Crude oil,Operational
+refineries,,,"crude oil, refined products",operational
+pipelines,,,"crude oil, refined products",operational
+marine vessels,,,"crude oil, refined products",operational
+terminals,,,"crude oil, refined products",operational
+refining logistics assets,,,"crude oil, refined products",operational
+Facilities,,MPC,Refined products,
+Equipment,,MPC,Refined products,
+Infrastructure,,MPC,Refined products,
+Refinery,Chicago,MPC,Gasoline,Operational
+Refinery,USGC,MPC,Gasoline,Operational
+Refinery,LA CARB,MPC,Diesel,Operational
+Refinery,Mid-Continent,MPC,Crude Oil,Operational
+Refinery,West Coast,MPC,Crude Oil,Operational
+Refineries,,Company,"Crude oil, Refined products",Operational
+Refinery,, ,"Crude oil, refined products",Operational
+Pipelines,, ,"Natural gas, crude oil",Operational
+Terminals,, ,"Crude oil, refined products",Operational
+"property, plant and equipment",,," crude , refined product, energy",operational
+Crowley Ocean Partners LLC and its four subsidiaries,,MPC,,operational
+South Texas Gateway Terminal,,,,operational
+Gray Oak Pipeline,,,,operational
+Whistler Pipeline,,,,operational
+MPLX’s Bakken Pipeline joint venture,,MPC,,operational
+Refineries,Martinez facility,MPC,fuel oil,operational
+Los Angeles refinery,Los Angeles,MPC,emissions reduction project,operational
+STAR project,,MPC,higher value products,under construction
+Martinez facility,,,,under construction
+STAR project at Galveston Bay refinery,Galveston Bay,,,under construction
+gas processing plants,Marcellus and Permian basins,,natural gas,operational
+crude oil and refined petroleum products infrastructure projects,"Marcellus, Utica and Permian regions",,crude oil and refined petroleum products,operational
+information technology systems,,,,operational
+"property, plant and equipment",,,,
+"Property, plant and equipment",,Marathon Petroleum Corporation,,
+"property, plant and equipment",,Marathon Petroleum Corporation,,operational
+refining system,"Findlay, Ohio",Marathon Petroleum Corporation,refined products,operational
+transportation infrastructure,,MPLX LP,crude oil and light product,operational
+"gathering, processing and fractionation assets",,MPLX LP,crude oil and light product,operational
+Speedway’s PP&E,,7-Eleven,,operational
+Speedway’s finite-lived intangible assets and right of use lease assets,,7-Eleven,,end-of-life
+"Property, Plant and Equipment",,,,operational
+"Property, Plant and Equipment",,,,under construction
+"Property, Plant and Equipment",,,,end-of-life
+MPLX crude oil and light product transportation and logistics infrastructure,,Majority Limited Partner Interest,"crude oil, light products",operational
+"MPLX gathering, processing and fractionation assets",,General Partner,"crude oil, light products",operational
+,,,,
+"""refineries""","""Martinez refinery""","""Refining & Marketing segment""","""refined products""","""operational"""
+"""refineries""","""Gallup refinery""","""Refining & Marketing segment""","""refined products""","""in end-of-life"""
+"""distribution system""","""""","""Refining & Marketing segment""","""refined products""","""operational"""
+"""plant""","""""","""Midstream segment""","""""","""operational"""
+"""pipeline system""","""""","""Midstream segment""","""""","""operational"""
+"""renewable diesel facility""","""Martinez refinery""","""Refining & Marketing segment""","""renewable diesel""","""under construction"""
+MPLX terminal assets,near the Gallup refinery,MPLX,,abandoned
+Gallup refinery asset group,Gallup,MPC through its ownership of MPLX,,undergoing impairment evaluation
+East Texas G&P asset group,East Texas,MPLX,oil and gas (implied by gathering and processing),impaired
+"property, plant and equipment",,MPLX,,impaired
+intangibles,,MPLX,,impaired
+"Property, plant and equipment",,MPC,refined product sales,
+Refineries,Gulf Coast,MPC,"crude oil, other feedstocks, including renewable feedstocks",operational
+Refineries,Mid-Continent,MPC,"crude oil, other feedstocks, including renewable feedstocks",operational
+Refineries,West Coast,MPC,"crude oil, other feedstocks, including renewable feedstocks",operational
+refining logistics assets,,MPLX,crude oil and refined products,
+pipelines,,MPLX,"crude oil and refined products, natural gas",
+terminals,,MPLX,"crude oil and refined products, natural gas",
+towboats,,MPLX,crude oil and refined products,
+barges,,MPLX,crude oil and refined products,
+"property, plant and equipment",,MPC,renewable energy,operational
+inventory,,MPC,renewable energy,operational
+"Property, Plant and Equipment (PP&E)",Refineries,MPC,,Operational
+Construction in Progress,Refineries,MPC,,Under Construction
+Refinery,"Gallup, New Mexico",MPC,,Indefinitely Idled
+"Martinez, California refinery","Martinez, California",MPC,Renewable Diesel,Operational
+refinery processing units,Gallup refinery,MPC,renewable diesel,decommissioned
+storage tanks,Gallup refinery,MPC,renewable diesel,decommissioned
+refinery processing units,Martinez refinery,MPC,renewable diesel,under construction
+facilities,,MPC,production of goods and services,operational
+equipment,,MPC,production of goods and services,operational
+land,,MPC,production of goods and services,operational
+"Property, plant and equipment",,MPLX,,operational
+Right of use assets,,MPLX,,operational
+Gathering and transportation,, ,,
+Processing and fractionation,, ,,
+Terminals,, ,,
+"Land, building and other",, ,,
+"Property, plant and equipment",, ,,
+Tesoro High Plains Pipeline,Fort Berthold Reservation in North Dakota,"THPP (Tesoro High Plains Pipeline Company, LLC)",Crude oil,Operational
+Tesoro High Plains Pipeline,Lake Oahe in North Dakota,Energy Transfer Crude Oil Pipeline,Crude oil,Ceased use of a portion
+Bakken Pipeline system,,MPLX and other joint venture owners,oil transport,operational
+refining system,United States,MPC,"crude oil, gasoline, distillates, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+crude oil refining capacity,United States,MPC,"crude oil, gasoline, distillates, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+terminal operations,United States,MPC,"gasoline, distillates, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+private domestic fleets of inland petroleum product barges,United States,MPC,"gasoline, distillates, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+refineries,United States,MPC,"crude oil, gasoline, distillates, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+machinery,United States,MPC,"crude oil, gasoline, distillates, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+pipelines,United States,MPC,"crude oil, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+"processing, fractionation and treating facilities or equipment",United States,MPC,"crude oil, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+means of transportation,United States,MPC,"crude oil, natural gas, NGLs, refined products, other hydrocarbon-based products, renewables",operational
+pipelines,,,natural gas,
+pipelines,,,NGLs,
+pipelines,,,crude oil,
+pipelines,,,petroleum products,
+facilities,coastal states,,transportation of goods and services,
+facilities,regulated facilities,,chemicals,operational
+equipment,regulated facilities,,chemicals,operational
+pipelines,,,oil and gas,
+Facilities,,MPLX,,
+Equipment,,MPLX,,
+Infrastructure,,MPLX,,
+Pipeline,Louisiana,Marathon Petroleum Corporation (MPC),Crude oil,operational
+Pipeline,LOOP,Marathon Petroleum Corporation (MPC),Refined products,operational
+refineries,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate","MPC, MPLX","petroleum-based transportation fuels, crude oil, other feedstocks, refined products, renewable fuels, chemicals",
+equipment,refineries,"MPC, MPLX","petroleum-based transportation fuels, crude oil, other feedstocks, refined products, renewable fuels, chemicals",
+pipelines,"U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate","MPC, MPLX","crude oil, other feedstocks, refined products, renewable fuels, chemicals",
+tankers,"environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate","MPC, MPLX","crude oil, other feedstocks, refined products, renewable fuels, chemicals",
+barges,"environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate","MPC, MPLX","light products, heavy oils, crude oil, renewable fuels, chemicals",
+storage tanks,"populated areas, environmentally sensitive waters, U.S. coastal and Great Lakes states, states bordering inland waterways, jurisdictions in which we operate","MPC, MPLX","crude oil, other feedstocks, refined products, renewable fuels, chemicals",
+refineries,,,crude oil and refined products,
+pipelines,,,crude oil and refined products,
+railways,,,crude oil and refined products,
+vessels,,,crude oil and refined products,
+trucks,,,crude oil and refined products,
+refinery,Galveston Bay,MPLX,"natural gas, NGLs, oil, refined products","operational, adversely affected"
+refinery,Garyville,MPLX,"natural gas, NGLs, oil, refined products","operational, adversely affected"
+refining,,,crude oil,
+gathering and processing,,,crude oil,
+pipeline and terminal infrastructure,,,refined products,
+other energy assets,,,crude oil,
+facilities,,,,
+Refinery,Los Angeles Refinery,,,under construction
+Distillate Hydrotreater project,Galveston Bay Refinery,,,under construction
+pipeline,,,refined products,under construction
+natural gas appliances,new residential or commercial construction,unspecified,natural gas,being installed
+infrastructure,unspecified,unspecified,natural gas,being regulated
+pipelines,"federal lands, U.S. states","MPLX (minority interest), other energy companies, government parties, private plaintiffs",natural gas,"operational, under litigation"
+facilities,,,crude oil,
+rail cars,California,our,crude oil,operational
+refineries,"Los Angeles, Martinez",our,gasoline,operational
+facilities,production areas,our,crude oil,operational
+facilities,U.S. coastwise trade,third parties,,operational
+pipelines,North Dakota,third parties,,under construction
+equipment,Native American tribal lands,MPLX,,operational
+Tesoro High Plains pipeline,North Dakota,,natural gas and oil,"operational, under litigation"
+properties,, ,,
+facilities,, ,,
+Refineries,"Galveston Bay, Texas City, Texas",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Garyville, Louisiana",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Catlettsburg, Kentucky",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Robinson, Illinois",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Detroit, Michigan",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"El Paso, Texas",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"St. Paul Park, Minnesota",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Canton, Ohio",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Mandan, North Dakota",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Salt Lake City, Utah",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Los Angeles, California",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Anacortes, Washington",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Kenai, Alaska",Marathon Petroleum Corporation (MPC),Crude oil,Operational
+Refineries,"Dickinson, North Dakota",Marathon Petroleum Corporation (MPC),Renewable diesel,Operational
+Refineries,"Martinez, California",Marathon Petroleum Corporation (MPC),Renewable diesel,Operational
+Terminals,Various,Marathon Petroleum Corporation (MPC),"Crude oil, refined products",Operational
+Bakken Pipeline system,Lake Oahe in North Dakota,MPLX holds a 9.19 percent indirect interest in a joint venture (“Dakota Access”) which owns and operates the Bakken Pipeline system.,petroleum products,operational
+Pipeline,Fort Berthold Reservation in North Dakota,MPLX,Crude oil,ceased use
+Pipeline,"Wood River to Patoka 22” line near Edwardsville, Illinois",Marathon Pipe Line LLC,Crude oil,operational
+Martinez Renewables facility,,MPC,renewable diesel,operational
+Refineries,Gulf Coast,MPC,"Crude oil, Refined products (gasoline, diesel)",Operational
+Refineries,Mid-Continent,MPC,"Crude oil, Refined products (gasoline, diesel)",Operational
+Refineries,West Coast,MPC,"Crude oil, Refined products (gasoline, diesel)",Operational
+Refineries,Gulf Coast,Company,Crude oil,Operational
+Refineries,Mid-Continent,Company,Refined products,Operational
+Refineries,West Coast,Company,Refined products,Operational
+crude oil pipelines,,MPLX,crude oil,
+terminals,,MPLX,crude oil,
+marine operations,,MPLX,crude oil,
+refined product pipelines,,MPLX,refined products,
+Facilities,,MPC,Refined Products,
+Equipment,,MPC,Refined Products,
+Infrastructure,,MPC,Refined Products,
+Refineries,,,Crude oil,Operational
+Refineries,,,Refined petroleum products,Operational
+Refineries,Chicago,MPC,Gasoline,Operational
+Refineries,USGC,MPC,Gasoline,Operational
+Refineries,LA CARB,MPC,Gasoline,Operational
+Refineries,Mid-Continent,MPC,Crude oil,Operational
+Refineries,West Coast,MPC,Crude oil,Operational
+Refineries,all our regions,Company-owned,refined products,operational
+Equipment,all our regions,Company-owned,crude oil,operational
+"property, plant and equipment",,,,operational
+gathering and processing joint venture,,MPLX,,
+Crowley Ocean Partners LLC and its four subsidiaries,,MPLX,,
+tankers,,MPLX,,
+Bakken Pipeline joint venture,,MPLX,,
+Midstream assets,,MPC,,operational
+Martinez Renewables joint venture,,MPC,,
+LF Bioenergy,,MPC,,
+refineries,Los Angeles refinery,MPC,oil,operational
+refineries,Galveston Bay refinery,MPC,oil,operational
+refineries,Martinez facility,MPC,oil,end-of-life
+gas processing plants,Marcellus basin,MPLX,natural gas,operational
+gas processing plants,Permian basin,MPLX,natural gas,operational
+crude oil infrastructure,Bakken basin,MPLX,oil,operational
+refined petroleum products infrastructure,various,"MPC, MPLX",distillate fuel,operational
+information technology systems,various,MPC,data,operational
+facilities,,,"crude oil, NGLs, renewable feedstocks",
+equipment,,,"crude oil, NGLs, renewable feedstocks",
+infrastructure,,,"crude oil, NGLs, renewable feedstocks",
+Long-lived assets,,MPC,,"operational, under construction, end-of-life"
+Refineries,,MPC,,"operational, under construction, end-of-life"
+Distribution systems,,MPC,,"operational, under construction, end-of-life"
+Plants,,MPC,,"operational, under construction, end-of-life"
+Pipeline systems,,MPC,,"operational, under construction, end-of-life"
+"Property, plant and equipment",,Marathon Petroleum Corporation,,
+"property, plant and equipment",,Marathon Petroleum Corporation,,"operational, under construction, end-of-life"
+refining system,"Findlay, Ohio",Marathon Petroleum Corporation,refined products,operational
+transportation infrastructure,"Findlay, Ohio",MPLX,crude oil and light products,operational
+"gathering, processing and fractionation assets","Findlay, Ohio",MPLX,crude oil and light products,operational
+MPLX,,"Majority-owned, controlled subsidiaries, general partner and approximately 65 percent of the outstanding MPLX common units",,
+"Property, Plant and Equipment",,,,operational
+"Property, Plant and Equipment",,,,under construction
+"Property, Plant and Equipment",,,,end-of-life
+facilities,,,"crude oil and light product transportation and logistics infrastructure as well as gathering, processing and fractionation assets",operational
+"Property, plant and equipment","Spiritwood, North Dakota",ADM owns 75 percent of the joint venture and MPC owns 25 percent,,
+Refineries,"Gulf Coast, Mid-Continent and West Coast regions of the United States",Marathon Petroleum Corporation (MPC),"Crude oil, refined products, renewable diesel",operational
+pipelines,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+terminals,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+towboats,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+barges,United States,Marathon Petroleum Corporation (MPC),"crude oil, refined products, renewable diesel, natural gas, NGLs",operational
+"Torñado's property, plant and equipment",Permian basin,MPLX,natural gas gathering and processing,operational
+South Texas Gateway's oil export facility,U.S. Gulf Coast,Gibson Energy Inc.,oil export,operational
+oil export facility,U.S. Gulf Coast,South Texas Gateway,oil,
+PP&E,Refining & Marketing,MPC,,operational
+Construction in progress,Refineries and midstream facilities,MPC,,under construction
+facilities,,MPC,,operational
+equipment,,MPC,,operational
+infrastructure,,MPC,,operational
+"Property, plant and equipment",,MPLX,,operational
+"Property, plant and equipment",,MPLX,,under construction
+"Property, plant and equipment",,MPLX,,end-of-life
+Gathering and transportation,,,,
+Processing and fractionation,,,,
+Pipelines,,,,
+Terminals,,,,
+"Land, building and other",,,,
+Tesoro High Plains Pipeline,Fort Berthold Reservation in North Dakota,THPP,Oil transportation,operational
+Bakken Pipeline system,Lake Oahe in North Dakota,Dakota Access (MPLX holds a 9.19 percent indirect interest),Oil transportation,operational?
+natural gas processing plants,,,natural gas,
+natural gas gathering pipelines,,,natural gas,
+NGL pipelines,,,NGL,

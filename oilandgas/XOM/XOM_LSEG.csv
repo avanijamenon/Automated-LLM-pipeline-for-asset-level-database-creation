@@ -1,0 +1,12 @@
+﻿Name,Asset Type,Location,Commodity,Operating Company,Status,Capacity (Barrels),Region PADD,Primary Shareholders
+Beaumont (ExxonMobil Corporation),Oil Refinery,Texas,Oil / Oil Products,ExxonMobil Corporation,Normal Operation,"610,000.00",Gulf Coast (PADD III),Exxon Mobil Corp
+Baytown (ExxonMobil Corporation),Oil Refinery,Texas,Oil / Oil Products,ExxonMobil Corporation,Normal Operation,"557,000.00",Gulf Coast (PADD III),Exxon Mobil Corp
+Baton Rouge (ExxonMobil Corporation),Oil Refinery,Louisiana,Oil / Oil Products,ExxonMobil Corporation,Normal Operation,"500,000.00",Gulf Coast (PADD III),Exxon Mobil Corp
+Jurong Refinery (Mainland) (ExxonMobil Asia Pacific Pte Ltd),Oil Refinery,Singapore,Oil / Oil Products,ExxonMobil Asia Pacific Pte Ltd,Normal Operation,"300,000.00",,Exxon Mobil Corp
+Antwerp (ESSO BELGIUM(EXXON CORP)),Oil Refinery,Belgium,Oil / Oil Products,ESSO BELGIUM(EXXON CORP),Normal Operation,"270,000.00",,ExxonMobil Corp
+Joliet (Exxon Mobil Corp),Oil Refinery,Illinois,Oil / Oil Products,Exxon Mobil Corp,Normal Operation,"250,000.00",Midwest (PADD II),Exxon Mobil Corp
+Altona (ExxonMobil Australia Pty Limited),Oil Refinery,Australia,Oil / Oil Products,ExxonMobil Australia Pty Limited,Closed,"125,000.00",,Exxon Mobil Corp
+Billings (ExxonMobil Corporation),Oil Refinery,Montana,Oil / Oil Products,ExxonMobil Corporation,Normal Operation,"58,000.00",Rockies (PADD IV),Exxon Mobil Corp
+Sarpom (Sarpom S.r.l.) - Soda Treatment,Unclassified Unit,Italy,Oil / Oil Products,Exxon Mobil Corp,Unknown,--,,Exxon Mobil Corp
+Notre-Dame-de-Gravenchon Refinery (Esso Raffinage SAS) - Tank Farm,Tank Farm,,Oil / Oil Products,Exxon Mobil Corp,,--,,Exxon Mobil Corp
+Fos-sur-Mer (Esso Raffinage SAF) - Claus,Sulfur Plant,,Oil / Oil Products,Exxonmobil,Unknown,--,,Exxonmobil

@@ -1,0 +1,546 @@
+physical asset,location,ownership,commodity,status
+development well,United States,Chevron,crude oil,operational
+development well,Other Americas,Chevron,natural gas,under construction
+exploratory well,Africa,Chevron,crude oil,operational
+exploratory well,Asia,Chevron,natural gas,under construction
+process control networks,,Chevron,,
+critical systems,,Chevron,,
+infrastructure,,Chevron,,
+facilities,,Chevron,,
+crude oil and natural gas properties,,Chevron,"crude oil, natural gas",operational
+refining,"Pasadena, Texas",Chevron,,operational
+marketing,,Chevron,,operational
+transportation,,Chevron,,operational
+chemicals facilities,,Chevron,,operational
+Oil and gas reserves,,Chevron,"Crude oil, natural gas",
+"Properties, plant and equipment",,Chevron Corporation,Crude oil and petroleum products,
+properties,,company,,operational
+plant,,company,,operational
+equipment,,company,,operational
+$,,,,
+Facilities,,Chevron Corporation,Crude oil,
+Equipment,,Chevron Corporation,Natural gas,
+Infrastructure,,Chevron Corporation,Petroleum products,
+,,Chevron Corporation,Fuel and lubricant additives,
+oil fields,Louisiana\\'s coastal zone,"Chevron entities, oil and gas companies",coastal erosion restoration,operational
+"Properties, Plant and Equipment",United States,The Company,,Operational
+"Properties, Plant and Equipment",Australia,The Company,,Operational
+Exploration Wells,Americas,Chevron,oil and gas,
+Geological and geophysical,Americas,Chevron,oil and gas,
+Property acquisitions,Americas,Chevron,oil and gas,
+Development,Americas,Chevron,oil and gas,
+Exploration Wells,Africa,Chevron,oil and gas,
+Geological and geophysical,Africa,Chevron,oil and gas,
+Property acquisitions,Africa,Chevron,oil and gas,
+Development,Africa,Chevron,oil and gas,
+Exploration Wells,Asia,Chevron,oil and gas,
+Geological and geophysical,Asia,Chevron,oil and gas,
+Property acquisitions,Asia,Chevron,oil and gas,
+Development,Asia,Chevron,oil and gas,
+Exploration Wells,Australia/Oceania,Chevron,oil and gas,
+Geological and geophysical,Australia/Oceania,Chevron,oil and gas,
+Property acquisitions,Australia/Oceania,Chevron,oil and gas,
+Development,Australia/Oceania,Chevron,oil and gas,
+Exploration Wells,Europe,Chevron,oil and gas,
+Geological and geophysical,Europe,Chevron,oil and gas,
+Property acquisitions,Europe,Chevron,oil and gas,
+Development,Europe,Chevron,oil and gas,
+Unproved properties,,,Oil and gas,Under construction
+Proved properties and related producing assets,,,Oil and gas,Operational
+Support equipment,,,Oil and gas,Operational
+Deferred exploratory wells,,,Oil and gas,Under construction
+Other uncompleted projects,,,Oil and gas,Under construction
+Wells,United States,Chevron,Crude oil,Operational
+Wells,Other Americas,Chevron,Natural gas liquids,Undeveloped
+Acreage,Africa,Affiliates,Natural gas,Developed
+Wells,Asia,Chevron,Crude oil,Ending concessions
+Facilities,,Chevron,"Crude oil, Natural gas",
+Equipment,,Chevron,"Crude oil, Natural gas",
+facilities,,Chevron,Crude oil and natural gas,
+equipment,,Chevron,Crude oil and natural gas,
+infrastructure,,Chevron,Crude oil and natural gas,
+facilities,Permian Basin,Chevron,crude oil and natural gas,
+equipment,Venezuela,Chevron,crude oil and natural gas,
+infrastructure,,Chevron,crude oil and natural gas,
+Capital expenditures,,Chevron,,
+Assets acquired through finance leases and other obligations,,Chevron,,
+Payments for other assets and liabilities,,Chevron,,
+oil reserves,,Chevron,crude oil,proved developed
+natural gas reserves,,Chevron,natural gas,proved developed
+"Properties, plant and equipment",,Chevron Corporation,,
+"properties, plant and equipment",,,,operational
+"properties, plant and equipment",,,,under construction
+"properties, plant and equipment",,,,end-of-life
+"Properties, plant and equipment",,Chevron,,Operational
+Investments,,Chevron,,
+Other assets and liabilities,,Chevron,,
+"Properties, plant and equipment",,Company,Crude oil,Operational
+"Properties, Plant and Equipment",,Chevron Corporation,,
+oil fields,Louisiana’s coastal zone,"Chevron entities, oil and gas companies",oil field operations,
+"Properties, Plant and Equipment",United States,Company,,Operational
+"Properties, Plant and Equipment",Australia,Company,,Operational
+crude oil and natural gas producing assets,,Chevron,Crude oil and natural gas,operational (implied)
+wells,,Chevron,Crude oil and natural gas,operational (implied)
+equipment,,Chevron,Crude oil and natural gas,operational (implied)
+facilities,,Chevron,Crude oil and natural gas,operational (implied)
+properties,,Chevron,,
+"Properties, plant and equipment",,Company,,
+Unproved properties,,,Oil and Gas,
+Proved properties and related producing assets,,,Oil and Gas,
+Support equipment,,,Oil and Gas,
+Deferred exploratory wells,,,Oil and Gas,
+Other uncompleted projects,,,Oil and Gas,
+Production facilities,Americas,Consolidated Companies,Crude oil,
+Equipment,Africa,Affiliated Companies,Natural gas liquids,
+Production facilities,Asia,Consolidated Companies,Natural gas,
+Equipment,Australia,Affiliated Companies,Crude oil,
+Production facilities,Europe,Consolidated Companies,Natural gas liquids,
+facilities,United States,Chevron,crude oil,
+equipment,Australia,Affiliates,natural gas,
+pipelines,Kazakhstan,Chevron,synthetic oil,
+facilities,,Chevron,hydrogen,
+equipment,,Chevron,carbon capture and storage,
+facilities,,Chevron,geothermal,
+facilities,,Chevron,,
+equipment,,Chevron,,
+infrastructure,,Chevron,,
+Cyber Intelligence Centers,"around the world, some co-located with critical assets",Chevron,,operational
+facilities,,Chevron,crude oil and natural gas,
+equipment,,Chevron,crude oil and natural gas,
+infrastructure,,Chevron,crude oil and natural gas,
+Additions to fixed asset or investment accounts,,Chevron Corporation,,operational
+PDC assets post-acquisition,,Chevron Corporation,,operational
+Permian Basin development,,Chevron Corporation,,under construction
+"upstream property, plant and equipment",,,crude oil,operational
+"upstream property, plant and equipment",,,natural gas,operational
+"upstream property, plant, and equipment",,Chevron Corporation,crude oil and natural gas,proved developed
+"Properties, plant and equipment",,Chevron Corporation,,operational
+"Properties, plant and equipment",,Chevron Corporation,,under construction
+"Properties, plant and equipment",,Chevron Corporation,,in end-of-life
+"Properties, plant and equipment",,,,operational
+Investments and advances,,,,end-of-life
+"properties, plant and equipment",,Chevron Corporation,"crude oil, natural gas, liquefied natural gas (LNG)",operational
+oil fields,Louisiana’s coastal zone,"Chevron entities, numerous oil and gas companies","oil production, coastal resources management",
+"Properties, Plant and Equipment",United States,Company and its subsidiaries,,operational
+"Properties, Plant and Equipment",International,Company and its subsidiaries,,operational
+"Properties, Plant and Equipment",Australia,Company and its subsidiaries,,operational
+suspended exploratory well costs,,Chevron,,suspended
+Proved producing properties,Americas,Consolidated Companies,Crude,Operational
+Unproved properties,Africa,Affiliated Companies,Natural gas liquids,Operational
+Proved producing properties,Asia,Consolidated Companies,Natural gas,Operational
+Unproved properties,Australia,Affiliated Companies,Crude,Operational
+Proved producing properties,Europe,Consolidated Companies,Natural gas liquids,Operational
+facilities,,Chevron Corporation,"crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture and offsets",
+equipment,,Chevron Corporation,"crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture and offsets",
+infrastructure,,Chevron Corporation,"crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture and offsets",
+facilities,North America,Chevron,oil,operational
+equipment,South America,Chevron,natural gas,operational
+infrastructure,Europe,Chevron,oil and natural gas,operational
+Facilities,United States,Chevron,Crude oil,Operational
+Equipment,Other Americas,Affiliates,Natural gas,Operational
+Infrastructure,Africa,Chevron,Crude oil,Under construction
+development well,United States,Chevron,crude oil,operational
+development well,Other Americas,Chevron,natural gas,under construction
+exploratory well,Africa,Chevron,crude oil,operational
+exploratory well,Asia,Chevron,natural gas,under construction
+facilities,California,Chevron,emissions reduction,operational
+solar power plant,Lost Hills field,Chevron,electricity,under construction
+battery,Lost Hills field,Chevron,electricity storage,under construction
+drilling plans,Mustang and Wells Ranch areas (DJ Basin),Chevron,"crude oil, natural gas, NGLs",operational
+production host facility,Jack/St. Malo fields,Chevron,"crude oil, natural gas, NGLs",operational
+floating production unit,Jack/St. Malo fields,Chevron,"crude oil, natural gas, NGLs",operational
+subsea infrastructure,Jack/St. Malo fields,Chevron,"crude oil, natural gas, NGLs",operational
+semi-submersible floating production unit,Anchor Field,Chevron,"crude oil, natural gas, NGLs",under construction
+well,"various locations (DJ Basin, Gulf of Mexico)",Chevron,"crude oil, natural gas, NGLs",operational/under construction
+Facilities,Gulf of Mexico,Chevron,Oil,Operational
+Equipment,Argentina,Chevron,Oil,Operational
+Infrastructure,Canada,Chevron,Bitumen,Operational
+Facilities,Colombia,Chevron,Natural Gas,Under Construction
+Equipment,Mexico,Chevron,Oil,End-of-Life
+El Segundo Refinery,California,Chevron,"renewable diesel, sustainable aviation fuel",operational
+diesel hydrotreating unit,El Segundo Refinery,Chevron,renewable diesel,operational
+fluid catalytic cracking unit,El Segundo Refinery,Chevron,sustainable aviation fuel,operational
+pipelines,United States,Chevron,"crude oil, natural gas, refined products",operational
+crude oil tankers,global,Chevron,crude oil,operational
+product carriers,global,Chevron,refined products,operational
+LNG carriers,global,Chevron,LNG,operational
+facilities,,Chevron,crude oil,operational
+operations,,Chevron,crude oil,operational
+Worldwide Emergency Response Team,,Chevron,crude oil,
+facilities,urban areas and remote regions,Chevron,crude oil,operational
+equipment,urban areas and remote regions,Chevron,crude oil,operational
+infrastructure,urban areas and remote regions,Chevron,crude oil,operational
+process control networks,,Chevron,,
+critical systems,,Chevron,,
+infrastructure,,Chevron,,
+facilities,,Chevron,,
+crude oil and natural gas properties,,Chevron,"crude oil, natural gas",operational
+refining,"Pasadena, Texas",Chevron,,operational
+marketing,,Chevron,,operational
+transportation,,Chevron,,operational
+chemicals facilities,,Chevron,,operational
+,,Chevron,crude oil,
+facilities,Angola,Chevron,crude oil and natural gas,
+Upstream facilities,U.S.,Company,Crude oil,Operational
+Downstream facilities,International,Company,Refined products,Operational
+Refinery infrastructure,U.S.,Company,Crude oil,Operational
+Refinery infrastructure,International,Company,Natural gas liquids,Operational
+Refinery,"Pasadena, Texas",Company,"Crude oil, Natural gas, Gasoline, Other refined products",Operational
+facilities,Permian Basin,Chevron,Crude oil,operational
+equipment,Kazakhstan,Chevron,Crude oil,operational
+infrastructure,Permian Basin,Chevron,Crude oil,under construction
+facilities,jurisdictions where we operate,Chevron,oil and gas,operational
+equipment,jurisdictions where we operate,Chevron,oil and gas,operational
+infrastructure,jurisdictions where we operate,Chevron,oil and gas,operational
+facilities,previously owned facilities,third-party-owned waste disposal sites,oil and gas,end-of-life
+equipment,previously owned facilities,third-party-owned waste disposal sites,oil and gas,end-of-life
+infrastructure,previously owned facilities,third-party-owned waste disposal sites,oil and gas,end-of-life
+Oil and gas reserves,,Chevron,"Crude oil, natural gas",
+"upstream property, plant, and equipment",,Company,"crude oil, natural gas",operational
+"Properties, plant and equipment",,Chevron Corporation,Crude oil and petroleum products,
+"properties, plant and equipment",,company,"crude oil, natural gas, petroleum, chemical products",operational
+facilities,,company,"crude oil, natural gas, petroleum, chemical products",operational
+properties,,company,,operational
+plant,,company,,operational
+equipment,,company,,operational
+"Properties, Plant and Equipment",,Chevron Phillips Chemical Company LLC,,"operational, under construction, end-of-life"
+$,,,,
+Facilities,,Chevron Corporation,Crude oil,
+Equipment,,Chevron Corporation,Natural gas,
+Infrastructure,,Chevron Corporation,Petroleum products,
+ ,,Chevron Corporation,Fuel and lubricant additives,
+oil fields,Louisiana\\'s coastal zone,"Chevron entities, oil and gas companies",coastal erosion restoration,operational
+"Properties, Plant and Equipment",United States,The Company,,Operational
+"Properties, Plant and Equipment",Australia,The Company,,Operational
+federal Superfund sites,",  ownership: Chevron, commodity: oil and natural gas, status: operational/under construction/end-of-life], [asset: analogous sites under state laws, location: ",Chevron,oil and natural gas,operational/under construction/end-of-life
+refineries,,Chevron,oil and natural gas,operational/under construction/end-of-life
+chemical plants,,Chevron,chemicals,operational/under construction/end-of-life
+marketing facilities,,Chevron,oil and natural gas,operational/under construction/end-of-life
+crude oil fields,,Chevron,oil and natural gas,operational/under construction/end-of-life
+mining sites,,Chevron,minerals,operational/under construction/end-of-life
+Facilities,United States,Chevron,Oil,Operational
+Equipment,Eastern Mediterranean,Chevron,Gas,Operational
+Infrastructure,West Africa,"Noble Energy, Inc.",Oil,Operational
+Exploration Wells,Americas,Chevron,oil and gas,
+Geological and geophysical,Americas,Chevron,oil and gas,
+Property acquisitions,Americas,Chevron,oil and gas,
+Development,Americas,Chevron,oil and gas,
+Exploration Wells,Africa,Chevron,oil and gas,
+Geological and geophysical,Africa,Chevron,oil and gas,
+Property acquisitions,Africa,Chevron,oil and gas,
+Development,Africa,Chevron,oil and gas,
+Exploration Wells,Asia,Chevron,oil and gas,
+Geological and geophysical,Asia,Chevron,oil and gas,
+Property acquisitions,Asia,Chevron,oil and gas,
+Development,Asia,Chevron,oil and gas,
+Exploration Wells,Australia/Oceania,Chevron,oil and gas,
+Geological and geophysical,Australia/Oceania,Chevron,oil and gas,
+Property acquisitions,Australia/Oceania,Chevron,oil and gas,
+Development,Australia/Oceania,Chevron,oil and gas,
+Exploration Wells,Europe,Chevron,oil and gas,
+Geological and geophysical,Europe,Chevron,oil and gas,
+Property acquisitions,Europe,Chevron,oil and gas,
+Development,Europe,Chevron,oil and gas,
+Unproved properties,,,Oil and gas,Under construction
+Proved properties and related producing assets,,,Oil and gas,Operational
+Support equipment,,,Oil and gas,Operational
+Deferred exploratory wells,,,Oil and gas,Under construction
+Other uncompleted projects,,,Oil and gas,Under construction
+facilities,Americas,Chevron Corporation,hydrocarbons,developed
+equipment,Africa,Chevron Corporation,hydrocarbons,undeveloped
+Facilities,Australia,Chevron Corporation,Oil,Operational
+Equipment,United States,Chevron Corporation,Natural Gas,Operational
+Infrastructure,Bangladesh,Chevron Corporation,Oil,Under Construction
+Facilities,Kazakhstan,Chevron Corporation,Natural Gas,End-of-Life
+facilities,Escravos gas projects in Nigeria,,gas,undeveloped
+infrastructure,Escravos gas projects in Nigeria,,gas,undeveloped
+fields,various fields in the Midland and Delaware basins,company,oil,operational
+fields,Appalachian basin,company,oil,under construction
+upgrader,Venezuela,,synthetic oil,operational
+facilities,Midland basin,Consolidated Companies,oil,operational
+equipment,Delaware basin,Affiliated Companies,natural gas liquids,operational
+infrastructure,Gulf of Mexico,Consolidated Companies,oil,under construction
+Facilities,Americas,Other Companies,Natural Gas,Operational
+Equipment,Africa,Consolidated Companies,Natural Gas,Operational
+Facilities,Asia,Affiliated Companies,Natural Gas,Under Construction
+Equipment,Australia,Other Companies,Natural Gas,End-of-Life
+facilities,North America,Consolidated Companies,oil and gas,operational
+equipment,South America,Affiliated Companies,oil and gas,under construction
+infrastructure,Africa,Consolidated Companies,oil and gas,end-of-life
+facilities,,Chevron Corporation,"crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture, offsets",
+facilities,North America,Chevron,oil,operational
+equipment,South America,Chevron,natural gas,operational
+infrastructure,Europe,Chevron,oil,operational
+Wells,United States,Chevron,Crude oil,Operational
+Wells,Other Americas,Chevron,Natural gas liquids,Undeveloped
+Acreage,Africa,Affiliates,Natural gas,Developed
+Wells,Asia,Chevron,Crude oil,Ending concessions
+wells,United States,Chevron,crude oil,operational
+wells,Other Americas,Chevron,natural gas,under construction
+wells,Africa,Chevron,crude oil,dry
+wells,Asia,Chevron,natural gas,operational
+wells,Australia,Chevron,crude oil,under construction
+wells,Israel,Chevron,natural gas,dry
+wells,Europe,Chevron,crude oil,operational
+facilities,Permian Basin,Chevron,oil and natural gas,operational
+infrastructure,Permian Basin,Chevron,oil and natural gas,operational
+multi-well pads,Permian Basin,Chevron,oil and natural gas,operational
+horizontal wells,Permian Basin,Chevron,oil and natural gas,operational
+hydraulic fracture stimulation equipment,Permian Basin,Chevron,oil and natural gas,operational
+oilfield operations,Permian Basin,Chevron,oil and natural gas,operational
+renewable energy project (solar power),New Mexico,Chevron,renewable energy,operational
+production host facility,Gulf of Mexico,Chevron,oil and natural gas,operational
+subsea pumps,Gulf of Mexico,Chevron,oil and natural gas,operational
+deepwater Jack and St. Malo fields,Gulf of Mexico,Chevron,oil and natural gas,operational
+single well tieback,Gulf of Mexico,Chevron,oil and natural gas,operational
+topsides water injection equipment,Gulf of Mexico,Chevron,oil and natural gas,operational
+production wells,multiple locations,Chevron,oil and natural gas,operational
+injector wells,multiple locations,Chevron,oil and natural gas,operational
+research and development centers,around the world,CPChem,N/A,operational
+Ethylene Plant Debottleneck Project,"Cedar Bayou, Texas",Chevron Phillips Chemical Company LLC (CPChem),ethylene,under construction
+C3 Splitter Project,"Cedar Bayou, Texas",Chevron Phillips Chemical Company LLC (CPChem),N/A,under construction
+- Hexene plant,"Old Ocean, Texas",Chevron Phillips Chemical Company LLC (CPChem),- Hexene,under construction
+CNG stations,Nationwide,Chevron,compressed natural gas (CNG),operational
+biofuel refineries,U.S. and Germany,"Renewable Energy Group, Inc. (REG)","biodiesel, renewable diesel",operational
+Transportation Pipelines,United States,Chevron,"crude oil, natural gas, product, ownership: Chevron",
+marine fleet,"U.S., foreign flagged",Chevron,"crude oil, LNG, refined products, feedstock",
+Facilities,,Chevron,"Crude oil, Natural gas",
+Equipment,,Chevron,"Crude oil, Natural gas",
+facilities,various jurisdictions,Chevron,hydrocarbons,operational or under construction
+equipment,various jurisdictions,Chevron,hydrocarbons,operational or under construction
+facilities,,Chevron,Crude oil and natural gas,
+equipment,,Chevron,Crude oil and natural gas,
+infrastructure,,Chevron,Crude oil and natural gas,
+facilities,Permian Basin,Chevron,crude oil and natural gas,
+equipment,Venezuela,Chevron,crude oil and natural gas,
+infrastructure,,Chevron,crude oil and natural gas,
+""" -mile crude oil export pipeline""","""Tengiz Field in Kazakhstan to tanker-loading facilities at Novorossiysk on the Russian coast of the Black Sea""","""Caspian Pipeline Consortium (CPC)""","""crude oil""","""operational"""
+"""three single point mooring facilities""","""Novorossiysk on the Russian coast of the Black Sea""","""Caspian Pipeline Consortium (CPC)""","""crude oil""","""under construction"""
+Facilities,Permian Basin,Chevron,Natural gas,Operational
+CCS hub,Bayou Bend (offshore U.S.),Joint venture with Chevron and unspecified partner,Carbon capture,Under construction
+Joint venture solar energy project,Permian Basin,Joint venture with Chevron and unspecified partner,Renewable energy,Completed
+Upstream facilities,Permian Basin,Chevron,Oil and Gas,Operational
+Downstream facilities,Gulf of Mexico,Chevron,Oil and Gas,Operational
+Upstream facilities,Kazakhstan,Tengizchevroil,Oil and Gas,Under Construction
+Downstream facilities,Permian Basin,"Bunge North America, Inc.",Renewable Fuels,Operational
+Capital expenditures,,Chevron,,
+Assets acquired through finance leases and other obligations,,Chevron,,
+Payments for other assets and liabilities,,Chevron,,
+oil reserves,,Chevron,crude oil,proved developed
+natural gas reserves,,Chevron,natural gas,proved developed
+"\'upstream property, plant and equipment\",\'\,\'Chevron Corporation\,\'crude oil\,\'operational\
+"\'upstream property, plant and equipment\",\'\,\'Chevron Corporation\,\'natural gas\,\'operational\
+"Properties, plant and equipment",,Chevron Corporation,,
+"Properties, Plant and Equipment",,Chevron,"Crude oil, natural gas, products, chemicals",operational
+proved crude oil and natural gas properties,,Chevron,"Crude oil, natural gas, products, chemicals",operational
+exploratory wells,,Chevron,"Crude oil, natural gas, products, chemicals",under construction
+plant and equipment,,Chevron,"Crude oil, natural gas, products, chemicals",operational
+"properties, plant and equipment",,,,operational
+"properties, plant and equipment",,,,under construction
+"properties, plant and equipment",,,,end-of-life
+"Properties, plant and equipment",,Chevron,,Operational
+Investments,,Chevron,,
+Other assets and liabilities,,Chevron,,
+"Properties, plant and equipment",,Company,Crude oil,Operational
+"Properties, Plant and Equipment",,Chevron Corporation,,
+oil fields,Louisiana’s coastal zone,"Chevron entities, oil and gas companies",oil field operations,
+"Properties, Plant and Equipment",United States,Company,,Operational
+"Properties, Plant and Equipment",Australia,Company,,Operational
+crude oil and natural gas producing assets,,Chevron,Crude oil and natural gas,operational (implied)
+wells,,Chevron,Crude oil and natural gas,operational (implied)
+equipment,,Chevron,Crude oil and natural gas,operational (implied)
+facilities,,Chevron,Crude oil and natural gas,operational (implied)
+properties,,Chevron,,
+"Properties, plant and equipment",,Company,,
+Unproved properties,,,Oil and Gas,
+Proved properties and related producing assets,,,Oil and Gas,
+Support equipment,,,Oil and Gas,
+Deferred exploratory wells,,,Oil and Gas,
+Other uncompleted projects,,,Oil and Gas,
+Production facilities,Americas,Consolidated Companies,Crude oil,
+Equipment,Africa,Affiliated Companies,Natural gas liquids,
+Production facilities,Asia,Consolidated Companies,Natural gas,
+Equipment,Australia,Affiliated Companies,Crude oil,
+Production facilities,Europe,Consolidated Companies,Natural gas liquids,
+Facilities,U.S.,Consolidated Companies,Crude Oil,Developed
+Equipment,Other Americas,Affiliated Companies,Natural Gas Liquids,Undeveloped
+Facilities,Israel,Chevron Corporation,Oil,Operational
+Equipment,United States,Chevron Corporation,Oil,Operational
+Facilities,Kazakhstan,Chevron Corporation,Natural Gas,Operational
+Equipment,Nigeria,Chevron Corporation,Natural Gas,Operational
+Facilities,Argentina,Chevron Corporation,Oil,Operational
+Equipment,Canada,Chevron Corporation,Oil,Operational
+facilities,Midland basin,company,oil and gas,under construction
+wells,Delaware basin,company,oil and gas,operational
+facilities,Gulf of Mexico,company,oil and gas,operational
+facilities,TCO in Kazakhstan,company,oil and gas,under construction
+Reserves,North America,Consolidated Companies,Oil and Gas,Operational
+Reserves,South America,Affiliated Companies,Oil and Gas,Operational
+Reserves,Africa,Other Companies,Oil and Gas,Under construction
+facilities,United States,Chevron,crude oil,
+equipment,Australia,Affiliates,natural gas,
+pipelines,Kazakhstan,Chevron,synthetic oil,
+Components of Oil-Equivalent,United States,Chevron,Crude Oil,Operational
+Components of Oil-Equivalent,Other Americas,Chevron,Natural Gas Liquids,Operational
+Components of Oil-Equivalent,Africa,Chevron,Natural Gas,Operational
+Components of Oil-Equivalent,Asia,Chevron,Crude Oil,Operational
+Components of Oil-Equivalent,Australia,Chevron,Natural Gas Liquids,Operational
+Components of Oil-Equivalent,Europe,Chevron,Natural Gas,Operational
+Wells,United States,Chevron,"Crude oil, NGLs, natural gas",operational
+multi-well pads,United States,Chevron,"Crude oil, NGLs, natural gas",operational
+horizontal wells,United States,Chevron,"Crude oil, NGLs, natural gas",operational
+hydraulic fracture stimulation,United States,Chevron,"Crude oil, NGLs, natural gas",operational
+facilities,United States,Chevron,"Crude oil, NGLs, natural gas",operational
+infrastructure,United States,Chevron,"Crude oil, NGLs, natural gas",operational
+solar power project,New Mexico,Chevron,renewable energy,operational
+two wellhead platforms,Q&M fields,Chevron,gas,under construction
+an onshore gas treatment plant,Q&M fields,Chevron,gas,under construction
+connections to the Angola LNG plant,Q&M fields,Chevron,gas,operational
+Oil Mining Leases (OML) and Petroleum Prospecting Licenses under the Petroleum Industry Act,Nigeria,Chevron,oil,operational
+six concessions,Nigeria,Chevron,oil,operational
+four operated and six nonoperated deepwater blocks,Nigeria,Chevron,oil,operational
+the Agbami field,deepwater Oil Mining Lease (OML) and OML,Chevron,oil,operational
+the Usan field in OML,Nigeria,Chevron,oil,operational
+the Owowo field,OML and OML,Chevron,oil,under construction
+the Aparo field in OML and OML,Nigeria,Chevron,oil,under construction
+the Bonga South West field in OML,Nigeria,third-party,oil,operational
+Escravos Gas Plant,Escravos,Chevron,natural gas and liquefied petroleum gas,operational
+Escravos Gas to Liquids facility,Escravos,Chevron,oil,operational
+CPC pipeline,Kazakhstan/Russia,Chevron and Kazakhstan/Russia partnership,Crude oil,Operational
+Sarita PSC,Kurdistan Region of Iraq,Chevron,Oil,End-of-life
+Qara Dagh PSC,Kurdistan Region of Iraq,Chevron,Oil,End-of-life
+Yadana field,Myanmar,Chevron,Natural gas,Operational
+Badamyar field,Myanmar,Chevron,Natural gas,Operational
+Sein fields,Myanmar,Chevron,Natural gas,Operational
+Partitioned Zone hydrocarbon resources,Partitioned Zone,Chevron,Oil and Gas,Operational
+Wheatstone project,"Ashburton North, Western Australia",Chevron,Natural gas,Operational
+Ethylene Plant Project,"Cedar Bayou, Texas",CPChem,,
+C3 Splitter Project,"Cedar Bayou, Texas",CPChem,,
+- Hexene plant,"Old Ocean, Texas",CPChem,,
+Transportation Pipelines,United States,Chevron,"crude oil, natural gas, product pipelines, LNG",
+marine fleet,"U.S., foreign flagged",Chevron,"crude oil, LNG, refined products, feedstock",
+facilities,,Chevron,hydrogen,
+equipment,,Chevron,carbon capture and storage,
+equipment,,Chevron,carbon offsets,
+facilities,,Chevron,geothermal,
+facilities,urban areas,Chevron,crude oil,operational
+equipment,remote and sometimes inhospitable regions,Chevron,natural gas,operational
+facilities,,Chevron,,
+equipment,,Chevron,,
+infrastructure,,Chevron,,
+facilities,Various countries,Partially or wholly owned businesses,Oil and gas,
+Cyber Intelligence Centers,"around the world, some co-located with critical assets",Chevron,,operational
+crude oil and natural gas properties,"Kern County, California",Chevron,"crude oil, natural gas",
+refining facilities,"Richmond, California",Chevron,"crude oil, natural gas",
+marketing facilities,Not specified,Chevron,"crude oil, natural gas",
+transportation facilities,Not specified,Chevron,"crude oil, natural gas",
+chemicals facilities,Not specified,Chevron,"crude oil byproducts, natural gas byproducts",
+oil production facilities,unspecified,Chevron,oil,operational
+gas production facilities,unspecified,Chevron,gas,operational
+carbon capture and storage infrastructure,unspecified,Chevron,carbon dioxide,under construction
+renewable fuels production facilities,unspecified,Chevron,renewable fuels,under construction
+hydrogen production facilities,unspecified,Chevron,hydrogen,under construction
+facilities,,Chevron,crude oil and natural gas,
+equipment,,Chevron,crude oil and natural gas,
+infrastructure,,Chevron,crude oil and natural gas,
+facilities,Japan,Chevron,geothermal energy,operational
+equipment,Kazakhstan,Tengizchevroil,crude oil,operational
+infrastructure,United States (Gulf Coast),Chevron,carbon capture and sequestration,expanded
+LNG vessels,United States,Chevron,LNG,upgraded
+exploration blocks,Gulf of Mexico,Chevron,crude oil,acquired
+Mad Dog project,Gulf of Mexico,Chevron,crude oil,operational
+solar power project,New Mexico,Chevron joint venture partner,solar energy,operational
+refinery,"El Segundo, California",Chevron,petroleum products,converted
+acres in Denver-Julesburg (DJ) Basin and Permian Basin,United States,Chevron,crude oil,acquired
+green hydrogen production and storage hub,Utah,Chevron,hydrogen,developing
+Hess Corporation assets,Global,Chevron,various,acquired
+licenses,Venezuela,"PetroBoscan, S.A. and PetroIndependiente, S.A.",crude oil,extended
+Additions to fixed asset or investment accounts,,Chevron Corporation,,operational
+PDC assets post-acquisition,,Chevron Corporation,,operational
+Permian Basin development,,Chevron Corporation,,under construction
+facilities,,Chevron,oil,operational
+equipment,,Chevron,natural gas,operational
+oil and gas properties,,Chevron,"crude oil, NGLs, natural gas, commodity chemicals, refined products",operational
+proved developed reserves,,Chevron,"crude oil, NGLs, natural gas, commodity chemicals, refined products",operational
+unproved resources,,Chevron,"crude oil, NGLs, natural gas, commodity chemicals, refined products",
+"properties, plant and equipment (PP&E)",,Chevron,"crude oil, NGLs, natural gas, commodity chemicals, refined products",operational
+"upstream property, plant and equipment",,,crude oil,operational
+"upstream property, plant and equipment",,,natural gas,operational
+"upstream property, plant, and equipment",,Chevron Corporation,crude oil and natural gas,proved developed
+"Properties, plant and equipment",,Chevron Corporation,,operational
+"Properties, plant and equipment",,Chevron Corporation,,under construction
+"Properties, plant and equipment",,Chevron Corporation,,in end-of-life
+"Properties, Plant and Equipment",,parent,"Crude oil, natural gas",operational
+proved mineral interests in crude oil and natural gas properties,,parent,"Crude oil, natural gas",operational
+proved crude oil and natural gas producing properties,,company,"crude oil, natural gas",operational
+mineral interests,,company,,operational
+plant and equipment,,company,,operational
+"Properties, plant and equipment",,,,operational
+Investments and advances,,,,end-of-life
+facilities,U.S.,Chevron Corporation,crude oil,operational
+equipment,U.S.,Chevron Corporation,natural gas liquids,operational
+infrastructure,U.S.,Chevron U.S.A. Inc.,petroleum products,operational
+"Properties, Plant and Equipment",U.S.,Chevron,,operational
+"Properties, Plant and Equipment",California,Chevron,,impaired
+"properties, plant and equipment",,Chevron Corporation,"crude oil, natural gas, liquefied natural gas (LNG)",operational
+facilities,United States,Chevron Corporation,crude oil,operational
+equipment,International,Chevron Corporation,petroleum products,operational
+infrastructure,United States,Chevron Corporation,renewable fuels,operational
+oil fields,Louisiana’s coastal zone,"Chevron entities, numerous oil and gas companies","oil production, coastal resources management",
+"Properties, Plant and Equipment",United States,Company and its subsidiaries,,operational
+"Properties, Plant and Equipment",International,Company and its subsidiaries,,operational
+"Properties, Plant and Equipment",Australia,Company and its subsidiaries,,operational
+suspended exploratory well costs,,Chevron,,suspended
+oil and gas production assets,U.S. Gulf of Mexico,Chevron,petroleum substances,decommissioned
+refineries,US,Chevron,chemicals,operational
+chemical plants,international,Chevron,chemicals,operational
+crude oil and natural gas producing assets,,,"crude oil, natural gas",operational
+downstream long-lived assets,,,,operational
+wells,,,"crude oil, natural gas",operational
+equipment,,,"crude oil, natural gas",operational
+facilities,,,"crude oil, natural gas",operational
+"Properties, plant and equipment",Denver-Julesburg Basin in Colorado,Chevron Corporation,,operational
+"Properties, plant and equipment",Delaware Basin in west Texas,Chevron Corporation,,operational
+facilities,United States,Chevron,oil,operational
+equipment,Other Americas,Chevron,gas,operational
+wells,Africa,Chevron,oil,operational
+Unproved properties,,,oil and gas,
+Proved properties and related producing assets,,,oil and gas,
+Support equipment,,,oil and gas,
+Deferred exploratory wells,,,oil and gas,
+Other uncompleted projects,,,oil and gas,
+Proved producing properties,Americas,Consolidated Companies,Crude,Operational
+Unproved properties,Africa,Affiliated Companies,Natural gas liquids,Operational
+Proved producing properties,Asia,Consolidated Companies,Natural gas,Operational
+Unproved properties,Australia,Affiliated Companies,Crude,Operational
+Proved producing properties,Europe,Consolidated Companies,Natural gas liquids,Operational
+facilities,U.S.,Consolidated Companies,Crude Oil,Operational
+facilities,Other Americas,Consolidated Companies,Natural Gas Liquids,Operational
+facilities,Africa,Affiliated Companies,Natural Gas,Developed
+facilities,Asia,Consolidated Companies,Crude Oil,Undeveloped
+Facilities,United States,Chevron Corporation,Oil and Gas,Operational
+Equipment,Midland and Delaware basins,Chevron Corporation,Oil and Gas,Operational
+Infrastructure,California,Chevron Corporation,Oil and Gas,Operational
+Facilities,Kazakhstan (TCO),Chevron Corporation,Oil and Gas,Operational
+Equipment,Israel,Chevron Corporation,Oil and Gas,Operational
+Infrastructure,Argentina,Chevron Corporation,Oil and Gas,Operational
+facilities,United States,company,oil,operational
+wells,Midland basin,company,oil,operational
+facilities,Delaware basin,company,oil,operational
+wells,DJ basin,company,oil,operational
+facilities,Gulf of Mexico,company,oil,operational
+facilities,Israel,company,oil,operational
+wells,Bangladesh,affiliates,gas,under construction
+facilities,Argentina,company,oil,end-of-life
+wells,Canada,company,gas,operational
+facilities,Kazakhstan,affiliates,oil,operational
+wells,Australia,company,oil,operational
+facilities,Nigeria,company,gas,operational
+wells,Angola,company,oil,operational
+facilities,Republic of Congo,company,gas,under construction
+facilities,"Midland, Delaware basins",,oil,operational
+facilities,Australia,,natural gas,operational
+facilities,United States,,oil,operational
+facilities,Midland basin,TCF,Natural gas,operational
+equipment,Delaware basin,TCF,Natural gas,operational
+infrastructure,DJ basin,PDC,Natural gas,operational

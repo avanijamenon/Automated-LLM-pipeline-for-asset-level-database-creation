@@ -1,0 +1,867 @@
+Chunk 1:
+(0, 'physical assets: []\nlocations: [Greenway Plaza, Suite Houston, Texas]\nownerships: [Occidental Petroleum Corporation]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 2:
+(1, 'physical assets: [Facilities, Equipment]\nlocations: [Greenway Plaza, Suite , Houston, Texas ; Permian Basin, DJ Basin, Gulf of Mexico and Algeria]\nownerships: [Occidental Petroleum Corporation, Occidental and one or more entities in which it owns a controlling interest (subsidiaries), Anadarko Petroleum Corporation]\ncommodities: [Oil, natural gas liquids (NGL) and natural gas, basic chemicals and vinyls, carbon dioxide (CO ), power, carbon capture, utilization and storage (CCUS), direct air capture (DAC)] \nstatus: [] \n\nrelationships: [asset: Facilities, location: Greenway Plaza, Suite , Houston, Texas ; ownership: Occidental Petroleum Corporation, commodity: Oil, natural gas liquids (NGL) and natural gas, basic chemicals and vinyls, carbon dioxide (CO ), power, status: Operational].\n[asset: Equipment, location: Permian Basin, DJ Basin, Gulf of Mexico and Algeria, ownership: Occidental Petroleum Corporation, commodity: Oil, natural gas liquids (NGL) and natural gas, basic chemicals and vinyls, carbon dioxide (CO ), power, status: Operational].')
+----------------------------------------------------------------------------------------------------
+Chunk 3:
+(2, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 4:
+(3, 'physical assets: [oil fields, gas fields]\nlocations: [United States (Texas, New Mexico, Colorado, Gulf of Mexico), Oman, United Arab Emirates, Algeria]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas]\nstatus: [operational]\n\nrelationships: [asset: oil fields, location: United States (Texas, New Mexico, Colorado, Gulf of Mexico), ownership: Occidental, commodity: oil, status: operational], [asset: gas fields, location: United States (Texas, New Mexico, Colorado, Gulf of Mexico), ownership: Occidental, commodity: natural gas, status: operational], [asset: oil fields, location: Oman, ownership: Occidental, commodity: oil, status: operational], [asset: gas fields, location: Oman, ownership: Occidental, commodity: natural gas, status: operational], [asset: oil fields, location: United Arab Emirates, ownership: Occidental, commodity: oil, status: operational], [asset: gas fields, location: United Arab Emirates, ownership: Occidental, commodity: natural gas, status: operational], [asset: oil fields, location: Algeria, ownership: Occidental, commodity: oil, status: operational], [asset: gas fields, location: Algeria, ownership: Occidental, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 5:
+(4, 'physical assets: [manufacturing plants, gathering systems, plants and pipelines, gas plants, co-generation facilities, storage facilities]\nlocations: [Alabama, Georgia, Illinois, Kansas, Louisiana, Michigan, New Jersey, Ohio, Tennessee, Texas, Canada, Chile, domestic sites, international sites]\nownerships: [OxyChem, Occidental, WES, Dolphin Energy Limited (DEL)]\nstatus: [operational]\n\nrelationships: [asset: manufacturing plants, location: Alabama, Georgia, Illinois, Kansas, Louisiana, Michigan, New Jersey, Ohio, Tennessee, Texas, Canada, Chile, ownership: OxyChem, commodity: chemicals, status: operational], [asset: gathering systems, location: domestic sites, international sites, ownership: WES, commodity: oil and gas, status: operational], [asset: plants and pipelines, location: domestic sites, international sites, ownership: WES, commodity: oil and gas, status: operational], [asset: gas plants, location: domestic sites, international sites, ownership: Occidental, commodity: oil and gas, status: operational], [asset: co-generation facilities, location: domestic sites, international sites, ownership: Occidental, commodity: oil and gas, status: operational], [asset: storage facilities, location: domestic sites, international sites, ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 6:
+(5, "physical assets: [pipeline, gas processing and compression plant, receiving facilities, network of pipelines]\nlocations: [Qatar, UAE, Oman, Texas, New Mexico, Colorado, Rocky Mountains,  United States]\nownerships: [DEL-owned, Occidental-operated, third-party-operated, equity investment in WES, equity investment in the DEL natural gas pipeline]\ncommodities: [natural gas]\nstatus: [operational]\n\n\nrelationships: [asset: 'pipeline', location: 'Qatar, UAE, Oman', ownership: 'DEL-owned', commodity: 'natural gas', status: 'operational'],  [asset: 'gas processing and compression plant', location: 'Qatar', ownership: 'DEL-owned', commodity: 'natural gas', status: 'operational'], [asset: 'receiving facilities', location: 'UAE', ownership: 'DEL-owned', commodity: 'natural gas', status: 'operational'], [asset: 'network of pipelines', location: 'UAE, Oman', ownership: 'DEL-owned, other existing leased pipelines', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 7:
+(6, 'physical assets: [ facilities, equipment, infrastructure ]\nlocations: [ DJ Basin, Gulf of Mexico, federal public lands, federal offshore waters, Colorado ]\nownerships: [ Occidental ]\ncommodities: [ oil, gas, chemicals ]\nstatus: [] \n\n\nrelationships: [asset: facilities, location: DJ Basin, ownership: Occidental, commodity: oil, status: operational], [asset: equipment, location: DJ Basin, ownership: Occidental, commodity: oil, status: operational], [asset: infrastructure, location: Gulf of Mexico, ownership: Occidental, commodity: oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 8:
+(7, 'locations: [Texas, New Mexico]\nownerships: [Occidental]\ncommodities: [produced water]\nstatus: [operational, authorized to operate at agency-approved volume limits] \n\n\nrelationships: [asset: deep disposal wells, location: Texas, ownership: Occidental, commodity: produced water, status: suspended permits in seismic response areas]\nrelationships: [asset: central water treatment and recycling facilities, location:  Texas, ownership: Occidental, commodity: produced water, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 9:
+(8, "physical assets:  [facilities, equipment, infrastructure] \nlocations: []\nownerships: []\ncommodities: [oil, NGL, natural gas, chemical products]\nstatus: []\n\nrelationships: [asset: 'facilities', location: '', ownership: 'Occidental', commodity: 'oil', status: ''], [asset: 'equipment', location: '', ownership: 'Occidental', commodity: 'oil', status: ''], [asset: 'infrastructure', location: '', ownership: 'Occidental', commodity: 'oil', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 10:
+(9, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas, refined products, chemicals]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 11:
+(10, 'physical assets:  [oil and gas reserves] \nlocations: []\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [estimated, subject to revision]\n\nrelationships: [asset: oil and gas reserves, location: , ownership: Occidental, commodity: oil, natural gas, status: estimated, subject to revision]')
+----------------------------------------------------------------------------------------------------
+Chunk 12:
+(11, 'physical assets: [CO producing wells and facilities, compression equipment, pipelines]\nlocations: []\nownerships: [Occidental]\ncommodities: [CO for CO EOR operations]\nstatus: [operational, under construction (implied due to the mention of development of naturally occurring CO sources or construction of plants)]\nrelationships: [asset: CO producing wells and facilities, location: not specified, ownership: Occidental, commodity: CO, status: operational], \n[asset: compression equipment, location: not specified, ownership: Occidental, commodity: CO, status: operational],\n[asset: pipelines, location: not specified, ownership: Occidental, commodity: CO, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 13:
+(12, 'physical assets: [ Seismic data systems, Reserves information system, Strategic information system, Drilling equipment, Production-related infrastructure, Chemical operations facilities, Automated and surveillance systems, Financial or operating data systems]\nlocations: []\nownerships: [ Occidental ]\ncommodities: [ Oil, Natural gas ]\nstatus: [ Operational, Under construction]\n\n\nrelationships: [asset: Seismic data systems, location:  , ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Reserves information system, location: , ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Strategic information system, location: , ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Drilling equipment, location: , ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Production-related infrastructure, location: , ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Chemical operations facilities, location: , ownership: Occidental, commodity: Chemicals derived from oil and gas, status: Operational], [asset: Automated and surveillance systems, location: , ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Financial or operating data systems, location: , ownership: Occidental, commodity:  Oil and natural gas operations, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 14:
+(13, 'physical assets: [Offshore operations, Platforms, Facilities]\nownerships: [Occidental]\ncommodities: [Oil]\nstatus: [Operational, under construction (implied by "response capabilities for personnel, equipment or environmental incidents"), end-of-life (implied by "remediation and other costs...resulting from oil spills")]\n\nrelationships: [asset: Offshore operations, location: Gulf of Mexico, ownership: Occidental, commodity: Oil, status: Operational], [asset: Platforms, location: Gulf of Mexico, ownership: Occidental, commodity: Oil, status: Operational], [asset: Facilities, location: Gulf of Mexico, ownership: Occidental, commodity: Oil, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 15:
+(14, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 16:
+(15, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 17:
+(16, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil and gas, chemicals, midstream and marketing]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 18:
+(17, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ Occidental ]\ncommodities: [ oil, natural gas ]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 19:
+(18, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 20:
+(19, 'physical assets: [Facilities, Equipment, Land, Mineral Rights]\nlocations: [Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman, Algeria, Powder River Basin]\nownerships: [Occidental]\ncommodities: [Oil, Natural Gas]\nstatus: [Operational, Under Construction, End-of-Life] \n\nrelationships: [asset: Facilities, location: Permian Basin, ownership: Occidental, commodity: Oil, status: Operational], [asset: Equipment, location: DJ Basin, ownership: Occidental, commodity: Natural Gas, status: Operational], [asset: Land, location: Gulf of Mexico, ownership: Occidental, commodity: Oil, status: Operational], [asset: Mineral Rights, location: UAE, ownership: Occidental, commodity: Natural Gas, status: Operational], [asset: Facilities, location: Oman, ownership: Occidental, commodity: Oil, status: Under Construction], [asset: Equipment, location: Algeria, ownership: Occidental, commodity: Natural Gas, status: End-of-Life]')
+----------------------------------------------------------------------------------------------------
+Chunk 21:
+(20, "locations: [Permian Basin, Rockies and Other Domestic locations, Colorado (Niobrara and Codell formations), DJ Basin, Powder River Basin, North DJ Basin, Wyoming, Gulf of Mexico], \nownerships: [Occidental Petroleum Corporation], \ncommodities: [CO , Oil and gas]\nstatus: [Operational, Under construction]\n\n\nrelationships: [asset: 'Inventory of future CO projects', location: '', ownership: 'Occidental Petroleum Corporation', commodity: 'CO ', status: ''],\n[asset: 'Facilities (marine shore-bases in Galveston, Texas, and Port Fourchon, Louisiana, two helicopter bases in Louisiana)', location: 'Galveston, Texas; Port Fourchon, Louisiana', ownership: 'Occidental Petroleum Corporation', commodity: 'Oil and gas', status: 'Operational'],\n[asset: 'Platforms (deep-water floating platforms)', location: 'Gulf of Mexico', ownership: 'Occidental Petroleum Corporation', commodity: 'Oil and gas', status: 'Operational'],\n[asset: 'Working interests in blocks ', location: 'Gulf of Mexico', ownership: 'Occidental Petroleum Corporation', commodity: 'Oil and gas', status: 'Operational'],\n[asset: 'Horn Mountain West subsea development', location: 'Gulf of Mexico', ownership: 'Occidental Petroleum Corporation', commodity: 'Oil and gas', status: 'Under construction'],\n[asset: 'Lucius and Holstein facilities', location: 'Gulf of Mexico', ownership: 'Occidental Petroleum Corporation', commodity: 'Oil and gas', status: 'Operational'],\n[asset: 'engineering and technical staff offices in The Woodlands, Texas', location: 'The Woodlands, Texas', ownership: 'Occidental Petroleum Corporation', commodity: 'Oil and gas', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 22:
+(21, 'locations: [Gulf of Mexico, Algeria, Oman, Qatar, UAE]\nownerships: [Occidental]\ncommodities: [oil, NGL and natural gas]\nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 23:
+(22, 'physical assets: [facilities projects, wells, pipelines, gas processing facilities,  exploration concessions, production concessions]\ncommodities: [oil, NGL, natural gas]')
+----------------------------------------------------------------------------------------------------
+Chunk 24:
+(23, 'physical assets: [facilities, equipment, infrastructure] \nlocations: [Permian Basin, DJ Basin, international assets, Gulf of Mexico, domestic properties]\nownerships: [Occidental]\ncommodities: [oil and natural gas]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: facilities, location: Permian Basin, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: equipment, location: DJ Basin, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: infrastructure, location: international assets, ownership: Occidental, commodity: oil and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 25:
+(24, 'physical assets: [equipment (implied from "secondary and tertiary projects"), wells]\nlocations: [Permian Basin, Gulf of Mexico, DJ Basin, international assets]\nownerships: [Occidental]\ncommodities: [oil (implied)]\nstatus: [operational (implied from "proved reserves", "improved recovery additions"), under construction (implied from "PUD reserves"), end-of-life (not mentioned)]\n\nrelationships: [asset: equipment, location: Permian Basin, ownership: Occidental, commodity: oil, status: operational], [asset: wells, location: Gulf of Mexico, ownership: Occidental, commodity: oil, status: operational],  [asset: wells, location: DJ Basin, ownership: Occidental, commodity: oil, status: operational], [asset: equipment, location: international assets, ownership: Occidental, commodity: oil, status: operational], [asset: wells, location: international assets, ownership: Occidental, commodity: oil, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 26:
+(25, "physical assets: [oil and gas reserves]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [proved, undeveloped (PUD)] \n\nrelationships: [asset: 'oil and gas reserves', location: '', ownership: 'Occidental', commodity: 'oil', status: 'proved'], [asset: 'oil and gas reserves', location: '', ownership: 'Occidental', commodity: 'natural gas', status: 'proved'], [asset: 'oil and gas reserves', location: '', ownership: 'Occidental', commodity: 'oil', status: 'undeveloped (PUD)'], [asset: 'oil and gas reserves', location: '', ownership: 'Occidental', commodity: 'natural gas', status: 'undeveloped (PUD)']")
+----------------------------------------------------------------------------------------------------
+Chunk 27:
+(26, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil, gas, PVC, caustic soda, chlorine]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 28:
+(27, 'physical assets: [Dolphin Pipeline, gas plants, co-generation facilities, storage facilities, gathering systems, pipelines]\nlocations: [Qatar, UAE, Oman, Midland, Gulf Coast]\nownerships: [Occidental, DEL (partly owned by Occidental)]\ncommodities: [natural gas, oil, NGL, CO]\nstatus: [operational]\n\nrelationships: [asset: Dolphin Pipeline, location: Qatar, UAE, Oman, ownership: partly owned by Occidental, commodity: natural gas, status: operational], [asset: gas plants, location: , ownership: Occidental, commodity: wet gas, status: operational], [asset: co-generation facilities, location: , ownership: Occidental, commodity: , status: operational], [asset: storage facilities, location: , ownership: Occidental, commodity: oil, NGL, natural gas, status: operational], [asset: gathering systems, location: , ownership: Occidental, commodity: wet gas, status: operational], [asset: pipelines, location: Midland, Gulf Coast, ownership: Occidental, commodity: oil, NGL, natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 29:
+(28, 'physical assets: [gathering systems, plants and pipelines, sour gas processing facilities, power and steam generation facilities]\nlocations: []\nownerships: [Occidental, WES Operating, Al Hosn Gas ] \ncommodities: [natural gas, NGL, condensate, sulfur, oil]\nstatus: [operational]\nrelationships: [asset: gathering systems, location:  WES Operating, ownership: WES Operating, commodity: natural gas, status: operational], [asset: plants and pipelines, location: WES Operating, ownership: WES Operating, commodity: natural gas, status: operational], [asset: sour gas processing facilities, location: Al Hosn Gas, ownership: Occidental (participating interest), commodity: natural gas, NGL, condensate, sulfur, status: operational], [asset: power and steam generation facilities, location:  Occidental, ownership: Occidental, commodity: steam, power, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 30:
+(29, 'physical assets: [facilities, equipment]\nlocations: [United States, International, Algeria, Oman, Qatar,  Permian Basin, Wyoming, Colorado, Utah, Gulf of Mexico]\nownerships: [Occidental]\ncommodities: [oil, natural gas, NGL, CO2]\nstatus: [] \n\nrelationships: [asset: facilities, location: United States, ownership: Occidental, commodity: oil, status: operational], [asset: equipment, location: International, ownership: Occidental, commodity: natural gas, status: operational],  [asset: pipeline, location: Permian Basin, ownership: Occidental, commodity: NGL, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 31:
+(30, 'physical assets: [facilities, equipment, infrastructure] \nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 32:
+(31, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ["oil", "gas", "PVC", "VCM", "caustic"]\nstatus: [ ]\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 33:
+(32, 'physical assets: [unproved acreage, proved properties in Algeria, undeveloped leases, platforms,  domestic onshore unproved acreage, other domestic onshore assets, Gulf of Mexico assets, limited partner units] \nlocations: [Permian Basin, Wyoming, Colorado, Utah, Colombia, Gulf of Mexico, Algeria, onshore U.S. domestic assets]\nownerships: [Occidental]\ncommodities: [ crude oil, ethylene, natural gas, NGL]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: unproved acreage, location: Permian Basin, ownership: Occidental, commodity: crude oil, status: end-of-life], [asset: proved properties in Algeria, location: Algeria, ownership: Occidental, commodity: crude oil and natural gas, status: operational], [asset: undeveloped leases, location: , ownership: Occidental, commodity: crude oil, status: end-of-life], [asset: platforms, location: Gulf of Mexico, ownership: Occidental, commodity: crude oil and natural gas, status: end-of-life], [asset: domestic onshore unproved acreage, location: onshore U.S. domestic assets, ownership: Occidental, commodity: crude oil, status: impaired], [asset: other domestic onshore assets, location: onshore U.S. domestic assets, ownership: Occidental, commodity: crude oil, status: impaired], [asset: Gulf of Mexico assets, location: Gulf of Mexico, ownership: Occidental, commodity: crude oil and natural gas, status: operational], [asset: limited partner units, location: , ownership: Occidental, commodity: crude oil, status: impaired]')
+----------------------------------------------------------------------------------------------------
+Chunk 34:
+(33, 'physical assets: []\nownerships: [ Occidental ]\ncommodities: [ ]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 35:
+(34, "physical assets: [real estate, equipment, plants, facilities]\nlocations: []\nownerships: [Occidental]\ncommodities: []\nstatus: []\nrelationships: [asset: 'real estate', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'equipment', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'plants', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'facilities', location: '', ownership: 'Occidental', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 36:
+(35, "physical assets: [Working interests in certain assets in the Permian Basin, working interests in certain assets in the Gulf of Mexico]\nlocations: [Permian Basin, Gulf of Mexico]\nownerships:  [Occidental]\ncommodities: []\nstatus: []\n\n\nrelationships: [asset: 'Working interests in certain assets in the Permian Basin', location: 'Permian Basin', ownership: 'Occidental', commodity: '', status: ''], [asset: 'Working interests in certain assets in the Gulf of Mexico', location: 'Gulf of Mexico', ownership: 'Occidental', commodity: '', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 37:
+(36, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 38:
+(37, 'physical assets: [environmental remediation sites]\nlocations: [National Priorities List (NPL) sites, third-party sites, Occidental-operated sites, closed or non-operated Occidental sites, Diamond Alkali Superfund Site, Passaic River, Newark Bay, New Jersey chrome site, Tennessee copper mining and smelting operation, California oil field and landfill, Louisiana refinery, Colorado oil and gas operations, Kansas chemical plants, Louisiana chemical plants, Texas chemical plants, Western New York landfill, Oklahoma former refinery, California former chemical plants, Delaware former chemical plants, Michigan former chemical plants, New York former chemical plants, Ohio former chemical plants, Tennessee former chemical plants, Washington former chemical plants, Pennsylvania closed coal mine]\nownerships: [Occidental, Maxus, EPA, current owner of Louisiana refinery] \ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: environmental remediation sites, location: NPL sites, third-party sites, Occidental-operated sites, closed or non-operated Occidental sites, Diamond Alkali Superfund Site, Passaic River, Newark Bay, New Jersey chrome site, Tennessee copper mining and smelting operation, California oil field and landfill, Louisiana refinery, Colorado oil and gas operations, Kansas chemical plants, Louisiana chemical plants, Texas chemical plants, Western New York landfill, Oklahoma former refinery, California former chemical plants, Delaware former chemical plants, Michigan former chemical plants, New York former chemical plants, Ohio former chemical plants, Tennessee former chemical plants, Washington former chemical plants, Pennsylvania closed coal mine, ownership: Occidental, Maxus, EPA, current owner of Louisiana refinery, commodity: remediation activities, status: operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 39:
+(38, "physical assets: [Lower Passaic River]\nlocations: [New Jersey, Delaware, North America, United States, Canada, Middle East, North Africa]\nownerships: [Occidental Petroleum Corporation, Maxus Energy Corporation, YPF, Repsol]\ncommodities: []\nstatus: [ ]\n\n\nrelationships: [asset: 'Lower Passaic River', location: 'New Jersey', ownership: 'Under dispute between Occidental, Maxus, YPF, and Repsol', commodity: '', status: 'Remediation in progress']")
+----------------------------------------------------------------------------------------------------
+Chunk 40:
+(39, 'physical assets:  [exploratory drilling costs, oil and gas producing properties, leasehold acquisition costs, development and successful exploration costs]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas] \nstatus: [operational, under construction, end-of-life] \nrelationships: [asset: exploratory drilling costs, location: , ownership: Occidental, commodity: oil, NGL, natural gas, status: operational], [asset: oil and gas producing properties, location: , ownership: Occidental, commodity: oil, NGL, natural gas, status: operational], [asset: leasehold acquisition costs, location: , ownership: Occidental, commodity: oil, NGL, natural gas, status: operational], [asset: development and successful exploration costs, location: , ownership: Occidental, commodity: oil, NGL, natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 41:
+(40, 'physical assets: [unproved properties, proved properties]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [under construction, operational]\n\nrelationships: [asset: unproved properties, location: , ownership: Occidental, commodity: oil, status: under construction], [asset: proved properties, location: , ownership: Occidental, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 42:
+(41, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 43:
+(42, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 44:
+(43, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 45:
+(44, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['oil', 'NGL', 'natural gas', 'Midland-to-Gulf-Coast oil spreads', 'chlorine', 'caustic soda', 'PVC']\nstatus: []\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 46:
+(45, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 47:
+(46, 'physical assets: []\nlocations: [ Lower Passaic River site]\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 48:
+(47, "physical assets: [proved oil and gas properties]\nlocations: []\nownerships: [Occidental Petroleum Corporation] \ncommodities: [oil and gas]\nstatus: [operational]\n\n\nrelationships: [asset: 'proved oil and gas properties', location: '', ownership: 'Occidental Petroleum Corporation', commodity: 'oil and gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 49:
+(48, "physical assets: [Oil and gas, Chemical, Midstream and marketing, Corporate]\nlocations: []\nownerships: [Occidental Petroleum Corporation and Subsidiaries]\ncommodities: [ ]\nstatus: [Operational]\nrelationships: [asset: 'Oil and gas', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: '', status: 'Operational'], [asset: 'Chemical', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: '', status: 'Operational'], [asset: 'Midstream and marketing', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: '', status: 'Operational'], [asset: 'Corporate', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: '', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 50:
+(49, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 51:
+(50, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 52:
+(51, "physical assets: [Capital expenditures, facilities, equipment, infrastructure]\nlocations: []\nownerships: [Occidental Petroleum Corporation and Subsidiaries, WES] \ncommodities: [Oil (which includes condensate), NGL and natural gas, basic chemicals and vinyls, CO and power]\nstatus: []\n\nrelationships: [asset: 'Capital expenditures', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: 'Oil (which includes condensate), NGL and natural gas', status: ''],  [asset: 'facilities', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: 'Oil (which includes condensate), NGL and natural gas', status: ''], [asset: 'equipment', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: 'Oil (which includes condensate), NGL and natural gas', status: ''], [asset: 'infrastructure', location: '', ownership: 'Occidental Petroleum Corporation and Subsidiaries', commodity: 'Oil (which includes condensate), NGL and natural gas', status: ''],  [asset: 'Capital expenditures', location: '', ownership: 'WES', commodity: 'basic chemicals and vinyls', status: ''],")
+----------------------------------------------------------------------------------------------------
+Chunk 53:
+(52, "physical assets:  [WES Operating]\nownerships: [Occidental owns all of a . % non-voting general partner interest and . % of the limited partner units in WES. On a combined basis, with its % non-voting limited partner interest in WES Operating, Occidental's total effective economic interest in WES and its subsidiaries was . %. ] \ncommodities: []\nstatus: []")
+----------------------------------------------------------------------------------------------------
+Chunk 54:
+(53, 'physical assets:  [Oil and gas producing properties, Property, Plant and Equipment]\nlocations:  []\nownerships: [Occidental]\ncommodities: [Oil, NGL, natural gas, chemical products]\nstatus: [Operational, under construction, suspended exploratory drilling costs] \n\nrelationships: [asset: Oil and gas producing properties, location: Countries outside North America, ownership: Occidental, commodity: Oil, NGL, natural gas, status: Operational], [asset: Property, Plant and Equipment, location:  Countries outside North America, ownership: Occidental, commodity: Oil, NGL, natural gas, chemical products, status: Operational, under construction, suspended exploratory drilling costs]')
+----------------------------------------------------------------------------------------------------
+Chunk 55:
+(54, 'physical assets: [proved oil reserves, NGL reserves, natural gas reserves, facilities, equipment]\nlocations: []\nownerships: [Occidental] \ncommodities: [oil, natural gas]\nstatus: [operational] \n\nrelationships: [asset: proved oil reserves, location: , ownership: Occidental, commodity: oil, status: operational], [asset: NGL reserves, location: , ownership: Occidental, commodity: NGL, status: operational], [asset: natural gas reserves, location: , ownership: Occidental, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 56:
+(55, "physical assets: [chemical facilities, PP&E]\nlocations: []\nownerships: [Occidental]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: 'chemical facilities', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'PP&E', location: '', ownership: 'Occidental', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 57:
+(56, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 58:
+(57, 'physical assets: [facilities,  wells, oil and gas properties, plants]\nlocations: [ ]\nownerships: [Occidental, other potentially responsible parties]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life (for AROs)]\n\n\nrelationships: [asset: facilities, location: implied, ownership: Occidental, commodity: oil and gas, status: operational], [asset: wells, location: implied, ownership: Occidental, commodity: oil and gas, status: operational], [asset: oil and gas properties, location: implied, ownership: Occidental, commodity: oil and gas, status: operational], [asset: plants, location: implied, ownership: Occidental, commodity: unspecified, status: operational, conditional AROs]')
+----------------------------------------------------------------------------------------------------
+Chunk 59:
+(58, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 60:
+(59, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 61:
+(60, "physical assets: [ facilities, equipment ]\nlocations: [ United States, International ]\nownerships: [ Occidental ]\ncommodities: [ oil, NGL, gas, caustic soda, chlorine ]\nstatus: [ operational ]\n\nrelationships: [asset: 'facilities', location: 'United States', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'equipment', location: 'International', ownership: 'Occidental', commodity: 'gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 62:
+(61, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental, WES, DEL, OxyChem Ingleside Facility, Plains]\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 63:
+(62, 'physical assets: [Permian Basin assets,  non-strategic assets in the Permian Basin, working interests in certain assets in the Permian EOR business unit, non-operated assets in the DJ Basin, onshore oil and gas Colombia assets, mineral acres and fee surface acres located in Wyoming, Colorado and Utah, real estate assets]\nlocations: [Permian Basin, DJ Basin, Colombia, Midland Basin, Wyoming, Colorado, Utah]\nownerships: [Occidental, WES, Ecopetrol, Plains] \ncommodities: [oil, NGL and natural gas]\nstatus: [held for sale, operational, under construction (implied), end-of-life (implied)]\n\nrelationships: [asset: Permian Basin assets, location: Permian Basin, ownership: Occidental, commodity: oil, NGL and natural gas, status: held for sale], [asset: non-strategic assets in the Permian Basin, location: Permian Basin, ownership: Occidental, commodity: oil, NGL and natural gas, status: operational], [asset: working interests in certain assets in the Permian EOR business unit, location: Permian Basin, ownership: Occidental, commodity: oil, NGL and natural gas, status: operational], [asset: non-operated assets in the DJ Basin, location: DJ Basin, ownership: Occidental, commodity: oil, NGL and natural gas, status: end-of-life (implied)], [asset: onshore oil and gas Colombia assets, location: Colombia, ownership: Occidental, commodity: oil, NGL and natural gas, status: end-of-life (implied)], [asset: mineral acres and fee surface acres located in Wyoming, Colorado and Utah, location: Wyoming, Colorado and Utah, ownership: Occidental, commodity: oil, NGL and natural gas, status: operational], [asset: real estate assets, location: unspecified, ownership: Occidental, commodity: unspecified, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 64:
+(63, 'physical assets: [oil and gas portfolio]\nlocations: [Permian Basin, DJ Basin, Gulf of Mexico, Algeria]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [operational] \n\n\nrelationships: [asset: oil and gas portfolio, location: Permian Basin, ownership: Occidental, commodity: oil and gas, status: operational], [asset: oil and gas portfolio, location: DJ Basin, ownership: Occidental, commodity: oil and gas, status: operational], [asset: oil and gas portfolio, location: Gulf of Mexico, ownership: Occidental, commodity: oil and gas, status: operational], [asset: oil and gas portfolio, location: Algeria, ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 65:
+(64, 'physical assets:  []\nlocations:  []\nownerships:  []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 66:
+(65, 'physical assets: []\nlocations: [ Wyoming, Colorado, Utah, Colombia]\nownerships: [Occidental]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 67:
+(66, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 68:
+(67, 'physical assets: [oil and gas exploration and development equipment, including offshore and onshore drilling rigs, compressors, storage facilities, office space, other field equipment, pipelines, rail cars, easements, aircraft, real estate]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, natural gas] \nstatus: [operational]\n\nrelationships: [asset: oil and gas exploration and development equipment, location:  , ownership: Occidental, commodity: oil and natural gas, status: operational].')
+----------------------------------------------------------------------------------------------------
+Chunk 69:
+(68, "physical assets:  []\nlocations: []\nownerships: []\ncommodities: ['oil', 'natural gas']\nstatus: [] \n\n\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 70:
+(69, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 71:
+(70, 'physical assets: [oil and gas properties (proved and unproved), WES equity investment, goodwill]\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [impaired]')
+----------------------------------------------------------------------------------------------------
+Chunk 72:
+(71, "physical assets: [unproved property, domestic onshore undeveloped leases, offshore Gulf of Mexico]\nlocations: [domestic, offshore Gulf of Mexico]\nownerships: [Occidental]\ncommodities: [oil, gas]\nstatus: [undeveloped, no longer intended to pursue exploration, appraisal or development activities]\n\n\nrelationships: [asset: 'unproved property', location: 'domestic', ownership: 'Occidental', commodity: 'oil', status: 'undeveloped'], [asset: 'domestic onshore undeveloped leases', location: 'domestic', ownership: 'Occidental', commodity: 'oil', status: 'no longer intended to pursue exploration, appraisal or development activities'], [asset: 'offshore Gulf of Mexico', location: 'offshore Gulf of Mexico', ownership: 'Occidental', commodity: 'gas', status: 'no longer intended to pursue exploration, appraisal or development activities']")
+----------------------------------------------------------------------------------------------------
+Chunk 73:
+(72, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 74:
+(73, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 75:
+(74, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 76:
+(75, 'physical assets:  [ ]\nlocations: [ NPL sites, third-party sites, Occidental-operated sites, closed or non-operated Occidental sites]\nownerships: [Occidental, Maxus]\ncommodities: []\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 77:
+(76, 'physical assets: [landfill, refinery, chemical plants, coal mine]\nlocations: [Western New York, Oklahoma, California, Delaware, Michigan, New York, Ohio, Tennessee, Washington, Pennsylvania]\nownerships: [Occidental, Maxus, DSCC, YPF, Repsol]\ncommodities: [waste disposal, petroleum refining, chemical manufacturing, coal mining]\nstatus: [closed, non-operated, under remediation]\n\nrelationships: [asset: landfill, location: Western New York, ownership: Occidental, commodity: waste disposal, status: closed], [asset: refinery, location: Oklahoma, ownership: Occidental, commodity: petroleum refining, status: closed], [asset: chemical plants, location: California, Delaware, Michigan, New York, Ohio, Tennessee, Washington, ownership: Occidental, commodity: chemical manufacturing, status: closed], [asset: coal mine, location: Pennsylvania, ownership: Occidental, commodity: coal mining, status: closed]')
+----------------------------------------------------------------------------------------------------
+Chunk 78:
+(77, 'physical assets: []\nownerships: [ Occidental, subsidiaries, Andes, Republic of Ecuador, Anadarko, Sanchez, OEPC ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 79:
+(78, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 80:
+(79, 'physical assets: []\nlocations: []\nownerships: [ Occidental ] \ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 81:
+(80, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 82:
+(81, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Occidental] \ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 83:
+(82, "physical assets: [Property, plant and equipment] \nlocations: []\nownerships: [Occidental]\ncommodities: []\nstatus: []\nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'Occidental', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 84:
+(83, "physical assets:  [Property, plant and equipment]\nlocations: [United States, UAE, Oman, Algeria, Colombia, Qatar, Other International, Middle East and North Africa, Latin America, Permian Basin, DJ Basin, Oman]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: 'Property, plant and equipment', location: 'United States', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'UAE', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'Oman', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'Algeria', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'Colombia', ownership: 'Occidental', commodity: 'oil', status: 'end-of-life'], [asset: 'Property, plant and equipment', location: 'Qatar', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'Other International', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'Middle East and North Africa', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'Latin America', ownership: 'Occidental', commodity: 'oil', status: 'end-of-life'], [asset: 'Property, plant and equipment', location: 'Permian Basin', ownership: 'Occidental', commodity: 'oil', status: 'operational'], [asset: 'Property, plant and equipment', location: 'DJ Basin', ownership: 'Occidental', commodity: 'oil', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 85:
+(84, "physical assets: [Oil & Gas reserves]\nlocations: [Permian Basin, DJ Basin, Oman, Middle East, North Africa, Latin America]\nownerships: [OXY]\ncommodities: [oil and natural gas]\nstatus: [operational, nonproducing] \n\nrelationships: [asset: 'Oil & Gas reserves', location: 'Permian Basin', ownership: 'OXY', commodity: 'oil and natural gas', status: 'operational'], [asset: 'Oil & Gas reserves', location: 'DJ Basin', ownership: 'OXY', commodity: 'oil and natural gas', status: 'operational'], [asset: 'Oil & Gas reserves', location: 'Oman', ownership: 'OXY', commodity: 'oil and natural gas', status: 'operational'], [asset: 'Oil & Gas reserves', location: 'Middle East', ownership: 'OXY', commodity: 'oil and natural gas', status: 'operational'], [asset: 'Oil & Gas reserves', location: 'North Africa', ownership: 'OXY', commodity: 'oil and natural gas', status: 'operational'], [asset: 'Oil & Gas reserves', location: 'Latin America', ownership: 'OXY', commodity: 'oil and natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 86:
+(85, 'physical assets: [Proved properties, Unproved properties]\nownerships: [OXY] \ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: Proved properties, location: United States, ownership: OXY, commodity: oil and gas, status: operational], [asset: Unproved properties, location: International, ownership: OXY, commodity: oil and gas, status: under construction], [asset: Proved properties, location: Permian Basin, ownership: OXY, commodity: oil and gas, status: operational]  ...')
+----------------------------------------------------------------------------------------------------
+Chunk 87:
+(86, "physical assets: ['facilities', 'equipment', 'infrastructure']\nownerships: ['Occidental']\ncommodities: ['Oil and Gas'] \nstatus: ['operational', 'under construction', 'end-of-life']\nrelationships: [asset: 'facilities', location: 'Middle East', ownership: 'Occidental', commodity: 'Oil and Gas', status: 'operational'], [asset: 'equipment', location: 'North Africa', ownership: 'Occidental', commodity: 'Oil and Gas', status: 'operational'], [asset: 'infrastructure', location: 'Latin America', ownership: 'Occidental', commodity: 'Oil and Gas', status: 'operational'], [asset: 'facilities', location: 'Colombia', ownership: 'Occidental', commodity: 'Oil and Gas', status: 'end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 88:
+(87, 'physical assets: [facilities, equipment]\nownerships: [Occidental]\ncommodities: [oil, gas]\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 89:
+(88, 'physical assets: [facilities, equipment]\nownerships: [Occidental]\ncommodities: [oil, NGL, gas]\nstatus: []\n\nrelationships: [asset: facilities, location: United States, ownership: Occidental, commodity: oil, status: ], [asset: equipment, location: International, ownership: Occidental, commodity: NGL, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 90:
+(89, 'physical assets: [productive oil and gas wells, exploratory and development wells being drilled, pressure-maintenance projects, oil and gas acreage]\nlocations: [United States, International (Middle East and North Africa, Latin America)]\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [operational, under construction (being drilled), pending completion, suspended or waiting on completion]\n\nrelationships: [asset: productive oil and gas wells, location: United States, ownership: Occidental, commodity: oil, status: operational], [asset: productive oil and gas wells, location: International, ownership: Occidental, commodity: oil, status: operational], [asset: productive oil and gas wells, location: United States, ownership: Occidental, commodity: natural gas, status: operational], [asset: productive oil and gas wells, location: International, ownership: Occidental, commodity: natural gas, status: operational], [asset: exploratory and development wells being drilled, location: United States, ownership: Occidental, commodity: oil, status: under construction], [asset: exploratory and development wells being drilled, location: International, ownership: Occidental, commodity: oil, status: under construction], [asset: exploratory and development wells being drilled, location: United States, ownership: Occidental, commodity: natural gas, status: under construction], [asset: exploratory and development wells being drilled, location: International, ownership: Occidental, commodity: natural gas, status: under construction], [asset: pressure-maintenance projects, location: United States, ownership: Occidental, commodity: oil, status: operational], [asset: pressure-maintenance projects, location: International, ownership: Occidental, commodity: oil, status: operational], [asset: pressure-maintenance projects, location: United States, ownership: Occidental, commodity: natural gas, status: operational], [asset: pressure-maintenance projects, location: International, ownership: Occidental, commodity: natural gas, status: operational], [asset: oil and gas acreage, location: United States, ownership: Occidental, commodity: oil, status: developed or undeveloped], [asset: oil and gas acreage, location: International, ownership: Occidental, commodity: oil, status: developed or undeveloped]')
+----------------------------------------------------------------------------------------------------
+Chunk 91:
+(90, 'physical assets: [ ]\nlocations: [ United States, Permian Rockies & Other Domestic Gulf of Mexico, Algeria and Other International, Al Hosn Gas, Dolphin, Oman]\nownerships: [ Occidental Petroleum Corporation ]\ncommodities: [Oil (Mbbl), NGL (Mbbl), Natural gas (MMcf)]\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 92:
+(91, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 93:
+(92, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 94:
+(93, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 95:
+(94, 'physical assets: []\nlocations: []\nownerships: Occidental Petroleum Corporation\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 96:
+(95, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 97:
+(0, 'physical assets: []\nlocations: [Greenway Plaza, Suite , Houston, Texas]\nownerships: [Occidental Petroleum Corporation]\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 98:
+(1, 'physical assets: [oil, NGL, natural gas]\nlocations: [Greenway Plaza, Suite , Houston, Texas ] \nownerships: [Occidental Petroleum Corporation, subsidiaries]\ncommodities: [oil (which includes condensate), NGL and natural gas, basic chemicals and vinyls, CO and power]\nstatus: []\nrelationships: [asset: oil, location: Greenway Plaza, Suite , Houston, Texas , ownership: Occidental Petroleum Corporation, commodity: fuel, status: operational].')
+----------------------------------------------------------------------------------------------------
+Chunk 99:
+(2, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 100:
+(3, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 101:
+(4, 'physical assets: [ ]\nlocations: [ United States, Middle East, North Africa, Texas, New Mexico, Colorado, Gulf of Mexico, UAE, Oman, Algeria ]\nownerships: [ Occidental ]\ncommodities: []\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 102:
+(5, 'physical assets: [Manufacturing plants]\nlocations: [Alabama, Georgia, Illinois, Kansas, Louisiana, Michigan, New Jersey, Ohio, Tennessee, Texas, Canada, Chile]\nownerships: [OxyChem]\ncommodities: [Chlorine, Caustic soda, Chlorinated organics, Potassium chemicals, EDC, Chlorinated isocyanurates, Sodium silicates, Calcium chloride, VCM, PVC, Ethylene]\nstatus: []\nrelationships: [asset: Manufacturing plants, location: Alabama, ownership: OxyChem, commodity: Chlorine, status: operational], [asset: Manufacturing plants, location: Georgia, ownership: OxyChem, commodity: Caustic soda, status: operational], [asset: Manufacturing plants, location: Illinois, ownership: OxyChem, commodity: Chlorinated organics, status: operational], [asset: Manufacturing plants, location: Kansas, ownership: OxyChem, commodity: Potassium chemicals, status: operational], [asset: Manufacturing plants, location: Louisiana, ownership: OxyChem, commodity: EDC, status: operational], [asset: Manufacturing plants, location: Michigan, ownership: OxyChem, commodity: Chlorinated isocyanurates, status: operational], [asset: Manufacturing plants, location: New Jersey, ownership: OxyChem, commodity: Sodium silicates, status: operational], [asset: Manufacturing plants, location: Ohio, ownership: OxyChem, commodity: Calcium chloride, status: operational], [asset: Manufacturing plants, location: Tennessee, ownership: OxyChem, commodity: VCM, status: operational], [asset: Manufacturing plants, location: Texas, ownership: OxyChem, commodity: PVC, status: operational], [asset: Manufacturing plants, location: Canada, ownership: OxyChem, commodity: Ethylene, status: operational], [asset: Manufacturing plants, location: Chile, ownership: OxyChem, commodity: Chlorine, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 103:
+(6, 'physical assets: [gathering systems, gas plants, co-generation facilities, storage facilities, pipelines, processing facilities, power generation facilities, solar generation facility, zero-emission natural gas generation demonstration facility]\nlocations: [Texas, New Mexico and Colorado, Rocky Mountains, UAE, Qatar, Oman, United States, Canada]\nownerships: [Occidental, WES, DEL, Al Hosn Gas, NET Power]\ncommodities: [natural gas, sulfur, electricity, steam, CO2]\nstatus: []\nrelationships: [asset: gathering systems, location: Texas, New Mexico and Colorado, ownership: Occidental, commodity: natural gas, status: operational], [asset: gas plants, location: Texas, New Mexico and Colorado, ownership: Occidental and third parties, commodity: natural gas, status: operational], [asset: co-generation facilities, location: undefined, ownership: Occidental, commodity: electricity and steam, status: operational], [asset: storage facilities, location: undefined, ownership: Occidental, commodity: natural gas, status: operational], [asset: pipelines, location: Texas, New Mexico and Colorado, ownership: Occidental, commodity: CO2, status: operational], [asset: processing facilities, location: UAE, ownership: Al Hosn Gas, commodity: natural gas and sulfur, status: operational], [asset: power generation facilities, location: Texas and Louisiana, ownership: Occidental, commodity: electricity and steam, status: operational], [asset: solar generation facility, location: Texas, ownership: Occidental, commodity: electricity, status: operational], [asset: zero-emission natural gas generation demonstration facility, location: Texas, ownership: Occidental, commodity: electricity, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 104:
+(7, 'physical assets: [facilities, operations, drilling programs, host platforms, infrastructure] \nlocations: [federal public lands, federal offshore waters, Gulf of Mexico, New Mexico, Wyoming]\nownerships: [Occidental subsidiaries, U.S. government, BOEM]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life]\nrelationships: \n[asset: facilities, location: federal public lands, ownership: Occidental subsidiaries, commodity: oil and gas, status: operational]\n[asset: operations, location: federal offshore waters, ownership: Occidental subsidiaries, commodity: oil and gas, status: operational]\n[asset: drilling programs, location: federal public lands, ownership: Occidental subsidiaries, commodity: oil and gas, status: under construction]\n[asset: host platforms, location: Gulf of Mexico, ownership: Occidental subsidiaries, commodity: oil and gas, status: operational]\n[asset: infrastructure, location: federal public lands, ownership: U.S. government, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 105:
+(8, "physical assets: [Well pads, facilities, drilling locations]\nlocations: [Permian Basin (West Texas and Southeast New Mexico), DJ Basin, Colorado's eastern plains]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus:  [operational, under construction] \n\nrelationships: [asset: Well pads, location: Permian Basin, ownership: Occidental, commodity: oil and gas, status: operational], [asset: facilities, location: Permian Basin, ownership: Occidental, commodity: oil and gas, status: operational], [asset: drilling locations, location: DJ Basin, ownership: Occidental, commodity: oil and gas, status: operational], [asset: well pads, location: Colorado's eastern plains, ownership: Occidental, commodity: oil and gas, status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 106:
+(9, 'physical assets: [Oil and gas operations, facilities, equipment]\nlocations: [Countries affected by political instability, nationalizations, corruption, armed conflict, terrorism, insurgency, civil unrest, security problems, labor unrest, OPEC production restrictions, equipment import restrictions and sanctions, U.S., DJ Basin]\nownerships: [Occidental]\ncommodities: [Oil, gas]\nstatus: [Operational, under construction (implied by regulations)]\n\n\nrelationships: [asset: Oil and gas operations, location: Countries affected by political instability, nationalizations, corruption, armed conflict, terrorism, insurgency, civil unrest, security problems, labor unrest, OPEC production restrictions, equipment import restrictions and sanctions, U.S., DJ Basin, ownership: Occidental, commodity: Oil, status: Operational], [asset: Facilities, location: Countries affected by political instability, nationalizations, corruption, armed conflict, terrorism, insurgency, civil unrest, security problems, labor unrest, OPEC production restrictions, equipment import restrictions and sanctions, U.S., DJ Basin, ownership: Occidental, commodity: Oil, status: Operational], [asset: Equipment, location: Countries affected by political instability, nationalizations, corruption, armed conflict, terrorism, insurgency, civil unrest, security problems, labor unrest, OPEC production restrictions, equipment import restrictions and sanctions, U.S., DJ Basin, ownership: Occidental, commodity: Oil, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 107:
+(10, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [oil, NGL, natural gas] \nstatus: [ ]\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 108:
+(11, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Coastal operations]\nownerships: [Occidental or its subsidiaries]\ncommodities: [oil, NGL, natural gas, chemicals]\nstatus: [] \nrelationships: [asset: facilities, location: Coastal operations, ownership: Occidental or its subsidiaries, commodity: oil, NGL, natural gas, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 109:
+(12, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas, refined products, chemical products]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 110:
+(13, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 111:
+(14, 'physical assets: [oil and gas reserves]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, natural gas, NGL]\nstatus: [uneconomical]\n\nrelationships: [asset: oil and gas reserves, location: , ownership: Occidental, commodity: oil, natural gas, NGL, status: uneconomical]')
+----------------------------------------------------------------------------------------------------
+Chunk 112:
+(15, 'physical assets:  [Oil and gas properties, CO EOR operations, facilities, equipment, infrastructure]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: Oil and gas properties, location:  Various locations worldwide, ownership: Occidental, commodity: oil and natural gas, status: operational, under construction, end-of-life], [asset: CO EOR operations, location: Various locations where CO is available for use, ownership: Occidental, commodity: oil, status: operational], [asset: Facilities, location:  Various locations worldwide, ownership: Occidental, commodity: oil and natural gas, status: operational] ,[asset: Equipment, location: Various locations worldwide, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: Infrastructure, location: Various locations worldwide, ownership: Occidental, commodity: oil and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 113:
+(16, "physical assets: [Information and industrial control technology system, network, infrastructure,  automated and surveillance systems, power generation facility, refinery, communications network]\nlocations: []\nownerships: [Occidental, OxyChem, business associates, vendors, service providers, third parties] \ncommodities: [oil, natural gas]\nstatus: [] \n\nrelationships: [asset: 'Information and industrial control technology system', location: '', ownership: 'Occidental', commodity: 'oil, natural gas', status: ''], [asset: 'network', location: '', ownership: 'Occidental', commodity: 'oil, natural gas', status: ''], [asset: 'infrastructure', location: '', ownership: 'Occidental', commodity: 'oil, natural gas', status: ''], [asset: 'automated and surveillance systems', location: '', ownership: 'Occidental', commodity: 'oil, natural gas', status: ''], [asset: 'power generation facility', location: '', ownership: 'Third party', commodity: 'natural gas', status: ''], [asset: 'refinery', location: '', ownership: 'Third party', commodity: 'natural gas', status: ''], [asset: 'communications network', location: '', ownership: 'Third party', commodity: 'oil, natural gas', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 114:
+(17, 'physical assets: [facilities, equipment]\nownerships: [Occidental subsidiaries] \ncommodities: [oil]\nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 115:
+(18, 'physical assets: []\nlocations: [ District of New Mexico]\nownerships: [ Occidental, subsidiaries ]\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 116:
+(19, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 117:
+(20, 'physical assets:  [ ]\nlocations: [ Russia, Ukraine] \nownerships: [ ]\ncommodities: [oil]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 118:
+(21, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [U.S., Permian, U.S. Gulf Coast]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas]\nstatus: [operational, under construction]\n\nrelationships: [asset: facilities, location: U.S., ownership: Occidental, commodity: oil, status: operational],  [asset: equipment, location: Permian, ownership: Occidental, commodity: oil, status: operational],  [asset: infrastructure, location: U.S. Gulf Coast, ownership: Occidental, commodity: natural gas, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 119:
+(22, 'physical assets: [Facilities in the Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman and Algeria,  Land leases, subsurface mineral rights]\nlocations: [Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman, Algeria, Powder River Basin]\nownerships: [Occidental]\ncommodities: [Oil, natural gas]\nstatus: [Operational]\n\n\nrelationships: [asset: Facilities in the Permian Basin, location: Permian Basin, ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Facilities in the DJ Basin, location: DJ Basin, ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Facilities in the Gulf of Mexico, location: Gulf of Mexico, ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Facilities in the UAE, location: UAE, ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Facilities in Oman, location: Oman, ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Facilities in Algeria, location: Algeria, ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Land leases, location: Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman and Algeria, ownership: Occidental, commodity: Oil and natural gas, status: Operational], [asset: Subsurface mineral rights, location: Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman and Algeria, ownership: Occidental, commodity: Oil and natural gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 120:
+(23, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Permian Basin, DJ Basin, Rockies, Other Domestic locations, Powder River Basin, Gulf of Mexico]\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [operational, under construction] \n\nrelationships: [asset: facilities, location: Permian Basin, ownership: Occidental, commodity: oil, status: operational], [asset: equipment, location: DJ Basin, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: infrastructure, location: Rockies, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: facilities, location: Powder River Basin, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: platforms, location: Gulf of Mexico, ownership: Occidental, commodity: oil and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 121:
+(24, "physical assets: ['marine shore-bases in Galveston, Texas', 'Port Fourchon, Louisiana', 'helicopter bases in Louisiana', 'central logistics base with an integrated training center', 'Broussard, Louisiana office tower', 'The Woodlands, Texas office tower', 'Horn Mountain West subsea development', 'Lucius and Holstein facilities', 'platform rig', 'service rigs', 'floating drill ship', 'Caesar-Tonga Subsea Expansion project', 'subsea-pumping projects supporting the Marco Polo/K2 field', 'Marlin/King field', '4D seismic shoots in the Holstein field', 'other', 'well stimulations and artificial lift projects', 'platform operating efficiencies', 'machinery uptimes', 'annual platform turn-arounds', 'regulatory permits for new wells and existing operations']\nlocations: ['Galveston, Texas', 'Port Fourchon, Louisiana', 'Louisiana', 'Broussard, Louisiana', 'The Woodlands, Texas', 'Gulf of Mexico', 'Horn Mountain West', 'Lucius', 'Holstein', 'Marco Polo/K2 field', 'Marlin/King field', 'Holstein field']\nownerships: ['Occidental']\ncommodities: ['oil', 'NGL and natural gas']\nstatus: ['operational', 'under construction', 'end-of-life']\nrelationships: ['Horn Mountain West subsea development: Horn Mountain West, Occidental, oil production, operational', 'Lucius and Holstein facilities: Lucius and Holstein, Occidental, oil production, operational', 'platform rig: N/A, Occidental, oil production, operational', 'service rigs: N/A, Occidental, oil production, operational', 'floating drill ship: N/A, Occidental, oil production, operational', 'Caesar-Tonga Subsea Expansion project: Caesar-Tonga field, Occidental, oil production, operational', 'subsea-pumping projects supporting the Marco Polo/K2 field: Marco Polo/K2 field, Occidental, oil production, operational', 'Marlin/King field: Marlin/King field, Occidental, oil production, operational', '4D seismic shoots in the Holstein field: Holstein field, Occidental, exploration, operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 122:
+(25, 'physical assets: [facilities, wells, equipment]\nlocations: [Algeria, Oman, Qatar, UAE]\ncommodities: [hydrocarbons, NGL, natural gas, condensate]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: facilities, location: Algeria, ownership: Occidental, commodity: hydrocarbons, status: operational], [asset: wells, location: Algeria, ownership: Occidental, commodity: hydrocarbons, status: operational], [asset: wells, location: Oman, ownership: Occidental, commodity: NGL, natural gas, condensate, status: operational], [asset: facilities, location: Oman, ownership: Occidental, commodity: NGL, natural gas, condensate, status: operational], [asset: facilities, location: Qatar, ownership: Occidental, commodity: NGL, natural gas, condensate, status: operational], [asset: wells, location: UAE, ownership: Occidental, commodity: natural gas, NGL, condensate, status: operational],  [asset: facilities, location: UAE, ownership: Occidental, commodity: natural gas, NGL, condensate, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 123:
+(26, 'physical assets: [Proved reserves]\nlocations: [Permian Basin, DJ Basin, Gulf of Mexico, Powder River Basin, Permian EOR, international PSCs]\nownerships: [Occidental]\ncommodities: [Oil, NGL, Natural gas]\nstatus: [Operational, Under construction, End-of-life] \n\nrelationships: [asset: Proved reserves, location: Permian Basin, ownership: Occidental, commodity: Oil, status: Operational], [asset: Proved reserves, location: DJ Basin, ownership: Occidental, commodity: NGL, status: Operational], [asset: Proved reserves, location: Gulf of Mexico, ownership: Occidental, commodity: Natural gas, status: Operational], [asset: Proved reserves, location: Powder River Basin, ownership: Occidental, commodity: Oil, status: Operational], [asset: Proved reserves, location: Permian EOR, ownership: Occidental, commodity: Oil, status: Operational], [asset: Proved reserves, location: international PSCs, ownership: Occidental, commodity: Natural gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 124:
+(27, "physical assets:  [infill development projects, extensions, discoveries, conventional projects, secondary and tertiary projects]\nlocations: [Permian Basin, DJ Basin, Gulf of Mexico, international assets]\nownerships: [Occidental]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: 'infill development projects', location: 'Permian Basin', ownership: 'Occidental', commodity: '', status: 'operational'], \n[asset: 'extensions', location: 'Permian Basin', ownership: 'Occidental', commodity: '', status: ''], \n[asset: 'discoveries', location: 'Permian Basin', ownership: 'Occidental', commodity: '', status: ''], \n[asset: 'conventional projects', location: 'Permian EOR', ownership: 'Occidental', commodity: '', status: ''], \n[asset: 'secondary and tertiary projects', location: 'international assets', ownership: 'Occidental', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 125:
+(28, "physical assets: [wells]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [under construction, operational]\n\n\nrelationships: [asset: 'wells', location: '', ownership: 'Occidental', commodity: 'oil and gas', status: 'under construction'], [asset: 'wells', location: '', ownership: 'Occidental', commodity: 'oil and gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 126:
+(29, 'physical assets:  [ ]\nlocations: [ Russia, Ukraine]\nownerships: [ Occidental]\ncommodities: [oil, NGL, domestic gas, liquid caustic soda, PVC]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 127:
+(30, 'physical assets: [PVC exports]\nlocations: []\nownerships: [Occidental] \ncommodities: [Petroleum products]\nstatus: []\n\nrelationships: [asset: PVC exports, location: , ownership: Occidental, commodity: Petroleum products, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 128:
+(31, 'physical assets: [Crude pipeline, leased crude storage capacity, crude terminal, Dolphin Pipeline, natural gas pipeline, gathering systems, plants and pipelines, power generation facilities, sour gas processing facilities, DAC facility, sequestration hubs]\nlocations: [Gulf Coast, Qatar, UAE, Oman]\nownerships: [Occidental, DEL, WES, Al Hosn Gas, OLCV]\ncommodities: [Crude oil, natural gas, NGL, condensate, sulfur, CO, low-carbon energy and products]\nstatus: [Operational, under construction]\n\nrelationships: [asset: Crude pipeline, location: Gulf Coast, ownership: Occidental, commodity: crude oil, status: operational], [asset: leased crude storage capacity, location: -, ownership: Occidental, commodity: crude oil, status: operational], [asset: crude terminal, location: -, ownership: Occidental, commodity: crude oil, status: operational], [asset: Dolphin Pipeline, location: Qatar to UAE and Oman, ownership: DEL, commodity: natural gas, status: operational], [asset: natural gas pipeline, location: -, ownership: WES, commodity: natural gas, status: operational], [asset: gathering systems, location: -, ownership: WES, commodity: wet gas, status: operational], [asset: plants and pipelines, location: -, ownership: WES, commodity: wet gas, status: operational], [asset: power generation facilities, location: -, ownership: Occidental, commodity: electricity and steam, status: operational], [asset: sour gas processing facilities, location: -, ownership: Al Hosn Gas, commodity: natural gas, NGL, condensate, sulfur, status: operational], [asset: DAC facility, location: -, ownership: OLCV, commodity: CO , status: under construction], [asset: sequestration hubs, location: -, ownership: OLCV, commodity: CO , status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 129:
+(32, 'physical assets: [facilities, equipment, infrastructure] \nlocations: [Midland, Gulf-Coast, Permian Basin, Wyoming, Colorado, Utah, Colombia]\nownerships: [Occidental]\ncommodities: [oil, natural gas, CO2]\nstatus: []\n\nrelationships: [asset: facilities, location: Midland, ownership: Occidental, commodity: oil, status: operational], \n[asset: equipment, location: Gulf-Coast, ownership: Occidental, commodity: oil, status: operational], \n[asset: infrastructure, location: Permian Basin, ownership: Occidental, commodity: natural gas, status: operational], \n[asset: facilities, location: Wyoming, ownership: Occidental, commodity: CO2, status: end-of-life], \n[asset: equipment, location: Colorado, ownership: Occidental, commodity: oil, status: operational], \n[asset: infrastructure, location: Utah, ownership: Occidental, commodity: natural gas, status: operational], \n[asset: facilities, location: Colombia, ownership: Occidental, commodity: oil, status: end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 130:
+(33, 'physical assets: [unproved acreage, other domestic onshore assets, Gulf of Mexico proved properties,  Algeria and Oman proved properties, Permian Basin, DJ Basin, Rocky Mountains, Gulf of Mexico] \nlocations: [domestic, Algeria, Oman, United States, Permian Basin, DJ Basin, Rockies & Other Domestic, Gulf of Mexico ]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas]\nstatus: []\nrelationships: [asset: unproved acreage, location: domestic, ownership: Occidental, commodity: oil and/or natural gas, status:  ], [asset: other domestic onshore assets, location: domestic, ownership: Occidental, commodity: oil and/or natural gas, status: ], [asset: Gulf of Mexico proved properties, location: Gulf of Mexico, ownership: Occidental, commodity: oil and/or natural gas, status: ], [asset: Algeria and Oman proved properties, location: Algeria and Oman, ownership: Occidental, commodity: oil and/or natural gas, status: ],  [asset: Permian Basin, location: United States (Permian Basin), ownership: Occidental, commodity: oil and/or natural gas, status: operational], [asset: DJ Basin, location: United States (DJ Basin), ownership: Occidental, commodity: oil and/or natural gas, status: operational], [asset: Rocky Mountains, location: United States (Rocky Mountains), ownership: Occidental, commodity: oil and/or natural gas, status: operational], [asset: Gulf of Mexico assets, location: Gulf of Mexico, ownership: Occidental, commodity: oil and/or natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 131:
+(34, 'physical assets: []\nlocations: [ ]\nownerships: [ ]\ncommodities: [ ]\nstatus: [ ]\nrelationships: [  ]')
+----------------------------------------------------------------------------------------------------
+Chunk 132:
+(35, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['oil', 'gas', 'chemical']\nstatus: []\n\n\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 133:
+(36, 'physical assets: []\nownerships: [ Occidental ]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 134:
+(37, "physical assets: [Oil and gas facilities, Chemical facilities, Midstream and marketing infrastructure]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, natural gas, chemicals]\nstatus: [Operational, Under construction, End-of-life] \n\nrelationships: [asset: 'Oil and gas facilities', location: '', ownership: 'Occidental', commodity: 'oil', status: 'Operational'], [asset: 'Chemical facilities', location: '', ownership: 'Occidental', commodity: 'chemicals', status: 'Operational'], [asset: 'Midstream and marketing infrastructure', location: '', ownership: 'Occidental', commodity: 'oil, natural gas', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 135:
+(38, 'physical assets: [PP&E, Oil and gas properties]\nlocations: [North America, United States, Canada, Middle East, North Africa]\nownerships: [Occidental]\ncommodities: [Oil and gas]\nstatus: [Operational, Under construction, End-of-life] \n\nrelationships: [asset: PP&E, location: North America, ownership: Occidental, commodity: Oil and gas, status: Operational], [asset: Oil and gas properties, location: United States, ownership: Occidental, commodity: Oil and gas, status: Operational], [asset: Oil and gas properties, location: Canada, ownership: Occidental, commodity: Oil and gas, status: Operational], [asset: Oil and gas properties, location: Middle East, ownership: Occidental, commodity: Oil and gas, status: Operational], [asset: Oil and gas properties, location: North Africa, ownership: Occidental, commodity: Oil and gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 136:
+(39, 'physical assets: [proved properties,  unproved properties]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life (implied)] \n\nrelationships: [asset: proved properties, location: , ownership: Occidental, commodity: oil and gas, status: operational (implied)], [asset: unproved properties, location: , ownership: Occidental, commodity: oil and gas, status:  operational (implied)]')
+----------------------------------------------------------------------------------------------------
+Chunk 137:
+(40, 'physical assets: [proved oil and gas reserves]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [operational] \n\nrelationships: [asset: proved oil and gas reserves, location: , ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 138:
+(41, 'physical assets:  []\nlocations: [] \nownerships:  [Occidental]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 139:
+(42, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 140:
+(43, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil, NGL and natural gas]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 141:
+(44, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [oil, natural gas, chlorine, caustic soda, PVC]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 142:
+(45, 'physical assets: []\nlocations: []\nownerships: Occidental Petroleum Corporation\ncommodities: []\nstatus: []\nrelationships:  [] \n\n\nThe text focuses on financial statements and accounting practices, not the physical assets used by the company.')
+----------------------------------------------------------------------------------------------------
+Chunk 143:
+(46, 'physical assets: []\nlocations: [ Lower Passaic River site ]\nownerships: [Company]\ncommodities: []\nstatus: [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 144:
+(47, "physical assets: [Oil and gas, Chemical, Midstream and marketing, Corporate]\nlocations: [ ]\nownerships: [Occidental Petroleum Corporation]\ncommodities: []\nstatus: [] \n\n\nrelationships: [asset: 'Oil and gas', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: ''], [asset: 'Chemical', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: ''], [asset: 'Midstream and marketing', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: ''], [asset: 'Corporate', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 145:
+(48, 'physical assets: []\nlocations: []\nownerships: Occidental Petroleum Corporation \ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 146:
+(49, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 147:
+(50, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Occidental Petroleum Corporation]\ncommodities: [oil, natural gas, NGL, chemicals, vinyls, CO, power, low-carbon technologies] \nstatus: [ ]\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 148:
+(51, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 149:
+(52, 'physical assets: [Property, Plant and Equipment (PP&E), Oil and Gas Producing Properties]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas, chemical products]\nstatus: [Operational, Under Construction (for exploratory wells), Suspended Exploratory Drilling Costs (if future appraisal drilling or development activities are unlikely to occur)]\n\n\nrelationships: [asset: Property, Plant and Equipment (PP&E), location:  Not specified, ownership: Occidental, commodity: oil, NGL, natural gas, chemical products, status: Operational]\nrelationships: [asset: Oil and Gas Producing Properties, location: Not specified, ownership: Occidental, commodity: oil, NGL, natural gas, status: Operational, Under Construction (for exploratory wells), Suspended Exploratory Drilling Costs (if future appraisal drilling or development activities are unlikely to occur)]')
+----------------------------------------------------------------------------------------------------
+Chunk 150:
+(53, 'physical assets: [proved properties, unproved properties, chemical assets]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil and gas, chemicals]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: proved properties, location: not specified, ownership: Occidental, commodity: oil and gas, status: operational/under construction/end-of-life], [asset: unproved properties, location: not specified, ownership: Occidental, commodity: oil and gas, status: under construction/end-of-life], [asset: chemical assets, location: not specified, ownership: Occidental, commodity: chemicals, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 151:
+(54, "physical assets: [chemical assets, midstream and marketing PP&E, undeveloped leases, oil and gas materials and supplies inventories, proved and unproved properties, goodwill associated with Occidental’s ownership in WES]\nlocations: []\nownerships: [Occidental]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: 'chemical assets', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'midstream and marketing PP&E', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'undeveloped leases', location: '', ownership: 'Occidental', commodity: '', status: 'expired or set to expire'], [asset: 'oil and gas materials and supplies inventories', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'proved and unproved properties', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'goodwill associated with Occidental’s ownership in WES', location: '', ownership: 'Occidental', commodity: '', status: 'impaired']]")
+----------------------------------------------------------------------------------------------------
+Chunk 152:
+(55, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: []\nstatus: [ ] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 153:
+(56, "physical assets:  [Asset Retirement Obligations (ARO)]\nlocations: []\nownerships: [Occidental]\ncommodities:  [Plugging of wells, abandonment of oil and gas properties, plant decommissioning] \nstatus: [Under construction/Operational - as AROs are recognized when there is an obligation to dismantle and remediate at the end of its useful life.]\n\nrelationships: [asset: 'ARO', location: '', ownership: 'Occidental', commodity: 'Plugging of wells, abandonment of oil and gas properties, plant decommissioning', status: 'Under construction/Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 154:
+(57, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  [ ]')
+----------------------------------------------------------------------------------------------------
+Chunk 155:
+(58, "physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ['oil', 'NGL', 'natural gas', 'chemicals']\nstatus: [ ]\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 156:
+(59, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ Occidental, WES, OxyChem Ingleside Facility, Net Power, DEL]\ncommodities: [Oil, NGL, Gas, Caustic soda, Chlorine]\nstatus: [ ] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 157:
+(60, 'physical assets:  [facilities, equipment, infrastructure]\ncommodities: [oil, NGL, natural gas, chemicals, power, steam]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 158:
+(61, 'ownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 159:
+(62, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 160:
+(63, 'physical assets: [oil and gas exploration and development equipment, office space, offshore and onshore drilling rigs, compressors, storage facilities, field equipment, pipelines, rail cars, easements, aircraft, real estate]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [operational] \n\nrelationships: [asset: oil and gas exploration and development equipment, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: office space, location: , ownership: Occidental, commodity: , status: operational], [asset: offshore and onshore drilling rigs, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: compressors, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: storage facilities, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: field equipment, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: pipelines, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: rail cars, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: easements, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: aircraft, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: real estate, location: , ownership: Occidental, commodity: , status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 161:
+(64, "physical assets:  [Property, plant and equipment]\nlocations: []\nownerships: [Occidental]\ncommodities: []\nstatus: []\n\nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'Occidental', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 162:
+(65, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 163:
+(66, 'physical assets: [oil and gas properties]\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 164:
+(67, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 165:
+(68, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 166:
+(69, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 167:
+(70, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  \n\n\nLet\'s break down why this response is accurate:\n\n* **No Physical Assets:** The text focuses on financial data related to pension plans, investments, and actuarial assumptions. There\'s no mention of tangible resources like facilities, equipment, or infrastructure.\n* **No Locations:** The text doesn\'t specify any geographical locations where assets might be situated. \n* **No Ownerships:** While it mentions "Occidental" as the company managing these plans, the text doesn\'t delve into specific ownership details of the assets within those plans.\n* **No Commodities:** The text discusses financial instruments and investment strategies but doesn\'t relate them to the production or usage of physical commodities.\n* **No Asset Status:** There\'s no information about the operational status (operational, under construction, end-of-life) of any physical assets because the text doesn\'t discuss physical assets at all.')
+----------------------------------------------------------------------------------------------------
+Chunk 168:
+(71, 'physical assets: [Third-Party Sites, Currently Operated Sites, Closed or Non-operated Sites, Diamond Alkali Superfund Site (DASS), chrome site, former copper mining and smelting operation, former oil field and a landfill, active refinery, oil and gas operations, chemical plants, landfill, former refinery, former chemical plants, closed coal mine]\nlocations: [Newark, New Jersey, Tennessee, California, Louisiana, Colorado, Kansas, Oklahoma, Pennsylvania, Western New York, Michigan, Ohio, Washington]\nownerships:  [Occidental subsidiaries, Maxus, OxyChem, current owner of the active refinery in Louisiana, Glenn Springs Holdings, Inc.]\ncommodities: [oil and gas, copper, chrome, chemicals, coal] \nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: Third-Party Sites, location:  a chrome site in New Jersey, ownership:  Occidental subsidiaries, commodity: chrome, status: end-of-life], [asset: Currently Operated Sites, location: oil and gas operations in Colorado, ownership: Occidental subsidiaries, commodity: oil and gas, status: operational], [asset: Closed or Non-operated Sites, location: former refinery in Oklahoma, ownership: Occidental subsidiaries, commodity: oil refining, status: end-of-life]...')
+----------------------------------------------------------------------------------------------------
+Chunk 169:
+(72, 'physical assets: [Former Diamond Alkali Plant, Lower Miles of the Lower Passaic River, Newark Bay Study Area, -mile Lower Passaic River Study Area]\nownerships: [Maxus, OxyChem, EPA]\ncommodities: []\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 170:
+(73, 'physical assets: [ ]\nlocations: [DASS, Block 15]\nownerships: [OxyChem, Occidental, Republic of Ecuador]\ncommodities: [ ]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 171:
+(74, 'physical assets:  [ ]\nlocations: [ Block, OU2, OU4, OU3, DASS ]\nownerships: [ Occidental, Andes, OEPC, OPC, OXY USA, EPA, DOJ, OxyChem, Maxus, YPF, Repsol ]\ncommodities: []\nstatus: [] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 172:
+(75, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 173:
+(76, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 174:
+(77, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 175:
+(78, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 176:
+(79, 'physical assets: [Property, plant and equipment]\nlocations: []\nownerships: [Occidental]\ncommodities: []\nstatus: [operational, under construction, end-of-life] \n\n\nrelationships: [asset: Property, plant and equipment, location: , ownership: Occidental, commodity: , status: operational, under construction, end-of-life].')
+----------------------------------------------------------------------------------------------------
+Chunk 177:
+(80, "physical assets: [Property, plant and equipment]\nlocations: [United States, UAE, Oman, Algeria, Qatar, Other International]\nownerships: [Occidental]\ncommodities: [oil, NGL and natural gas]\nstatus: [] \n\nrelationships: [asset: 'Property, plant and equipment', location: 'United States', ownership: 'Occidental', commodity: 'oil, NGL and natural gas', status: ''], [asset: 'Property, plant and equipment', location: 'UAE', ownership: 'Occidental', commodity: 'oil, NGL and natural gas', status: ''], [asset: 'Property, plant and equipment', location: 'Oman', ownership: 'Occidental', commodity: 'oil, NGL and natural gas', status: ''], [asset: 'Property, plant and equipment', location: 'Algeria', ownership: 'Occidental', commodity: 'oil, NGL and natural gas', status: ''], [asset: 'Property, plant and equipment', location: 'Qatar', ownership: 'Occidental', commodity: 'oil, NGL and natural gas', status: ''], [asset: 'Property, plant and equipment', location: 'Other International', ownership: 'Occidental', commodity: 'oil, NGL and natural gas', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 178:
+(81, "physical assets: [OIL RESERVES, NGL RESERVES, NATURAL GAS RESERVES]\nlocations: []\nownerships: [OXY]\ncommodities: [OIL, NGL, NATURAL GAS]\nstatus: [PROVED DEVELOPED AND UNDEVELOPED] \n\nrelationships: [asset: 'OIL RESERVES', location: '', ownership: 'OXY', commodity: 'OIL', status: 'PROVED DEVELOPED AND UNDEVELOPED'], [asset: 'NGL RESERVES', location: '', ownership: 'OXY', commodity: 'NGL', status: 'PROVED DEVELOPED AND UNDEVELOPED'], [asset: 'NATURAL GAS RESERVES', location: '', ownership: 'OXY', commodity: 'NATURAL GAS', status: 'PROVED DEVELOPED AND UNDEVELOPED']]")
+----------------------------------------------------------------------------------------------------
+Chunk 179:
+(82, 'physical assets: [Proved properties, Unproved properties]\nownerships: [OXY]\ncommodities: [Oil and Gas]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 180:
+(83, "physical assets: [ oil and gas properties ]\nownerships: [ Occidental ]\ncommodities: [ Oil and Gas ]\nstatus: []\nrelationships: [asset: 'oil and gas properties', location: 'South Africa', ownership: 'Occidental', commodity: 'Oil and Gas', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 181:
+(84, 'physical assets: [ ]\nownerships: [ Occidental ]\ncommodities: [ oil and gas ]\nstatus: [ ]\nrelationships: [] \n\n\n\nLet me explain why I answered this way:\n\n* **Physical Assets:** The text focuses on financial performance and doesn\'t list specific physical assets like facilities or equipment. Terms like "proved oil and gas reserves" refer to quantities, not tangible items.\n* **Ownerships:**  We know "Occidental" is involved based on the document being an OXY FORM -K.\n* **Commodities:** The text explicitly states "oil and gas" as the commodities related to the company\'s operations.\n* **Status:** There\'s no information about the operational status of specific assets (operational, under construction, etc.).\n\n\n\nThe relationships section remains empty because we lack the details to connect physical assets, locations, ownership, commodities, and their statuses based on the provided text.')
+----------------------------------------------------------------------------------------------------
+Chunk 182:
+(85, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [United States, International]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [operational, under construction (PUD reserves), suspended or waiting on completion]\n\n\nrelationships: [asset: facilities, location: United States, ownership: Occidental, commodity: oil and gas, status: operational], [asset: equipment, location: International, ownership: Occidental, commodity: oil and gas, status: operational], [asset: infrastructure, location: United States, ownership: Occidental, commodity: oil and gas, status: operational], [asset: exploratory wells, location: United States, ownership: Occidental, commodity: oil and gas, status: under construction (PUD reserves)], [asset: development wells, location: International, ownership: Occidental, commodity: oil and gas, status: suspended or waiting on completion]')
+----------------------------------------------------------------------------------------------------
+Chunk 183:
+(86, 'physical assets: [acreage]\nlocations: [Algeria, Al Hosn Gas, Dolphin Oman, Permian Rockies & Other Domestic, Gulf of Mexico, United States ]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas]\nstatus: []\nrelationships: [asset: acreage, location: Algeria, ownership: Occidental, commodity: oil, status:  ], [asset: acreage, location: Al Hosn Gas, ownership: Occidental, commodity: natural gas, status:  ], [asset: acreage, location: Dolphin Oman, ownership: Occidental, commodity: natural gas, status:  ], [asset: acreage, location: Permian Rockies & Other Domestic, ownership: Occidental, commodity: oil, status:  ], [asset: acreage, location: Gulf of Mexico, ownership: Occidental, commodity: oil, status:  ], [asset: acreage, location: United States , ownership: Occidental, commodity: oil, status:  ]')
+----------------------------------------------------------------------------------------------------
+Chunk 184:
+(87, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 185:
+(88, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 186:
+(89, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 187:
+(90, 'physical assets: []\nlocations: []\nownerships:  [Occidental Petroleum Corporation]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 188:
+(91, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 189:
+(0, 'physical assets: []\nlocations: [Greenway Plaza , Suite Houston, Texas] \nownerships: [Occidental Petroleum Corporation]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 190:
+(1, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []\n\n\nLet\'s break down why:\n\n* **Locations:** While locations are implied in discussions about operations (e.g., "Occidental Exploration and Production Company"), they aren\'t explicitly listed as assets.\n* **Ownerships:**  The text mentions ownership structures (like subsidiaries) and transactions involving companies (Anadarko Acquisition, CrownRock Acquisition), but it doesn\'t detail the specific ownership of physical assets.\n\n* **Commodities & Status:** The primary commodity discussed is oil and natural gas, derived from their operations. However, the text lacks details about the operational status of specific assets (operational, under construction, end-of-life).')
+----------------------------------------------------------------------------------------------------
+Chunk 191:
+(2, 'physical assets: [Occidental’s first large-scale DAC facility in Ector County, Texas] \nlocations: [Ector County, Texas; Greenway Plaza, Suite , Houston, Texas ]\nownerships: [Occidental Petroleum Corporation]\ncommodities: [carbon dioxide, oil, NGL and natural gas]\nstatus: []\nrelationships: [asset: Occidental’s first large-scale DAC facility in Ector County, Texas, location: Ector County, Texas, ownership: Occidental Petroleum Corporation, commodity: carbon dioxide, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 192:
+(3, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 193:
+(4, 'physical assets:  [ ]\nlocations: [ United States, Middle East, North Africa, UAE, Oman, Algeria, Texas, New Mexico, Colorado, Gulf of Mexico]\nownerships: [ Occidental]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 194:
+(5, 'physical assets: [ manufacturing plants, gathering systems, gas plants, co-generation facilities, storage facilities, pipelines ]\nlocations: [ Alabama, Georgia, Illinois, Kansas, Louisiana, Michigan, New Jersey, Ohio, Tennessee, Texas, Canada, Chile ]\nownerships: [ OxyChem, Occidental subsidiaries, third parties, WES, DEL ]\ncommodities: [  oil, NGL, natural gas, chlorine, caustic soda, chlorinated organics, potassium chemicals, EDC, VCM, PVC, ethylene, calcium chloride, sodium silicates ]\nstatus: [operational ]\n\nrelationships: [asset: manufacturing plants, location: Alabama, Georgia, Illinois, Kansas, Louisiana, Michigan, New Jersey, Ohio, Tennessee, Texas, Canada, Chile, ownership: OxyChem, commodity:  oil, NGL, natural gas, chlorine, caustic soda, chlorinated organics, potassium chemicals, EDC, VCM, PVC, ethylene, calcium chloride, sodium silicates, status: operational], [asset: gathering systems, location: , ownership: WES, commodity: oil, NGL, natural gas, status: operational ], [asset: gas plants, location: , ownership: WES, commodity: oil, NGL, natural gas, status: operational], [asset: co-generation facilities, location: , ownership: Occidental subsidiaries, commodity: oil, NGL, natural gas, status: operational ], [asset: storage facilities, location: , ownership: Occidental subsidiaries, commodity: oil, NGL, natural gas, status: operational ], [asset: pipelines, location: , ownership: WES, commodity: oil, NGL, natural gas, status: operational ]')
+----------------------------------------------------------------------------------------------------
+Chunk 195:
+(6, 'physical assets: [ pipeline, processing facility, power generation facilities, solar generation facility ]\nlocations: [ Qatar, UAE, Oman, Texas, New Mexico, Colorado, Ector County, United States,  Rocky Mountains ]\nownerships: [ DEL, Occidental, third-party ]\ncommodities: [ natural gas, sulfur, electricity, CO2 ]\nstatus: [ operational ]\n\nrelationships: [asset: pipeline, location: Qatar, UAE, Oman, ownership: DEL, commodity: natural gas, status: operational], \n[asset: processing facility, location: UAE, ownership: Occidental, commodity: natural gas, sulfur, status: operational], \n[asset: power generation facilities, location: Texas, Louisiana, ownership: Occidental, commodity: electricity, status: operational], \n[asset: solar generation facility, location: Texas, ownership: Occidental, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 196:
+(7, "physical assets: ['facilities', 'operations']\nlocations: ['South Texas', 'federal lands', 'offshore waters']\nownerships: ['Occidental', 'OxyChem', '1PointFive', 'U.S. Department of Energy'] \nstatus: ['operational', 'under construction', 'in end-of-life']\n\nrelationships: [asset: 'facilities', location: 'federal lands', ownership: 'Occidental', commodity: 'oil', status: 'operational'], \n[asset: 'operations', location: 'South Texas', ownership: 'Occidental', commodity: 'DAC', status: 'under construction'], [asset: 'operations', location: 'offshore waters', ownership: 'OxyChem', commodity: 'gas', status: 'in end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 197:
+(8, "physical assets: [Offshore lease sales]\nlocations: [Outer Continental Shelf, GOM (Gulf of Mexico), federal lands in New Mexico and Wyoming]\nownerships: [BOEM (Bureau of Ocean Energy Management), BLM (Bureau of Land Management)]\ncommodities: [oil and gas]\nstatus: [under construction, operational] \n\nrelationships: [asset: 'Offshore lease sales', location: 'Outer Continental Shelf', ownership: 'BOEM', commodity: 'oil and gas', status: 'operational'], [asset: 'Offshore lease sales', location: 'GOM', ownership: 'BOEM', commodity: 'oil and gas', status: 'under construction'], [asset: 'federal lands in New Mexico and Wyoming', location: 'New Mexico, Wyoming', ownership: 'BLM', commodity: 'oil and gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 198:
+(9, 'physical assets: [facilities, equipment] \nlocations: [Permian Basin, West Texas, Southeast New Mexico, GOM (Gulf of Mexico)]\nownerships: [Occidental, subsidiaries]\ncommodities: [oil and gas]\nstatus: []\n\nrelationships: [asset: facilities, location: Permian Basin, ownership: Occidental, commodity: oil and gas, status: operational],  [asset: equipment, location: Permian Basin, ownership: Occidental, commodity: oil and gas, status: operational], [asset: facilities, location: GOM, ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 199:
+(10, 'physical assets: [facilities, equipment, wells]\nownerships: [OxyChem, Occidental,  federal agencies]\ncommodities: [oil, gas]\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 200:
+(11, 'physical assets: [equipment in U.S. oil and gas operations,  oil and gas facilities, sequestration hubs, Class VI CO sequestration wells, electric generating units, multi-pollutant emissions standards for light- and medium-duty vehicles and GHG emissions standards for heavy-duty vehicles]\nlocations: [Louisiana, Texas, DJ Basin, U.S., Colorado, New Mexico]\nownerships:  [Occidental, 1PointFive, major sources of emissions (e.g., electric power plants), major producers of fuels (e.g., refineries and natural gas processing plants)]\ncommodities: []\nstatus: [under construction, operational]\n\n\nrelationships: [asset: equipment in U.S. oil and gas operations, location: U.S., ownership: Occidental, commodity: oil and gas production, status: operational], [asset: oil and gas facilities, location: upstream and midstream oil and gas industry, ownership:  Occidental, commodity: oil and gas production, status: operational] ,[asset: sequestration hubs, location: Louisiana and Texas, ownership: 1PointFive, commodity: CO sequestration, status: under construction], [asset: Class VI CO sequestration wells, location: Louisiana and Texas, ownership: 1PointFive, commodity: CO storage, status: under construction], [asset: electric generating units, location: U.S., ownership: various companies, commodity: electricity generation, status: operational], [asset: multi-pollutant emissions standards for light- and medium-duty vehicles, location: U.S., ownership: government regulation, commodity: transportation, status: under development], [asset: GHG emissions standards for heavy-duty vehicles, location: U.S., ownership: government regulation, commodity: transportation, status: under development]')
+----------------------------------------------------------------------------------------------------
+Chunk 201:
+(12, "physical assets:  oil and gas development activities, emissions control systems, facilities \nlocations: [ ]\nownerships: Occidental\ncommodities: oil, NGL, natural gas \nstatus: [operational]\n\nrelationships: [asset: 'emissions control systems', location: '', ownership: 'Occidental', commodity: 'oil, NGL, natural gas', status: 'operational'],  [asset: 'facilities', location: '', ownership: 'Occidental', commodity: 'oil, NGL, natural gas', status: 'operational'] [asset: 'oil and gas development activities', location: '', ownership: 'Occidental', commodity: 'oil, NGL, natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 202:
+(13, 'physical assets: [property and equipment, property and equipment owned by third parties]\ncommodities: [oil, NGL, natural gas and chemical products] \n\nrelationships: [asset: property and equipment, location: Coastal operations, ownership: Occidental, commodity: oil, NGL, natural gas and chemical products, status: operational]\nrelationships: [asset: property and equipment owned by third parties, location: Coastal operations, ownership: third parties, commodity: oil, NGL, natural gas and chemical products, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 203:
+(14, 'physical assets: [oil, NGL and natural gas reserves, oil, NGL and natural gas properties, exploration assets]\nlocations: []\nownerships: [Occidental] \ncommodities: [oil, NGL and natural gas]\nstatus: [proved, unproved]\nrelationships: [asset: oil, NGL and natural gas reserves, location:  , ownership: Occidental, commodity: oil, NGL and natural gas, status: proved], [asset: oil, NGL and natural gas properties, location:  , ownership: Occidental, commodity: oil, NGL and natural gas, status: proved] ,[asset: exploration assets, location:  , ownership: Occidental, commodity: oil, NGL and natural gas, status: unproved]')
+----------------------------------------------------------------------------------------------------
+Chunk 204:
+(15, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil, NGL and natural gas]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 205:
+(16, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: ["oil", "NGL and natural gas"] \nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 206:
+(17, "physical assets: [ oil and gas properties ] \nlocations: [  ]\nownerships: [ Occidental ]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: 'oil and gas properties', location: '', ownership: 'Occidental', commodity: 'oil and gas', status: 'operational, under construction, end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 207:
+(18, 'physical assets: [water, sand, produced water, CO , compression equipment, pipeline,  facilities]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [operational, under construction] \n\n\nrelationships: [asset: water, location:  N/A, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: sand, location: N/A, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: produced water, location: N/A, ownership: Occidental, commodity: disposal, status: operational], [asset: CO , location: N/A, ownership: Occidental, commodity: oil production, status: operational], [asset: compression equipment, location: N/A, ownership: Occidental, commodity:  CO production and transportation, status: operational], [asset: pipeline, location: N/A, ownership: Occidental, commodity: CO transportation, status: operational], [asset: facilities, location: N/A, ownership: Occidental, commodity: oil and gas production, processing, and transportation, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 208:
+(19, "physical assets:  [information systems, industrial control systems, infrastructure]\nlocations: []\nownerships: [Occidental, business associates, third-party service providers]\ncommodities: [oil and natural gas resources]\nstatus: []\n\nrelationships: [asset: 'information systems', location: '', ownership: 'Occidental', commodity: 'oil and natural gas resources', status: ''],  [asset: 'industrial control systems', location: '', ownership: 'Occidental', commodity: 'oil and natural gas resources', status: ''], [asset: 'infrastructure', location: '', ownership: 'Occidental', commodity: 'oil and natural gas resources', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 209:
+(20, 'physical assets: [Offshore operations in the Gulf of Mexico, Deep-water exploration locations]\nownerships: [Occidental subsidiaries]\ncommodities: [Oil]\nstatus: [Operational, Under construction (implied due to risk of "remediation and other costs"), Decommissioned (implied due to risk of "end-of-life")] \n\nrelationships: [asset: \'Offshore operations in the Gulf of Mexico\', location: \'Gulf of Mexico\', ownership: \'Occidental subsidiaries\', commodity: \'Oil\', status: \'Operational\'], [asset: \'Deep-water exploration locations\', location: \'Gulf of Mexico, International deep-water locations\', ownership: \'Occidental subsidiaries\', commodity: \'Oil\', status: \'Operational, Under construction\']')
+----------------------------------------------------------------------------------------------------
+Chunk 210:
+(21, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 211:
+(22, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 212:
+(23, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 213:
+(24, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 214:
+(25, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 215:
+(26, 'physical assets: [high return upstream assets]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas, chemical products]\nstatus: [operational] \n\nrelationships: [asset: high return upstream assets, location:  Permian, Rockies, Gulf of Mexico, Oman and UAE, ownership: Occidental, commodity: oil, NGL, natural gas, chemical products, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 216:
+(27, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 217:
+(28, 'physical assets: [STRATOS, facilities in Oman,  U.S. onshore oil and gas operations]\nlocations: [Ector County, Texas, Oman, U.S.]\nownerships: [Occidental, BlackRock (joint venture with Occidental)]\ncommodities: [carbon capture, oil, natural gas]\nstatus: [operational, under construction]\n\n\nrelationships: [STRATOS: STRATOS, location: Ector County, Texas, ownership: Joint Venture between Occidental and BlackRock, commodity: carbon capture, status: under construction], [facilities in Oman: facilities, location: Oman, ownership: Occidental, commodity: oil and natural gas, status: operational], [U.S. onshore oil and gas operations: facilities, location: U.S., ownership: Occidental, commodity: oil and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 218:
+(29, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman, Algeria, Powder River Basin]\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [operational]\n\nrelationships: [asset: facilities, location: Permian Basin, ownership: Occidental, commodity: oil, status: operational], [asset: equipment, location: DJ Basin, ownership: Occidental, commodity: natural gas, status: operational], [asset: infrastructure, location: Gulf of Mexico, ownership: Occidental, commodity: oil, status: operational], [asset: facilities, location: UAE, ownership: Occidental, commodity: oil, status: operational], [asset: equipment, location: Oman, ownership: Occidental, commodity: natural gas, status: operational], [asset: infrastructure, location: Algeria, ownership: Occidental, commodity: oil, status: operational], [asset: facilities, location: Powder River Basin, ownership: Occidental, commodity: oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 219:
+(30, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Permian Basin, DJ Basin, Powder River Basin, Arkansas, Colorado, Louisiana, Texas, West Virginia, Wyoming]\nownerships: [Occidental]\ncommodities: [oil, natural gas]\nstatus: [operational]\n\nrelationships: [asset: facilities, location: Permian Basin, ownership: Occidental, commodity: oil, status: operational], [asset: equipment, location: DJ Basin, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: infrastructure, location: Powder River Basin, ownership: Occidental, commodity: oil and natural gas, status: operational],  [asset: facilities, location: Arkansas, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: equipment, location: Colorado, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: infrastructure, location: Louisiana, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: facilities, location: Texas, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: equipment, location: West Virginia, ownership: Occidental, commodity: oil and natural gas, status: operational], [asset: infrastructure, location: Wyoming, ownership: Occidental, commodity: oil and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 220:
+(31, 'physical assets: [deep-water floating platforms, marine shore-bases, helicopter bases, central logistics base, integrated training center, drilling rigs, platform rig, service rigs, drillships]\nlocations: [Gulf of Mexico, Galveston, Texas, Port Fourchon, Louisiana, Broussard, Louisiana, The Woodlands, Texas, Horn Mountain, Lucius, Holstein facilities, K2 field, Marlin, Caesar Tonga, Constellation]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: deep-water floating platforms, location: Gulf of Mexico, ownership: Occidental, commodity: oil and gas, status: operational], [asset: marine shore-bases, location: Galveston, Texas, ownership: Occidental, commodity: oil and gas, status: operational], [asset: helicopter bases, location: Louisiana, ownership: Occidental, commodity: oil and gas, status: operational], [asset: central logistics base, location: Broussard, Louisiana, ownership: Occidental, commodity: oil and gas, status: operational], [asset: integrated training center, location: Broussard, Louisiana, ownership: Occidental, commodity: oil and gas, status: operational], [asset: drilling rigs, location: Gulf of Mexico, ownership: Occidental, commodity: oil and gas, status: operational], [asset: platform rig, location: Gulf of Mexico, ownership: Occidental, commodity: oil and gas, status: operational], [asset: service rigs, location: Gulf of Mexico, ownership: Occidental, commodity: oil and gas, status: operational], [asset: drillships, location: Gulf of Mexico, ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 221:
+(32, 'commodities: [oil, NGL and natural gas]\nstatus: [operational, under development]')
+----------------------------------------------------------------------------------------------------
+Chunk 222:
+(33, 'physical assets: [ proved reserves ]\nlocations: [ DJ Basin, Permian Basin, Algeria, Oman, Gulf of Mexico ]\nownerships: [ Occidental ]\ncommodities: [ Oil, NGL, Natural gas ]\nstatus: []\n\n\nrelationships: [asset: proved reserves, location: DJ Basin, ownership: Occidental, commodity: Oil, status:  ], \n[asset: proved reserves, location: Permian Basin, ownership: Occidental, commodity: Oil, status:  ],\n[asset: proved reserves, location: Algeria, ownership: Occidental, commodity: Oil, status:  ],\n[asset: proved reserves, location: Oman, ownership: Occidental, commodity: Natural gas, status:  ],\n[asset: proved reserves, location: Gulf of Mexico, ownership: Occidental, commodity: Natural gas, status:  ]')
+----------------------------------------------------------------------------------------------------
+Chunk 223:
+(34, 'physical assets: [Facilities (implied), equipment (implied)] \nlocations: [DJ Basin, Permian Basin, Algeria, Gulf of Mexico, UAE]\nownerships: [Occidental]\ncommodities: [Oil and gas]\nstatus: [Operational, Under Construction (implied), End-of-life (implied)]\n\nrelationships: [asset: Facilities, location: DJ Basin, ownership: Occidental, commodity: Oil and gas, status: Operational], \n[asset: Equipment, location: Permian Basin, ownership: Occidental, commodity: Oil and gas, status: Operational], \n[asset: Facilities, location: Algeria, ownership: Occidental, commodity: Oil and gas, status: Operational], \n[asset: Equipment, location: Gulf of Mexico, ownership: Occidental, commodity: Oil and gas, status: Operational], \n[asset: Facilities, location: UAE, ownership: Occidental, commodity: Oil and gas, status: Operational], \n[asset: Facilities, location: International, ownership: Occidental, commodity: Oil and gas, status: Under Construction], \n[asset: Equipment, location: Permian Basin, ownership: Occidental, commodity: Oil and gas, status: End-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 224:
+(35, 'physical assets: [wells]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [under construction, operational]\n\nrelationships: [asset: wells, location: , ownership: Occidental, commodity: oil and gas, status: under construction], [asset: wells, location: , ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 225:
+(36, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [oil, NGL, domestic gas]\nstatus: [ ] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 226:
+(37, 'physical assets: [gathering systems, gas plants, co-generation facilities, storage facilities, crude pipeline, crude storage capacity, crude terminal]\nlocations: [Midland to Gulf Coast, Permian]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas]\nstatus: [operational, under construction - STRATOS] \n\nrelationships: [asset: gathering systems, location: Midland to Gulf Coast, ownership: Occidental, commodity: oil, NGL, natural gas, status: operational], [asset: gas plants, location: Permian, ownership: Occidental, commodity: natural gas, status: operational], [asset: co-generation facilities, location:  Permian, ownership: Occidental, commodity: power, status: operational], [asset: storage facilities, location: Midland to Gulf Coast, ownership: Occidental, commodity: oil, NGL, natural gas, status: operational], [asset: crude pipeline, location: Permian to Gulf Coast, ownership: Occidental, commodity: oil, status: operational], [asset: crude storage capacity, location:  Midland to Gulf Coast, ownership: Occidental, commodity: oil, status: operational], [asset: crude terminal, location: Midland to Gulf Coast, ownership: Occidental, commodity: oil, status: operational], [asset: STRATOS, location: Permian, ownership: Occidental, commodity: NGL, natural gas, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 227:
+(38, 'physical assets: [Dolphin Pipeline, gathering systems, plants and pipelines, sour gas processing facilities, power and steam generation facilities,  direct air capture plant (STRATOS)]\nownerships: [Occidental Petroleum Corporation, WES, Al Hosn Gas, NET Power Inc., BlackRock]\ncommodities: [natural gas, NGL, condensate, sulfur, electricity]\nstatus: [operational, under construction]\n\nrelationships: [Dolphin Pipeline: UAE, Oman, Occidental Petroleum Corporation, natural gas, operational], [gathering systems, plants and pipelines: -, WES, natural gas, operational], [sour gas processing facilities: -, Al Hosn Gas, natural gas, condensate, NGL, sulfur, operational], [power and steam generation facilities: -, Occidental Petroleum Corporation, electricity, operational], [direct air capture plant (STRATOS): Ector County, Texas, Occidental Petroleum Corporation,  carbon dioxide, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 228:
+(39, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Carbon Engineering, Occidental]\ncommodities: [CO2 capture and sequestration]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 229:
+(40, 'physical assets: [Permian Basin, Powder River Basin, undeveloped acreage, undeveloped leases]\nlocations: [Permian Basin, Powder River Basin, Colombia, Algeria]\nownerships: [Occidental]\ncommodities: [Oil, natural gas, NGL]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: Permian Basin, location: Permian Basin, ownership: Occidental, commodity: Oil, status: operational], [asset: Powder River Basin, location: Powder River Basin, ownership: Occidental, commodity: Natural gas, status: end-of-life], [asset: undeveloped acreage, location: Powder River Basin, ownership: Occidental, commodity: Natural gas, status: under construction], [asset: undeveloped leases, location: undefined, ownership: Occidental, commodity: Oil, status: end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 230:
+(41, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Permian Basin, Rockies & Other Domestic, Gulf of Mexico, Algeria, Al Hosn Gas processing facilities, Oman]\nownerships: [Occidental]\ncommodities: [oil, NGL and natural gas]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: facilities, location: Permian Basin, ownership: Occidental, commodity: oil, status: operational], \n[asset: equipment, location: Rockies & Other Domestic, ownership: Occidental, commodity: NGL and natural gas, status: operational], \n[asset: infrastructure, location: Gulf of Mexico, ownership: Occidental, commodity: oil, status: operational], \n[asset: facilities, location: Algeria, ownership: Occidental, commodity: oil, status: end-of-life], \n[asset: processing facilities, location: Al Hosn Gas, ownership: Occidental, commodity: natural gas, status: operational], \n[asset: infrastructure, location: Oman, ownership: Occidental, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 231:
+(42, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 232:
+(43, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [Oil and gas, Ethylene, Energy, Crude]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 233:
+(44, "physical assets: [terminal, pipeline, processing capacity, equipment, facilities]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [produced water, chemical raw materials, power]\nstatus: [operational, under construction]\nrelationships: [asset: 'terminal', location: '', ownership: 'Occidental', commodity: 'produced water', status: 'operational'], \n[asset: 'pipeline', location: '', ownership: 'Occidental', commodity: 'produced water', status: 'operational'], \n[asset: 'processing capacity', location: '', ownership: 'Occidental', commodity: 'produced water', status: 'operational'], \n[asset: 'equipment', location: '', ownership: 'Occidental', commodity: 'chemical raw materials, power', status: 'operational'], \n[asset: 'facilities', location: '', ownership: 'Occidental', commodity: 'production of finished goods', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 234:
+(45, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  [ ]')
+----------------------------------------------------------------------------------------------------
+Chunk 235:
+(46, 'physical assets: [Oil and gas properties, PP&E] \nlocations: [North America (United States, Canada), Middle East, North Africa]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [Operational, Under Construction, End-of-life]\n\nrelationships: [asset: Oil and gas properties, location: North America, ownership: Occidental, commodity: oil and gas, status: Operational], [asset: PP&E, location: Middle East, ownership: Occidental, commodity: oil and gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 236:
+(47, "physical assets: [Proved oil and gas reserves]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [Operational, under construction, end-of-life - depending on individual properties]\nrelationships: [asset: 'Proved oil and gas reserves', location: '', ownership: 'Occidental', commodity: 'oil and gas', status: 'Operational, under construction, or end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 237:
+(48, 'physical assets: [unproved property, proved properties]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life] \nrelationships: [asset: unproved property, location:  , ownership: Occidental, commodity: oil and gas, status: operational], [asset: proved properties, location:  , ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 238:
+(49, "physical assets: []\nlocations: []\nownerships: []\ncommodities:  ['commodity derivatives', 'debt instruments']\nstatus: []\n\n\nrelationships:  []")
+----------------------------------------------------------------------------------------------------
+Chunk 239:
+(50, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 240:
+(51, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 241:
+(52, "physical assets: [Oil production facilities, equipment] \nlocations: []\nownerships: [Occidental]\ncommodities: [Oil, NGL, Natural Gas]\nstatus: [Operational, under construction (implied)]\n\nrelationships: [asset: 'Oil production facilities', location: '', ownership: 'Occidental', commodity: 'Oil, NGL, Natural Gas', status: 'Operational, under construction (implied)'] \n relationships: [asset: 'Equipment', location: '', ownership: 'Occidental', commodity: 'Oil, NGL, Natural Gas', status: 'Operational, under construction (implied)']")
+----------------------------------------------------------------------------------------------------
+Chunk 242:
+(53, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: ["oil", "natural gas", "chemical", "chlorine", "caustic soda", "PVC"]\nstatus: []\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 243:
+(54, 'physical assets: []\nlocations: []\nownerships: []\ncommodities:  []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 244:
+(55, "physical assets: [proved oil and gas properties]\nlocations: []\nownerships: [Occidental Petroleum Corporation]\ncommodities: [oil and gas]\nstatus: [operational]\n\nrelationships: [asset: 'proved oil and gas properties', location: '', ownership: 'Occidental Petroleum Corporation', commodity: 'oil and gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 245:
+(56, "physical assets: [Property, Plant and Equipment]\nlocations: []\nownerships: [Occidental Petroleum Corporation]\ncommodities: []\nstatus: []\nrelationships: [asset: 'Oil and gas', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: ''], [asset: 'Chemical', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: ''], [asset: 'Midstream and marketing', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: ''], [asset: 'Corporate', location: '', ownership: 'Occidental Petroleum Corporation', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 246:
+(57, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental Petroleum Corporation and Subsidiaries]\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 247:
+(58, 'locations: [ ]\nownerships: [Occidental Petroleum Corporation and Subsidiaries]\ncommodities: []\nstatus: [ ]')
+----------------------------------------------------------------------------------------------------
+Chunk 248:
+(59, "physical assets: [CCUS projects]\nlocations: [Ector County, Texas]\nownerships: [Occidental, BlackRock]\ncommodities: [carbon removal]\nstatus: [under construction]\n\n\nrelationships: [asset: 'CCUS projects', location: 'Ector County, Texas', ownership: 'Occidental and BlackRock', commodity: 'carbon removal', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 249:
+(60, 'physical assets: [PP&E, oil and gas properties]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [oil, NGL, natural gas, chemical products]\nstatus: [operational, under construction, end-of-life]\n\n\nrelationships: [asset: PP&E, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: oil and gas properties, location: , ownership: Occidental, commodity: oil, NGL, natural gas, status: operational].')
+----------------------------------------------------------------------------------------------------
+Chunk 250:
+(61, 'physical assets: [exploratory drilling costs,  oil & gas producing properties]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil and gas]\nstatus: [pending determination of proved reserves, proved, unproved]\n\nrelationships: [asset: exploratory drilling costs, location: , ownership: Occidental, commodity: oil and gas, status: pending determination of proved reserves], [asset: oil & gas producing properties, location: , ownership: Occidental, commodity: oil and gas, status: proved, unproved]')
+----------------------------------------------------------------------------------------------------
+Chunk 251:
+(62, 'physical assets: [unproved property, proved properties, chemical facilities, midstream and marketing PP&E, undeveloped acreage, undeveloped leases, oil and gas materials and supplies inventories]\nlocations: []\nownerships: [Occidental] \ncommodities: [oil, gas, chemicals]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: unproved property, location: Powder River Basin, ownership: Occidental, commodity: oil and gas, status:  under construction], [asset: proved properties, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: chemical facilities, location: , ownership: Occidental, commodity: chemicals, status: operational], [asset: midstream and marketing PP&E, location: , ownership: Occidental, commodity: oil and gas, status: operational], [asset: undeveloped acreage, location: Powder River Basin, ownership: Occidental, commodity: oil and gas, status: end-of-life], [asset: undeveloped leases, location: , ownership: Occidental, commodity: oil and gas, status: end-of-life], [asset: oil and gas materials and supplies inventories, location: , ownership: Occidental, commodity: oil and gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 252:
+(63, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 253:
+(64, 'physical assets: [facilities, oil wells, gas properties, plants]\nlocations: [ ]\nownerships: [Occidental and its subsidiaries]\ncommodities: [oil, gas]\nstatus: [operational, under construction, end-of-life]\n\n\nrelationships: [asset: facilities, location: , ownership: Occidental and its subsidiaries, commodity: oil and gas, status: operational, under construction, end-of-life], [asset: oil wells, location: , ownership: Occidental and its subsidiaries, commodity: oil and gas, status: operational, under construction, end-of-life], [asset: gas properties, location: , ownership: Occidental and its subsidiaries, commodity: oil and gas, status: operational, under construction, end-of-life], [asset: plants, location: , ownership: Occidental and its subsidiaries, commodity: oil and gas, status: operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 254:
+(65, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 255:
+(66, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 256:
+(67, "physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ['oil', 'NGL', 'natural gas', 'chemicals']\nstatus: [ ]\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 257:
+(68, "physical assets: [Facilities (implied), Equipment (implied)]\nlocations: [ ]\nownerships: [Occidental]\ncommodities: [Oil, NGL, Natural Gas, Chemicals, Power, Steam]\nstatus: [Operational (implied)]\n\nrelationships: [asset: 'Facilities', location: '', ownership: 'Occidental', commodity: 'Oil, NGL, Natural Gas, Chemicals, Power, Steam', status: 'Operational']\nrelationships: [asset: 'Equipment', location: '', ownership: 'Occidental', commodity: 'Oil, NGL, Natural Gas, Chemicals, Power, Steam', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 258:
+(69, "physical assets: ['facilities', 'equipment']\nlocations: ['Permian Basin', 'Ingleside Facility']\ncommodities: ['oil', 'NGL', 'natural gas', 'ethylene', 'electricity', 'rail', 'insurance', 'chemicals']\nstatus: []\n\nrelationships: [asset: 'facilities', location: 'Permian Basin', ownership: 'Occidental', commodity: 'oil', status: ''], \n[asset: 'equipment', location: 'Ingleside Facility', ownership: 'OxyChem', commodity: 'ethylene', status: ''],")
+----------------------------------------------------------------------------------------------------
+Chunk 259:
+(70, "physical assets: ['Property, plant and equipment']\nownerships: ['Occidental', 'limited partner units of WES']\ncommodities: []\nstatus: []\nrelationships: [asset: 'Property, plant and equipment', location: 'Permian Basin', ownership: 'Occidental', commodity: '', status: ''], \n[asset: 'Property, plant and equipment', location: 'DJ Basin', ownership: 'Occidental', commodity: '', status: ''],")
+----------------------------------------------------------------------------------------------------
+Chunk 260:
+(71, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 261:
+(72, 'physical assets: [oil and gas exploration and development equipment, offshore and onshore drilling rigs, office space, compressors, railcars, marine transportation vessels, storage facilities, field equipment, easements, real estate]\nlocations: []\nownerships: [Occidental]\ncommodities: [oil and gas exploration and development]\nstatus: [operational]\n\n\nrelationships: [asset: oil and gas exploration and development equipment, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: offshore and onshore drilling rigs, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: office space, location: , ownership: Occidental, commodity: , status: operational], [asset: compressors, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: railcars, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: marine transportation vessels, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: storage facilities, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: field equipment, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: easements, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational], [asset: real estate, location: , ownership: Occidental, commodity: oil and gas exploration and development, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 262:
+(73, "physical assets: [compressors, office space, other assets]\nlocations: []\nownerships: [Occidental]\ncommodities: []\nstatus: [] \n\nrelationships: [asset: 'compressors', location: '', ownership: 'Occidental', commodity: '', status: ''],  [asset: 'office space', location: '', ownership: 'Occidental', commodity: '', status: ''], [asset: 'other assets', location: '', ownership: 'Occidental', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 263:
+(74, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 264:
+(75, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 265:
+(76, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 266:
+(77, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 267:
+(78, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 268:
+(79, 'physical assets: [DASS, Former Diamond Alkali Plant, Lower . Miles of the Lower Passaic River,  landfill in Western New York, former refinery in Oklahoma, former chemical plants in California, Michigan, Ohio, Tennessee and Washington, closed coal mine in Pennsylvania, chrome site in New Jersey, former copper mining and smelting operation in Tennessee, former oil field, former chemical plant and a landfill in California, active refinery in Louisiana, oil and gas operations in Colorado, chemical plants in Kansas and Louisiana]\nlocations: [Newark, New Jersey, Tennessee, California, Louisiana, Western New York, Oklahoma, Michigan, Ohio, Washington, Pennsylvania, Colorado, Kansas]\nownerships: [OxyChem, Maxus, Glenn Springs Holdings, Inc., potentially responsible parties]\ncommodities: [environmental remediation, oil and gas operations, chemical plants]\nstatus: [operational, under construction, in end-of-life]\nrelationships: [asset: DASS, location: Newark, New Jersey, ownership: OxyChem, commodity: environmental remediation, status: operational], [asset: Former Diamond Alkali Plant, location: - Lister Avenue in Newark, ownership: Maxus and its affiliates, commodity: environmental remediation, status: under construction], [asset: Lower . Miles of the Lower Passaic River, location: Lower Passaic River, ownership: potentially responsible parties, commodity: environmental remediation, status: operational], [asset: landfill in Western New York, location: Western New York, ownership: unknown, commodity: waste disposal, status: in end-of-life], [asset: former refinery in Oklahoma, location: Oklahoma, ownership: unknown, commodity: oil refining, status: in end-of-life], [asset: former chemical plants in California, Michigan, Ohio, Tennessee and Washington, location: California, Michigan, Ohio, Tennessee and Washington, ownership: unknown, commodity: chemical manufacturing, status: in end-of-life], [asset: closed coal mine in Pennsylvania, location: Pennsylvania, ownership: unknown, commodity: coal mining, status: in end-of-life], [asset: chrome site in New Jersey, location: New Jersey, ownership: unknown, commodity: chrome mining, status: in end-of-life], [asset: former copper mining and smelting operation in Tennessee, location: Tennessee, ownership: unknown, commodity: copper mining and smelting, status: in end-of-life], [asset: former oil field, location: unknown, ownership: unknown, commodity: oil production, status: in end-of-life], [asset: former chemical plant and a landfill in California, location: California, ownership: unknown, commodity: chemical manufacturing and waste disposal, status: in end-of-life], [asset: active refinery in Louisiana, location: Louisiana, ownership: Occidental reimburses the current owner for certain remediation activities, commodity: oil refining, status: operational], [asset: oil and gas operations in Colorado, location: Colorado, ownership: OxyChem, commodity: oil and gas production, status: operational], [asset: chemical plants in Kansas and Louisiana, location: Kansas and Louisiana, ownership: OxyChem, commodity: chemical manufacturing, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 269:
+(80, 'physical assets:  [OU3 – Newark Bay Study Area, OU4 – The -mile Lower Passaic River Study Area]\nownerships: [OxyChem, EPA, potentially responsible parties]\ncommodities: []\nstatus: [under construction/remediation] \n\n\nrelationships: [OU4 – The -mile Lower Passaic River Study Area:  Lower Passaic River, EPA, potentially responsible parties, under construction/remediation]')
+----------------------------------------------------------------------------------------------------
+Chunk 270:
+(81, 'physical assets:  [ ]\nlocations: [DASS, OU1, OU2, OU3, OU4]\nownerships: [OxyChem, Occidental, EPA, other potentially responsible parties]\ncommodities: []\nstatus: [] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 271:
+(82, 'physical assets:  [ ]\nlocations: [ Ecuador, New York, Delaware]\nownerships: [ Occidental, Andes, Republic of Ecuador, OEPC, OPC, OXY USA ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 272:
+(83, "physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: [] \n\n\nLet's break down why:\n\n\n* **Locations:** While the text mentions courts (U.S. Bankruptcy Court for the District of Delaware, U.S. Tax Court) and jurisdictions (federal, state, local, international), these are not considered physical assets. They are legal contexts within which actions take place.\n\n* **Ownerships:**  The text outlines ownership claims and settlements but doesn't specify physical assets owned by particular entities. It mentions Maxus, OxyChem, YPF, Repsol, and the U.S. Government as parties involved in various disputes and agreements.\n\n* **Commodities:** The text does not describe any commodities being produced or used by physical assets. \n\n* **Status:** There's no mention of the operational status (e.g., operational, under construction, end-of-life) of any physical assets.\n\n\n\nThe primary focus of the text is on legal and financial dealings, not the physical operations of a company.")
+----------------------------------------------------------------------------------------------------
+Chunk 273:
+(84, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 274:
+(85, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 275:
+(86, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 276:
+(87, 'physical assets: [ ]\nlocations: [ United States, UAE, Oman, Algeria, Qatar, Other International]\nownerships: [ Occidental]\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 277:
+(88, "physical assets:  [Property, plant and equipment (PP&E)]\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: [asset: 'Property, plant and equipment (PP&E)', location: '', ownership: 'Occidental', commodity: '', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 278:
+(89, "physical assets: [Oil reserves, NGL reserves, Natural gas reserves]\nlocations: [United States, International, Permian Basin, DJ Basin, Algeria, Gulf of Mexico]\nownerships: [Occidental]\ncommodities: [Oil, NGL, Natural gas]\nstatus: []\nrelationships: [asset: 'Oil reserves', location: 'United States', ownership: 'Occidental', commodity: 'Oil', status: ''], [asset: 'NGL reserves', location: 'United States', ownership: 'Occidental', commodity: 'NGL', status: ''], [asset: 'Natural gas reserves', location: 'United States', ownership: 'Occidental', commodity: 'Natural gas', status: ''], [asset: 'Oil reserves', location: 'International', ownership: 'Occidental', commodity: 'Oil', status: ''], [asset: 'NGL reserves', location: 'International', ownership: 'Occidental', commodity: 'NGL', status: ''], [asset: 'Natural gas reserves', location: 'International', ownership: 'Occidental', commodity: 'Natural gas', status: ''], [asset: 'Oil reserves', location: 'Permian Basin', ownership: 'Occidental', commodity: 'Oil', status: ''], [asset: 'NGL reserves', location: 'Permian Basin', ownership: 'Occidental', commodity: 'NGL', status: ''], [asset: 'Natural gas reserves', location: 'Permian Basin', ownership: 'Occidental', commodity: 'Natural gas', status: ''], [asset: 'Oil reserves', location: 'DJ Basin', ownership: 'Occidental', commodity: 'Oil', status: ''], [asset: 'NGL reserves', location: 'DJ Basin', ownership: 'Occidental', commodity: 'NGL', status: ''], [asset: 'Natural gas reserves', location: 'DJ Basin', ownership: 'Occidental', commodity: 'Natural gas', status: ''], [asset: 'Oil reserves', location: 'Algeria', ownership: 'Occidental', commodity: 'Oil', status: ''], [asset: 'NGL reserves', location: 'Algeria', ownership: 'Occidental', commodity: 'NGL', status: ''], [asset: 'Natural gas reserves', location: 'Algeria', ownership: 'Occidental', commodity: 'Natural gas', status: ''], [asset: 'Oil reserves', location: 'Gulf of Mexico', ownership: 'Occidental', commodity: 'Oil', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 279:
+(90, "physical assets: [Oil reserves, Natural gas reserves]\nlocations: []\nownerships: [OXY]\ncommodities: [Oil, Natural Gas]\nstatus: [Proved developed and undeveloped]\n\nrelationships: [asset: 'Oil reserves', location: '', ownership: 'OXY', commodity: 'Oil', status: 'Proved developed and undeveloped'], [asset: 'Natural gas reserves', location: '', ownership: 'OXY', commodity: 'Natural Gas', status: 'Proved developed and undeveloped']")
+----------------------------------------------------------------------------------------------------
+Chunk 280:
+(91, 'physical assets: [Proved properties, Unproved properties]\nownerships: [OXY] \ncommodities: [Natural gas, Oil]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 281:
+(92, 'physical assets:  [ ]\nownerships: [Oxy, formerly Occidental Petroleum] \ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 282:
+(93, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Occidental Petroleum Corporation]\ncommodities: [oil and gas]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 283:
+(94, 'physical assets: [Wells, Acreage]\nlocations: [United States, International, Middle East and North Africa]\nownerships: [Occidental]\ncommodities: [Oil, Gas]\nstatus: [Operational, Under Construction (Pending Completion), Suspended or Waiting on Completion]\n\nrelationships: [asset: Wells, location: United States, ownership: Occidental, commodity: Oil, status: Operational], [asset: Wells, location: International, ownership: Occidental, commodity: Gas, status: Operational], [asset: Wells, location: Middle East and North Africa, ownership: Occidental, commodity: Waterflood, status: Operational], [asset: Acreage, location: United States, ownership: Occidental, commodity: Oil, status: Undeveloped], [asset: Acreage, location: International, ownership: Occidental, commodity: Gas, status: Undeveloped]')
+----------------------------------------------------------------------------------------------------
+Chunk 284:
+(95, 'physical assets: [ ]\nlocations: [ United States, Permian Rockies, Other Domestic Gulf of Mexico, Algeria and Other International, Al Hosn Gas, Dolphin, Oman ]\nownerships: [ Occidental Petroleum Corporation ]\ncommodities: [ Oil (Mbbl/d), NGL (Mbbl/d), Natural gas (MMcf/d) ]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 285:
+(96, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 286:
+(97, 'physical assets: []\nlocations: [Houston, TX]\nownerships: [Occidental Petroleum Corporation, KPMG LLP, CrownRock Holdings, L.P., CrownRock GP, LLC, Coral Holdings LP, LLC, Coral Holdings GP, LLC, The Bank of New York Mellon Trust Company, N.A.]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 287:
+(98, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 288:
+(99, 'physical assets: []\nlocations: []\nownerships: Occidental Petroleum Corporation\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 289:
+(100, "physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  \n\n\nThe text you provided is a corporate filing (likely a Form K) which focuses on financial information and executive signatories. It doesn't contain details about physical assets, locations, commodities, or their status.")
+----------------------------------------------------------------------------------------------------

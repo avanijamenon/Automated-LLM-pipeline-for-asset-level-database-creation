@@ -1,0 +1,35 @@
+ExxonMobil’s Downstream segment manufactures, trades and sells petroleum products. The refining and supply operations encompass a global network of manufacturing plants, transportation systems, and distribution centers that provide a range of fuels, lubricants and other products and feedstocks to our customers around the world.
+
+| |Refining Capacity At Year-End 2021 (1)|ExxonMobil Share KBD (2)|ExxonMobil Interest %|
+|---|---|---|---|
+|United States| | | |
+|Joliet|Illinois|254|100|
+|Baton Rouge|Louisiana|521|100|
+|Billings|Montana|60|100|
+|Baytown|Texas|561|100|
+|Beaumont|Texas|369|100|
+|Total United States| | |1,765|
+|Canada| | | |
+|Strathcona|Alberta|196|69.6|
+|Nanticoke|Ontario|113|69.6|
+|Sarnia|Ontario|119|69.6|
+|Total Canada| | |428|
+|Europe| | | |
+|Antwerp|Belgium|307|100|
+|Fos-sur-Mer|France|133|82.9|
+|Gravenchon|France|244|82.9|
+|Karlsruhe|Germany|78|25|
+|Trecate|Italy|132|75.2|
+|Rotterdam|Netherlands|192|100|
+|Fawley|United Kingdom|262|100|
+|Total Europe| | |1,348|
+|Asia Pacific| | | |
+|Fujian|China|67|25|
+|Jurong/PAC|Singapore|592|100|
+|Sriracha|Thailand|167|66|
+|Total Asia Pacific| | |826|
+|Middle East| | | |
+|Yanbu|Saudi Arabia|200|50|
+|Total Worldwide| | |4,567|
+
+

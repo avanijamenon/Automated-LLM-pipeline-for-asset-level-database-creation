@@ -1,0 +1,293 @@
+physical asset,location,ownership,commodity,Countries,USA states
+Advanced Metering Infrastructure (AMI),New York State,Consolidated Edison,Electricity,USA,New York
+Advanced Metering Infrastructure (AMI),New York State,Orange and Rockland Utilities,Electricity,USA,New York
+Battle Mountain Solar  (Solar Farm),"Nevada,Arizona",Consolidated Edison,Solar Energy,USA,"Arizona,Nevada"
+Battle Mountain Solar  (Solar Farm),"Nevada,Arizona",Consolidated Edison,Electricity,USA,"Arizona,Nevada"
+Broken Bow II (Oil & Gas Facility),Nebraska,Consolidated Edison,Wind Energy,USA,Nebraska
+Broken Bow II (Oil & Gas Facility),Nebraska,Consolidated Edison,Renewable Energy,USA,Nebraska
+Broken Bow II (Oil & Gas Facility),Nebraska,RWE Renewables Americas,Wind Energy,USA,Nebraska
+Broken Bow II (Oil & Gas Facility),Nebraska,RWE Renewables Americas,Renewable Energy,USA,Nebraska
+Brooklyn Clean Energy Hub,"Brooklyn,New York",Consolidated Edison,Renewable Energy,USA,New York
+Brooklyn Clean Energy Hub,"Brooklyn,New York",Consolidated Edison,Electricity,USA,New York
+Brooklyn Clean Energy Hub,"Brooklyn,New York",Consolidated Edison,Offshore Wind Electricity,USA,New York
+California Solar,California,Consolidated Edison,Electricity,USA,California
+Ced Nevada,,Consolidated Edison,Electricity,nan,
+Ced Southwest,,Consolidated Edison,nan,nan,
+Clean Energy Businesses,,Consolidated Edison,Renewable Energy,nan,
+Compressor Stations,"Pennsylvania,New Jersey",Tennessee Gas Pipeline,Natural Gas,USA,"New Jersey,Pennsylvania"
+Consolidated Edison Transmission (Transmission Infrastructure),,Consolidated Edison,Renewable Energy,nan,
+crane  solar project,,Consolidated Edison,Electricity,nan,
+crane  solar project,,Consolidated Edison,Renewable Energy,nan,
+Distributed System Platform,New York State,Consolidated Edison Company of New York,nan,USA,New York
+Distributed System Platform,New York State,Orange and Rockland Utilities,nan,USA,New York
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Orange and Rockland Utilities,Electricity,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Orange and Rockland Utilities,Natural Gas,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Orange and Rockland Utilities,Petroleum,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison,Electricity,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison,Natural Gas,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison,Petroleum,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Clean Energy Businesses,Electricity,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Clean Energy Businesses,Natural Gas,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Clean Energy Businesses,Petroleum,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison Transmission,Electricity,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison Transmission,Natural Gas,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison Transmission,Petroleum,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison Company of New York,Electricity,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison Company of New York,Natural Gas,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",Consolidated Edison Company of New York,Petroleum,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",PRPs,Electricity,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",PRPs,Natural Gas,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",PRPs,Petroleum,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",EPA,Electricity,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",EPA,Natural Gas,USA,"Nevada,New York"
+Distribution Facilities,"New York City,Westchester County,New York,Orange and Rockland Utilities's Service Area,Consolidated Edison Company of New York's Electric,Gas and Steam Systems,Newtown Creek,Customer Premises,New York State,Northeastern USA,Nevada",EPA,Petroleum,USA,"Nevada,New York"
+distribution poles,,Consolidated Edison,nan,nan,
+Distribution Substations,,Orange and Rockland Utilities,Electricity,nan,
+Distribution Substations,,RECO,Electricity,nan,
+Dover Station,"Dover Station,New York",Consolidated Edison Transmission,Electricity,USA,New York
+Dover Station,"Dover Station,New York",NYISO,Electricity,USA,New York
+Electric And Gas Plant Assets,USA,Consolidated Edison,nan,USA,
+Electric And Gas Transmission Projects,USA,Consolidated Edison,Electricity,USA,
+Electric And Gas Transmission Projects,USA,Consolidated Edison Transmission,Electricity,USA,
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",Consolidated Edison,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",National Grid plc,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",Avangrid Inc.,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",National Fuel Gas Company,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",CH Energy Group Inc.,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",Orange and Rockland Utilities,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",Clean Energy Businesses,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",Consolidated Edison Transmission,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",Consolidated Edison Company of New York,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",Orange and Rockland Utilities,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",PRPs,Electricity,USA,New York
+Electric Generating Facilities,"New York State,New York City,Lower Hudson Valley,Westchester County,Northeastern USA",EPA,Electricity,USA,New York
+Electric Generation Assets,"New York City,Westchester County",Consolidated Edison,Electricity,USA,New York
+Electric Generation Assets,"New York City,Westchester County",Consolidated Edison,Power,USA,New York
+Electric Utility Plant,"New York,Oil and Gas Regions Service Territory",Consolidated Edison,Electricity,USA,New York
+Electric Utility Plant,"New York,Oil and Gas Regions Service Territory",Consolidated Edison,Natural Gas,USA,New York
+Electric Utility Plant,"New York,Oil and Gas Regions Service Territory",Orange and Rockland Utilities,Electricity,USA,New York
+Electric Utility Plant,"New York,Oil and Gas Regions Service Territory",Orange and Rockland Utilities,Natural Gas,USA,New York
+electricity Grid,New York City,Consolidated Edison,Electricity,USA,New York
+Energy Delivery Systems,,Consolidated Edison,Electricity,nan,
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Consolidated Edison,Electricity,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Consolidated Edison,Natural Gas,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Clean Energy Businesses,Electricity,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Clean Energy Businesses,Natural Gas,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Consolidated Edison Transmission,Electricity,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Consolidated Edison Transmission,Natural Gas,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Consolidated Edison Company of New York,Electricity,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Consolidated Edison Company of New York,Natural Gas,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Orange and Rockland Utilities,Electricity,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",Orange and Rockland Utilities,Natural Gas,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",PRPs,Electricity,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",PRPs,Natural Gas,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",EPA,Electricity,USA,"Nevada,New York"
+Energy Facilities,"New York City,Westchester County,New York State,Northeastern USA,Nevada",EPA,Natural Gas,USA,"Nevada,New York"
+Energy Storage,New York State,Consolidated Edison,nan,USA,New York
+Energy Storage,New York State,Orange and Rockland Utilities,nan,USA,New York
+Environmental Protection Facilities,,Consolidated Edison,nan,nan,
+equipment,"Downstate Northeastern Usa,New York City,New Jersey,Westchester County,Ny Iso Territories,Consolidated Edison Company of New York's Service Area,Virginia,Broken Bow Ii",Consolidated Edison,Wind Energy,USA,"New Jersey,New York,Virginia"
+equipment,"Downstate Northeastern Usa,New York City,New Jersey,Westchester County,Ny Iso Territories,Consolidated Edison Company of New York's Service Area,Virginia,Broken Bow Ii",Consolidated Edison,Electricity,USA,"New Jersey,New York,Virginia"
+equipment,"Downstate Northeastern Usa,New York City,New Jersey,Westchester County,Ny Iso Territories,Consolidated Edison Company of New York's Service Area,Virginia,Broken Bow Ii",Orange and Rockland Utilities,Wind Energy,USA,"New Jersey,New York,Virginia"
+equipment,"Downstate Northeastern Usa,New York City,New Jersey,Westchester County,Ny Iso Territories,Consolidated Edison Company of New York's Service Area,Virginia,Broken Bow Ii",Orange and Rockland Utilities,Electricity,USA,"New Jersey,New York,Virginia"
+equipment,"Downstate Northeastern Usa,New York City,New Jersey,Westchester County,Ny Iso Territories,Consolidated Edison Company of New York's Service Area,Virginia,Broken Bow Ii",Clean Energy Businesses,Wind Energy,USA,"New Jersey,New York,Virginia"
+equipment,"Downstate Northeastern Usa,New York City,New Jersey,Westchester County,Ny Iso Territories,Consolidated Edison Company of New York's Service Area,Virginia,Broken Bow Ii",Clean Energy Businesses,Electricity,USA,"New Jersey,New York,Virginia"
+Gas (Commodities),"Upstate New York,Westchester County",Consolidated Edison,Natural Gas,USA,New York
+Gas (Commodities),"Upstate New York,Westchester County",Orange and Rockland Utilities,Natural Gas,USA,New York
+Gas Distribution Pipes,"NYISO Territories,New York City",Consolidated Edison,Natural Gas,USA,New York
+Gas Pipeline And Storage Business,"Northern Pennsylvania,Southern New York",Stagecoach Gas Services LLC,Natural Gas,USA,"New York,Pennsylvania"
+Gas Pipeline And Storage Business,"Northern Pennsylvania,Southern New York",Consolidated Edison,Natural Gas,USA,"New York,Pennsylvania"
+Gas Pipeline And Storage Business,"Northern Pennsylvania,Southern New York",Consolidated Edison Transmission,Natural Gas,USA,"New York,Pennsylvania"
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Mountain Valley Pipeline LLC,Natural Gas,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Mountain Valley Pipeline LLC,Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Mountain Valley Pipeline LLC,Offshore Wind Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Consolidated Edison Transmission,Natural Gas,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Consolidated Edison Transmission,Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Consolidated Edison Transmission,Offshore Wind Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",New York Transco,Natural Gas,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",New York Transco,Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",New York Transco,Offshore Wind Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",New York Power Authority,Natural Gas,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",New York Power Authority,Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",New York Power Authority,Offshore Wind Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Propel NY Energy,Natural Gas,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Propel NY Energy,Electricity,USA,New York
+Gas Transmission Project,"WV,VA,Long Island and the rest of New York State",Propel NY Energy,Offshore Wind Electricity,USA,New York
+Generating Stations,New York City,Consolidated Edison,Electricity,USA,New York
+Great Valley Solar  (Solar Farm),California,Consolidated Edison,Solar Energy,USA,California
+Great Valley Solar  (Solar Farm),California,Consolidated Edison,Electricity,USA,California
+Honeoye Storage Corp,,Consolidated Edison Transmission,nan,nan,
+Honeoye Storage Corp,,Consolidated Edison,nan,nan,
+In-Service Line Transformers,,Orange and Rockland Utilities,Electricity,nan,
+In-Service Line Transformers,,RECO,Electricity,nan,
+Information Systems,,Consolidated Edison,nan,nan,
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Consolidated Edison,Natural Gas,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Consolidated Edison,Solar Energy,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Consolidated Edison,Electricity,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Orange and Rockland Utilities,Natural Gas,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Orange and Rockland Utilities,Solar Energy,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Orange and Rockland Utilities,Electricity,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",RECO,Natural Gas,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",RECO,Solar Energy,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",RECO,Electricity,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",The New York State Energy Research and Development Authority,Natural Gas,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",The New York State Energy Research and Development Authority,Solar Energy,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",The New York State Energy Research and Development Authority,Electricity,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Clean Energy Businesses,Natural Gas,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Clean Energy Businesses,Solar Energy,USA,New York
+Infrastructure,"Consolidated Edison Company of New York Service Territory,New York State,NYISO Territories,Northeastern USA",Clean Energy Businesses,Electricity,USA,New York
+Infrastructure And Operations Services,,Contractors,nan,nan,
+Lead-Jacketed Electric Cables,"Newtown Creek,Narrowsburg,New York,Saddle Brook,New Jersey,Philadelphia,Pennsylvania,Old Bridge,Elizabeth,Vineland,Carlstadt,New Rochelle",Consolidated Edison,Electricity,USA,"New Jersey,New York,Pennsylvania"
+Lead-Jacketed Electric Cables,"Newtown Creek,Narrowsburg,New York,Saddle Brook,New Jersey,Philadelphia,Pennsylvania,Old Bridge,Elizabeth,Vineland,Carlstadt,New Rochelle",PRPs,Electricity,USA,"New Jersey,New York,Pennsylvania"
+Manufactured Gas Plants,"Orange County,Rockland County,New York City,Westchester County,Superfund Sites",Orange and Rockland Utilities,nan,USA,New York
+Manufactured Gas Plants,"Orange County,Rockland County,New York City,Westchester County,Superfund Sites",Consolidated Edison,nan,USA,New York
+Mesquite Solar (Solar Energy Plant),Nevada And Arizona,Consolidated Edison,Solar Energy,USA,"Arizona,Nevada"
+Mesquite Solar (Solar Energy Plant),Nevada And Arizona,Consolidated Edison,Electricity,USA,"Arizona,Nevada"
+Mountain Valley Pipeline,"West Virginia,Virginia,Northern Pennsylvania,Southern New York",Consolidated Edison,Natural Gas,USA,"New York,Pennsylvania,Virginia,West Virginia"
+Mountain Valley Pipeline,"West Virginia,Virginia,Northern Pennsylvania,Southern New York",Consolidated Edison Transmission,Natural Gas,USA,"New York,Pennsylvania,Virginia,West Virginia"
+Mountain Valley Pipeline,"West Virginia,Virginia,Northern Pennsylvania,Southern New York",Mountain Valley Pipeline LLC,Natural Gas,USA,"New York,Pennsylvania,Virginia,West Virginia"
+Mountain Valley Pipeline,"West Virginia,Virginia,Northern Pennsylvania,Southern New York",Orange and Rockland Utilities,Natural Gas,USA,"New York,Pennsylvania,Virginia,West Virginia"
+Municipal Infrastructure,,Consolidated Edison,Electricity,nan,
+Net Plant,,Consolidated Edison,nan,nan,
+New England Assets,New England,Consolidated Edison,Electricity,USA,
+Non-Utility Property,,Consolidated Edison,nan,nan,
+overhead distribution lines,,Orange and Rockland Utilities,Electricity,nan,
+overhead distribution lines,,RECO,Electricity,nan,
+PJM Assets,"NJ,PA,PJM Region",Consolidated Edison,Electricity,USA,"Pennsylvania,New Jersey"
+Power Grid,"Brooklyn,New York,USA",Consolidated Edison,Electricity,USA,New York
+Properties (formerly used by Consolidated Edison Company of New York in its Operations),,Consolidated Edison,nan,nan,
+Real Estate,,Consolidated Edison,nan,nan,
+Renewable Electric Project,"Long Island,New York State,Virginia",Consolidated Edison,Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Consolidated Edison,Offshore Wind Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Consolidated Edison,Renewable Energy,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Clean Energy Businesses,Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Clean Energy Businesses,Offshore Wind Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Clean Energy Businesses,Renewable Energy,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Consolidated Edison Transmission,Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Consolidated Edison Transmission,Offshore Wind Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Consolidated Edison Transmission,Renewable Energy,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",New York Transco,Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",New York Transco,Offshore Wind Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",New York Transco,Renewable Energy,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",New York Power Authority,Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",New York Power Authority,Offshore Wind Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",New York Power Authority,Renewable Energy,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Propel NY Energy,Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Propel NY Energy,Offshore Wind Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",Propel NY Energy,Renewable Energy,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",NYSERDA,Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",NYSERDA,Offshore Wind Electricity,USA,"New York,Virginia"
+Renewable Electric Project,"Long Island,New York State,Virginia",NYSERDA,Renewable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Consolidated Edison,Renewable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Consolidated Edison,Electricity,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Consolidated Edison,Sustainable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Clean Energy Businesses,Renewable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Clean Energy Businesses,Electricity,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Clean Energy Businesses,Sustainable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",NYSERDA,Renewable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",NYSERDA,Electricity,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",NYSERDA,Sustainable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Equinor Wind US LLC,Renewable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Equinor Wind US LLC,Electricity,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Equinor Wind US LLC,Sustainable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Sunrise Wind LLC,Renewable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Sunrise Wind LLC,Electricity,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",Sunrise Wind LLC,Sustainable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",RWE Renewables America LLC,Renewable Energy,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",RWE Renewables America LLC,Electricity,USA,"New York,Virginia"
+Renewable Energy Projects,"Virginia,New York",RWE Renewables America LLC,Sustainable Energy,USA,"New York,Virginia"
+Right-Of-Use Assets,,Consolidated Edison,nan,nan,
+Steam And Gas Distribution Systems,"New York City,Flatbush (Brooklyn),Westchester County",Consolidated Edison,Natural Gas,USA,New York
+Steam And Gas Distribution Systems,"New York City,Flatbush (Brooklyn),Westchester County",Consolidated Edison,Electricity,USA,New York
+Texas Solar (Physical Asset),Texas,Consolidated Edison,Electricity,USA,Texas
+Thermal Energy Network Pilot Projects,New York State,Consolidated Edison,Thermal Energy,USA,New York
+Thermal Energy Network Pilot Projects,New York State,Orange and Rockland Utilities,Thermal Energy,USA,New York
+Transmission Companies,,Consolidated Edison Transmission,Electricity,nan,
+Transmission Companies,,Consolidated Edison Transmission,Natural Gas,nan,
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Consolidated Edison,Electricity,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Consolidated Edison,Petroleum,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Consolidated Edison Transmission,Electricity,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Consolidated Edison Transmission,Petroleum,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Orange and Rockland Utilities,Electricity,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Orange and Rockland Utilities,Petroleum,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Clean Energy Businesses,Electricity,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Clean Energy Businesses,Petroleum,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Consolidated Edison Company of New York,Electricity,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",Consolidated Edison Company of New York,Petroleum,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",PRPs,Electricity,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",PRPs,Petroleum,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",EPA,Electricity,USA,New York
+transmission facilities,"New York City,Westchester County,Lower Hudson Valley,New York State,Northeastern USA",EPA,Petroleum,USA,New York
+Transmission Piping,Consolidated Edison Company of New York's Service Area,Consolidated Edison,nan,nan,
+Transmission System,"Long Island,New York",Consolidated Edison Transmission,Electricity,USA,New York
+Transmission System,"Long Island,New York",Consolidated Edison Transmission,Natural Gas,USA,New York
+Transmission System,"Long Island,New York",RECO,Electricity,USA,New York
+Transmission System,"Long Island,New York",RECO,Natural Gas,USA,New York
+Transmission System,"Long Island,New York",Consolidated Edison,Electricity,USA,New York
+Transmission System,"Long Island,New York",Consolidated Edison,Natural Gas,USA,New York
+Transmission System,"Long Island,New York",Orange and Rockland Utilities,Electricity,USA,New York
+Transmission System,"Long Island,New York",Orange and Rockland Utilities,Natural Gas,USA,New York
+Two New Substations,"Jamaica,Queens",Consolidated Edison,Electricity,Jamaica,
+Upton County Solar Facility,"Texas,Upton",Consolidated Edison,Electricity,USA,Texas
+Utilities,Utilities' Service Territory,Consolidated Edison,nan,nan,
+Utility Plant,Orange and Rockland Utilities Service Territory,Consolidated Edison,Electricity,nan,
+Utility Plant,Orange and Rockland Utilities Service Territory,Consolidated Edison,Natural Gas,nan,
+Utility Plant,Orange and Rockland Utilities Service Territory,Orange and Rockland Utilities,Electricity,nan,
+Utility Plant,Orange and Rockland Utilities Service Territory,Orange and Rockland Utilities,Natural Gas,nan,
+Water Crossings,Jefferson National Forest,Consolidated Edison,nan,USA,
+Solar Panels,"NV and VA,Virginia",Consolidated Edison,Solar Energy,USA,"Virginia,Nevada"
+Solar Panels,"NV and VA,Virginia",Consolidated Edison,Electricity,USA,"Virginia,Nevada"
+Wind Holdings,,Consolidated Edison,nan,nan,
+Gas Storage Facility,"Upstate New York,Astoria,Queens",Honeoye Storage Corporation,Natural Gas,USA,New York
+Gas Storage Facility,"Upstate New York,Astoria,Queens",Consolidated Edison,Natural Gas,USA,New York
+Gas Storage Facility,"Upstate New York,Astoria,Queens",Consolidated Edison Transmission,Natural Gas,USA,New York
+Storage Tank,"Astoria,Queens,New York",Consolidated Edison,Natural Gas,USA,New York
+Gas Delivery System,"Orange and Rockland Utilities's Service Area,New York State",Orange and Rockland Utilities,Natural Gas,USA,New York
+Gas Delivery System,"Orange and Rockland Utilities's Service Area,New York State",Consolidated Edison,Natural Gas,USA,New York
+Copper Mountain Solar Project,"Nevada,Arizona,Virginia",Consolidated Edison,Electricity,USA,"Arizona,Nevada,Virginia"
+Copper Mountain Solar Project,"Nevada,Arizona,Virginia",Consolidated Edison,Solar Energy,USA,"Arizona,Nevada,Virginia"
+Ami Components,New York Service Areas,Consolidated Edison,nan,USA,New York
+Ami Components,New York Service Areas,Orange and Rockland Utilities,nan,USA,New York
+Smart Meters,New York Service Areas,Consolidated Edison,nan,USA,New York
+Smart Meters,New York Service Areas,Orange and Rockland Utilities,nan,USA,New York
+Communication Network,New York Service Areas,Consolidated Edison,nan,USA,New York
+Communication Network,New York Service Areas,Orange and Rockland Utilities,nan,USA,New York
+Information Technology Systems And Business Applications,New York Service Areas,Consolidated Edison,nan,USA,New York
+Information Technology Systems And Business Applications,New York Service Areas,Orange and Rockland Utilities,nan,USA,New York
+Newtown Creek,"Brooklyn And Queens,New York",Consolidated Edison,Petroleum,USA,New York
+Trucking,Newtown Creek,Consolidated Edison,nan,USA,
+Concrete Manufacture,Newtown Creek,Consolidated Edison,nan,USA,
+Wastewater Treatment Plant,Newtown Creek,Consolidated Edison,nan,USA,
+Feeder,"New Rochelle,New York",Consolidated Edison,nan,USA,New York
+Pier,"Hudson River,New Jersey",nan,nan,USA,New Jersey
+Rockland Utilities Inc.,Southeastern New York And Northern New Jersey,Consolidated Edison,nan,USA,"New Jersey,New York"
+Adams Rose Wind Farm,Minnesota,Consolidated Edison,Wind Energy,USA,Minnesota
+Dairyland Other (Sd/Mt Nwe/Basin Electric),South Dakota/Montana,Consolidated Edison,Wind Energy,USA,"Montana,South Dakota"
+Heat Pump Programs,,Consolidated Edison,Electricity,nan,
+Heat Pump Programs,,Orange and Rockland Utilities,Electricity,nan,
+Repair Projects,,Consolidated Edison,Electricity,nan,
+Upstate Nuclear Power Plants,,NYSERDA,Electricity,nan,
+Alternate Fuel Tanks,,Consolidated Edison,nan,nan,
+Alternate Fuel Tanks,,Orange and Rockland Utilities,nan,nan,
+New York Energy Solution (NYES) Project,Between Upstate And Downstate,Consolidated Edison Transmission,Electricity,nan,
+Generating Units,"Consolidated Edison Company of New York's Service Territory,Downstate",Consolidated Edison,Electricity,USA,
+Peaker Plants,"Consolidated Edison Company of New York Service Territory,NYISO Territories",Consolidated Edison,Electricity,USA,
+Transmission Projects (Reliable Clean City),"New York City,Queens",Consolidated Edison,Electricity,USA,New York
+Brownsville Substation,Brownsville,Consolidated Edison,Electricity,USA,
+Glendale Substation,Glendale,Consolidated Edison,Electricity,USA,
+Transmission Feeder (Between Vernon And Newtown),Vernon And Newtown,Consolidated Edison,Electricity,USA,
+Gateway Park Area Substation,Gateway Park Area,Consolidated Edison,Electricity,USA,
+Liquefaction Facility,"Astoria,Queens,NY",Consolidated Edison,Natural Gas,USA,
+Natural Gas Storage Capacity,Upstate New York,Honeoye Storage Corporation,Natural Gas,USA,New York
+Natural Gas Storage Capacity,Upstate New York,Consolidated Edison Transmission,Natural Gas,USA,New York
+Natural Gas Storage Capacity,Upstate New York,Consolidated Edison,Natural Gas,USA,New York
+Pipelines,"New York City,Upstate New York,Westchester County",Consolidated Edison,Natural Gas,USA,New York
+Pipelines,"New York City,Upstate New York,Westchester County",Consolidated Edison,Oil,USA,New York
+Transmission Upgrades,New York State,Consolidated Edison,Renewable Energy,USA,New York
+regulated transmission projects,New York State,Consolidated Edison,Electricity,USA,New York
+regulated transmission projects,New York State,Consolidated Edison Transmission,Electricity,USA,New York
+Propel NY Energy Project,New York State,Consolidated Edison,Offshore Wind Electricity,USA,New York
+Co-generation Plants,NYISO Territories,Consolidated Edison,Electricity,USA,
+Gas And Oil Pipelines,,Consolidated Edison,Oil,nan,
+Gas And Oil Pipelines,,Consolidated Edison,Natural Gas,nan,
+Two Solar Projects (Physical Assets for producing renewable energy),Virginia,Consolidated Edison,Renewable Energy,USA,Virginia

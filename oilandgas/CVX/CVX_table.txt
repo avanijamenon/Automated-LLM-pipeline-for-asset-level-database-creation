@@ -1,0 +1,19 @@
+# Refining Operations
+
+At the end of 2021, the company had a refining network capable of processing 1.8 million barrels of crude oil per day. Operable capacity at December 31, 2021, and daily refinery inputs for 2019 through 2021 for the company and affiliate refineries, are summarized in the table below.
+
+|Locations|Number|Operable Capacity|2021|2020|2019|
+|---|---|---|---|---|---|
+|Pascagoula, Mississippi|1|369|333|305|358|
+|El Segundo, California|1|290|233|176|241|
+|Richmond, California|1|257|211|198|236|
+|Pasadena1, Texas|1|110|76|69|58|
+|Salt Lake City, Utah|1|58|50|45|54|
+|Total Consolidated Companies — United States|5|1,084|903|793|947|
+|Map Ta Phut, Thailand|1|175|135|143|134|
+|Total Consolidated Companies — International|1|175|135|143|134|
+|Affiliates Various Locations2|2|545|441|441|483|
+|Total Including Affiliates — International|3|720|576|584|617|
+|Total Including Affiliates — Worldwide|8|1,804|1,479|1,377|1,564|
+
+1 In May 2019, the company acquired the Pasadena, TX refinery.

@@ -1,0 +1,724 @@
+physical asset,location,ownership,commodity,Countries,USA states
+Acreage,"['Algeria', 'Al Hosn Natural Gas', 'Dolphin Oman', 'Permian Rockies And Other Domestic', 'Gulf Of Mexico', 'USA', 'Powder River Basin', 'Permian Basin']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Acreage,"['Algeria', 'Al Hosn Natural Gas', 'Dolphin Oman', 'Permian Rockies And Other Domestic', 'Gulf Of Mexico', 'USA', 'Powder River Basin', 'Permian Basin']",Occidental Petroleum Corporation,Crude Oil,Oman,
+Acreage,"['Algeria', 'Al Hosn Natural Gas', 'Dolphin Oman', 'Permian Rockies And Other Domestic', 'Gulf Of Mexico', 'USA', 'Powder River Basin', 'Permian Basin']",Occidental Petroleum Corporation,Crude Oil,USA,
+Acreage,"['Algeria', 'Al Hosn Natural Gas', 'Dolphin Oman', 'Permian Rockies And Other Domestic', 'Gulf Of Mexico', 'USA', 'Powder River Basin', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Acreage,"['Algeria', 'Al Hosn Natural Gas', 'Dolphin Oman', 'Permian Rockies And Other Domestic', 'Gulf Of Mexico', 'USA', 'Powder River Basin', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas,Oman,
+Acreage,"['Algeria', 'Al Hosn Natural Gas', 'Dolphin Oman', 'Permian Rockies And Other Domestic', 'Gulf Of Mexico', 'USA', 'Powder River Basin', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas,USA,
+Automated And Surveillance Systems,,Occidental Petroleum Corporation,Crude Oil,,
+Automated And Surveillance Systems,,Occidental Petroleum Corporation,Natural Gas,,
+Co-Generation Facilities,"['Permian Basin', 'Texas', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Texas']"
+Co-Generation Facilities,"['Permian Basin', 'Texas', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Texas']"
+Co-Generation Facilities,"['Permian Basin', 'Texas', 'Louisiana']",Occidental Petroleum Corporation,Electricity,USA,"['Louisiana', 'Texas']"
+Co-Generation Facilities,"['Permian Basin', 'Texas', 'Louisiana']",Occidental Petroleum Corporation,Power,USA,"['Louisiana', 'Texas']"
+communications network,,Third Party,Crude Oil,,
+communications network,,Third Party,Natural Gas,,
+communications network,,Occidental Petroleum Corporation,Crude Oil,,
+communications network,,Occidental Petroleum Corporation,Natural Gas,,
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Ethylene,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Ethylene,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Ethylene,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Coal,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Coal,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Coal,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Ethylene,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Ethylene,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Ethylene,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Coal,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Coal,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Compression Equipment,"['North Africa', 'Algeria', 'DJ Basin', 'Permian Basin', 'Gulf-Coast', 'USA', 'Oman', 'Colorado', 'Permian', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Coal,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+compressors,,Occidental Petroleum Corporation,Crude Oil,,
+compressors,,Occidental Petroleum Corporation,Natural Gas,,
+Conventional Projects,['Permian EOR'],Occidental Petroleum Corporation,,USA,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Crude Oil,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Crude Oil,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Crude Oil,Oman,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Natural Gas,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Natural Gas,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Natural Gas,Oman,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Water,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Water,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Water,Oman,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Natural Gas Liquids,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Natural Gas Liquids,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Occidental Petroleum Corporation,Natural Gas Liquids,Oman,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Crude Oil,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Crude Oil,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Crude Oil,Oman,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Natural Gas,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Natural Gas,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Natural Gas,Oman,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Water,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Water,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Water,Oman,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Natural Gas Liquids,Qatar,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Natural Gas Liquids,UAE,
+Crude Pipeline,"['Gulf Coast', 'Permian Basin', 'Qatar', 'UAE', 'Oman']",Delaware Owned,Natural Gas Liquids,Oman,
+Crude Terminal,['Midland To Gulf Coast'],Occidental Petroleum Corporation,Crude Oil,USA,
+Crude Terminal,['Midland To Gulf Coast'],Occidental Petroleum Corporation,Water,USA,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas,Oman,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Water,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Water,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Water,Oman,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas Liquids,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas Liquids,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas Liquids,Oman,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Crude Oil,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Crude Oil,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Occidental Petroleum Corporation,Crude Oil,Oman,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Natural Gas,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Natural Gas,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Natural Gas,Oman,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Water,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Water,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Water,Oman,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Natural Gas Liquids,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Natural Gas Liquids,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Natural Gas Liquids,Oman,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Crude Oil,Qatar,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Crude Oil,UAE,
+"Dolphin Pipeline 
+
+
+Let me know if you'd like to process another cell!","['Qatar', 'UAE', 'Oman', 'Permian Basin']",Delaware Owned,Crude Oil,Oman,
+Domestic Onshore Undeveloped Leases,['Onshore USA  Domestic Assets'],Occidental Petroleum Corporation,Crude Oil,USA,
+Domestic Onshore Undeveloped Leases,['Onshore USA  Domestic Assets'],Occidental Petroleum Corporation,Natural Gas,USA,
+Easements,,Occidental Petroleum Corporation,Natural Gas,,
+Easements,,Occidental Petroleum Corporation,Crude Oil,,
+Emissions Control Systems,,Occidental Petroleum Corporation,Crude Oil,,
+Emissions Control Systems,,Occidental Petroleum Corporation,Natural Gas,,
+Engineering And Technical Staff Offices In The Woodlands,"['The Woodlands', 'Texas']",Occidental Petroleum Corporation,Crude Oil,USA,['Texas']
+Engineering And Technical Staff Offices In The Woodlands,"['The Woodlands', 'Texas']",Occidental Petroleum Corporation,Natural Gas,USA,['Texas']
+Texas,"['The Woodlands', 'Texas']",Occidental Petroleum Corporation,Crude Oil,USA,['Texas']
+Texas,"['The Woodlands', 'Texas']",Occidental Petroleum Corporation,Natural Gas,USA,['Texas']
+"Exploratory And Development Wells (Being Drilled) 
+
+
+Let me know when you're ready for the next cell!","['USA', 'International']",Occidental Petroleum Corporation,Crude Oil,USA,
+"Exploratory And Development Wells (Being Drilled) 
+
+
+Let me know when you're ready for the next cell!","['USA', 'International']",Occidental Petroleum Corporation,Natural Gas,USA,
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Crude Oil,USA,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Crude Oil,Colombia,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Crude Oil,Middle East,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Natural Gas,USA,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Natural Gas,Colombia,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Natural Gas,Middle East,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Condensate,USA,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Condensate,Colombia,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Occidental Petroleum Corporation,Condensate,Middle East,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Crude Oil,USA,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Crude Oil,Colombia,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Crude Oil,Middle East,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Natural Gas,USA,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Natural Gas,Colombia,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Natural Gas,Middle East,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Condensate,USA,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Condensate,Colombia,['Texas']
+Facilities,"['USA', 'Middle East', 'Colombia', 'Permian Basin', 'Greenway Plaza', 'Houston', 'Texas']",Al Hosn Natural Gas,Condensate,Middle East,['Texas']
+Facilities (Marine Shore-Bases In Galveston,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Texas']"
+Facilities (Marine Shore-Bases In Galveston,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Texas']"
+Texas,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Texas']"
+Texas,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Texas']"
+And Port Fourchon,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Texas']"
+And Port Fourchon,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Texas']"
+Louisiana,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Texas']"
+Louisiana,"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Texas']"
+Two Helicopter Bases In Louisiana),"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Texas']"
+Two Helicopter Bases In Louisiana),"['Galveston', 'Texas; Port Fourchon', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Texas']"
+Federal Lands [In New Mexico And Wyoming],"['New Mexico', 'Wyoming']",BLM,Crude Oil,USA,"['New Mexico', 'Wyoming']"
+Federal Lands [In New Mexico And Wyoming],"['New Mexico', 'Wyoming']",BLM,Natural Gas,USA,"['New Mexico', 'Wyoming']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Condensate,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Condensate,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Condensate,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas Liquids,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas Liquids,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas Liquids,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemical Raw Materials,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemical Raw Materials,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemical Raw Materials,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Power,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Power,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Power,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Ethylene,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Ethylene,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Ethylene,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Condensate,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Condensate,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Condensate,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas Liquids,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas Liquids,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas Liquids,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemical Raw Materials,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemical Raw Materials,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemical Raw Materials,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Power,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Power,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Power,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Ethylene,Algeria,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Ethylene,Oman,"['Colorado', 'Virginia', 'West Virginia']"
+Field Equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'Colorado', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Ethylene,USA,"['Colorado', 'Virginia', 'West Virginia']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Oman,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,UAE,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Algeria,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Oman,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,UAE,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Fields,"['USA (Texas', 'New Mexico', 'Colorado', 'Gulf Of Mexico)', 'Oman', 'UAE', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Algeria,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",Occidental Petroleum Corporation,Crude Oil,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",Occidental Petroleum Corporation,Natural Gas,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",Occidental Petroleum Corporation,Natural Gas Liquids,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",Third Parties,Crude Oil,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",Third Parties,Natural Gas,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",Third Parties,Natural Gas Liquids,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",WES,Crude Oil,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",WES,Natural Gas,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Plants,"['Domestic Sites', 'International Sites', 'Texas', 'New Mexico', 'Colorado', 'Permian Basin', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",WES,Natural Gas Liquids,USA,"['California', 'Colorado', 'Delaware', 'Michigan', 'New Mexico', 'New York', 'Ohio', 'Tennessee', 'Texas', 'Washington']"
+Natural Gas Processing And Compression Plant,['Qatar'],Delaware Owned,Natural Gas,Qatar,
+gathering systems,"['Domestic Sites', 'International Sites', 'Wes Operating', 'Texas', 'New Mexico', 'Colorado', 'Midland To Gulf Coast']",WES,Crude Oil,USA,"['Colorado', 'New Mexico', 'Texas']"
+gathering systems,"['Domestic Sites', 'International Sites', 'Wes Operating', 'Texas', 'New Mexico', 'Colorado', 'Midland To Gulf Coast']",WES,Natural Gas,USA,"['Colorado', 'New Mexico', 'Texas']"
+gathering systems,"['Domestic Sites', 'International Sites', 'Wes Operating', 'Texas', 'New Mexico', 'Colorado', 'Midland To Gulf Coast']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'New Mexico', 'Texas']"
+gathering systems,"['Domestic Sites', 'International Sites', 'Wes Operating', 'Texas', 'New Mexico', 'Colorado', 'Midland To Gulf Coast']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'New Mexico', 'Texas']"
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Subsidiaries,Crude Oil,USA,
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Subsidiaries,Crude Oil,Mexico,
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Subsidiaries,Natural Gas,USA,
+Gulf Of Mexico Assets,['Gulf of Mexico'],Occidental Subsidiaries,Natural Gas,Mexico,
+Horn Mountain West Subsea Development,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+Horn Mountain West Subsea Development,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Horn Mountain West Subsea Development,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+Horn Mountain West Subsea Development,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Infill Development Projects,['Permian Basin'],Occidental Petroleum Corporation,,USA,
+Information And Industrial Control Technology System (N/A),,Occidental Petroleum Corporation,Crude Oil,,
+Information And Industrial Control Technology System (N/A),,Occidental Petroleum Corporation,Natural Gas,,
+Information Systems,,Occidental Petroleum Corporation,Crude Oil,,
+Information Systems,,Occidental Petroleum Corporation,Natural Gas,,
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",Occidental Petroleum Corporation,Crude Oil,Algeria,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",Occidental Petroleum Corporation,Crude Oil,Oman,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",Occidental Petroleum Corporation,Natural Gas,Algeria,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",Occidental Petroleum Corporation,Natural Gas,Oman,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",U.S. Government,Crude Oil,USA,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",U.S. Government,Crude Oil,Algeria,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",U.S. Government,Crude Oil,Oman,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",U.S. Government,Natural Gas,USA,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",U.S. Government,Natural Gas,Algeria,"['Louisiana', 'Utah', 'Wyoming']"
+infrastructure,"['Latin America', 'Gulf Of Mexico', 'International Assets', 'USA Gulf Coast', 'Rockies', 'Permian Basin', 'Utah', 'Algeria', 'Powder River Basin', 'Louisiana', 'Wyoming', 'Oman']",U.S. Government,Natural Gas,Oman,"['Louisiana', 'Utah', 'Wyoming']"
+Lucius And Holstein Facilities,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+Lucius And Holstein Facilities,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Lucius And Holstein Facilities,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+Lucius And Holstein Facilities,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chemicals,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chemicals,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chemicals,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorine,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorine,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorine,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Caustic Soda,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Caustic Soda,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Caustic Soda,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorinated Organics,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorinated Organics,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorinated Organics,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Potassium Chemicals,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Potassium Chemicals,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Potassium Chemicals,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorinated Isocyanurates,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorinated Isocyanurates,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Chlorinated Isocyanurates,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Sodium Silicates,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Sodium Silicates,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Sodium Silicates,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Calcium Chloride,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Calcium Chloride,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Calcium Chloride,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Vinyl Chloride Monomer,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Vinyl Chloride Monomer,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Vinyl Chloride Monomer,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Polyvinyl Chloride,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Polyvinyl Chloride,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Polyvinyl Chloride,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Ethylene,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Ethylene,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Ethylene,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Crude Oil,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Crude Oil,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Crude Oil,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Natural Gas,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Natural Gas,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",OxyChem,Natural Gas,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chemicals,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chemicals,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chemicals,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorine,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorine,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorine,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Caustic Soda,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Caustic Soda,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Caustic Soda,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorinated Organics,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorinated Organics,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorinated Organics,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Potassium Chemicals,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Potassium Chemicals,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Potassium Chemicals,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorinated Isocyanurates,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorinated Isocyanurates,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Chlorinated Isocyanurates,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Sodium Silicates,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Sodium Silicates,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Sodium Silicates,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Calcium Chloride,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Calcium Chloride,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Calcium Chloride,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Vinyl Chloride Monomer,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Vinyl Chloride Monomer,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Vinyl Chloride Monomer,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Polyvinyl Chloride,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Polyvinyl Chloride,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Polyvinyl Chloride,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Ethylene,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Ethylene,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Ethylene,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Crude Oil,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Crude Oil,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Crude Oil,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Natural Gas,USA,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Natural Gas,Canada,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Manufacturing Plants,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas', 'Canada', 'Chile']",Occidental Petroleum Corporation,Natural Gas,Chile,"['Alabama', 'Georgia', 'Illinois', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'Ohio', 'Tennessee', 'Texas']"
+Midstream And Marketing  [physical assets],,Occidental Petroleum Corporation,Crude Oil,,
+Midstream And Marketing  [physical assets],,Occidental Petroleum Corporation,Natural Gas,,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Natural Gas,USA,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Natural Gas,Oman,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Natural Gas,Middle East,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Crude Oil,USA,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Crude Oil,Oman,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",Occidental Petroleum Corporation,Crude Oil,Middle East,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Natural Gas,USA,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Natural Gas,Algeria,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Natural Gas,Oman,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Natural Gas,Middle East,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Crude Oil,USA,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Crude Oil,Algeria,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Crude Oil,Oman,
+Natural Gas Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Oman', 'Middle East', 'North Africa', 'Latin America']",WES,Crude Oil,Middle East,
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Natural Gas,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Natural Gas,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Natural Gas,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Crude Oil,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Crude Oil,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Crude Oil,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Carbon,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Carbon,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Carbon,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Natural Gas Liquids,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Natural Gas Liquids,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Delaware Owned,Natural Gas Liquids,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Natural Gas,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Natural Gas,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Crude Oil,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Crude Oil,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Carbon,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Carbon,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Carbon,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Natural Gas Liquids,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Natural Gas Liquids,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",Occidental Petroleum Corporation,Natural Gas Liquids,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Natural Gas,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Natural Gas,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Natural Gas,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Crude Oil,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Crude Oil,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Crude Oil,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Carbon,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Carbon,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Carbon,USA,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Natural Gas Liquids,UAE,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Natural Gas Liquids,Oman,"['Colorado', 'New Mexico', 'Texas']"
+network of pipelines,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado']",WES,Natural Gas Liquids,USA,"['Colorado', 'New Mexico', 'Texas']"
+Natural Gas Reserves,"['USA', 'International', 'Permian Basin', 'DJ Basin', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,USA,
+Natural Gas Reserves,"['USA', 'International', 'Permian Basin', 'DJ Basin', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Natural Gas Reserves,"['USA', 'International', 'Permian Basin', 'DJ Basin', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,USA,
+Natural Gas Reserves,"['USA', 'International', 'Permian Basin', 'DJ Basin', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Offshore and Onshore Drilling Rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+Offshore and Onshore Drilling Rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Offshore and Onshore Drilling Rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+Offshore and Onshore Drilling Rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Crude Oil production facilities,,Occidental Petroleum Corporation,Crude Oil,,
+Crude Oil production facilities,,Occidental Petroleum Corporation,Natural Gas Liquids,,
+Crude Oil production facilities,,Occidental Petroleum Corporation,Natural Gas,,
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Crude Oil,USA,['Texas']
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Crude Oil,Algeria,['Texas']
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Crude Oil,Oman,['Texas']
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Crude Oil,Middle East,['Texas']
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Natural Gas,USA,['Texas']
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Natural Gas,Algeria,['Texas']
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Natural Gas,Oman,['Texas']
+Crude Oil Reserves,"['USA', 'Permian Basin', 'DJ Basin', 'Algeria', 'Gulf Of Mexico', 'Oman', 'Middle East', 'North Africa', 'Latin America', 'Powder River Basin', 'Permian EOR', 'Greenway Plaza', 'Suite', 'Houston', 'Texas']",Occidental Petroleum Corporation,Natural Gas,Middle East,['Texas']
+Operations,"['Gulf Of Mexico', 'South Texas', 'DJ Basin']",Occidental Petroleum Corporation,Crude Oil,USA,['Texas']
+Operations,"['Gulf Of Mexico', 'South Texas', 'DJ Basin']",Occidental Petroleum Corporation,Natural Gas,USA,['Texas']
+Operations,"['Gulf Of Mexico', 'South Texas', 'DJ Basin']",OxyChem,Crude Oil,USA,['Texas']
+Operations,"['Gulf Of Mexico', 'South Texas', 'DJ Basin']",OxyChem,Natural Gas,USA,['Texas']
+Permian Basin,"['USA', 'Permian Basin']",Occidental Petroleum Corporation,Crude Oil,USA,
+Permian Basin,"['USA', 'Permian Basin']",Occidental Petroleum Corporation,Natural Gas,USA,
+Platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+Platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+Platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Power Generation Facility,"['Texas', 'Louisiana']",Third Parties,Natural Gas,USA,"['Louisiana', 'Texas']"
+Power Generation Facility,"['Texas', 'Louisiana']",Third Parties,Electricity,USA,"['Louisiana', 'Texas']"
+Power Generation Facility,"['Texas', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Texas']"
+Power Generation Facility,"['Texas', 'Louisiana']",Occidental Petroleum Corporation,Electricity,USA,"['Louisiana', 'Texas']"
+Pressure-Maintenance Projects,"['USA', 'International']",Occidental Petroleum Corporation,Crude Oil,USA,
+Pressure-Maintenance Projects,"['USA', 'International']",Occidental Petroleum Corporation,Natural Gas,USA,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,USA,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,UAE,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Oman,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Colombia,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Qatar,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Middle East,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,USA,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,UAE,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Oman,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Colombia,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Qatar,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Middle East,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,USA,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,UAE,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Oman,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Algeria,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Colombia,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Qatar,
+Property,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Middle East,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,USA,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,UAE,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Oman,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Colombia,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Qatar,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Crude Oil,Middle East,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,USA,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,UAE,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Oman,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Colombia,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Qatar,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Natural Gas,Middle East,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,USA,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,UAE,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Oman,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Algeria,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Colombia,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Qatar,
+Plant And Equipment,"['USA', 'UAE', 'Oman', 'Algeria', 'Colombia', 'Qatar', 'Middle East and North Africa', 'Latin America', 'Permian Basin', 'DJ Basin', 'Countries outside North America']",Occidental Petroleum Corporation,Chemical Products,Middle East,
+Properties,"['USA', 'Permian Basin', 'International', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,USA,
+Properties,"['USA', 'Permian Basin', 'International', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Properties,"['USA', 'Permian Basin', 'International', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,USA,
+Properties,"['USA', 'Permian Basin', 'International', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Real Estate,,Occidental Petroleum Corporation,Crude Oil,,
+Real Estate,,Occidental Petroleum Corporation,Natural Gas,,
+Receiving Facilities,['UAE'],Delaware Owned,Natural Gas,UAE,
+Refinery,"['Oklahoma', 'Louisiana']",Third Parties,Natural Gas,USA,"['Louisiana', 'Oklahoma']"
+Refinery,"['Oklahoma', 'Louisiana']",Third Parties,Petroleum,USA,"['Louisiana', 'Oklahoma']"
+Refinery,"['Oklahoma', 'Louisiana']",Third Parties,Crude Oil,USA,"['Louisiana', 'Oklahoma']"
+Refinery,"['Oklahoma', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,"['Louisiana', 'Oklahoma']"
+Refinery,"['Oklahoma', 'Louisiana']",Occidental Petroleum Corporation,Petroleum,USA,"['Louisiana', 'Oklahoma']"
+Refinery,"['Oklahoma', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,"['Louisiana', 'Oklahoma']"
+Secondary And Tertiary Projects,['International Assets'],Occidental Petroleum Corporation,,,
+Sequestration Hubs,"['Louisiana', 'Texas']",Oxy Low Carbon Ventures,Carbon,USA,"['Louisiana', 'Texas']"
+Sequestration Hubs,"['Louisiana', 'Texas']",1pointfive,Carbon,USA,"['Louisiana', 'Texas']"
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Occidental Petroleum Corporation,Natural Gas,UAE,
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Occidental Petroleum Corporation,Natural Gas Liquids,UAE,
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Occidental Petroleum Corporation,Condensate,UAE,
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Occidental Petroleum Corporation,Sulfur,UAE,
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Al Hosn Natural Gas,Natural Gas,UAE,
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Al Hosn Natural Gas,Natural Gas Liquids,UAE,
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Al Hosn Natural Gas,Condensate,UAE,
+Sour Natural Gas Processing Facilities,"['Al Hosn Natural Gas', 'UAE']",Al Hosn Natural Gas,Sulfur,UAE,
+Well Pads,"['Permian Basin', 'Colorado Eastern Plains']",Occidental Petroleum Corporation,Crude Oil,USA,['Colorado']
+Well Pads,"['Permian Basin', 'Colorado Eastern Plains']",Occidental Petroleum Corporation,Natural Gas,USA,['Colorado']
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Crude Oil,Oman,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Crude Oil,UAE,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Crude Oil,USA,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Crude Oil,Middle East,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Natural Gas,Oman,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Natural Gas,UAE,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Natural Gas,USA,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Natural Gas,Middle East,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Hydrocarbons,Algeria,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Hydrocarbons,Oman,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Hydrocarbons,UAE,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Hydrocarbons,USA,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Hydrocarbons,Middle East,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Condensate,Algeria,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Condensate,Oman,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Condensate,UAE,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Condensate,USA,
+Wells,"['Gulf Of Mexico', 'DJ Basin', 'Algeria', 'Oman', 'UAE', 'USA', 'Middle East And North Africa']",Occidental Petroleum Corporation,Condensate,Middle East,
+Deep Disposal Wells,['Texas'],Occidental Petroleum Corporation,Water,USA,['Texas']
+Central Water Treatment And Recycling Facilities,['Texas'],Occidental Petroleum Corporation,Water,USA,['Texas']
+Co Producing Wells And Facilities,,Occidental Petroleum Corporation,Cobalt,,
+Co Producing Wells And Facilities,,Occidental Petroleum Corporation,Crude Oil,,
+Seismic Data Systems,,Occidental Petroleum Corporation,Crude Oil,,
+Seismic Data Systems,,Occidental Petroleum Corporation,Natural Gas,,
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Crude Oil,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Natural Gas,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Chemicals,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Power,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Power,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Power,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Condensate,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Condensate,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",Occidental Petroleum Corporation,Condensate,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Crude Oil,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Natural Gas,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Chemicals,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Power,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Power,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Power,Oman,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Condensate,Algeria,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Condensate,USA,"['Virginia', 'West Virginia']"
+drilling equipment,"['International', 'North Africa', 'INatural Gas Liquidseside Facility', 'DJ Basin', 'Algeria', 'Permian Basin', 'Gulf Coast', 'USA', 'Oman', 'West Virginia', 'Gulf of Mexico', 'Rockies']",OxyChem,Condensate,Oman,"['Virginia', 'West Virginia']"
+Land,"['Gulf Of Mexico', 'Permian Basin', 'DJ Basin', 'UAE', 'Oman', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,UAE,
+Land,"['Gulf Of Mexico', 'Permian Basin', 'DJ Basin', 'UAE', 'Oman', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Oman,
+Land,"['Gulf Of Mexico', 'Permian Basin', 'DJ Basin', 'UAE', 'Oman', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Algeria,
+Land,"['Gulf Of Mexico', 'Permian Basin', 'DJ Basin', 'UAE', 'Oman', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,UAE,
+Land,"['Gulf Of Mexico', 'Permian Basin', 'DJ Basin', 'UAE', 'Oman', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Oman,
+Land,"['Gulf Of Mexico', 'Permian Basin', 'DJ Basin', 'UAE', 'Oman', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Algeria,
+Environmental Remediation Sites,"['NPL sites', 'third-party sites', 'Occidental-operated sites', 'Diamond Alkali Superfund Site', 'Passaic River', 'Newark Bay', 'New Jersey chrome site', 'Tennessee copper mining and smelting operation', 'California Crude Oil field', 'Louisiana refinery', 'Colorado Crude Oil and Natural Gas operations', 'Kansas chemical plants', 'Louisiana chemical plants', 'Texas chemical plants', 'Western New York landfill', 'Oklahoma former refinery', 'California former chemical plants', 'Delaware Ownedaware former chemical plants', 'Michigan former chemical plants', 'New York former chemical plants', 'Ohio former chemical plants', 'Tennessee former chemical plants', 'Washington former chemical plants', 'Pennsylvania closed coal mine']",Occidental Petroleum Corporation,,USA,"['California', 'Colorado', 'Delaware', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'New York', 'Ohio', 'Oklahoma', 'Pennsylvania', 'Tennessee', 'Texas', 'Washington']"
+Environmental Remediation Sites,"['NPL sites', 'third-party sites', 'Occidental-operated sites', 'Diamond Alkali Superfund Site', 'Passaic River', 'Newark Bay', 'New Jersey chrome site', 'Tennessee copper mining and smelting operation', 'California Crude Oil field', 'Louisiana refinery', 'Colorado Crude Oil and Natural Gas operations', 'Kansas chemical plants', 'Louisiana chemical plants', 'Texas chemical plants', 'Western New York landfill', 'Oklahoma former refinery', 'California former chemical plants', 'Delaware Ownedaware former chemical plants', 'Michigan former chemical plants', 'New York former chemical plants', 'Ohio former chemical plants', 'Tennessee former chemical plants', 'Washington former chemical plants', 'Pennsylvania closed coal mine']",Maxus,,USA,"['California', 'Colorado', 'Delaware', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'New York', 'Ohio', 'Oklahoma', 'Pennsylvania', 'Tennessee', 'Texas', 'Washington']"
+Environmental Remediation Sites,"['NPL sites', 'third-party sites', 'Occidental-operated sites', 'Diamond Alkali Superfund Site', 'Passaic River', 'Newark Bay', 'New Jersey chrome site', 'Tennessee copper mining and smelting operation', 'California Crude Oil field', 'Louisiana refinery', 'Colorado Crude Oil and Natural Gas operations', 'Kansas chemical plants', 'Louisiana chemical plants', 'Texas chemical plants', 'Western New York landfill', 'Oklahoma former refinery', 'California former chemical plants', 'Delaware Ownedaware former chemical plants', 'Michigan former chemical plants', 'New York former chemical plants', 'Ohio former chemical plants', 'Tennessee former chemical plants', 'Washington former chemical plants', 'Pennsylvania closed coal mine']",EPA,,USA,"['California', 'Colorado', 'Delaware', 'Kansas', 'Louisiana', 'Michigan', 'New Jersey', 'New York', 'Ohio', 'Oklahoma', 'Pennsylvania', 'Tennessee', 'Texas', 'Washington']"
+Mineral Acres [and Fee Surface Acres] Located In Wyoming,"['Wyoming', 'Colorado', 'Utah']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'Utah', 'Wyoming']"
+Mineral Acres [and Fee Surface Acres] Located In Wyoming,"['Wyoming', 'Colorado', 'Utah']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'Utah', 'Wyoming']"
+Mineral Acres [and Fee Surface Acres] Located In Wyoming,"['Wyoming', 'Colorado', 'Utah']",Occidental Petroleum Corporation,Natural Gas Liquids,USA,"['Colorado', 'Utah', 'Wyoming']"
+Colorado And Utah,"['Wyoming', 'Colorado', 'Utah']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'Utah', 'Wyoming']"
+Colorado And Utah,"['Wyoming', 'Colorado', 'Utah']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'Utah', 'Wyoming']"
+Colorado And Utah,"['Wyoming', 'Colorado', 'Utah']",Occidental Petroleum Corporation,Natural Gas Liquids,USA,"['Colorado', 'Utah', 'Wyoming']"
+landfill,['Western New York'],Occidental Petroleum Corporation,,USA,['New York']
+Coal Mine,['Pennsylvania'],Occidental Petroleum Corporation,,USA,['Pennsylvania']
+Zero-Emission Natural Gas Generation Demonstration Facility,['Texas'],Occidental Petroleum Corporation,Electricity,USA,['Texas']
+Drilling Locations,['DJ Basin'],Occidental Petroleum Corporation,Crude Oil,USA,
+Drilling Locations,['DJ Basin'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Drilling Locations,['DJ Basin'],Occidental Petroleum Corporation,Natural Gas,USA,
+Drilling Locations,['DJ Basin'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,UAE,"['Colorado', 'New Mexico', 'Texas']"
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Oman,"['Colorado', 'New Mexico', 'Texas']"
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,USA,"['Colorado', 'New Mexico', 'Texas']"
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Crude Oil,Algeria,"['Colorado', 'New Mexico', 'Texas']"
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,UAE,"['Colorado', 'New Mexico', 'Texas']"
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Oman,"['Colorado', 'New Mexico', 'Texas']"
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,USA,"['Colorado', 'New Mexico', 'Texas']"
+Facilities,"['UAE', 'Oman', 'Midland', 'Gulf Coast', 'Texas', 'New Mexico', 'Colorado', 'Algeria']",Occidental Petroleum Corporation,Natural Gas,Algeria,"['Colorado', 'New Mexico', 'Texas']"
+Leased Crude Storage Capacity,['Midland to Gulf Coast'],Occidental Petroleum Corporation,Crude Oil,USA,
+DAC Facility,,Oxy Low Carbon Ventures,Carbon,,
+Aircraft,,Occidental Petroleum Corporation,Crude Oil,,
+Aircraft,,Occidental Petroleum Corporation,Natural Gas,,
+Third-Party Sites,['A Chrome Site in New Jersey'],Occidental Petroleum Corporation,Chromium,USA,['New Jersey']
+Currently Operated Sites,['Crude Oil And Natural Gas Operations In Colorado'],Occidental Petroleum Corporation,Crude Oil,USA,['Colorado']
+Currently Operated Sites,['Crude Oil And Natural Gas Operations In Colorado'],Occidental Petroleum Corporation,Natural Gas,USA,['Colorado']
+Closed Or Non-Operated Sites,['Former Refinery in Oklahoma'],Occidental Petroleum Corporation,Crude Oil,USA,['Oklahoma']
+Occidental's First Large-Scale Dac Facility In Ector County,"['Ector County', 'Texas']",Occidental Petroleum Corporation,,USA,['Texas']
+Texas  [Physical Asset],"['Ector County', 'Texas']",Occidental Petroleum Corporation,,USA,['Texas']
+Processing Facility,"['UAE', 'Al Hosn  Natural Gas']",Occidental Petroleum Corporation,Natural Gas,UAE,
+Processing Facility,"['UAE', 'Al Hosn  Natural Gas']",Occidental Petroleum Corporation,Sulfur,UAE,
+Processing Facility,"['UAE', 'Al Hosn  Natural Gas']",Al Hosn Natural Gas,Natural Gas,UAE,
+Processing Facility,"['UAE', 'Al Hosn  Natural Gas']",Al Hosn Natural Gas,Sulfur,UAE,
+Class VI CO2 Sequestration Wells,"['Louisiana', 'Texas']",1pointfive,Carbon,USA,"['Louisiana', 'Texas']"
+Electric Generating Units,['USA'],,Electricity,USA,
+Property And Equipment Owned By Third Parties,['Coastal Operations'],Third Parties,Crude Oil,,
+Property And Equipment Owned By Third Parties,['Coastal Operations'],Third Parties,Natural Gas,,
+Property And Equipment Owned By Third Parties,['Coastal Operations'],Third Parties,Chemical Products,,
+Property And Equipment Owned By Third Parties,['Coastal Operations'],Occidental Petroleum Corporation,Crude Oil,,
+Property And Equipment Owned By Third Parties,['Coastal Operations'],Occidental Petroleum Corporation,Natural Gas,,
+Property And Equipment Owned By Third Parties,['Coastal Operations'],Occidental Petroleum Corporation,Chemical Products,,
+Exploration Assets,,Occidental Petroleum Corporation,Crude Oil,,
+Exploration Assets,,Occidental Petroleum Corporation,Natural Gas Liquids,,
+Exploration Assets,,Occidental Petroleum Corporation,Natural Gas,,
+Deep-Water Exploration Locations,"['Gulf Of Mexico', 'International Deep-Water Locations']",Occidental Subsidiaries,Crude Oil,USA,
+Deep-Water Exploration Locations,"['Gulf Of Mexico', 'International Deep-Water Locations']",Occidental Subsidiaries,Crude Oil,Mexico,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Crude Oil,USA,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Crude Oil,Oman,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Crude Oil,UAE,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Natural Gas,USA,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Natural Gas,Oman,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Natural Gas,UAE,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Chemical Products,USA,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Chemical Products,Oman,
+High Return Upstream Assets (physical assets),"['Permian', 'Rockies', 'Gulf Of Mexico', 'Oman', 'UAE']",Occidental Petroleum Corporation,Chemical Products,UAE,
+Deep-water floating platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+Deep-water floating platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Deep-water floating platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+Deep-water floating platforms,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Helicopter Bases,['Louisiana'],Occidental Petroleum Corporation,Crude Oil,USA,['Louisiana']
+Helicopter Bases,['Louisiana'],Occidental Petroleum Corporation,Natural Gas,USA,['Louisiana']
+Central Logistics Base,"['Broussard', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,['Louisiana']
+Central Logistics Base,"['Broussard', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,['Louisiana']
+Integrated Training Center,"['Broussard', 'Louisiana']",Occidental Petroleum Corporation,Crude Oil,USA,['Louisiana']
+Integrated Training Center,"['Broussard', 'Louisiana']",Occidental Petroleum Corporation,Natural Gas,USA,['Louisiana']
+platform rig,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+platform rig,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+platform rig,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+platform rig,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+service rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+service rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+service rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+service rigs,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Drillships,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,USA,
+Drillships,['Gulf Of Mexico'],Occidental Petroleum Corporation,Crude Oil,Mexico,
+Drillships,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,USA,
+Drillships,['Gulf Of Mexico'],Occidental Petroleum Corporation,Natural Gas,Mexico,
+Powder River Basin,['Powder River Basin'],Occidental Petroleum Corporation,Natural Gas,USA,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Crude Oil,South Africa,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Crude Oil,USA,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Crude Oil,Canada,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Crude Oil,Middle East,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Natural Gas,South Africa,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Natural Gas,USA,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Natural Gas,Canada,
+Crude Oil & Natural Gas Producing Properties,"['South Africa', 'USA', 'Canada', 'Middle East', 'North Africa', 'North America']",Occidental Petroleum Corporation,Natural Gas,Middle East,
+railcars,,Occidental Petroleum Corporation,Crude Oil,,
+railcars,,Occidental Petroleum Corporation,Natural Gas,,
+Marine Transportation Vessels,,Occidental Petroleum Corporation,Crude Oil,,
+Marine Transportation Vessels,,Occidental Petroleum Corporation,Natural Gas,,
+Former Diamond Alkali Plant,,Maxus And Its Affiliates,,,
+Landfill (in Western New York),['Western New York'],,,USA,['New York']
+Former Chemical Plants,"['California', 'Michigan', 'Ohio', 'Tennessee', 'Washington']",,,USA,"['California', 'Michigan', 'Ohio', 'Tennessee', 'Washington']"
+Chrome Site (Physical Asset) In New Jersey,['New Jersey'],,,USA,['New Jersey']
+Former Copper Mine,['Tennessee'],,,USA,['Tennessee']
+former chemical plant,['California'],,,USA,['California']
+landfill,['California'],,,USA,['California']
+Chemical Plants,"['Kansas And Louisiana', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",OxyChem,,USA,"['California', 'Delaware', 'Kansas', 'Louisiana', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']"
+Chemical Plants,"['Kansas And Louisiana', 'California', 'Delaware Owned', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']",Occidental Petroleum Corporation,,USA,"['California', 'Delaware', 'Kansas', 'Louisiana', 'Michigan', 'New York', 'Ohio', 'Tennessee', 'Washington']"

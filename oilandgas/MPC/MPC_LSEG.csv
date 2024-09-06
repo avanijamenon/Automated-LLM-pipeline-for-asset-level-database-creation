@@ -1,0 +1,20 @@
+﻿Name,Asset Type,Location,Commodity,Operating Company,Status,Capacity (Barrels),Region PADD,Primary Shareholders
+Garyville (Marathon),Oil Refinery,"Louisiana, USA",Oil / Oil Products,Marathon,Normal Operation,"565,000.00",Gulf Coast (PADD III),Marathon Oil Corp
+Galveston Bay Refinery (GBR) (Marathon Petroleum Co),Oil Refinery,"Texas, USA",Oil / Oil Products,Marathon Petroleum Co,Normal Operation,"555,000.00",Gulf Coast (PADD III),BP PLC
+Los Angeles Carson Refinery (Marathon Petroleum Corporation),Oil Refinery,"California, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"260,000.00",West Coast (PADD V),Marathon Petroleum Corp
+Robinson (Marathon Petroleum Corporation),Oil Refinery,"Illinois, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"255,000.00",Midwest (PADD II),Marathon Petroleum Corp
+Martinez Refinery (Marathon Petroleum Corporation),Oil Refinery,"California, USA",Oil / Oil Products,Marathon Petroleum Corporation,Closed,"167,000.00",West Coast (PADD V),Andeavor
+Detroit (Marathon),Oil Refinery,"Michigan, USA",Oil / Oil Products,Marathon,Normal Operation,"135,000.00",Midwest (PADD II),Marathon Petroleum Corp
+Anacortes (Marathon Petroleum Corporation),Oil Refinery,"Washington, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"120,000.00",West Coast (PADD V),Andeavor
+Los Angeles Wilmington Refinery (Marathon Petroleum Co),Oil Refinery,"California, USA",Oil / Oil Products,Marathon Petroleum Co,Normal Operation,"103,000.00",West Coast (PADD V),Marathon Petroleum Corp
+Saint Paul Park Refinery (Marathon Petroleum Corp),Oil Refinery,"Minnesota, USA",Oil / Oil Products,Marathon Petroleum Corp,Normal Operation,"101,000.00",Midwest (PADD II),Marathon Petroleum Corp
+Canton (Marathon Petroleum Corp),Oil Refinery,"Ohio, USA",Oil / Oil Products,Marathon Petroleum Corp,Normal Operation,"92,000.00",Midwest (PADD II),Marathon Petroleum Corp
+Texas City (Marathon Petroleum Corporation),Oil Refinery,"Texas, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"85,000.00",Gulf Coast (PADD III),Marathon Oil Corp
+Mandan (Marathon Petroleum Corporation),Oil Refinery,"North Dakota, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"76,000.00",Midwest (PADD II),Andeavor
+El Paso South Refinery (Marathon Petroleum Corporation),Oil Refinery,"Texas, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"75,000.00",Gulf Coast (PADD III),Marathon Petroleum Corp
+Kenai (Marathon Petroleum Corporation),Oil Refinery,"Alaska, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"72,000.00",West Coast (PADD V),Andeavor
+Salt Lake City (Marathon Petroleum Corporation),Oil Refinery,"Utah, USA",Oil / Oil Products,Marathon Petroleum Corporation,Normal Operation,"64,000.00",Rockies (PADD IV),Andeavor
+El Paso North Refinery (Marathon Petroleum Corp),Oil Refinery,"Texas, USA",Oil / Oil Products,Marathon Petroleum Corp,Normal Operation,"56,000.00",Gulf Coast (PADD III),Marathon Petroleum Corp
+Gallup (Marathon Petroleum Corporation),Oil Refinery,"New Mexico, USA",Oil / Oil Products,Marathon Petroleum Corporation,Closed,"26,000.00",Gulf Coast (PADD III),Marathon Petroleum Corp
+Dickinson (Marathon Petroleum Corp),Oil Refinery,"North Dakota, USA",Oil / Oil Products,Marathon Petroleum Corp,Closed,"20,000.00",Midwest (PADD II),Andeavor
+Catlettsburg Refinery 1 - South (Marathon) - Aromatics HDS,Hydrotreater Unit,"Kentucky, USA",Oil / Oil Products,Marathon,Unknown,--,,Marathon Petroleum Corp

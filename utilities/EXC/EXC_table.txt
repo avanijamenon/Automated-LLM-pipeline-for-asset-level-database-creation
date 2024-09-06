@@ -1,0 +1,64 @@
+|Station|Unit|In-Service Date(a)|Current License Expiration|
+|---|---|---|---|
+|Braidwood|1|1988|2046|
+|Braidwood|2|1988|2047|
+|Byron|1|1985|2044|
+|Byron|2|1987|2046|
+|Calvert Cliffs|1|1975|2034|
+|Calvert Cliffs|2|1977|2036|
+|Clinton(b)|1|1987|2027|
+|Dresden|2|1970|2029|
+|Dresden|3|1971|2031|
+|FitzPatrick|1|1975|2034|
+|LaSalle|1|1984|2042|
+|LaSalle|2|1984|2043|
+|Limerick|1|1986|2044|
+|Limerick|2|1990|2049|
+|Nine Mile Point|1|1969|2029|
+|Nine Mile Point|2|1988|2046|
+|Peach Bottom|2|1974|2053|
+|Peach Bottom|3|1974|2054|
+|Quad Cities|1|1973|2032|
+|Quad Cities|2|1973|2032|
+|Ginna|1|1970|2029|
+|Salem|1|1977|2036|
+|Salem|2|1981|2040|
+|Richmond|Philadelphia, PA|2|Oil|Peaking|98|
+|Philadelphia Road|Baltimore, MD|4|Oil|Peaking|61|
+|Eddystone|Eddystone, PA|4|Oil|Peaking|60|
+|Delaware|Philadelphia, PA|4|Oil|Peaking|56|
+|Southwark|Philadelphia, PA|4|Oil|Peaking|52|
+|Falls|Morrisville, PA|3|Oil|Peaking|51|
+|Moser|Lower Pottsgrove Twp., PA|3|Oil|Peaking|51|
+|Chester|Chester, PA|3|Oil|Peaking|39|
+|Schuylkill|Philadelphia, PA|2|Oil|Peaking|30|
+|Salem|Lower Alloways Creek Township, NJ|1|Oil|Peaking|16 (f)|
+|Whitetail|Webb County, TX|57|Wind|Intermittent|47 (f)|
+|Sendero|Jim Hogg and Zapata County, TX|39|Wind|Intermittent|40 (f)|
+|Colorado Bend II|Wharton, TX|3|Gas|Intermediate|1,143|
+|Wolf Hollow II|Granbury, TX|3|Gas|Intermediate|1,115|
+|Handley 3|Fort Worth, TX|1|Gas|Intermediate|395|
+|Handley 4, 5|Fort Worth, TX|2|Gas|Peaking|870|
+|Conception|Barnard, MO|24|51% (g)|Wind|Intermittent|26 (f)|
+|Cow Branch|Rock Port, MO|24|51% (g)|Wind|Intermittent|26 (f)|
+|Mountain Home|Glenns Ferry, ID|20|51% (g)|Wind|Intermittent|21 (f)|
+|High Mesa|Elmore Co., ID|19|51% (g)|Wind|Intermittent|20 (f)|
+|Echo 1|Echo, OR|21|50.49% (g)|Wind|Intermittent|17 (f)|
+|Cassia|Buhl, ID|14|51% (g)|Wind|Intermittent|15 (f)|
+|Wildcat|Lovington, NM|13|51% (g)|Wind|Intermittent|14 (f)|
+|Echo 2|Echo, OR|10|51% (g)|Wind|Intermittent|10 (f)|
+|Tuana Springs|Hagerman, ID|8|51% (g)|Wind|Intermittent|9 (f)|
+|Greensburg|Greensburg, KS|10|51% (g)|Wind|Intermittent|6 (f)|
+|Echo 3|Echo, OR|6|50.49% (g)|Wind|Intermittent|5 (f)|
+|Three Mile Canyon|Boardman, OR|6|51% (g)|Wind|Intermittent|5 (f)|
+|Loess Hills|Rock Port, MO|4| |Wind|Intermittent|5|
+|Denver Airport Solar|Denver, CO|1|51% (g)|Solar|Intermittent|4 (f)|
+|Mystic 8, 9|Charlestown, MA|6| |Gas|Intermediate|1,417 (e)|
+|Hillabee|Alexander City, AL|3| |Gas|Intermediate|753|
+|Wyman 4|Yarmouth, ME|1|5.9|Oil|Intermediate|34 (f)|
+|West Medway II|West Medway, MA|2| |Oil/Gas|Peaking|189|
+|West Medway|West Medway, MA|3| |Oil|Peaking|124|
+|Grand Prairie|Alberta, Canada|1| |Gas|Peaking|105|
+|Framingham|Framingham, MA|3| |Oil|Peaking|31|
+
+(a) All nuclear stations are boiling water reactors except Braidwood, Byron, Calvert Cliffs, Ginna, and Salem, which are pressurized water reactors.

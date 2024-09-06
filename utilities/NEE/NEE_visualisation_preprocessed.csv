@@ -1,0 +1,358 @@
+physical asset,location,ownership,commodity,status,Countries,USA states
+Biogas Plants,,NextEra Energy,Biogas,Operational,nan,
+Biogas Plants,,NextEra Energy,Renewable Natural Gas,Operational,nan,
+Bulk-Power Transmission Systems,"East Coast Of Florida,Northwest Florida",NextEra Energy,Electricity,"Operational,Damaged",USA,Florida
+Bulk-Power Transmission Systems,"East Coast Of Florida,Northwest Florida",Florida Power & Light Company,Electricity,"Operational,Damaged",USA,Florida
+Circuit Miles Of Transmission Lines,North America,NextEra Energy,Electricity,Operational,Canada,
+Circuit Miles Of Transmission Lines,North America,NextEra Energy,Electricity,Operational,USA,
+Coal Units,"Mississippi,Georgia,Florida",Florida Power & Light Company,Electricity,In End-Of-Life,USA,"Florida,Georgia,Mississippi"
+Combustion Turbines,,NextEra Energy,Electricity,"Operational,Under Construction",nan,
+Combustion Turbines,,NextEra Energy,Wind Energy,"Operational,Under Construction",nan,
+Construction Materials,,NextEra Energy,Electricity,Under Construction,nan,
+Construction Materials,,Florida Power & Light Company,Electricity,Under Construction,nan,
+Construction Materials,,NextEra Energy Resources,Electricity,Under Construction,nan,
+Dania Beach Clean Energy Center,Florida,Florida Power & Light Company,Electricity,"Under Construction,Operational",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",Florida Power & Light Company,Electricity,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",Florida Power & Light Company,Electricity,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",Florida Power & Light Company,Fuel,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",Florida Power & Light Company,Fuel,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",Florida Power & Light Company,Renewable Energy,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",Florida Power & Light Company,Renewable Energy,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",NextEra Energy,Electricity,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",NextEra Energy,Electricity,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",NextEra Energy,Fuel,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",NextEra Energy,Fuel,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",NextEra Energy,Renewable Energy,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",NextEra Energy,Renewable Energy,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",Gulf Power Company,Electricity,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",Gulf Power Company,Electricity,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",Gulf Power Company,Fuel,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",Gulf Power Company,Fuel,"Operational,Unavailable,Damaged",Canada,Florida
+Distribution Facilities,"Florida,USA  Canada",Gulf Power Company,Renewable Energy,"Operational,Unavailable,Damaged",USA,Florida
+Distribution Facilities,"Florida,USA  Canada",Gulf Power Company,Renewable Energy,"Operational,Unavailable,Damaged",Canada,Florida
+Duane Arnold Energy Center,USA,NextEra Energy,Electricity,Operational,USA,
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",Florida Power & Light Company,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",Florida Power & Light Company,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",Florida Power & Light Company,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",Florida Power & Light Company,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy Resources,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy Resources,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy Resources,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Electric Generation And Transmission Facilities,"Florida,USA,Canada.",NextEra Energy Resources,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Electric Plant,,NextEra Energy,Electricity,In Service  Operational,nan,
+Electric Plant,,Florida Power & Light Company,Electricity,In Service  Operational,nan,
+Electric Power And Energy Infrastructure,,NextEra Energy,Electricity,,nan,
+Electric Property,,NextEra Energy,Electricity,Operational,nan,
+Electric Property,,NextEra Energy,Oil,Operational,nan,
+Electric Property,,NextEra Energy,Natural Gas,Operational,nan,
+Electric Property,,NextEra Energy,Nuclear Fuel,Operational,nan,
+Electric Property,,Florida Power & Light Company,Electricity,Operational,nan,
+Electric Property,,Florida Power & Light Company,Oil,Operational,nan,
+Electric Property,,Florida Power & Light Company,Natural Gas,Operational,nan,
+Electric Property,,Florida Power & Light Company,Nuclear Fuel,Operational,nan,
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",Florida Power & Light Company,Electricity,"Operational,Under Construction",USA,Nevada
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",Florida Power & Light Company,Electricity,"Operational,Under Construction",Canada,Nevada
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",GridLiance,Electricity,"Operational,Under Construction",USA,Nevada
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",GridLiance,Electricity,"Operational,Under Construction",Canada,Nevada
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",NextEra Energy Transmission,Electricity,"Operational,Under Construction",USA,Nevada
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",NextEra Energy Transmission,Electricity,"Operational,Under Construction",Canada,Nevada
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",NextEra Energy,Electricity,"Operational,Under Construction",USA,Nevada
+Electric Transmission Line,"Midwest,Nevada,USA,Canada",NextEra Energy,Electricity,"Operational,Under Construction",Canada,Nevada
+Electric Utility Plant,Florida,NextEra Energy,Electricity,Operational,USA,Florida
+Electric Utility Plant,Florida,NextEra Energy,Oil,Operational,USA,Florida
+Electric Utility Plant,Florida,NextEra Energy,Natural Gas,Operational,USA,Florida
+Electric Utility Plant,Florida,NextEra Energy,Nuclear Fuel,Operational,USA,Florida
+Electric Utility Plant,Florida,Florida Power & Light Company,Electricity,Operational,USA,Florida
+Electric Utility Plant,Florida,Florida Power & Light Company,Oil,Operational,USA,Florida
+Electric Utility Plant,Florida,Florida Power & Light Company,Natural Gas,Operational,USA,Florida
+Electric Utility Plant,Florida,Florida Power & Light Company,Nuclear Fuel,Operational,USA,Florida
+Equipment,Florida  and its Coastal Areas,NextEra Energy,Electricity,"Operational,Under Construction,End-Of-Life",USA,Florida
+Equipment,Florida  and its Coastal Areas,NextEra Energy,Wind Energy,"Operational,Under Construction,End-Of-Life",USA,Florida
+Equipment,Florida  and its Coastal Areas,Florida Power & Light Company,Electricity,"Operational,Under Construction,End-Of-Life",USA,Florida
+Equipment,Florida  and its Coastal Areas,Florida Power & Light Company,Wind Energy,"Operational,Under Construction,End-Of-Life",USA,Florida
+Equipment,Florida  and its Coastal Areas,Gulf Power Company,Electricity,"Operational,Under Construction,End-Of-Life",USA,Florida
+Equipment,Florida  and its Coastal Areas,Gulf Power Company,Wind Energy,"Operational,Under Construction,End-Of-Life",USA,Florida
+Equipment,Florida  and its Coastal Areas,NextEra Energy Resources,Electricity,"Operational,Under Construction,End-Of-Life",USA,Florida
+Equipment,Florida  and its Coastal Areas,NextEra Energy Resources,Wind Energy,"Operational,Under Construction,End-Of-Life",USA,Florida
+Florida Southeast Connection,Florida,NextEra Energy,Electricity,Operational,USA,Florida
+Gas Infrastructure,"Florida,North America",NextEra Energy,Natural Gas,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",NextEra Energy,Oil,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",NextEra Energy,Electricity,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",NextEra Energy,Solar Energy,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",NextEra Energy,Fuel,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Florida Power & Light Company,Natural Gas,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Florida Power & Light Company,Oil,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Florida Power & Light Company,Electricity,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Florida Power & Light Company,Solar Energy,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Florida Power & Light Company,Fuel,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Gulf Power Company,Natural Gas,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Gulf Power Company,Oil,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Gulf Power Company,Electricity,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Gulf Power Company,Solar Energy,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Infrastructure,"Florida,North America",Gulf Power Company,Fuel,"Operational,Under Construction,End-Of-Life,Under Development,Damaged",USA,Florida
+Gas Pipelines,"USA,Southern Florida,Southwestern Alabama,Central Florida,Southeastern Pennsylvania,Northeastern Pennsylvania,West Virginia,Virginia,Midwest,South",NextEra Energy,Natural Gas,Operational,USA,"Alabama,Florida,Pennsylvania,Virginia,West Virginia"
+Gas Pipelines,"USA,Southern Florida,Southwestern Alabama,Central Florida,Southeastern Pennsylvania,Northeastern Pennsylvania,West Virginia,Virginia,Midwest,South",NextEra Energy,Oil,Operational,USA,"Alabama,Florida,Pennsylvania,Virginia,West Virginia"
+Gas Pipelines,"USA,Southern Florida,Southwestern Alabama,Central Florida,Southeastern Pennsylvania,Northeastern Pennsylvania,West Virginia,Virginia,Midwest,South",Florida Power & Light Company,Natural Gas,Operational,USA,"Alabama,Florida,Pennsylvania,Virginia,West Virginia"
+Gas Pipelines,"USA,Southern Florida,Southwestern Alabama,Central Florida,Southeastern Pennsylvania,Northeastern Pennsylvania,West Virginia,Virginia,Midwest,South",Florida Power & Light Company,Oil,Operational,USA,"Alabama,Florida,Pennsylvania,Virginia,West Virginia"
+Generation Or Transmission Facility,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy,Electricity,"Operational,Under Construction",USA,Florida
+Generation Or Transmission Facility,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",Florida Power & Light Company,Electricity,"Operational,Under Construction",USA,Florida
+Generation Or Transmission Facility,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy Resources,Electricity,"Operational,Under Construction",USA,Florida
+Generation Plants,"Turkey Point,St. Lucie,Duane Arnold,Seabrook",Florida Power & Light Company,Electricity,"Operational,Decommissioning,Under Construction",USA,
+Generation Plants,"Turkey Point,St. Lucie,Duane Arnold,Seabrook",Florida Power & Light Company,Nuclear Energy,"Operational,Decommissioning,Under Construction",USA,
+Generation Plants,"Turkey Point,St. Lucie,Duane Arnold,Seabrook",NextEra Energy,Electricity,"Operational,Decommissioning,Under Construction",USA,
+Generation Plants,"Turkey Point,St. Lucie,Duane Arnold,Seabrook",NextEra Energy,Nuclear Energy,"Operational,Decommissioning,Under Construction",USA,
+Kilovolt Equipment,"Texas,Florida,North America,Kansas,Oklahoma",Public Utility Commission of Texas,Electricity,In Service,USA,"Florida,Kansas,Oklahoma,Texas"
+Kilovolt Equipment,"Texas,Florida,North America,Kansas,Oklahoma",NextEra Energy,Electricity,In Service,USA,"Florida,Kansas,Oklahoma,Texas"
+Kilovolt Equipment,"Texas,Florida,North America,Kansas,Oklahoma",Florida Power & Light Company,Electricity,In Service,USA,"Florida,Kansas,Oklahoma,Texas"
+Kilovolt Equipment,"Texas,Florida,North America,Kansas,Oklahoma",Southwest Power Pool,Electricity,In Service,USA,"Florida,Kansas,Oklahoma,Texas"
+Kilovolt Equipment,"Texas,Florida,North America,Kansas,Oklahoma",ERCOT,Electricity,In Service,USA,"Florida,Kansas,Oklahoma,Texas"
+Mountain Valley Pipeline,,NextEra Energy Resources,Renewable Energy,"End Of Life,Under Construction,Operational",nan,
+Mountain Valley Pipeline,,NextEra Energy,Renewable Energy,"End Of Life,Under Construction,Operational",nan,
+Natural Gas And Oil Electric Generation Facility,USA,NextEra Energy,Electricity,Operational,USA,
+Natural Gas And Oil Electric Generation Facility,USA,NextEra Energy,Natural Gas,Operational,USA,
+Natural Gas And Oil Electric Generation Facility,USA,NextEra Energy,Oil,Operational,USA,
+Natural Gas And Oil Electric Generation Facility,USA,Florida Power & Light Company,Electricity,Operational,USA,
+Natural Gas And Oil Electric Generation Facility,USA,Florida Power & Light Company,Natural Gas,Operational,USA,
+Natural Gas And Oil Electric Generation Facility,USA,Florida Power & Light Company,Oil,Operational,USA,
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Florida Power & Light Company,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Florida Power & Light Company,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Florida Power & Light Company,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Florida Power & Light Company,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Florida Power & Light Company,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Florida Power & Light Company,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Gulf Power Company,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Gulf Power Company,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Gulf Power Company,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Gulf Power Company,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Gulf Power Company,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",Gulf Power Company,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy Resources,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy Resources,Natural Gas,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy Resources,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy Resources,Electricity,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy Resources,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",USA,Florida
+Natural Gas Facilities,"Florida,USA,Ontario,North America",NextEra Energy Resources,Renewable Energy,"Operational,Unavailable,Under Construction,Under Development,Impaired,Damaged",Canada,Florida
+Natural Gas,,NextEra Energy,Natural Gas,Operational,nan,
+Natural Gas,,NextEra Energy,Oil,Operational,nan,
+Natural Gas,,Florida Power & Light Company,Natural Gas,Operational,nan,
+Natural Gas,,Florida Power & Light Company,Oil,Operational,nan,
+Oil and Other Fuel Transportation,,NextEra Energy,Natural Gas,Operational,nan,
+Oil and Other Fuel Transportation,,NextEra Energy,Oil,Operational,nan,
+Oil and Other Fuel Transportation,,Florida Power & Light Company,Natural Gas,Operational,nan,
+Oil and Other Fuel Transportation,,Florida Power & Light Company,Oil,Operational,nan,
+Processing and Storage Facilities,,NextEra Energy,Natural Gas,Operational,nan,
+Processing and Storage Facilities,,NextEra Energy,Oil,Operational,nan,
+Processing and Storage Facilities,,Florida Power & Light Company,Natural Gas,Operational,nan,
+Processing and Storage Facilities,,Florida Power & Light Company,Oil,Operational,nan,
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",NextEra Energy,Electricity,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",USA,Florida
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",NextEra Energy,Electricity,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",Spain,Florida
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",NextEra Energy,Renewable Energy,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",USA,Florida
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",NextEra Energy,Renewable Energy,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",Spain,Florida
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",Florida Power & Light Company,Electricity,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",USA,Florida
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",Florida Power & Light Company,Electricity,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",Spain,Florida
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",Florida Power & Light Company,Renewable Energy,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",USA,Florida
+Nuclear Generation Facilities,"Florida,USA,Europe,North America,Spain",Florida Power & Light Company,Renewable Energy,"Operational,Under Construction,End-Of-Life,Potential For Development,Unavailable,Damaged",Spain,Florida
+Nuclear Units,"Florida,Turkey Point",NextEra Energy Resources,Electricity,"Operational,Decommissioning,In Service,Under Construction,End Of Life",USA,Florida
+Nuclear Units,"Florida,Turkey Point",Florida Power & Light Company,Electricity,"Operational,Decommissioning,In Service,Under Construction,End Of Life",USA,Florida
+Other Commodity Transportation Facilities,,NextEra Energy,nan,Operational,nan,
+Other Commodity Transportation Facilities,,Florida Power & Light Company,nan,Operational,nan,
+Physical Inventory,,nan,nan,,nan,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy,Natural Gas,"Operational,Impaired",USA,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy,Natural Gas,"Operational,Impaired",Canada,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy,Oil,"Operational,Impaired",USA,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy,Oil,"Operational,Impaired",Canada,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",Florida Power & Light Company,Natural Gas,"Operational,Impaired",USA,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",Florida Power & Light Company,Natural Gas,"Operational,Impaired",Canada,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",Florida Power & Light Company,Oil,"Operational,Impaired",USA,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",Florida Power & Light Company,Oil,"Operational,Impaired",Canada,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy Resources,Natural Gas,"Operational,Impaired",USA,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy Resources,Natural Gas,"Operational,Impaired",Canada,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy Resources,Oil,"Operational,Impaired",USA,
+Pipeline,"Land Under Easement,Rights-Of-Way Or Leased From Owners Of Private Property Or Governmental Entities,USA And Canada",NextEra Energy Resources,Oil,"Operational,Impaired",Canada,
+Plant Operations,,Florida Power & Light Company,Electricity,,nan,
+Point Beach Nuclear Power Plant,USA,NextEra Energy,Electricity,Operational,USA,
+Point Beach Nuclear Power Plant,USA,Florida Power & Light Company,Electricity,Operational,USA,
+Power Transmission Infrastructure,"Florida,North America",NextEra Energy,Electricity,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",NextEra Energy,Natural Gas,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",NextEra Energy,Solar Energy,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",Florida Power & Light Company,Electricity,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",Florida Power & Light Company,Natural Gas,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",Florida Power & Light Company,Solar Energy,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",Gulf Power Company,Electricity,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",Gulf Power Company,Natural Gas,"Operational,Damaged",USA,Florida
+Power Transmission Infrastructure,"Florida,North America",Gulf Power Company,Solar Energy,"Operational,Damaged",USA,Florida
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,NextEra Energy,Wind Energy,"Under Development,Operational",nan,
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,NextEra Energy,Solar Energy,"Under Development,Operational",nan,
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,NextEra Energy,Electricity,"Under Development,Operational",nan,
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,NextEra Energy,Renewable Fuels,"Under Development,Operational",nan,
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,Florida Power & Light Company,Wind Energy,"Under Development,Operational",nan,
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,Florida Power & Light Company,Solar Energy,"Under Development,Operational",nan,
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,Florida Power & Light Company,Electricity,"Under Development,Operational",nan,
+Renewable Energy Projects,Regions In Which NextEra Energy Resources Operates Or Plans To Develop And Operate Renewable Energy Facilities,Florida Power & Light Company,Renewable Fuels,"Under Development,Operational",nan,
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Wind Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Wind Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Solar Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Solar Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Wind Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Wind Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Solar Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Solar Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",Florida Power & Light Company,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Electricity,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Wind Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Wind Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Solar Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Solar Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",USA,Florida
+Renewable Generation Facilities,"Florida,USA,Canada,North America,Western Electricity Coordinating Council,Northeast region of the USA",NextEra Energy Resources,Renewable Energy,"Operational,End-Of-Life,Under Development,Under Construction,Unavailable",Canada,Florida
+Retail Gas Distribution System,Florida,NextEra Energy,Natural Gas,Operational,USA,Florida
+Retail Gas Distribution System,Florida,Florida Power & Light Company,Natural Gas,Operational,USA,Florida
+Sabal Trail Transmission,USA,NextEra Energy,nan,,USA,
+Seabrook Station,USA,NextEra Energy,Electricity,Operational,USA,
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy,Electricity,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy,Electricity,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy,Solar Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy,Solar Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy,Renewable Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy,Renewable Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy Resources,Electricity,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy Resources,Electricity,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy Resources,Solar Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy Resources,Solar Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy Resources,Renewable Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",NextEra Energy Resources,Renewable Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",Florida Power & Light Company,Electricity,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",Florida Power & Light Company,Electricity,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",Florida Power & Light Company,Solar Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",Florida Power & Light Company,Solar Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",Florida Power & Light Company,Renewable Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",USA,"Florida,Texas"
+Solar Facilities,"USA,Canada,Florida,Ontario,Texas",Florida Power & Light Company,Renewable Energy,"Under Construction,Operational,End Of Life,Unavailable,In Operation",Canada,"Florida,Texas"
+Solar Modules,,NextEra Energy,Solar Energy,Operational,nan,
+St. Lucie Unit No. (Power Plant),USA,Florida Power & Light Company,Electricity,"Operational,Scheduled Refueling Outage",USA,
+Trans Bay Cable DC,California,Federal Energy Regulatory Commission,nan,Operational,USA,California
+Transmission And Distribution Property,Florida,NextEra Energy,Natural Gas,Operational,USA,Florida
+Transmission And Distribution Property,Florida,NextEra Energy,Electricity,Operational,USA,Florida
+Transmission And Distribution Property,Florida,Florida Power & Light Company,Natural Gas,Operational,USA,Florida
+Transmission And Distribution Property,Florida,Florida Power & Light Company,Electricity,Operational,USA,Florida
+Transmission And Distribution Property,Florida,NextEra Energy Resources,Natural Gas,Operational,USA,Florida
+Transmission And Distribution Property,Florida,NextEra Energy Resources,Electricity,Operational,USA,Florida
+Transmission Utilities,"Midwest,Nevada",GridLiance,Electricity,Operational,USA,Nevada
+Turkey Point Unit No. (Power Plant),USA,Florida Power & Light Company,Electricity,Operational,USA,
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy,Electricity,"Operational,Under Construction,Decommissioning,In Service,Under Development",USA,"Florida,Nevada,Texas"
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy,Electricity,"Operational,Under Construction,Decommissioning,In Service,Under Development",Southeast Asia,"Florida,Nevada,Texas"
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy,Renewable Energy,"Operational,Under Construction,Decommissioning,In Service,Under Development",USA,"Florida,Nevada,Texas"
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy,Renewable Energy,"Operational,Under Construction,Decommissioning,In Service,Under Development",Southeast Asia,"Florida,Nevada,Texas"
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy Resources,Electricity,"Operational,Under Construction,Decommissioning,In Service,Under Development",USA,"Florida,Nevada,Texas"
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy Resources,Electricity,"Operational,Under Construction,Decommissioning,In Service,Under Development",Southeast Asia,"Florida,Nevada,Texas"
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy Resources,Renewable Energy,"Operational,Under Construction,Decommissioning,In Service,Under Development",USA,"Florida,Nevada,Texas"
+Wind And Solar Generation Portfolio,"USA,Texas,Midwest,Nevada,Southeast Asia,Florida",NextEra Energy Resources,Renewable Energy,"Operational,Under Construction,Decommissioning,In Service,Under Development",Southeast Asia,"Florida,Nevada,Texas"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy Resources,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy Resources,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy Resources,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy Resources,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy Resources,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",NextEra Energy Resources,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Florida Power & Light Company,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Florida Power & Light Company,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Florida Power & Light Company,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Florida Power & Light Company,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Florida Power & Light Company,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Florida Power & Light Company,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Gulf Power Company,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Gulf Power Company,Electricity,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Gulf Power Company,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Gulf Power Company,Wind Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Gulf Power Company,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",USA,"California,Florida,Nevada,Texas,Wyoming"
+Wind Facilities,"USA,Canada,California,Wyoming,Florida,ERCOT,Ontario,Midwest Region of the USA,Texas,Nevada.",Gulf Power Company,Renewable Energy,"Under Construction,End-Of-Life,Operational,Decommissioning,Unavailable,In Service,Under Development,In Operation",Canada,"California,Florida,Nevada,Texas,Wyoming"
+Wind Towers,,NextEra Energy,Wind Energy,Operational,nan,
+Power Generation Asset (MW Capacity),SERC Reliability Corporation,NextEra Energy,nan,Operational,nan,
+Storage Systems,"East Coast Of Florida,Northwest Florida",NextEra Energy,Natural Gas,Operational,USA,Florida
+Storage Systems,"East Coast Of Florida,Northwest Florida",NextEra Energy,Oil,Operational,USA,Florida
+Storage Systems,"East Coast Of Florida,Northwest Florida",NextEra Energy,Electricity,Operational,USA,Florida
+Storage Systems,"East Coast Of Florida,Northwest Florida",Florida Power & Light Company,Natural Gas,Operational,USA,Florida
+Storage Systems,"East Coast Of Florida,Northwest Florida",Florida Power & Light Company,Oil,Operational,USA,Florida
+Storage Systems,"East Coast Of Florida,Northwest Florida",Florida Power & Light Company,Electricity,Operational,USA,Florida
+Properties,,Florida Power & Light Company,Electricity,Operational,nan,
+Electric Lines,"Midwest,Nevada",Florida Power & Light Company,Electricity,Operational,USA,Nevada
+Electric Lines,"Midwest,Nevada",GridLiance,Electricity,Operational,USA,Nevada
+Electric Lines,"Midwest,Nevada",NextEra Energy Transmission,Electricity,Operational,USA,Nevada
+Wind Generating Projects,USA,Florida Power & Light Company,Energy,"Operational,Under Construction",USA,
+Wind Generating Projects,USA,Florida Power & Light Company,Wind Power,"Operational,Under Construction",USA,
+Wind Generating Projects,USA,NextEra Energy,Energy,"Operational,Under Construction",USA,
+Wind Generating Projects,USA,NextEra Energy,Wind Power,"Operational,Under Construction",USA,
+underwater transmission cable system,"Pittsburg To San Francisco,California",Trans Bay Cable LLC,Electricity,Operational,USA,California
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",GridLiance,Electricity,Operational,USA,Nevada
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",GridLiance,Electricity,Operational,Canada,Nevada
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",NextEra Energy Transmission,Electricity,Operational,USA,Nevada
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",NextEra Energy Transmission,Electricity,Operational,Canada,Nevada
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",Florida Power & Light Company,Electricity,Operational,USA,Nevada
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",Florida Power & Light Company,Electricity,Operational,Canada,Nevada
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",NextEra Energy,Electricity,Operational,USA,Nevada
+Gridliance's Transmission Lines,"Six States,Midwest,Nevada,USA,Canada",NextEra Energy,Electricity,Operational,Canada,Nevada
+Natural Gas Pipeline,"West Virginia,Virginia",NextEra Energy,Natural Gas,"Under Construction,Operational,Impaired",USA,"Virginia,West Virginia"
+Natural Gas Pipeline,"West Virginia,Virginia",Florida Power & Light Company,Natural Gas,"Under Construction,Operational,Impaired",USA,"Virginia,West Virginia"
+Natural Gas Pipeline,"West Virginia,Virginia",NextEra Energy Resources,Natural Gas,"Under Construction,Operational,Impaired",USA,"Virginia,West Virginia"
+Natural Gas Production,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy,Natural Gas,"Operational,Damaged",USA,Florida
+Natural Gas Production,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy,Electricity,"Operational,Damaged",USA,Florida
+Natural Gas Production,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",Florida Power & Light Company,Natural Gas,"Operational,Damaged",USA,Florida
+Natural Gas Production,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",Florida Power & Light Company,Electricity,"Operational,Damaged",USA,Florida
+Transmission,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy,Natural Gas,"Operational,Damaged",USA,Florida
+Transmission,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy,Electricity,"Operational,Damaged",USA,Florida
+Transmission,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",Florida Power & Light Company,Natural Gas,"Operational,Damaged",USA,Florida
+Transmission,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",Florida Power & Light Company,Electricity,"Operational,Damaged",USA,Florida
+Storage Or Distribution Systems,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy,Natural Gas,"Operational,Damaged",USA,Florida
+Storage Or Distribution Systems,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",NextEra Energy,Electricity,"Operational,Damaged",USA,Florida
+Storage Or Distribution Systems,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",Florida Power & Light Company,Natural Gas,"Operational,Damaged",USA,Florida
+Storage Or Distribution Systems,"East Coast Of Florida,West Coast Of Florida,Northwest Florida",Florida Power & Light Company,Electricity,"Operational,Damaged",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy,Electricity,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy,Electricity,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy,Solar Energy,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy,Solar Energy,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy,Renewable Energy,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy,Renewable Energy,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",Florida Power & Light Company,Electricity,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",Florida Power & Light Company,Electricity,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",Florida Power & Light Company,Solar Energy,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",Florida Power & Light Company,Solar Energy,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",Florida Power & Light Company,Renewable Energy,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",Florida Power & Light Company,Renewable Energy,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy Resources,Electricity,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy Resources,Electricity,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy Resources,Solar Energy,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy Resources,Solar Energy,"Operational,Under Construction,Under Development",USA,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy Resources,Renewable Energy,"Operational,Under Construction,Under Development",Spain,Florida
+Solar Generation Additions,"Spain,Florida,USA",NextEra Energy Resources,Renewable Energy,"Operational,Under Construction,Under Development",USA,Florida
+Renewable Fuels,,NextEra Energy,Renewable Fuels,Operational,nan,
+Renewable Fuels,,NextEra Energy,Renewable Energy,Operational,nan,
+Renewable Fuels,,Florida Power & Light Company,Renewable Fuels,Operational,nan,
+Renewable Fuels,,Florida Power & Light Company,Renewable Energy,Operational,nan,
+Solar Plus Battery Facility,"Throughout The USA,Arizona,California",NextEra Energy,Electricity,"Operational,Under Construction",USA,"Arizona,California"
+Solar Plus Battery Facility,"Throughout The USA,Arizona,California",NextEra Energy Resources,Electricity,"Operational,Under Construction",USA,"Arizona,California"
+Steam Generating Capacity,,Florida Power & Light Company,Electricity,Operational,nan,
+Hydrogen Facility,,Florida Power & Light Company,Electricity,Operational,nan,
+Substation,Nevada,CAISO,nan,Under Construction,USA,Nevada
+Uranium (Mineral),,NextEra Energy,Nuclear Fuel,Operational,nan,

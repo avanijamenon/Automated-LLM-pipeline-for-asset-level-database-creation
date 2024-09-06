@@ -1,0 +1,715 @@
+physical asset,location,ownership,commodity,status
+pipeline,"Qatar, UAE, Oman",DEL-owned,natural gas,operational
+gas processing and compression plant,Qatar,DEL-owned,natural gas,operational
+receiving facilities,UAE,DEL-owned,natural gas,operational
+network of pipelines,"UAE, Oman","DEL-owned, other existing leased pipelines",natural gas,operational
+facilities,,Occidental,oil,
+equipment,,Occidental,oil,
+infrastructure,,Occidental,oil,
+Inventory of future CO projects,,Occidental Petroleum Corporation,CO,
+"Facilities (marine shore-bases in Galveston, Texas, and Port Fourchon, Louisiana, two helicopter bases in Louisiana)","Galveston, Texas; Port Fourchon, Louisiana",Occidental Petroleum Corporation,Oil and gas,Operational
+Platforms (deep-water floating platforms),Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Operational
+Working interests in blocks,Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Operational
+Horn Mountain West subsea development,Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Under construction
+Lucius and Holstein facilities,Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Operational
+"engineering and technical staff offices in The Woodlands, Texas","The Woodlands, Texas",Occidental Petroleum Corporation,Oil and gas,Operational
+oil and gas reserves,,Occidental,oil,proved
+oil and gas reserves,,Occidental,natural gas,proved
+oil and gas reserves,,Occidental,oil,undeveloped (PUD)
+oil and gas reserves,,Occidental,natural gas,undeveloped (PUD)
+real estate,,Occidental,,
+equipment,,Occidental,,
+plants,,Occidental,,
+facilities,,Occidental,,
+Working interests in certain assets in the Permian Basin,Permian Basin,Occidental,,
+Working interests in certain assets in the Gulf of Mexico,Gulf of Mexico,Occidental,,
+Lower Passaic River,New Jersey,"Under dispute between Occidental, Maxus, YPF, and Repsol",,Remediation in progress
+proved oil and gas properties,,Occidental Petroleum Corporation,oil and gas,operational
+Oil and gas,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Chemical,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Midstream and marketing,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Corporate,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Capital expenditures,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+facilities,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+equipment,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+infrastructure,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+Capital expenditures,,WES,basic chemicals and vinyls,
+chemical facilities,,Occidental,,
+PP&E,,Occidental,,
+facilities,United States,Occidental,oil,operational
+equipment,International,Occidental,gas,operational
+unproved property,domestic,Occidental,oil,undeveloped
+domestic onshore undeveloped leases,domestic,Occidental,oil,"no longer intended to pursue exploration, appraisal or development activities"
+offshore Gulf of Mexico,offshore Gulf of Mexico,Occidental,gas,"no longer intended to pursue exploration, appraisal or development activities"
+"Property, plant and equipment",,Occidental,,
+"Property, plant and equipment",United States,Occidental,oil,operational
+"Property, plant and equipment",UAE,Occidental,oil,operational
+"Property, plant and equipment",Oman,Occidental,oil,operational
+"Property, plant and equipment",Algeria,Occidental,oil,operational
+"Property, plant and equipment",Colombia,Occidental,oil,end-of-life
+"Property, plant and equipment",Qatar,Occidental,oil,operational
+"Property, plant and equipment",Other International,Occidental,oil,operational
+"Property, plant and equipment",Middle East and North Africa,Occidental,oil,operational
+"Property, plant and equipment",Latin America,Occidental,oil,end-of-life
+"Property, plant and equipment",Permian Basin,Occidental,oil,operational
+"Property, plant and equipment",DJ Basin,Occidental,oil,operational
+Oil & Gas reserves,Permian Basin,OXY,oil and natural gas,operational
+Oil & Gas reserves,DJ Basin,OXY,oil and natural gas,operational
+Oil & Gas reserves,Oman,OXY,oil and natural gas,operational
+Oil & Gas reserves,Middle East,OXY,oil and natural gas,operational
+Oil & Gas reserves,North Africa,OXY,oil and natural gas,operational
+Oil & Gas reserves,Latin America,OXY,oil and natural gas,operational
+facilities,Middle East,Occidental,Oil and Gas,operational
+equipment,North Africa,Occidental,Oil and Gas,operational
+infrastructure,Latin America,Occidental,Oil and Gas,operational
+facilities,Colombia,Occidental,Oil and Gas,end-of-life
+Information and industrial control technology system,,Occidental,"oil, natural gas",
+network,,Occidental,"oil, natural gas",
+infrastructure,,Occidental,"oil, natural gas",
+automated and surveillance systems,,Occidental,"oil, natural gas",
+power generation facility,,Third party,natural gas,
+refinery,,Third party,natural gas,
+communications network,,Third party,"oil, natural gas",
+infill development projects,Permian Basin,Occidental,,operational
+extensions,Permian Basin,Occidental,,
+discoveries,Permian Basin,Occidental,,
+conventional projects,Permian EOR,Occidental,,
+secondary and tertiary projects,international assets,Occidental,,
+wells,,Occidental,oil and gas,under construction
+wells,,Occidental,oil and gas,operational
+Oil and gas facilities,,Occidental,oil,Operational
+Chemical facilities,,Occidental,chemicals,Operational
+Midstream and marketing infrastructure,,Occidental,"oil, natural gas",Operational
+Oil and gas,,Occidental Petroleum Corporation,,
+Chemical,,Occidental Petroleum Corporation,,
+Midstream and marketing,,Occidental Petroleum Corporation,,
+Corporate,,Occidental Petroleum Corporation,,
+chemical assets,,Occidental,,
+midstream and marketing PP&E,,Occidental,,
+undeveloped leases,,Occidental,,expired or set to expire
+oil and gas materials and supplies inventories,,Occidental,,
+proved and unproved properties,,Occidental,,
+goodwill associated with Occidental’s ownership in WES,,Occidental,,impaired
+ARO,,Occidental,"Plugging of wells, abandonment of oil and gas properties, plant decommissioning",Under construction/Operational
+"Property, plant and equipment",,Occidental,,
+"Property, plant and equipment",United States,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",UAE,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Oman,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Algeria,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Qatar,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Other International,Occidental,"oil, NGL and natural gas",
+OIL RESERVES,,OXY,OIL,PROVED DEVELOPED AND UNDEVELOPED
+NGL RESERVES,,OXY,NGL,PROVED DEVELOPED AND UNDEVELOPED
+NATURAL GAS RESERVES,,OXY,NATURAL GAS,PROVED DEVELOPED AND UNDEVELOPED
+oil and gas properties,South Africa,Occidental,Oil and Gas,
+facilities,federal lands,Occidental,oil,operational
+operations,South Texas,Occidental,DAC,under construction
+operations,offshore waters,OxyChem,gas,in end-of-life
+Offshore lease sales,Outer Continental Shelf,BOEM,oil and gas,operational
+Offshore lease sales,GOM,BOEM,oil and gas,under construction
+federal lands in New Mexico and Wyoming,"New Mexico, Wyoming",BLM,oil and gas,operational
+emissions control systems,,Occidental,"oil, NGL, natural gas",operational
+facilities,,Occidental,"oil, NGL, natural gas",operational
+oil and gas development activities,,Occidental,"oil, NGL, natural gas",operational
+oil and gas properties,,Occidental,oil and gas,"operational, under construction, end-of-life"
+information systems,,Occidental,oil and natural gas resources,
+industrial control systems,,Occidental,oil and natural gas resources,
+infrastructure,,Occidental,oil and natural gas resources,
+terminal,,Occidental,produced water,operational
+pipeline,,Occidental,produced water,operational
+processing capacity,,Occidental,produced water,operational
+equipment,,Occidental,"chemical raw materials, power",operational
+facilities,,Occidental,production of finished goods,operational
+Proved oil and gas reserves,,Occidental,oil and gas,"Operational, under construction, or end-of-life"
+Oil production facilities,,Occidental,"Oil, NGL, Natural Gas","Operational, under construction (implied)"
+Equipment,,Occidental,"Oil, NGL, Natural Gas","Operational, under construction (implied)"
+proved oil and gas properties,,Occidental Petroleum Corporation,oil and gas,operational
+Oil and gas,,Occidental Petroleum Corporation,,
+Chemical,,Occidental Petroleum Corporation,,
+Midstream and marketing,,Occidental Petroleum Corporation,,
+Corporate,,Occidental Petroleum Corporation,,
+CCUS projects,"Ector County, Texas",Occidental and BlackRock,carbon removal,under construction
+Facilities,,Occidental,"Oil, NGL, Natural Gas, Chemicals, Power, Steam",Operational
+Equipment,,Occidental,"Oil, NGL, Natural Gas, Chemicals, Power, Steam",Operational
+facilities,Permian Basin,Occidental,oil,
+equipment,Ingleside Facility,OxyChem,ethylene,
+"Property, plant and equipment",Permian Basin,Occidental,,
+"Property, plant and equipment",DJ Basin,Occidental,,
+compressors,,Occidental,,
+office space,,Occidental,,
+other assets,,Occidental,,
+"Property, plant and equipment (PP&E)",,Occidental,,
+Oil reserves,United States,Occidental,Oil,
+NGL reserves,United States,Occidental,NGL,
+Natural gas reserves,United States,Occidental,Natural gas,
+Oil reserves,International,Occidental,Oil,
+NGL reserves,International,Occidental,NGL,
+Natural gas reserves,International,Occidental,Natural gas,
+Oil reserves,Permian Basin,Occidental,Oil,
+NGL reserves,Permian Basin,Occidental,NGL,
+Natural gas reserves,Permian Basin,Occidental,Natural gas,
+Oil reserves,DJ Basin,Occidental,Oil,
+NGL reserves,DJ Basin,Occidental,NGL,
+Natural gas reserves,DJ Basin,Occidental,Natural gas,
+Oil reserves,Algeria,Occidental,Oil,
+NGL reserves,Algeria,Occidental,NGL,
+Natural gas reserves,Algeria,Occidental,Natural gas,
+Oil reserves,Gulf of Mexico,Occidental,Oil,
+Oil reserves,,OXY,Oil,Proved developed and undeveloped
+Natural gas reserves,,OXY,Natural Gas,Proved developed and undeveloped
+Facilities,"Greenway Plaza, Suite , Houston, Texas ; ownership: Occidental Petroleum Corporation, commodity: Oil, natural gas liquids (NGL) and natural gas, basic chemicals and vinyls, carbon dioxide (CO ), power, status: Operational].\n[asset: Equipment, location: Permian Basin, DJ Basin, Gulf of Mexico and Algeria",Occidental Petroleum Corporation,"Oil, natural gas liquids (NGL) and natural gas, basic chemicals and vinyls, carbon dioxide (CO ), power",Operational
+oil fields,"United States (Texas, New Mexico, Colorado, Gulf of Mexico)",Occidental,oil,operational
+gas fields,"United States (Texas, New Mexico, Colorado, Gulf of Mexico)",Occidental,natural gas,operational
+oil fields,Oman,Occidental,oil,operational
+gas fields,Oman,Occidental,natural gas,operational
+oil fields,United Arab Emirates,Occidental,oil,operational
+gas fields,United Arab Emirates,Occidental,natural gas,operational
+oil fields,Algeria,Occidental,oil,operational
+gas fields,Algeria,Occidental,natural gas,operational
+manufacturing plants,"Alabama, Georgia, Illinois, Kansas, Louisiana, Michigan, New Jersey, Ohio, Tennessee, Texas, Canada, Chile",OxyChem,chemicals,operational
+gathering systems,"domestic sites, international sites",WES,oil and gas,operational
+plants and pipelines,"domestic sites, international sites",WES,oil and gas,operational
+gas plants,"domestic sites, international sites",Occidental,oil and gas,operational
+co-generation facilities,"domestic sites, international sites",Occidental,oil and gas,operational
+storage facilities,"domestic sites, international sites",Occidental,oil and gas,operational
+pipeline,"Qatar, UAE, Oman",DEL-owned,natural gas,operational
+gas processing and compression plant,Qatar,DEL-owned,natural gas,operational
+receiving facilities,UAE,DEL-owned,natural gas,operational
+network of pipelines,"UAE, Oman","DEL-owned, other existing leased pipelines",natural gas,operational
+facilities,DJ Basin,Occidental,oil,operational
+equipment,DJ Basin,Occidental,oil,operational
+infrastructure,Gulf of Mexico,Occidental,oil,operational
+deep disposal wells,Texas,Occidental,produced water,suspended permits in seismic response areas
+central water treatment and recycling facilities,Texas,Occidental,produced water,operational
+facilities,,Occidental,oil,
+equipment,,Occidental,oil,
+infrastructure,,Occidental,oil,
+oil and gas reserves,,Occidental,"oil, natural gas","estimated, subject to revision"
+CO producing wells and facilities,not specified,Occidental,CO,operational
+compression equipment,not specified,Occidental,CO,operational
+pipelines,not specified,Occidental,CO,operational
+Seismic data systems,,Occidental,Oil and natural gas,Operational
+Reserves information system,,Occidental,Oil and natural gas,Operational
+Strategic information system,,Occidental,Oil and natural gas,Operational
+Drilling equipment,,Occidental,Oil and natural gas,Operational
+Production-related infrastructure,,Occidental,Oil and natural gas,Operational
+Chemical operations facilities,,Occidental,Chemicals derived from oil and gas,Operational
+Automated and surveillance systems,,Occidental,Oil and natural gas,Operational
+Financial or operating data systems,,Occidental,Oil and natural gas operations,Operational
+Offshore operations,Gulf of Mexico,Occidental,Oil,Operational
+Platforms,Gulf of Mexico,Occidental,Oil,Operational
+Facilities,Gulf of Mexico,Occidental,Oil,Operational
+Facilities,Permian Basin,Occidental,Oil,Operational
+Equipment,DJ Basin,Occidental,Natural Gas,Operational
+Land,Gulf of Mexico,Occidental,Oil,Operational
+Mineral Rights,UAE,Occidental,Natural Gas,Operational
+Facilities,Oman,Occidental,Oil,Under Construction
+Equipment,Algeria,Occidental,Natural Gas,End-of-Life
+Inventory of future CO projects,,Occidental Petroleum Corporation,CO ,
+"Facilities (marine shore-bases in Galveston, Texas, and Port Fourchon, Louisiana, two helicopter bases in Louisiana)","Galveston, Texas; Port Fourchon, Louisiana",Occidental Petroleum Corporation,Oil and gas,Operational
+Platforms (deep-water floating platforms),Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Operational
+Working interests in blocks ,Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Operational
+Horn Mountain West subsea development,Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Under construction
+Lucius and Holstein facilities,Gulf of Mexico,Occidental Petroleum Corporation,Oil and gas,Operational
+"engineering and technical staff offices in The Woodlands, Texas","The Woodlands, Texas",Occidental Petroleum Corporation,Oil and gas,Operational
+facilities,Permian Basin,Occidental,oil and natural gas,operational
+equipment,DJ Basin,Occidental,oil and natural gas,operational
+infrastructure,international assets,Occidental,oil and natural gas,operational
+equipment,Permian Basin,Occidental,oil,operational
+wells,Gulf of Mexico,Occidental,oil,operational
+wells,DJ Basin,Occidental,oil,operational
+equipment,international assets,Occidental,oil,operational
+wells,international assets,Occidental,oil,under construction
+oil and gas reserves,,Occidental,oil,proved
+oil and gas reserves,,Occidental,natural gas,proved
+oil and gas reserves,,Occidental,oil,undeveloped (PUD)
+oil and gas reserves,,Occidental,natural gas,undeveloped (PUD)
+Dolphin Pipeline,"Qatar, UAE, Oman",partly owned by Occidental,natural gas,operational
+gas plants,,Occidental,wet gas,operational
+co-generation facilities,,Occidental,,operational
+storage facilities,,Occidental,"oil, NGL, natural gas",operational
+gathering systems,,Occidental,wet gas,operational
+pipelines,"Midland, Gulf Coast",Occidental,"oil, NGL, natural gas",operational
+gathering systems,WES Operating,WES Operating,natural gas,operational
+plants and pipelines,WES Operating,WES Operating,natural gas,operational
+sour gas processing facilities,Al Hosn Gas,Occidental (participating interest),"natural gas, NGL, condensate, sulfur",operational
+power and steam generation facilities,Occidental,Occidental,"steam, power",operational
+facilities,United States,Occidental,oil,operational
+equipment,International,Occidental,natural gas,operational
+pipeline,Permian Basin,Occidental,NGL,operational
+unproved acreage,Permian Basin,Occidental,crude oil,end-of-life
+proved properties in Algeria,Algeria,Occidental,crude oil and natural gas,operational
+undeveloped leases,,Occidental,crude oil,end-of-life
+platforms,Gulf of Mexico,Occidental,crude oil and natural gas,end-of-life
+domestic onshore unproved acreage,onshore U.S. domestic assets,Occidental,crude oil,impaired
+other domestic onshore assets,onshore U.S. domestic assets,Occidental,crude oil,impaired
+Gulf of Mexico assets,Gulf of Mexico,Occidental,crude oil and natural gas,operational
+limited partner units,,Occidental,crude oil,impaired
+real estate,,Occidental,,
+equipment,,Occidental,,
+plants,,Occidental,,
+facilities,,Occidental,,
+Working interests in certain assets in the Permian Basin,Permian Basin,Occidental,,
+Working interests in certain assets in the Gulf of Mexico,Gulf of Mexico,Occidental,,
+environmental remediation sites,"NPL sites, third-party sites, Occidental-operated sites, closed or non-operated Occidental sites, Diamond Alkali Superfund Site, Passaic River, Newark Bay, New Jersey chrome site, Tennessee copper mining and smelting operation, California oil field and landfill, Louisiana refinery, Colorado oil and gas operations, Kansas chemical plants, Louisiana chemical plants, Texas chemical plants, Western New York landfill, Oklahoma former refinery, California former chemical plants, Delaware former chemical plants, Michigan former chemical plants, New York former chemical plants, Ohio former chemical plants, Tennessee former chemical plants, Washington former chemical plants, Pennsylvania closed coal mine","Occidental, Maxus, EPA, current owner of Louisiana refinery",remediation activities,"operational, under construction, end-of-life"
+Lower Passaic River,New Jersey,"Under dispute between Occidental, Maxus, YPF, and Repsol",,Remediation in progress
+exploratory drilling costs,,Occidental,"oil, NGL, natural gas",operational
+oil and gas producing properties,,Occidental,"oil, NGL, natural gas",operational
+leasehold acquisition costs,,Occidental,"oil, NGL, natural gas",operational
+development and successful exploration costs,,Occidental,"oil, NGL, natural gas",operational
+unproved properties,,Occidental,oil,under construction
+proved properties,,Occidental,natural gas,operational
+proved oil and gas properties,,Occidental Petroleum Corporation,oil and gas,operational
+Oil and gas,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Chemical,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Midstream and marketing,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Corporate,,Occidental Petroleum Corporation and Subsidiaries,,Operational
+Capital expenditures,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+facilities,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+equipment,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+infrastructure,,Occidental Petroleum Corporation and Subsidiaries,"Oil (which includes condensate), NGL and natural gas",
+Capital expenditures,,WES,basic chemicals and vinyls,
+Oil and gas producing properties,Countries outside North America,Occidental,"Oil, NGL, natural gas",Operational
+"Property, Plant and Equipment",Countries outside North America,Occidental,"Oil, NGL, natural gas, chemical products","Operational, under construction, suspended exploratory drilling costs"
+proved oil reserves,,Occidental,oil,operational
+NGL reserves,,Occidental,NGL,operational
+natural gas reserves,,Occidental,natural gas,operational
+chemical facilities,,Occidental,,
+PP&E,,Occidental,,
+facilities,implied,Occidental,oil and gas,operational
+wells,implied,Occidental,oil and gas,operational
+oil and gas properties,implied,Occidental,oil and gas,operational
+plants,implied,Occidental,unspecified,"operational, conditional AROs"
+facilities,United States,Occidental,oil,operational
+equipment,International,Occidental,gas,operational
+Permian Basin assets,Permian Basin,Occidental,"oil, NGL and natural gas",held for sale
+non-strategic assets in the Permian Basin,Permian Basin,Occidental,"oil, NGL and natural gas",operational
+working interests in certain assets in the Permian EOR business unit,Permian Basin,Occidental,"oil, NGL and natural gas",operational
+non-operated assets in the DJ Basin,DJ Basin,Occidental,"oil, NGL and natural gas",end-of-life (implied)
+onshore oil and gas Colombia assets,Colombia,Occidental,"oil, NGL and natural gas",end-of-life (implied)
+"mineral acres and fee surface acres located in Wyoming, Colorado and Utah","Wyoming, Colorado and Utah",Occidental,"oil, NGL and natural gas",operational
+real estate assets,unspecified,Occidental,unspecified,operational
+oil and gas portfolio,Permian Basin,Occidental,oil and gas,operational
+oil and gas portfolio,DJ Basin,Occidental,oil and gas,operational
+oil and gas portfolio,Gulf of Mexico,Occidental,oil and gas,operational
+oil and gas portfolio,Algeria,Occidental,oil and gas,operational
+oil and gas exploration and development equipment,,Occidental,oil and natural gas,operational
+unproved property,domestic,Occidental,oil,undeveloped
+domestic onshore undeveloped leases,domestic,Occidental,oil,"no longer intended to pursue exploration, appraisal or development activities"
+offshore Gulf of Mexico,offshore Gulf of Mexico,Occidental,gas,"no longer intended to pursue exploration, appraisal or development activities"
+landfill,Western New York,Occidental,waste disposal,closed
+refinery,Oklahoma,Occidental,petroleum refining,closed
+chemical plants,"California, Delaware, Michigan, New York, Ohio, Tennessee, Washington",Occidental,chemical manufacturing,closed
+coal mine,Pennsylvania,Occidental,coal mining,closed
+"Property, plant and equipment",,Occidental,,
+"Property, plant and equipment",United States,Occidental,oil,operational
+"Property, plant and equipment",UAE,Occidental,oil,operational
+"Property, plant and equipment",Oman,Occidental,oil,operational
+"Property, plant and equipment",Algeria,Occidental,oil,operational
+"Property, plant and equipment",Colombia,Occidental,oil,end-of-life
+"Property, plant and equipment",Qatar,Occidental,oil,operational
+"Property, plant and equipment",Other International,Occidental,oil,operational
+"Property, plant and equipment",Middle East and North Africa,Occidental,oil,operational
+"Property, plant and equipment",Latin America,Occidental,oil,end-of-life
+"Property, plant and equipment",Permian Basin,Occidental,oil,operational
+"Property, plant and equipment",DJ Basin,Occidental,oil,operational
+Oil & Gas reserves,Permian Basin,OXY,oil and natural gas,operational
+Oil & Gas reserves,DJ Basin,OXY,oil and natural gas,operational
+Oil & Gas reserves,Oman,OXY,oil and natural gas,operational
+Oil & Gas reserves,Middle East,OXY,oil and natural gas,operational
+Oil & Gas reserves,North Africa,OXY,oil and natural gas,operational
+Oil & Gas reserves,Latin America,OXY,oil and natural gas,operational
+Proved properties,United States,OXY,oil and gas,operational
+Unproved properties,International,OXY,oil and gas,under construction
+Proved properties,Permian Basin,OXY,oil and gas,operational
+facilities,Middle East,Occidental,Oil and Gas,operational
+equipment,North Africa,Occidental,Oil and Gas,operational
+infrastructure,Latin America,Occidental,Oil and Gas,operational
+facilities,Colombia,Occidental,Oil and Gas,end-of-life
+facilities,United States,Occidental,oil,
+equipment,International,Occidental,NGL,
+productive oil and gas wells,United States,Occidental,oil,operational
+productive oil and gas wells,International,Occidental,oil,operational
+productive oil and gas wells,United States,Occidental,natural gas,operational
+productive oil and gas wells,International,Occidental,natural gas,operational
+exploratory and development wells being drilled,United States,Occidental,oil,under construction
+exploratory and development wells being drilled,International,Occidental,oil,under construction
+exploratory and development wells being drilled,United States,Occidental,natural gas,under construction
+exploratory and development wells being drilled,International,Occidental,natural gas,under construction
+pressure-maintenance projects,United States,Occidental,oil,operational
+pressure-maintenance projects,International,Occidental,oil,operational
+pressure-maintenance projects,United States,Occidental,natural gas,operational
+pressure-maintenance projects,International,Occidental,natural gas,operational
+oil and gas acreage,United States,Occidental,oil,developed or undeveloped
+oil and gas acreage,International,Occidental,oil,developed or undeveloped
+oil,"Greenway Plaza, Suite , Houston, Texas",Occidental Petroleum Corporation,fuel,operational
+Manufacturing plants,Alabama,OxyChem,Chlorine,operational
+Manufacturing plants,Georgia,OxyChem,Caustic soda,operational
+Manufacturing plants,Illinois,OxyChem,Chlorinated organics,operational
+Manufacturing plants,Kansas,OxyChem,Potassium chemicals,operational
+Manufacturing plants,Louisiana,OxyChem,EDC,operational
+Manufacturing plants,Michigan,OxyChem,Chlorinated isocyanurates,operational
+Manufacturing plants,New Jersey,OxyChem,Sodium silicates,operational
+Manufacturing plants,Ohio,OxyChem,Calcium chloride,operational
+Manufacturing plants,Tennessee,OxyChem,VCM,operational
+Manufacturing plants,Texas,OxyChem,PVC,operational
+Manufacturing plants,Canada,OxyChem,Ethylene,operational
+Manufacturing plants,Chile,OxyChem,Chlorine,operational
+gathering systems,"Texas, New Mexico and Colorado",Occidental,natural gas,operational
+gas plants,"Texas, New Mexico and Colorado",Occidental and third parties,natural gas,operational
+co-generation facilities,undefined,Occidental,electricity and steam,operational
+storage facilities,undefined,Occidental,natural gas,operational
+pipelines,"Texas, New Mexico and Colorado",Occidental,CO2,operational
+processing facilities,UAE,Al Hosn Gas,natural gas and sulfur,operational
+power generation facilities,Texas and Louisiana,Occidental,electricity and steam,operational
+solar generation facility,Texas,Occidental,electricity,operational
+zero-emission natural gas generation demonstration facility,Texas,Occidental,electricity,under construction
+facilities,federal public lands,Occidental subsidiaries,oil and gas,operational
+operations,federal offshore waters,Occidental subsidiaries,oil and gas,operational
+drilling programs,federal public lands,Occidental subsidiaries,oil and gas,under construction
+host platforms,Gulf of Mexico,Occidental subsidiaries,oil and gas,operational
+infrastructure,federal public lands,U.S. government,oil and gas,operational
+Well pads,Permian Basin,Occidental,oil and gas,operational
+facilities,Permian Basin,Occidental,oil and gas,operational
+drilling locations,DJ Basin,Occidental,oil and gas,operational
+well pads,Colorado's eastern plains,Occidental,oil and gas,under construction
+Oil and gas operations,"Countries affected by political instability, nationalizations, corruption, armed conflict, terrorism, insurgency, civil unrest, security problems, labor unrest, OPEC production restrictions, equipment import restrictions and sanctions, U.S., DJ Basin",Occidental,Oil,Operational
+Facilities,"Countries affected by political instability, nationalizations, corruption, armed conflict, terrorism, insurgency, civil unrest, security problems, labor unrest, OPEC production restrictions, equipment import restrictions and sanctions, U.S., DJ Basin",Occidental,Oil,Operational
+Equipment,"Countries affected by political instability, nationalizations, corruption, armed conflict, terrorism, insurgency, civil unrest, security problems, labor unrest, OPEC production restrictions, equipment import restrictions and sanctions, U.S., DJ Basin",Occidental,Oil,Operational
+facilities,Coastal operations,Occidental or its subsidiaries,"oil, NGL, natural gas",
+oil and gas reserves,,Occidental,"oil, natural gas, NGL",uneconomical
+Oil and gas properties,Various locations worldwide,Occidental,oil and natural gas,"operational, under construction, end-of-life"
+CO EOR operations,Various locations where CO is available for use,Occidental,oil,operational
+Facilities,Various locations worldwide,Occidental,oil and natural gas,operational
+Equipment,Various locations worldwide,Occidental,oil and natural gas,operational
+Infrastructure,Various locations worldwide,Occidental,oil and natural gas,operational
+Information and industrial control technology system,,Occidental,"oil, natural gas",
+network,,Occidental,"oil, natural gas",
+infrastructure,,Occidental,"oil, natural gas",
+automated and surveillance systems,,Occidental,"oil, natural gas",
+power generation facility,,Third party,natural gas,
+refinery,,Third party,natural gas,
+communications network,,Third party,"oil, natural gas",
+facilities,U.S.,Occidental,oil,operational
+equipment,Permian,Occidental,oil,operational
+infrastructure,U.S. Gulf Coast,Occidental,natural gas,under construction
+Facilities in the Permian Basin,Permian Basin,Occidental,Oil and natural gas,Operational
+Facilities in the DJ Basin,DJ Basin,Occidental,Oil and natural gas,Operational
+Facilities in the Gulf of Mexico,Gulf of Mexico,Occidental,Oil and natural gas,Operational
+Facilities in the UAE,UAE,Occidental,Oil and natural gas,Operational
+Facilities in Oman,Oman,Occidental,Oil and natural gas,Operational
+Facilities in Algeria,Algeria,Occidental,Oil and natural gas,Operational
+Land leases,"Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman and Algeria",Occidental,Oil and natural gas,Operational
+Subsurface mineral rights,"Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman and Algeria",Occidental,Oil and natural gas,Operational
+facilities,Permian Basin,Occidental,oil,operational
+equipment,DJ Basin,Occidental,oil and natural gas,operational
+infrastructure,Rockies,Occidental,oil and natural gas,operational
+facilities,Powder River Basin,Occidental,oil and natural gas,operational
+platforms,Gulf of Mexico,Occidental,oil and natural gas,operational
+facilities,Algeria,Occidental,hydrocarbons,operational
+wells,Algeria,Occidental,hydrocarbons,operational
+wells,Oman,Occidental,"NGL, natural gas, condensate",operational
+facilities,Oman,Occidental,"NGL, natural gas, condensate",operational
+facilities,Qatar,Occidental,"NGL, natural gas, condensate",operational
+wells,UAE,Occidental,"natural gas, NGL, condensate",operational
+facilities,UAE,Occidental,"natural gas, NGL, condensate",operational
+Proved reserves,Permian Basin,Occidental,Oil,Operational
+Proved reserves,DJ Basin,Occidental,NGL,Operational
+Proved reserves,Gulf of Mexico,Occidental,Natural gas,Operational
+Proved reserves,Powder River Basin,Occidental,Oil,Operational
+Proved reserves,Permian EOR,Occidental,Oil,Operational
+Proved reserves,international PSCs,Occidental,Natural gas,Operational
+infill development projects,Permian Basin,Occidental,,operational
+extensions,Permian Basin,Occidental,,
+discoveries,Permian Basin,Occidental,,
+conventional projects,Permian EOR,Occidental,,
+secondary and tertiary projects,international assets,Occidental,,
+wells,,Occidental,oil and gas,under construction
+wells,,Occidental,oil and gas,operational
+PVC exports,,Occidental,Petroleum products,
+Crude pipeline,Gulf Coast,Occidental,crude oil,operational
+leased crude storage capacity,-,Occidental,crude oil,operational
+crude terminal,-,Occidental,crude oil,operational
+Dolphin Pipeline,Qatar to UAE and Oman,DEL,natural gas,operational
+natural gas pipeline,-,WES,natural gas,operational
+gathering systems,-,WES,wet gas,operational
+plants and pipelines,-,WES,wet gas,operational
+power generation facilities,-,Occidental,electricity and steam,operational
+sour gas processing facilities,-,Al Hosn Gas,"natural gas, NGL, condensate, sulfur",operational
+DAC facility,-,OLCV,CO,under construction
+sequestration hubs,-,OLCV,CO,under construction
+facilities,Midland,Occidental,oil,operational
+equipment,Gulf-Coast,Occidental,oil,operational
+infrastructure,Permian Basin,Occidental,natural gas,operational
+facilities,Wyoming,Occidental,CO2,end-of-life
+equipment,Colorado,Occidental,oil,operational
+infrastructure,Utah,Occidental,natural gas,operational
+facilities,Colombia,Occidental,oil,end-of-life
+unproved acreage,domestic,Occidental,oil and/or natural gas,
+other domestic onshore assets,domestic,Occidental,oil and/or natural gas,
+Gulf of Mexico proved properties,Gulf of Mexico,Occidental,oil and/or natural gas,
+Algeria and Oman proved properties,Algeria and Oman,Occidental,oil and/or natural gas,
+Permian Basin,United States (Permian Basin),Occidental,oil and/or natural gas,operational
+DJ Basin,United States (DJ Basin),Occidental,oil and/or natural gas,operational
+Rocky Mountains,United States (Rocky Mountains),Occidental,oil and/or natural gas,operational
+Gulf of Mexico assets,Gulf of Mexico,Occidental,oil and/or natural gas,operational
+Oil and gas facilities,,Occidental,oil,Operational
+Chemical facilities,,Occidental,chemicals,Operational
+Midstream and marketing infrastructure,,Occidental,"oil, natural gas",Operational
+PP&E,North America,Occidental,Oil and gas,Operational
+Oil and gas properties,United States,Occidental,Oil and gas,Operational
+Oil and gas properties,Canada,Occidental,Oil and gas,Operational
+Oil and gas properties,Middle East,Occidental,Oil and gas,Operational
+Oil and gas properties,North Africa,Occidental,Oil and gas,Operational
+proved properties,,Occidental,oil and gas,operational (implied)
+unproved properties,,Occidental,oil and gas,operational (implied)
+proved oil and gas reserves,,Occidental,oil and gas,operational
+Oil and gas,,Occidental Petroleum Corporation,,
+Chemical,,Occidental Petroleum Corporation,,
+Midstream and marketing,,Occidental Petroleum Corporation,,
+Corporate,,Occidental Petroleum Corporation,,
+"Property, Plant and Equipment (PP&E)",Not specified,Occidental,"oil, NGL, natural gas, chemical products",Operational
+Oil and Gas Producing Properties,Not specified,Occidental,"oil, NGL, natural gas","Operational, Under Construction (for exploratory wells), Suspended Exploratory Drilling Costs (if future appraisal drilling or development activities are unlikely to occur)"
+proved properties,not specified,Occidental,oil and gas,operational/under construction/end-of-life
+unproved properties,not specified,Occidental,oil and gas,under construction/end-of-life
+chemical assets,not specified,Occidental,chemicals,operational
+chemical assets,,Occidental,,
+midstream and marketing PP&E,,Occidental,,
+undeveloped leases,,Occidental,,expired or set to expire
+oil and gas materials and supplies inventories,,Occidental,,
+proved and unproved properties,,Occidental,,
+goodwill associated with Occidental’s ownership in WES,,Occidental,,impaired
+ARO,,Occidental,"Plugging of wells, abandonment of oil and gas properties, plant decommissioning",Under construction/Operational
+oil and gas exploration and development equipment,,Occidental,oil and gas,operational
+office space,,Occidental,,operational
+offshore and onshore drilling rigs,,Occidental,oil and gas,operational
+compressors,,Occidental,oil and gas,operational
+storage facilities,,Occidental,oil and gas,operational
+field equipment,,Occidental,oil and gas,operational
+pipelines,,Occidental,oil and gas,operational
+rail cars,,Occidental,oil and gas,operational
+easements,,Occidental,oil and gas,operational
+aircraft,,Occidental,oil and gas,operational
+real estate,,Occidental,,operational
+"Property, plant and equipment",,Occidental,,
+Third-Party Sites,a chrome site in New Jersey,Occidental subsidiaries,chrome,end-of-life
+Currently Operated Sites,oil and gas operations in Colorado,Occidental subsidiaries,oil and gas,operational
+Closed or Non-operated Sites,former refinery in Oklahoma,Occidental subsidiaries,oil refining,end-of-life
+"Property, plant and equipment",,Occidental,,"operational, under construction, end-of-life"
+"Property, plant and equipment",United States,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",UAE,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Oman,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Algeria,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Qatar,Occidental,"oil, NGL and natural gas",
+"Property, plant and equipment",Other International,Occidental,"oil, NGL and natural gas",
+OIL RESERVES,,OXY,OIL,PROVED DEVELOPED AND UNDEVELOPED
+NGL RESERVES,,OXY,NGL,PROVED DEVELOPED AND UNDEVELOPED
+NATURAL GAS RESERVES,,OXY,NATURAL GAS,PROVED DEVELOPED AND UNDEVELOPED
+oil and gas properties,South Africa,Occidental,Oil and Gas,
+facilities,United States,Occidental,oil and gas,operational
+equipment,International,Occidental,oil and gas,operational
+infrastructure,United States,Occidental,oil and gas,operational
+exploratory wells,United States,Occidental,oil and gas,under construction (PUD reserves)
+development wells,International,Occidental,oil and gas,suspended or waiting on completion
+acreage,Algeria,Occidental,oil,
+acreage,Al Hosn Gas,Occidental,natural gas,
+acreage,Dolphin Oman,Occidental,natural gas,
+acreage,Permian Rockies & Other Domestic,Occidental,oil,
+acreage,Gulf of Mexico,Occidental,oil,
+acreage,United States,Occidental,oil,
+"Occidental’s first large-scale DAC facility in Ector County, Texas","Ector County, Texas",Occidental Petroleum Corporation,carbon dioxide,
+manufacturing plants,"Alabama, Georgia, Illinois, Kansas, Louisiana, Michigan, New Jersey, Ohio, Tennessee, Texas, Canada, Chile",OxyChem,"oil, NGL, natural gas, chlorine, caustic soda, chlorinated organics, potassium chemicals, EDC, VCM, PVC, ethylene, calcium chloride, sodium silicates",operational
+gathering systems,,WES,"oil, NGL, natural gas",operational
+gas plants,,WES,"oil, NGL, natural gas",operational
+co-generation facilities,,Occidental subsidiaries,"oil, NGL, natural gas",operational
+storage facilities,,Occidental subsidiaries,"oil, NGL, natural gas",operational
+pipelines,,WES,"oil, NGL, natural gas",operational
+pipeline,"Qatar, UAE, Oman",DEL,natural gas,operational
+processing facility,UAE,Occidental,"natural gas, sulfur",operational
+power generation facilities,"Texas, Louisiana",Occidental,electricity,operational
+solar generation facility,Texas,Occidental,electricity,operational
+facilities,federal lands,Occidental,oil,operational
+operations,South Texas,Occidental,DAC,under construction
+operations,offshore waters,OxyChem,gas,in end-of-life
+Offshore lease sales,Outer Continental Shelf,BOEM,oil and gas,operational
+Offshore lease sales,GOM,BOEM,oil and gas,under construction
+federal lands in New Mexico and Wyoming,"New Mexico, Wyoming",BLM,oil and gas,operational
+facilities,Permian Basin,Occidental,oil and gas,operational
+equipment,Permian Basin,Occidental,oil and gas,operational
+facilities,GOM,Occidental,oil and gas,operational
+equipment in U.S. oil and gas operations,U.S.,Occidental,oil and gas production,operational
+oil and gas facilities,upstream and midstream oil and gas industry,Occidental,oil and gas production,operational
+sequestration hubs,Louisiana and Texas,1PointFive,CO sequestration,under construction
+Class VI CO sequestration wells,Louisiana and Texas,1PointFive,CO storage,under construction
+electric generating units,U.S.,various companies,electricity generation,operational
+multi-pollutant emissions standards for light- and medium-duty vehicles,U.S.,government regulation,transportation,under development
+GHG emissions standards for heavy-duty vehicles,U.S.,government regulation,transportation,under development
+emissions control systems,,Occidental,"oil, NGL, natural gas",operational
+facilities,,Occidental,"oil, NGL, natural gas",operational
+oil and gas development activities,,Occidental,"oil, NGL, natural gas",operational
+property and equipment,Coastal operations,Occidental,"oil, NGL, natural gas and chemical products",operational
+property and equipment owned by third parties,Coastal operations,third parties,"oil, NGL, natural gas and chemical products",operational
+"oil, NGL and natural gas reserves",,Occidental,"oil, NGL and natural gas",proved
+"oil, NGL and natural gas properties",,Occidental,"oil, NGL and natural gas",proved
+exploration assets,,Occidental,"oil, NGL and natural gas",unproved
+oil and gas properties,,Occidental,oil and gas,"operational, under construction, end-of-life"
+water,N/A,Occidental,oil and natural gas,operational
+sand,N/A,Occidental,oil and natural gas,operational
+produced water,N/A,Occidental,disposal,operational
+CO,N/A,Occidental,oil production,operational
+compression equipment,N/A,Occidental,CO production and transportation,operational
+pipeline,N/A,Occidental,CO transportation,operational
+facilities,N/A,Occidental,"oil and gas production, processing, and transportation",operational
+information systems,,Occidental,oil and natural gas resources,
+industrial control systems,,Occidental,oil and natural gas resources,
+infrastructure,,Occidental,oil and natural gas resources,
+\'Offshore operations in the Gulf of Mexico\,\'Gulf of Mexico\,\'Occidental subsidiaries\,\'Oil\,\'Operational\
+\'Deep-water exploration locations\,"\'Gulf of Mexico, International deep-water locations\",\'Occidental subsidiaries\,\'Oil\,"\'Operational, Under construction\"
+high return upstream assets,"Permian, Rockies, Gulf of Mexico, Oman and UAE",Occidental,"oil, NGL, natural gas, chemical products",operational
+facilities,Permian Basin,Occidental,oil,operational
+equipment,DJ Basin,Occidental,natural gas,operational
+infrastructure,Gulf of Mexico,Occidental,oil,operational
+facilities,UAE,Occidental,oil,operational
+equipment,Oman,Occidental,natural gas,operational
+infrastructure,Algeria,Occidental,oil,operational
+facilities,Powder River Basin,Occidental,oil,operational
+facilities,Permian Basin,Occidental,oil,operational
+equipment,DJ Basin,Occidental,oil and natural gas,operational
+infrastructure,Powder River Basin,Occidental,oil and natural gas,operational
+facilities,Arkansas,Occidental,oil and natural gas,operational
+equipment,Colorado,Occidental,oil and natural gas,operational
+infrastructure,Louisiana,Occidental,oil and natural gas,operational
+facilities,Texas,Occidental,oil and natural gas,operational
+equipment,West Virginia,Occidental,oil and natural gas,operational
+infrastructure,Wyoming,Occidental,oil and natural gas,operational
+deep-water floating platforms,Gulf of Mexico,Occidental,oil and gas,operational
+marine shore-bases,"Galveston, Texas",Occidental,oil and gas,operational
+helicopter bases,Louisiana,Occidental,oil and gas,operational
+central logistics base,"Broussard, Louisiana",Occidental,oil and gas,operational
+integrated training center,"Broussard, Louisiana",Occidental,oil and gas,operational
+drilling rigs,Gulf of Mexico,Occidental,oil and gas,operational
+platform rig,Gulf of Mexico,Occidental,oil and gas,operational
+service rigs,Gulf of Mexico,Occidental,oil and gas,operational
+drillships,Gulf of Mexico,Occidental,oil and gas,operational
+proved reserves,DJ Basin,Occidental,Oil,
+proved reserves,Permian Basin,Occidental,Oil,
+proved reserves,Algeria,Occidental,Oil,
+proved reserves,Oman,Occidental,Natural gas,
+proved reserves,Gulf of Mexico,Occidental,Natural gas,
+Facilities,DJ Basin,Occidental,Oil and gas,Operational
+Equipment,Permian Basin,Occidental,Oil and gas,Operational
+Facilities,Algeria,Occidental,Oil and gas,Operational
+Equipment,Gulf of Mexico,Occidental,Oil and gas,Operational
+Facilities,UAE,Occidental,Oil and gas,Operational
+Facilities,International,Occidental,Oil and gas,Under Construction
+Equipment,Permian Basin,Occidental,Oil and gas,End-of-life
+wells,,Occidental,oil and gas,under construction
+wells,,Occidental,oil and gas,operational
+gathering systems,Midland to Gulf Coast,Occidental,"oil, NGL, natural gas",operational
+gas plants,Permian,Occidental,natural gas,operational
+co-generation facilities,Permian,Occidental,power,operational
+storage facilities,Midland to Gulf Coast,Occidental,"oil, NGL, natural gas",operational
+crude pipeline,Permian to Gulf Coast,Occidental,oil,operational
+crude storage capacity,Midland to Gulf Coast,Occidental,oil,operational
+crude terminal,Midland to Gulf Coast,Occidental,oil,operational
+STRATOS,Permian,Occidental,"NGL, natural gas",under construction
+Permian Basin,Permian Basin,Occidental,Oil,operational
+Powder River Basin,Powder River Basin,Occidental,Natural gas,end-of-life
+undeveloped acreage,Powder River Basin,Occidental,Natural gas,under construction
+undeveloped leases,undefined,Occidental,Oil,end-of-life
+facilities,Permian Basin,Occidental,oil,operational
+equipment,Rockies & Other Domestic,Occidental,NGL and natural gas,operational
+infrastructure,Gulf of Mexico,Occidental,oil,operational
+facilities,Algeria,Occidental,oil,end-of-life
+processing facilities,Al Hosn Gas,Occidental,natural gas,operational
+infrastructure,Oman,Occidental,natural gas,operational
+terminal,,Occidental,produced water,operational
+pipeline,,Occidental,produced water,operational
+processing capacity,,Occidental,produced water,operational
+equipment,,Occidental,"chemical raw materials, power",operational
+facilities,,Occidental,production of finished goods,operational
+Oil and gas properties,North America,Occidental,oil and gas,Operational
+PP&E,Middle East,Occidental,oil and gas,Operational
+Proved oil and gas reserves,,Occidental,oil and gas,"Operational, under construction, or end-of-life"
+unproved property,,Occidental,oil and gas,operational
+proved properties,,Occidental,oil and gas,operational
+Oil production facilities,,Occidental,"Oil, NGL, Natural Gas","Operational, under construction (implied)"
+Equipment,,Occidental,"Oil, NGL, Natural Gas","Operational, under construction (implied)"
+proved oil and gas properties,,Occidental Petroleum Corporation,oil and gas,operational
+Oil and gas,,Occidental Petroleum Corporation,,
+Chemical,,Occidental Petroleum Corporation,,
+Midstream and marketing,,Occidental Petroleum Corporation,,
+Corporate,,Occidental Petroleum Corporation,,
+CCUS projects,"Ector County, Texas",Occidental and BlackRock,carbon removal,under construction
+PP&E,,Occidental,oil and gas,operational
+oil and gas properties,,Occidental,"oil, NGL, natural gas",operational
+exploratory drilling costs,,Occidental,oil and gas,pending determination of proved reserves
+oil & gas producing properties,,Occidental,oil and gas,"proved, unproved"
+unproved property,Powder River Basin,Occidental,oil and gas,under construction
+proved properties,,Occidental,oil and gas,operational
+chemical facilities,,Occidental,chemicals,operational
+midstream and marketing PP&E,,Occidental,oil and gas,operational
+undeveloped acreage,Powder River Basin,Occidental,oil and gas,end-of-life
+undeveloped leases,,Occidental,oil and gas,end-of-life
+oil and gas materials and supplies inventories,,Occidental,oil and gas,operational
+facilities,,Occidental and its subsidiaries,oil and gas,"operational, under construction, end-of-life"
+oil wells,,Occidental and its subsidiaries,oil and gas,"operational, under construction, end-of-life"
+gas properties,,Occidental and its subsidiaries,oil and gas,"operational, under construction, end-of-life"
+plants,,Occidental and its subsidiaries,oil and gas,"operational, under construction, end-of-life"
+Facilities,,Occidental,"Oil, NGL, Natural Gas, Chemicals, Power, Steam",Operational
+Equipment,,Occidental,"Oil, NGL, Natural Gas, Chemicals, Power, Steam",Operational
+facilities,Permian Basin,Occidental,oil,
+equipment,Ingleside Facility,OxyChem,ethylene,
+"Property, plant and equipment",Permian Basin,Occidental,,
+"Property, plant and equipment",DJ Basin,Occidental,,
+oil and gas exploration and development equipment,,Occidental,oil and gas exploration and development,operational
+offshore and onshore drilling rigs,,Occidental,oil and gas exploration and development,operational
+office space,,Occidental,,operational
+compressors,,Occidental,oil and gas exploration and development,operational
+railcars,,Occidental,oil and gas exploration and development,operational
+marine transportation vessels,,Occidental,oil and gas exploration and development,operational
+storage facilities,,Occidental,oil and gas exploration and development,operational
+field equipment,,Occidental,oil and gas exploration and development,operational
+easements,,Occidental,oil and gas exploration and development,operational
+real estate,,Occidental,oil and gas exploration and development,operational
+compressors,,Occidental,,
+office space,,Occidental,,
+other assets,,Occidental,,
+DASS,"Newark, New Jersey",OxyChem,environmental remediation,operational
+Former Diamond Alkali Plant,- Lister Avenue in Newark,Maxus and its affiliates,environmental remediation,under construction
+Lower . Miles of the Lower Passaic River,Lower Passaic River,potentially responsible parties,environmental remediation,operational
+landfill in Western New York,Western New York,unknown,waste disposal,in end-of-life
+former refinery in Oklahoma,Oklahoma,unknown,oil refining,in end-of-life
+"former chemical plants in California, Michigan, Ohio, Tennessee and Washington","California, Michigan, Ohio, Tennessee and Washington",unknown,chemical manufacturing,in end-of-life
+closed coal mine in Pennsylvania,Pennsylvania,unknown,coal mining,in end-of-life
+chrome site in New Jersey,New Jersey,unknown,chrome mining,in end-of-life
+former copper mining and smelting operation in Tennessee,Tennessee,unknown,copper mining and smelting,in end-of-life
+former oil field,unknown,unknown,oil production,in end-of-life
+former chemical plant and a landfill in California,California,unknown,chemical manufacturing and waste disposal,in end-of-life
+active refinery in Louisiana,Louisiana,Occidental reimburses the current owner for certain remediation activities,oil refining,operational
+oil and gas operations in Colorado,Colorado,OxyChem,oil and gas production,operational
+chemical plants in Kansas and Louisiana,Kansas and Louisiana,OxyChem,chemical manufacturing,operational
+"Property, plant and equipment (PP&E)",,Occidental,,
+Oil reserves,United States,Occidental,Oil,
+NGL reserves,United States,Occidental,NGL,
+Natural gas reserves,United States,Occidental,Natural gas,
+Oil reserves,International,Occidental,Oil,
+NGL reserves,International,Occidental,NGL,
+Natural gas reserves,International,Occidental,Natural gas,
+Oil reserves,Permian Basin,Occidental,Oil,
+NGL reserves,Permian Basin,Occidental,NGL,
+Natural gas reserves,Permian Basin,Occidental,Natural gas,
+Oil reserves,DJ Basin,Occidental,Oil,
+NGL reserves,DJ Basin,Occidental,NGL,
+Natural gas reserves,DJ Basin,Occidental,Natural gas,
+Oil reserves,Algeria,Occidental,Oil,
+NGL reserves,Algeria,Occidental,NGL,
+Natural gas reserves,Algeria,Occidental,Natural gas,
+Oil reserves,Gulf of Mexico,Occidental,Oil,
+Oil reserves,,OXY,Oil,Proved developed and undeveloped
+Natural gas reserves,,OXY,Natural Gas,Proved developed and undeveloped
+Wells,United States,Occidental,Oil,Operational
+Wells,International,Occidental,Gas,Operational
+Wells,Middle East and North Africa,Occidental,Waterflood,Operational
+Acreage,United States,Occidental,Oil,Undeveloped
+Acreage,International,Occidental,Gas,Undeveloped

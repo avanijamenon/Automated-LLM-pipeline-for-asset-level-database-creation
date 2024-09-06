@@ -1,0 +1,11 @@
+physical assets: [ refining network, refineries ]
+ownerships: [company, affiliate companies]
+commodities: [ crude oil ]
+status: [ operational ]
+
+relationships: [asset: refining network, location:  Pascagoula, Mississippi, ownership: company, commodity: crude oil, status: operational], 
+[asset: refineries, location: El Segundo, California, ownership: company, commodity: crude oil, status: operational], 
+[asset: refineries, location: Richmond, California, ownership: company, commodity: crude oil, status: operational], 
+[asset: refineries, location: Pasadena1, Texas, ownership: company, commodity: crude oil, status: operational], 
+[asset: refineries, location: Salt Lake City, Utah, ownership: company, commodity: crude oil, status: operational], 
+ [asset: refineries, location: Various Locations, ownership: affiliate companies, commodity: crude oil, status: operational]

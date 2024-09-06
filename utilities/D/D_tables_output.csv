@@ -1,0 +1,35 @@
+physical asset,location,ownership,commodity,status,Country
+ladysmith plant,"Ladysmith, VA",,Gas,,USA
+remington plant,"Remington, VA",,Gas,,USA
+possum point plant,"Dumfries, VA",,Gas,,USA
+chesterfield plant,"Chester, VA",,Coal,,USA
+elizabeth river plant,"Chesapeake, VA",,Gas,,USA
+gordonsville energy plant,"Gordonsville, VA",,Coal,,USA
+gravel neck plant,"Surry, VA",,Gas,,USA
+darbytown plant,"Richmond, VA",,Gas,,USA
+mt. storm plant,"Mt. Storm, WV",,Coal,,USA
+chesterfield(1) plant,"Chester, VA",,Coal,,USA
+virginia city hybrid energy center,"Wise County, VA",,Coal,,USA
+clover plant,"Clover, VA",,Coal,,USA
+surry plant,"Surry, VA",,Nuclear,,USA
+north anna plant,"Mineral, VA",,Nuclear,,USA
+bath county plant,"Warm Springs, VA",,Hydro,,USA
+gaston plant,"Roanoke Rapids, NC",,Hydro,,USA
+roanoke rapids plant,"Roanoke Rapids, NC",,Hydro,,USA
+yorktown(1) plant,"Yorktown, VA",,Oil,,USA
+gravel neck (ct) plant,"Surry, VA",,Oil,,USA
+darbytown (ct) plant,"Richmond, VA",,Oil,,USA
+rosemary (cc) plant,"Roanoke Rapids, NC",,Oil,,USA
+possum point (ct) plant,"Dumfries, VA",,Oil,,USA
+low moor (ct) plant,"Covington, VA",,Oil,,USA
+northern neck (ct) plant,"Lively, VA",,Oil,,USA
+chesapeake (ct) plant,"Chesapeake, VA",,Oil,,USA
+colonial trail west plant,"Surry County, VA",,Solar,,USA
+dry bread plant,"Emporia, VA",,Solar,,USA
+spring grove plant,"Surry County, VA",,Solar,,USA
+whitehouse solar plant,"Louisa County, VA",,Solar,,USA
+woodland solar plant,"Isle of Wight County, VA",,Solar,,USA
+altavista plant,"Altavista, VA",,Biomass,,USA
+polyester plant,"Hopewell, VA",,Biomass,,USA
+cvow pilot project,"Virginia Beach, VA",,Wind,,USA
+mt. storm (ct) plant,"Mt. Storm, WV",,Wind,,USA

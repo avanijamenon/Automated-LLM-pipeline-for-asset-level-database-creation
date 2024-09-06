@@ -1,0 +1,16 @@
+﻿Name,Asset Type,Location,Commodity,Operating Company,Status,Capacity,Capacity (Megawatts),Region - NERC,Region - ISO
+Conowingo Hydro Power Station - Conowingo 04 (New),Hydroelectric Power Station,USA,Power,Exelon Generation Company LLC,Commissioned,47.70 Megawatts,47.7,,
+Quad Cities 1,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Clinton 1,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,Southeast Electric Reliability Council,Midwest Independent Transmission System Operator Inc
+La Salle 2,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Braidwood 2,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Peach Bottom 2,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Three Mile Island 1,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Oyster Creek 1,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Byron 1,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Limerick 1,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Dresden 3,Nuclear Power Station,USA,Power,Exelon Nuclear,,,--,ReliabilityFirst Corporation,PJM Interconnection LLC
+Framingham Peaking Station - Framingham 01 CT,Oil-fired Power Station,USA,Power,Exelon Generation Company LLC,Commissioned,14.20 Megawatts,14.2,,
+West Medway Peaking Power Station - West Medway 01 CT,Oil-fired Power Station,USA,Power,Exelon Generation Company LLC,Commissioned,45.00 Megawatts,45,,
+Perryman Peaking Station - Perryman 01 CT,Oil-fired Power Station,USA,Power,Exelon Generation Company LLC,Commissioned,53.10 Megawatts,53.1,,
+Handley Power Station - Handley 05,Gas-fired Power Station,USA,Power,Exelon Power Texas,Commissioned,455.00 Megawatts,455,,
