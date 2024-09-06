@@ -1,0 +1,1227 @@
+Chunk 1:
+(0, 'physical assets: [ ]\nlocations: [ New York]\nownerships: [ Consolidated Edison, Inc., Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 2:
+(1, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 3:
+(2, 'physical assets: [ energy delivery systems, renewable electric projects, electric transmission projects]\nownerships: [Con Edison, Consolidated Edison Company of New York, Inc., Orange & Rockland Utilities, Inc., Con Edison Clean Energy Businesses, Inc., Con Edison Transmission, Inc.] \ncommodities: [energy, renewable energy]\nstatus: [operational, under construction]\n\n[asset: renewable electric projects, location:  not specified, ownership: Con Edison Clean Energy Businesses, Inc., commodity: renewable energy, status: under construction]\n[asset: electric transmission projects, location: not specified, ownership: Con Edison Transmission, Inc., commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 4:
+(3, 'physical assets: [Facilities (CECONY steam main), Electric infrastructure, Gas infrastructure]\nownerships: [CECONY, O&R, NYSDPS]\ncommodities: [Electricity, Gas, Steam]\nstatus: [Operational, Under Construction (implied by rate plan increases)]')
+----------------------------------------------------------------------------------------------------
+Chunk 5:
+(4, 'physical assets: [renewable energy projects, facilities, pipeline]\nlocations: [West Virginia, Virginia, ]\nownerships: [Con Edison Gas Pipeline and Storage, LLC (CET Gas), Stagecoach Gas Services LLC, Mountain Valley Pipeline LLC (MVP)]\ncommodities: [electricity, natural gas]\nstatus: [operational, under construction, end-of-life]\n\n\nrelationships: [asset: renewable energy projects, location: , ownership: Con Edison, commodity: electricity, status: operational], [asset: facilities, location: , ownership: Con Edison, commodity: electricity, status: operational], [asset: pipeline, location: West Virginia and Virginia, ownership: Mountain Valley Pipeline LLC (MVP), commodity: natural gas, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 6:
+(5, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 7:
+(6, 'physical assets: [Electric Facilities, Electric Sales and Deliveries, Electric Peak Demand Electric Supply, Gas Facilities, Gas Sales and Deliveries, Gas Peak Demand Gas Supply, Steam Facilities, Steam Sales and Deliveries, Steam Peak Demand and Capacity Steam Supply]\nlocations: [New York City (except a part of Queens) and most of Westchester County]\nownerships: [Con Edison Company of New York, Inc. (CECONY), Orange and Rockland Utilities, Inc. (O&R)]\ncommodities: [Electric Energy, Gas Energy, Steam Energy] \nstatus: []\n\nrelationships: [asset: Electric Facilities, location: New York City (except a part of Queens) and most of Westchester County, ownership: CECONY, commodity: Electric Energy, status: ]\nrelationships: [asset: Electric Sales and Deliveries, location: New York City (except a part of Queens) and most of Westchester County, ownership: CECONY, commodity: Electric Energy, status: ] \nrelationships: [asset: Electric Peak Demand Electric Supply, location: New York City (except a part of Queens) and most of Westchester County, ownership: CECONY, commodity: Electric Energy, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 8:
+(7, 'physical assets: [steam distribution system, electric transmission projects, gas storage facility, gas transmission project]\nownerships: [CECONY, O&R, Consolidated Edison Transmission, LLC (CET Electric), Con Edison Gas Pipeline and Storage, LLC (CET Gas), New York Transco LLC, Honeoye Storage Corporation, Mountain Valley Pipeline LLC, Stagecoach Gas Services LLC]\ncommodities: [steam, electricity, gas]\nstatus: [operational]\n\n\n[asset: electric transmission projects, location: NY, ownership: Consolidated Edison Transmission, LLC (CET Electric), commodity: electricity, status: operational], [asset: gas storage facility, location: upstate NY, ownership: Honeoye Storage Corporation, commodity: gas, status: operational], [asset: gas transmission project, location: WV, VA, ownership: Mountain Valley Pipeline LLC, commodity: gas, status: under construction], [asset: gas pipeline and storage business, location: northern PA, southern NY, ownership: Stagecoach Gas Services LLC, commodity: gas, status: disposed]')
+----------------------------------------------------------------------------------------------------
+Chunk 9:
+(8, 'physical assets:  [electric generating facilities, electric transmission facilities]\nlocations: [NY State]\nownerships: [Con Edison, National Grid plc, Avangrid, Inc., National Fuel Gas Company, CH Energy Group, Inc., New York Power Authority (NYPA), Long Island Power Authority ]\ncommodities: [electricity] \nstatus:  [operational, under construction]\n\n\nrelationships: [asset: electric generating facilities, location: NY State, ownership: Con Edison, commodity: electricity, status: operational], [asset: electric transmission facilities, location: NY State, ownership: utilities (mentioned in the text but not specific companies), commodity: electricity, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 10:
+(9, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 11:
+(10, 'physical assets: [electric transmission facilities, electric delivery systems, gas delivery systems, steam delivery systems, solar energy production facilities, fuel cells, gas turbines, reciprocating engines, micro-turbines, battery energy storage]\nlocations: [NY State, New York City, Lower Hudson Valley, portion of its service territory]\nownerships: [Con Edison, NYISO, PJM Interconnection LLC]\ncommodities: [electricity, gas, steam]\nstatus: [operational]\nrelationships: [electric transmission facilities: NY State, ownership: Con Edison Transmission, commodity: electricity, status: operational], [electric delivery systems: NY State, ownership: CECONY, commodity: electricity, status: operational], [gas delivery systems: NY State, ownership: O&R, commodity: gas, status: operational], [steam delivery systems: NY State, ownership:  O&R, commodity: steam, status: operational], [solar energy production facilities: NY State, ownership: Clean Energy Businesses, commodity: electricity, status: operational], [fuel cells: NY State, ownership: Clean Energy Businesses, commodity: electricity, status: operational], [gas turbines: NY State, ownership: Clean Energy Businesses, commodity: electricity, status: operational], [reciprocating engines: NY State, ownership: Clean Energy Businesses, commodity: electricity, status: operational], [micro-turbines: NY State, ownership: Clean Energy Businesses, commodity: electricity, status: operational], [battery energy storage: NY State, ownership: Clean Energy Businesses, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 12:
+(11, "physical assets: ['distribution facilities', 'transmission facilities', 'steam-electric generation facilities', 'distribution substations', 'area stations', 'overhead circuits', 'underground circuits', 'transformer', 'electric generating facilities']\nownerships: ['CECONY', 'National Grid', 'Central Hudson Gas & Electric Corporation', 'O&R', 'New York State Electric & Gas', 'Connecticut Light & Power Company', 'Long Island Power Authority', 'NYPA', 'Public Service Electric and Gas Company']\ncommodities: ['electricity']\nstatus: ['operational']\nrelationships: ['distribution facilities: New York City and Westchester County, ownership: CECONY, commodity: electricity, status: operational'], \n['transmission facilities: New York City and Westchester, Orange, Rockland, Putnam and Dutchess counties in New York State, ownership: CECONY, commodity: electricity, status: operational'], \n['distribution substations: New York City and Westchester County, ownership: CECONY, commodity: electricity, status: operational'], \n['area stations: New York City and Westchester County, ownership: CECONY, commodity: electricity, status: operational'], \n['overhead circuits: New York City and Westchester, Orange, Rockland, Putnam and Dutchess counties in New York State, ownership: CECONY, commodity: electricity, status: operational'], \n['underground circuits: New York City and Westchester, Orange, Rockland, Putnam and Dutchess counties in New York State, ownership: CECONY, commodity: electricity, status: operational'], \n['transformer: New York City and Westchester County, ownership: CECONY, commodity: electricity, status: operational'],")
+----------------------------------------------------------------------------------------------------
+Chunk 13:
+(12, "physical assets: [generating stations, transmission facilities, gas distribution facilities]\nlocations: [New York City]\nownerships: [CECONY]\ncommodities: [electricity, natural gas] \nstatus: [operational, under construction]\n\nrelationships: [asset: 'generating stations', location: 'New York City', ownership: 'CECONY', commodity: 'electricity', status: 'operational'], [asset: 'transmission facilities', location: 'New York City', ownership: 'CECONY', commodity: 'electricity', status: 'operational'], [asset: 'gas distribution facilities', location: 'New York City', ownership: 'CECONY', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 14:
+(13, "physical assets: [pipeline, mains, service lines, natural gas liquefaction facility, storage tank]\nlocations: [Queens, NY, upstate NY, Westchester County, New York City]\nownerships: [CECONY, Honeoye Storage Corporation, CET Gas, NYPA]\ncommodities: [natural gas]\nstatus: [operational]\n\nrelationships: [asset: pipeline, location: in or near CECONY's service territory, ownership: CECONY, commodity: natural gas, status: operational], \n[asset: mains, location: CECONY's service territory, ownership: CECONY, commodity: natural gas, status: operational],\n[asset: service lines, location: CECONY's service territory, ownership: CECONY, commodity: natural gas, status: operational], \n[asset: natural gas liquefaction facility, location: Astoria property in Queens, NY, ownership: CECONY, commodity: natural gas, status: operational],\n[asset: storage tank, location: Astoria property in Queens, NY, ownership: CECONY, commodity: natural gas, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 15:
+(14, "physical assets: [steam-electric generating stations, steam-only generating stations, transmission piping, distribution facilities, transmission lines, transmission substations, distribution substations, in-service line transformers, overhead distribution lines, underground distribution lines]\nlocations: []\nownerships: [CECONY, O&R, RECO]\ncommodities: [steam, electricity]\nstatus: [operational]\n\n\nrelationships: [asset: 'steam-electric generating stations', location: '', ownership: 'CECONY', commodity: 'steam and electricity', status: 'operational'], [asset: 'steam-only generating stations', location: '', ownership: 'CECONY', commodity: 'steam', status: 'operational'], [asset: 'transmission piping', location: '', ownership: 'CECONY', commodity: 'steam', status: 'operational'], [asset: 'distribution facilities', location: '', ownership: 'O&R', commodity: 'electricity', status: 'operational'], [asset: 'transmission lines', location: '', ownership: 'O&R and RECO', commodity: 'electricity', status: 'operational'], [asset: 'transmission substations', location: '', ownership: 'O&R and RECO', commodity: 'electricity', status: 'operational'], [asset: 'distribution substations', location: '', ownership: 'O&R and RECO', commodity: 'electricity', status: 'operational'], [asset: 'in-service line transformers', location: '', ownership: 'O&R and RECO', commodity: 'electricity', status: 'operational'], [asset: 'overhead distribution lines', location: '', ownership: 'O&R and RECO', commodity: 'electricity', status: 'operational'], [asset: 'underground distribution lines', location: '', ownership: 'O&R and RECO', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 16:
+(15, 'physical assets: [facilities, equipment]\nlocations: [O&R’s service area, O&R’s franchise area]\nownerships: [O&R]\ncommodities: [electricity, natural gas]\nstatus: [operational]\n\nrelationships: [asset: facilities, location: O&R’s service area, ownership: O&R, commodity: electricity, status: operational], [asset: equipment, location: O&R’s franchise area, ownership: O&R, commodity: electricity, status: operational], [asset: facilities, location: O&R’s service area, ownership: O&R, commodity: natural gas, status: operational], [asset: equipment, location: O&R’s franchise area, ownership: O&R, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 17:
+(16, "physical assets: [Gas Delivery System]\nlocations: [O&R's service area, PJM assets, New England assets, California Solar projects, Texas Solar projects, Upton Solar project, Copper Mountain Solar project, Mesquite Solar project, Great Valley Solar project, Water Strider Solar project, Battle Mountain Solar/Battery Energy Storage System project]\nownerships: [O&R, CECONY, Sempra Solar Holdings, LLC]\ncommodities: [Natural Gas, Electricity]\nstatus: [Operational, Under Construction]\n\nrelationships: [asset: Gas Delivery System, location: O&R's service area, ownership: O&R and CECONY, commodity: Natural Gas, status: Operational], [asset: PJM assets, location: NJ/PA, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: New England assets, location: MA/RI, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: California Solar projects, location: California, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: Texas Solar projects, location: Texas, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: Upton Solar project, location: Texas, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: Copper Mountain Solar project, location: Nevada, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: Mesquite Solar project, location: Arizona, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: Great Valley Solar project, location: California, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: Water Strider Solar project, location: Virginia, ownership: CON EDISON, commodity: Electricity, status: Operational], [asset: Battle Mountain Solar/Battery Energy Storage System project, location: Nevada, ownership: CON EDISON, commodity: Electricity, status: Operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 18:
+(17, 'locations: [northeastern United States, upstate NY, Honeoye Storage Corporation (upstate NY)]\nownerships: [Con Edison Transmission CET Electric owns a . percent interest in New York Transco LLC (NY Transco), Affiliates of certain other New York transmission owners own the remaining interests, CECONY owns the remaining interest in Honeoye Storage Corporation]\ncommodities: [electricity, natural gas]\nstatus: [operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 19:
+(18, 'physical assets: [gas transmission project, pipeline]\nlocations: [WV, VA, northern PA, southern NY]\nownerships: [joint venture with four other partners, CET Gas, Mountain Valley Pipeline, LLC (MVP), Stagecoach Gas Services LLC]\ncommodities: [natural gas]\nstatus: [under construction, in-service date targeting summer , operational]\n\nrelationships: [asset: gas transmission project, location: WV and VA, ownership: joint venture with four other partners, commodity: natural gas, status: under construction], [asset: pipeline, location: northern PA and southern NY, ownership: CET Gas, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 20:
+(19, 'physical assets: []\nlocations: []\nownerships:  Con Edison, subsidiaries \ncommodities: electricity power, natural gas supply, transportation and storage energy efficiency services and construction services  \nstatus: []\nrelationships: \n\n\nLet\'s break down why:\n\n\n* **Locations:** While the text mentions subsidiaries ("CECONY", "O&R", "Clean Energy Businesses"), it doesn\'t specify physical locations for these entities. \n\n\n* **Commodities:** The text explicitly mentions the commodities involved in their operations:\n    * Electricity power\n    * Natural gas supply, transportation, and storage \n    * Energy efficiency services\n    * Construction services\n\n* **Status:**  The text doesn\'t provide information about the operational status (e.g.,  operational, under construction, end-of-life) of any physical assets.')
+----------------------------------------------------------------------------------------------------
+Chunk 21:
+(20, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 22:
+(21, 'physical assets: []\nlocations: [New York State, New York City]\nownerships: [Con Edison, CECONY, O&R, Equinor Wind US LLC, Sunrise Wind LLC]\ncommodities: [Renewable energy]\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 23:
+(22, "physical assets:  [power grid]\nlocations: [Brooklyn, NY, United States]\nownerships: [CECONY, Con Edison, public and private electric utilities]\ncommodities: [offshore wind generation, carbon dioxide emissions, electricity, renewable energy sources]\nstatus: []\n\n\nrelationships: [asset: 'power grid', location: 'Brooklyn, NY', ownership: 'CECONY', commodity: 'offshore wind generation', status: '' ] \nrelationships: [asset: 'power grid', location: 'United States', ownership: 'public and private electric utilities', commodity: 'carbon dioxide emissions', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 24:
+(23, 'physical assets:  [electric vehicle infrastructure, energy storage, facilities, equipment, AMI components (smart meters, communication network, information technology systems and business applications)]\nlocations: [] \nownerships: [CECONY, O&R]\nstatus: [operational, under construction, planned ]\n[asset: energy storage, location: NY service areas, ownership: CECONY and O&R, commodity: power capacity, status: under construction], \n[asset: facilities, location:  NY service areas, ownership: CECONY and O&R, commodity: distributed generation, status: operational ], \n[asset: equipment, location:  NY service areas, ownership: CECONY and O&R, commodity: distributed generation, status: operational ], \n[asset: AMI components (smart meters, communication network, information technology systems and business applications), location: NY service areas, ownership: CECONY and O&R, commodity: energy management, status: deployed]')
+----------------------------------------------------------------------------------------------------
+Chunk 25:
+(24, "physical assets: [infrastructure, facilities, equipment]\nlocations: [CECONY's electric, gas and steam systems]\nownerships: [CECONY]\ncommodities: [electricity, gas, steam]\nstatus:  [operational, under construction, end-of-life] \n\nrelationships: [asset: infrastructure, location: CECONY's electric, gas and steam systems, ownership: CECONY, commodity: electricity, gas, steam, status: operational], [asset: facilities, location: CECONY's electric, gas and steam systems, ownership: CECONY, commodity: electricity, gas, steam, status: operational], [asset: equipment, location: CECONY's electric, gas and steam systems, ownership: CECONY, commodity: electricity, gas, steam, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 26:
+(25, 'physical assets: [electric generation assets,  generation units, electric grid]\nlocations: [Northeastern and Mid-Atlantic states, New York State, service territories, manufactured gas plants in New York City and Westchester County]\nownerships: [CECONY, Con Edison, predecessor companies]\ncommodities: [electricity, peaking generation, power restoration]\nstatus: [operational, under construction (implied by "aiming to build")]\n\n\nrelationships: [electric generation assets: Northeastern and Mid-Atlantic states, location: New York State, ownership: CECONY, commodity: electricity, status: operational],  [generation units: service territories, location: New York State, ownership: CECONY, commodity: peaking generation, power restoration, status: operational], [electric grid: service territories, location: New York State, ownership: Con Edison, commodity: power restoration, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 27:
+(26, 'physical assets: [Remedial design, planning or action] \nlocations: [Astoria section of Queens, NY, Gowanus Canal in Brooklyn, NY, Newtown Creek ]\nownerships: [CECONY]\ncommodities: []\nstatus: [ongoing]\n\nrelationships: [asset: Remedial design, planning or action, location: Astoria section of Queens, NY, ownership: CECONY, commodity: , status: ongoing]')
+----------------------------------------------------------------------------------------------------
+Chunk 28:
+(27, 'physical assets: [Newtown Creek, facilities, warehouses, trucking, concrete manufacture, transportation infrastructure, wastewater treatment plant, feeder, street manhole, transmission lines, pier]\nownerships: [CECONY, PRPs, EPA, U.S. Coast Guard, NYSDEC, other agencies]\ncommodities: [industrial, petroleum, recycling, manufacturing, distribution,  wastewater treatment, transportation]\nstatus: [operational, under construction, end-of-life]\n\n\nrelationships: [asset: Newtown Creek, location: Brooklyn and Queens, NY, ownership: PRPs, EPA, CECONY, commodity: industrial, petroleum, recycling, manufacturing, distribution, wastewater treatment, transportation, status: contaminated] \n[asset: facilities, location: Newtown Creek, ownership: PRPs, EPA, CECONY, commodity: industrial, petroleum, recycling, manufacturing, distribution,  status: operational] \n[asset: warehouses, location: Newtown Creek, ownership: PRPs, EPA, CECONY, commodity: distribution, status: operational] \n[asset: trucking, location: Newtown Creek, ownership: PRPs, EPA, CECONY, commodity: transportation, status: operational] \n[asset: concrete manufacture, location: Newtown Creek, ownership: PRPs, EPA, CECONY, commodity: construction, status: operational] \n[asset: transportation infrastructure, location: Newtown Creek, ownership: PRPs, EPA, CECONY, commodity: transportation, status: operational] \n[asset: wastewater treatment plant, location: Newtown Creek, ownership: PRPs, EPA, CECONY, commodity: wastewater treatment, status: operational] \n[asset: feeder, location: New Rochelle, NY, ownership: CECONY, commodity: power distribution, status: failed] \n[asset: street manhole, location: New Rochelle, NY, ownership: CECONY, commodity: power distribution, status: damaged] \n[asset: transmission lines, location: Hudson River, NJ marina, ownership: CECONY and other utility, commodity: power transmission, status: repaired] \n[asset: pier, location: Hudson River, NJ marina, ownership: marina owner, commodity: docking, status: collapsed]')
+----------------------------------------------------------------------------------------------------
+Chunk 29:
+(28, 'physical assets: [Manufactured gas plants, transmission lines]\ncommodities: []\nstatus: [operational, under construction, in end-of-life]\nrelationships: [asset: Manufactured gas plants, location: Orange County and Rockland County, NY, ownership: O&R and its predecessors, commodity:  energy production, status: operational, under construction, in end-of-life], [asset: transmission lines, location: unspecified, ownership: CECONY and the other utility, commodity: electricity distribution, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 30:
+(29, "physical assets: [generating facilities]\nlocations: [ ]\nownerships: [CECONY]\ncommodities: [energy production] \nstatus: [operational, under construction]\n\n\nrelationships: [asset: 'generating facilities', location: '', ownership: 'CECONY', commodity: 'energy production', status: 'operational, under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 31:
+(30, 'physical assets: [Learning Center]\nlocations: []\nownerships: [Con Edison]\nstatus: [operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 32:
+(31, 'physical assets: [energy facilities]\nlocations: [densely populated public places, NY]\nownerships: [The Utilities]\ncommodities: [electricity, gas, steam]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: energy facilities, location: densely populated public places, ownership: The Utilities, commodity: electricity, gas, steam, status: operational], [asset: energy facilities, location: NY, ownership: The Utilities, commodity: electricity, gas, steam, status: under construction], [asset: energy facilities, location: densely populated public places, ownership: The Utilities, commodity: electricity, gas, steam, status: end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 33:
+(32, 'physical assets: [facilities, equipment, infrastructure] \nlocations: []\nownerships: [CON EDISON, subsidiaries]\ncommodities: [electricity, gas]\nstatus: [operational, under construction]\n\n\nrelationships: [asset: facilities, location:  , ownership: CON EDISON, commodity: electricity, status: operational], [asset: equipment, location:  , ownership: CON EDISON, commodity: electricity, status: operational], [asset: infrastructure, location:  , ownership: CON EDISON, commodity: gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 34:
+(33, 'physical assets: [ ]\nlocations: [  ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 35:
+(34, "physical assets:  [facilities]\nlocations: []\nownerships: [Con Edison, CECONY, O&R, Clean Energy Businesses, Con Edison Transmission]\ncommodities: [electricity, gas and steam]\nstatus: [] \n\n\nrelationships: [asset: 'facilities', location: '', ownership: 'Con Edison', commodity: 'electricity', status: ''], [asset: 'facilities', location: '', ownership: 'CECONY', commodity: 'electricity', status: ''], [asset: 'facilities', location: '', ownership: 'O&R', commodity: 'electricity', status: ''], [asset: 'facilities', location: '', ownership: 'Clean Energy Businesses', commodity: 'electricity', status: ''], [asset: 'facilities', location: '', ownership: 'Con Edison Transmission', commodity: 'electricity', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 36:
+(35, 'physical assets:  []\nlocations: []\nownerships: [Con Edison owns CECONY]\ncommodities: []\nstatus: [] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 37:
+(36, "physical assets: [Facilities, Equipment, Infrastructure]\nownerships: [Con Edison, CECONY, O&R, Con Edison Clean Energy Businesses, Con Edison Transmission]\ncommodities: [Electric service, Gas service, Steam service, Renewable energy, Sustainable energy infrastructure projects]\nstatus: []\nrelationships: [asset: Facilities, location: New York City, ownership: CECONY, commodity: Electric service, status: operational], \n[asset: Equipment, location: New York's Westchester County, ownership: O&R, commodity: Gas service, status: operational],")
+----------------------------------------------------------------------------------------------------
+Chunk 38:
+(37, "physical assets: [Mountain Valley Pipeline, LLC, Stagecoach, Honeoye]\nlocations: []\nownerships: [Con Edison Transmission]\ncommodities: []\nstatus: [ ] \n\nrelationships: [asset: 'Mountain Valley Pipeline, LLC', location: '', ownership: 'Con Edison Transmission', commodity: '', status: ''], [asset: 'Stagecoach', location: '', ownership: 'Con Edison Transmission', commodity: '', status: ''], [asset: 'Honeoye', location: '', ownership: 'Con Edison Transmission', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 39:
+(38, 'physical assets: [facilities, equipment] \nlocations: [New York City, customer premises]\nownerships: [The Companies, Con Edison and its subsidiaries]\ncommodities: [electric, gas, steam service]\nstatus: []\n\n\nrelationships: [asset: facilities, location:  customer premises, ownership: The Companies, commodity: electric, gas, steam service, status: operational], [asset: equipment, location: work and common areas, ownership: Con Edison and its subsidiaries, commodity: electric, gas, steam service, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 40:
+(39, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 41:
+(40, 'physical assets:  [ ]\nlocations: [ New York, NY] \nownerships: [ Con Edison, CECONY, O&R NY]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 42:
+(41, "physical assets: [Clean Energy Businesses, Con Edison Transmission,  Stagecoach Gas Services LLC (Stagecoach), Mountain Valley Pipeline, LLC, Honeoye]\nlocations: []\nownerships: [Con Edison]\ncommodities: []\nstatus: [] \n\n\nrelationships: [asset: 'Clean Energy Businesses', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'Con Edison Transmission', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'Stagecoach Gas Services LLC (Stagecoach)', location: '', ownership: '', commodity: '', status: ''], [asset: 'Mountain Valley Pipeline, LLC', location: '', ownership: '', commodity: '', status: ''], [asset: 'Honeoye', location: '', ownership: '', commodity: '', status: '']]")
+----------------------------------------------------------------------------------------------------
+Chunk 43:
+(42, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 44:
+(43, "physical assets:  [Mountain Valley Pipeline] \nlocations: [ ]\nownerships: [Con Edison]\ncommodities: []\nstatus: [impaired]\nrelationships: [asset: 'Mountain Valley Pipeline', location: '', ownership: 'Con Edison', commodity: '', status: 'impaired']")
+----------------------------------------------------------------------------------------------------
+Chunk 45:
+(44, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Con Edison Transmission]\ncommodities: [ ]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 46:
+(45, "physical assets: [Facilities, Equipment, Infrastructure]\nlocations: []\nownerships: [CECONY]\ncommodities: [Gas, Steam]\nstatus: []\n\nrelationships: [asset: 'Facilities', location: '', ownership: 'CECONY', commodity: 'Gas', status: ''], \n[asset: 'Equipment', location: '', ownership: 'CECONY', commodity: 'Gas', status: ''], \n[asset: 'Infrastructure', location: '', ownership: 'CECONY', commodity: 'Gas', status: ''], \n[asset: 'Facilities', location: '', ownership: 'CECONY', commodity: 'Steam', status: ''], \n[asset: 'Equipment', location: '', ownership: 'CECONY', commodity: 'Steam', status: ''], \n[asset: 'Infrastructure', location: '', ownership: 'CECONY', commodity: 'Steam', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 47:
+(46, "physical assets:  [steam generating facilities, utility plant]\nlocations: []\nownerships: [CON EDISON]\ncommodities: [electricity, steam]\nstatus: [operational] \n\nrelationships: [asset: 'steam generating facilities', location: '', ownership: 'CON EDISON', commodity: 'steam', status: 'operational'], [asset: 'utility plant', location: '', ownership: 'CON EDISON', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 48:
+(47, "physical assets: [electric utility plant, gas utility plant, renewable electric projects]\nlocations: []\nownerships: [CON EDISON]\ncommodities: [electricity, natural gas]\nstatus: [operational]\n\n\nrelationships: [asset: 'electric utility plant', location: '', ownership: 'CON EDISON', commodity: 'electricity', status: 'operational'], [asset: 'gas utility plant', location: '', ownership: 'CON EDISON', commodity: 'natural gas', status: 'operational'], [asset: 'renewable electric projects', location: '', ownership: 'CON EDISON', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 49:
+(48, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Con Edison, Honeoye, Stagecoach, MVP] \ncommodities: []\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 50:
+(49, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 51:
+(50, "physical assets: [steam utility plant, gas utility plant, steam generating facilities]\nlocations: []\nownerships: [CON EDISON]\ncommodities: [steam]\nstatus: [operational] \n\nrelationships: [steam utility plant: '', location: '', ownership: CON EDISON, commodity: steam, status: operational], [gas utility plant: '', location: '', ownership: CON EDISON, commodity: '', status: ''], [steam generating facilities: '', location: '', ownership: CON EDISON, commodity: steam, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 52:
+(51, "physical assets: [electric utility plant]\nlocations: []\nownerships: []\ncommodities: [electricity, natural gas]\nstatus: [operational]\n\n\nrelationships: [asset: 'electric utility plant', location: '', ownership: 'CON EDISON', commodity: 'electricity', status: 'operational'],  [asset: 'electric utility plant', location: '', ownership: 'CON EDISON', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 53:
+(52, 'physical assets:  [Gas utility plant]\nlocations: [ ]\nownerships: [Con Edison] \ncommodities: [gas, electricity, energy services, renewable electric production]\nstatus: [Operational]\n\nrelationships: [asset: Gas utility plant, location:  , ownership: Con Edison, commodity: gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 54:
+(53, 'physical assets: [ ]\nlocations: [ New York City, Utilities’ service territory]\nownerships: [Con Edison, CECONY, subsidiaries]\ncommodities: []\nstatus: [ ]\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 55:
+(54, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 56:
+(55, "physical assets: [Stagecoach, Clean Energy Businesses, properties formerly used by CECONY in its operations, electric and gas transmission projects, utility construction expenditures]\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: 'Stagecoach', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'Clean Energy Businesses', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'properties formerly used by CECONY in its operations', location: '', ownership: 'CECONY', commodity: '', status: ''], [asset: 'electric and gas transmission projects', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'utility construction expenditures', location: '', ownership: 'Con Edison, CECONY', commodity: '', status: 'under construction']]")
+----------------------------------------------------------------------------------------------------
+Chunk 57:
+(56, 'physical assets: []\nlocations: []\nownerships:  [Con Edison]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 58:
+(57, 'physical assets: []\nlocations: [ ]\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 59:
+(58, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 60:
+(59, "physical assets:  [electric plant, gas plant, general plant, construction work in progress]\nlocations: []\nownerships: []\ncommodities: []\nstatus: [operational, under construction]\n\nrelationships: [asset: 'electric plant', location: '', ownership: '', commodity: '', status: 'operational'], \n              [asset: 'gas plant', location: '', ownership: '', commodity: '', status: 'operational'], \n              [asset: 'general plant', location: '', ownership: '', commodity: '', status: 'operational'],  \n              [asset: 'construction work in progress', location: '', ownership: '', commodity: '', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 61:
+(60, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 62:
+(61, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 63:
+(62, "physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ['electricity', 'gas']\nstatus: [ ] \n\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 64:
+(63, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [electricity, gas]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 65:
+(64, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [electricity, gas]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 66:
+(65, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 67:
+(66, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 68:
+(67, "physical assets:  []\nlocations:  []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: [] \n\n\nLet me explain why the answer is this way:\n\n* **The text focuses on financial and accounting matters**, specifically how a company accounts for regulatory costs and revenue, and how it calculates income for a specific project involving a noncontrolling tax equity investor.\n* **There's no mention of tangible assets like facilities, equipment, or infrastructure.** The discussion revolves around accounting principles, calculations, and judgments related to financial reporting.")
+----------------------------------------------------------------------------------------------------
+Chunk 69:
+(68, "physical assets: [Mountain Valley Pipeline LLC]\nlocations: []\nownerships: [Consolidated Edison, Inc.]\ncommodities: [gas transmission]\nstatus: [under construction]\n\n\nrelationships: [asset: Mountain Valley Pipeline LLC, location: '', ownership: Consolidated Edison, Inc., commodity: gas transmission, status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 70:
+(69, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Consolidated Edison, Inc.]\ncommodities: [electric power, gas, steam]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 71:
+(70, "physical assets: [ Utility plant, Construction work in progress ]\nlocations: []\nownerships: [ Consolidated Edison, Inc. ]\ncommodities: []\nstatus: [operational, under construction] \n\nrelationships: [asset: 'Utility plant', location: '', ownership: 'Consolidated Edison, Inc.', commodity: '', status: 'operational'], [asset: 'Construction work in progress', location: '', ownership: 'Consolidated Edison, Inc.', commodity: '', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 72:
+(71, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 73:
+(72, "physical assets: [Project DEBT]\nlocations: []\nownerships: [Consolidated Edison Company of New York, Inc.,  New York State Energy Research and Development Authority]\ncommodities: []\nstatus: [operational]\n\nrelationships: [asset: 'Copper Mountain Solar', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'Coram', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'CED Southwest', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'Wind Holdings', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'CED California', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'Texas Solar', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'California Solar', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'Broken Bow II', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'Upton County Solar', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'], [asset: 'Mesquite Solar', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'CED Nevada', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational'],[asset: 'Virginia', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 74:
+(73, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 75:
+(74, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 76:
+(75, "physical assets: [Utility Plant, Non-utility property, Construction work in progress, Cash and temporary cash investments]\nlocations: []\nownerships: [Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus: [ ] \nrelationships: [asset: 'Utility Plant', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'Non-utility property', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'Construction work in progress', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'Cash and temporary cash investments', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: '']]")
+----------------------------------------------------------------------------------------------------
+Chunk 77:
+(76, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 78:
+(77, 'physical assets:  [ ]\nownerships: [ Consolidated Edison, Inc., Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc., Con Edison Clean Energy Businesses, Inc., Con Edison Transmission, Inc. ]\ncommodities: [  ]\nstatus: [ ] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 79:
+(78, "physical assets: [Utility plant, Non-utility plant]\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [Operational, Under construction, End-of-life] \n\nrelationships: [asset: 'Utility plant', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'Non-utility plant', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'Utility plant', location: '', ownership: 'CECONY', commodity: '', status: ''], [asset: 'Non-utility plant', location: '', ownership: 'CECONY', commodity: '', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 80:
+(79, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 81:
+(80, 'physical assets: [Stagecoach Gas Services LLC, Mountain Valley Pipeline]\nlocations: [West Virginia, Virginia]\nownerships: [Con Edison, CET Gas, joint venture partner, U.S. Supreme Court, U.S. Court of Appeals for the Fourth Circuit]\ncommodities: [gas transmission]\nstatus: [under construction, in end-of-life] \n\nrelationships: [Stagecoach Gas Services LLC: , location: West Virginia, ownership: Con Edison and joint venture partner, commodity: gas transmission, status: in end-of-life], [Mountain Valley Pipeline: West Virginia, Virginia, ownership: Con Edison, CET Gas, U.S. Supreme Court, U.S. Court of Appeals for the Fourth Circuit, commodity: gas transmission, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 82:
+(81, 'physical assets: ["Mountain Valley Pipeline"]\nlocations: ["Jefferson National Forest", "Fourth Circuit Court"]\nownerships: ["Con Edison", "CET Gas"]\ncommodities: ["natural gas transportation"]\nstatus: ["under construction"]\n\n\nrelationships: [asset: \'Mountain Valley Pipeline\', location: \'Jefferson National Forest\', ownership: \'Con Edison and CET Gas\', commodity: \'natural gas transportation\', status: \'under construction\']')
+----------------------------------------------------------------------------------------------------
+Chunk 83:
+(82, 'physical assets:  []\nlocations: [New York Transco, LLC]\nownerships: [CET Electric]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 84:
+(83, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 85:
+(84, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY]\ncommodities: [ ]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 86:
+(85, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 87:
+(86, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 88:
+(87, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 89:
+(88, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 90:
+(89, 'physical assets: [Gas accounts]\nlocations: []\nownerships: [CECONY] \ncommodities: [Energy]\nstatus: [Longer-lived]\n\nrelationships: [asset: Gas accounts, location: , ownership: CECONY, commodity: Energy, status: Longer-lived]')
+----------------------------------------------------------------------------------------------------
+Chunk 91:
+(90, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 92:
+(91, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 93:
+(92, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 94:
+(93, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 95:
+(94, "physical assets: [Electric system] \nlocations: [New York]\nownerships: [RECO, CON EDISON]\ncommodities: [Electricity]\nstatus: [Operational]\n\nrelationships: [asset: 'Electric system', location: 'New York', ownership: 'RECO, CON EDISON', commodity: 'Electricity', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 96:
+(95, 'physical assets:  [ ]\nlocations: [New York, New York City]\nownerships: [CECONY, O&R, CON EDISON]\ncommodities: [Electricity, Gas]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 97:
+(96, 'physical assets: []\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 98:
+(97, 'ownerships: [CECONY, O&R, NYSPSC, Con Edison, Department of Energy (DOE)]\nstatus: [operational, under repair, in end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 99:
+(98, 'physical assets: [Steam main]\nownerships: [CECONY]\ncommodities: [Electric service]\nstatus: [Operational, under construction (implied due to the response and repair costs), end-of-life (implied due to the rupture)] \n\n[asset: Electric Distribution Systems, location: Flatbush area of Brooklyn, ownership: CECONY, commodity: Electric service, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 100:
+(99, 'physical assets:  [Utilities’ NY electric rate plans, facilities, equipment]\nlocations:  [NY]\nownerships: [CECONY, O&R, NYSPSC, MTA]\ncommodities: [electricity]\nstatus: [] \nrelationships: [asset: Utilities’ NY electric rate plans, location: NY, ownership: CECONY, O&R, commodity: electricity, status: operational]\n relationships: [asset: facilities, location: NY, ownership: CECONY, O&R, commodity: electricity, status: operational]\nrelationships: [asset: equipment, location: NY, ownership: CECONY, O&R, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 101:
+(100, 'physical assets: []\nlocations: []\nownerships:  []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 102:
+(101, "physical assets: [ electric and gas plant assets, steam plant assets ]\nlocations: []\nownerships: [ Con Edison owns CECONY  ]\ncommodities: []\nstatus: [ operational ]\n\n\nrelationships: [asset: 'electric and gas plant assets', location: '', ownership: 'Con Edison', commodity: '', status: 'operational'], [asset: 'steam plant assets', location: '', ownership: 'CECONY', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 103:
+(102, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 104:
+(103, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 105:
+(104, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 106:
+(105, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 107:
+(106, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 108:
+(107, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 109:
+(108, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 110:
+(109, 'physical assets: [facilities and equipment, manufactured gas plant sites]\nownerships: [Utilities, their predecessors, one of the Utilities ]\ncommodities: [gas] \nstatus: [under construction, in end-of-life] \n\nrelationships: [asset: facilities and equipment, location: sites at which gas was manufactured or stored, ownership: Utilities, their predecessors, commodity: gas, status: under construction], [asset: manufactured gas plant sites, location: Superfund Sites, ownership: one of the Utilities, commodity: gas, status: in end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 111:
+(110, 'physical assets: [service lines, distribution main, buildings, service tee]\ncommodities: [gas]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 112:
+(111, 'physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Con Edison, Clean Energy Businesses, NYSPSC, NYISO, Travelers Insurance Company]\ncommodities: [electricity, gas, pipeline capacity, transportation, oil, renewable energy credits, energy services]\nstatus: []\n\n\nrelationships: [asset: facilities, location:  , ownership: Con Edison, commodity: electricity, status:  ], [asset: equipment, location:  , ownership: Clean Energy Businesses, commodity: electricity, status:  ], [asset: infrastructure, location:  , ownership: NYSPSC, commodity:  , status:  ]')
+----------------------------------------------------------------------------------------------------
+Chunk 113:
+(112, "physical assets: [Lease obligations, Right-of-use assets]\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [under construction] \n\nrelationships: [asset: 'Lease obligations', location: '', ownership: 'Con Edison, CECONY', commodity: '', status: 'under construction'], [asset: 'Right-of-use assets', location: '', ownership: 'Con Edison, CECONY', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 114:
+(113, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 115:
+(114, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 116:
+(115, "physical assets: [Electricity grid, Gas pipelines, Steam distribution system,  Renewable energy projects]\nlocations: [New York City, Upstate New York]\nownerships: [Con Edison]\ncommodities: [Electricity, Natural gas, Steam, Renewable energy]\nstatus: [Operational]\n\nrelationships: [asset: 'Electricity grid', location: 'New York City', ownership: 'Con Edison', commodity: 'Electricity', status: 'Operational'], \n[asset: 'Gas pipelines', location: 'Upstate New York', ownership: 'Con Edison', commodity: 'Natural gas', status: 'Operational'], \n[asset: 'Steam distribution system', location: 'New York City', ownership: 'Con Edison', commodity: 'Steam', status: 'Operational'], \n[asset: 'Renewable energy projects', location: 'Not specified', ownership: 'Con Edison', commodity: 'Renewable energy', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 117:
+(116, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 118:
+(117, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 119:
+(118, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 120:
+(119, 'physical assets: []\nlocations: []\nownerships:  []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 121:
+(120, "physical assets: [Electric facilities, Gas facilities, Steam facilities, Transmission infrastructure]\nlocations: [United States of America]\nownerships: [Con Edison]\ncommodities: [Electricity, Natural Gas, Steam, Refined Fuels]\nstatus: [] \n\nrelationships: [asset: 'Electric facilities', location: 'United States of America', ownership: 'Con Edison', commodity: 'Electricity', status: ''],  [asset: 'Gas facilities', location: 'United States of America', ownership: 'Con Edison', commodity: 'Natural Gas', status: ''], [asset: 'Steam facilities', location: 'United States of America', ownership: 'Con Edison', commodity: 'Steam', status: ''], [asset: 'Transmission infrastructure', location: 'United States of America', ownership: 'Con Edison', commodity: 'Electricity, Natural Gas, Steam', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 122:
+(121, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 123:
+(122, 'physical assets: []\nlocations: []\nownerships: []\ncommodities:  ["Electric Energy", "Capacity", "Natural Gas", "Refined Fuels"]\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 124:
+(123, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 125:
+(124, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [electricity, refined products, natural gas]\nstatus: [ ] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 126:
+(125, 'physical assets: []\nlocations: [ Brooklyn Navy Yard, CED Nevada Virginia,  Great Valley Solar (c), Copper Mountain - Mesquite Solar (c), ]\nownerships: [ Con Edison, Clean Energy Businesses, noncontrolling tax equity investor, Sempra Solar Holdings, LLC ]\ncommodities: []\nstatus: []\n\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 127:
+(126, 'physical assets: [Great Valley Solar , Great Valley Solar , Great Valley Solar,  Great Valley Solar, Copper Mountain Solar , Mesquite Solar, Mesquite Solar, Copper Mountain Solar, Battle Mountain Solar, Water Strider Solar]\nlocations: [CA, NV and AZ, NV and VA]\nownerships: [noncontrolling interest of the tax equity investor]\ncommodities: [solar energy]\nstatus: []\nrelationships: [asset: Great Valley Solar , location: CA, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Great Valley Solar , location: CA, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Great Valley Solar , location: CA, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Great Valley Solar , location: CA, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Copper Mountain Solar , location: NV and AZ, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Mesquite Solar , location: NV and AZ, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Mesquite Solar , location: NV and AZ, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Copper Mountain Solar , location: NV and VA, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Battle Mountain Solar , location: NV and VA, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ], [asset: Water Strider Solar , location: NV and VA, ownership: noncontrolling interest of the tax equity investor, commodity: solar energy, status:  ]]')
+----------------------------------------------------------------------------------------------------
+Chunk 128:
+(127, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY, NYSPSC, Utilities, CET Electric, CET Gas, Crestwood Equity Partners LP, Mountain Valley Pipeline, LLC (MVP), Stagecoach Gas Services LLC (Stagecoach)]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 129:
+(128, 'physical assets: [Mountain Valley Pipeline (MVP)]\nlocations: [New York State]\nownerships: [CECONY, O&R, Con Edison Gas Pipeline and Storage LLC (CET Gas),  joint venture partner] \ncommodities: [electricity, natural gas]\nstatus: [Operational, under construction]\n\nrelationships: [asset: Mountain Valley Pipeline (MVP), location: New York State, ownership: CECONY, O&R, Con Edison Gas Pipeline and Storage LLC (CET Gas), joint venture partner, commodity: Natural Gas, status: Operational], [asset: Renewable electric project, location: Not specified, ownership: Clean Energy Businesses subsidiary, commodity: Electricity, status:  Operational] , [asset: Stagecoach Gas Services LLC, location: Not specified, ownership: CET Gas and its joint venture partner, commodity: Natural gas, status: Under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 130:
+(129, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 131:
+(130, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 132:
+(131, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 133:
+(132, 'physical assets: []\nlocations: []\nownerships:  [Con Edison, institutional investors, CECONY, O&R, Bank of America, N.A.]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 134:
+(133, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 135:
+(134, 'physical assets: []\nlocations: []\nownerships: \ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 136:
+(135, 'physical assets: []\nlocations: [ ]\nownerships: [Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 137:
+(136, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 138:
+(0, 'physical assets:  []\nlocations: [ ]\nownerships: [Consolidated Edison, Inc., Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 139:
+(1, 'physical assets: []\nlocations: []\nownerships:  Con Edison owns CECONY, which is a wholly-owned subsidiary of Con Edison.\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 140:
+(2, 'physical assets: [Consolidated Edison Company of New York, Inc., Orange & Rockland Utilities, Inc., Con Edison Clean Energy Businesses, Inc., Con Edison Transmission, Inc.]\nlocations: [New York City, Westchester County, southeastern NY, northern NJ]\nownerships: [Con Edison] \ncommodities: []\nstatus: []\nrelationships: [asset: Consolidated Edison Company of New York, Inc., location: New York City and Westchester County, ownership: Con Edison, commodity: , status:  ], [asset: Orange & Rockland Utilities, Inc., location: southeastern NY and northern NJ, ownership: Con Edison, commodity: , status:  ], [asset: Con Edison Clean Energy Businesses, Inc., location: , ownership: Con Edison, commodity: renewable energy infrastructure projects, status:  ], [asset: Con Edison Transmission, Inc., location: , ownership: Con Edison, commodity: electric transmission projects, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 141:
+(3, "physical assets:  [energy delivery systems, renewable electric projects, electric transmission]\nlocations: []\nownerships: [Con Edison, RWE Renewables America, LLC]\ncommodities: [electricity, energy]\nstatus: [upgraded and reinforced, under construction, operational]\n\n\nrelationships: [asset: energy delivery systems, location:  '', ownership: Con Edison, commodity: electricity, status: upgraded and reinforced], \n[asset: renewable electric projects, location:  '', ownership: Clean Energy Businesses, commodity: electricity, status: under construction],\n[asset: electric transmission, location:  '', ownership: Con Edison Transmission, commodity: electricity, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 142:
+(4, 'physical assets:  []\nlocations: [ New York, New York State]\nownerships: [CECONY, O&R, Con Edison, NYSPSC, NYSDPS]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 143:
+(5, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 144:
+(6, 'physical assets:  [Clean Energy Businesses]\nlocations: []\nownerships: [Con Edison]\ncommodities: []\nstatus: [held for sale]\n\nrelationships: [asset: Clean Energy Businesses, location:  , ownership: Con Edison, commodity:  , status: held for sale]')
+----------------------------------------------------------------------------------------------------
+Chunk 145:
+(7, 'physical assets: [Electric transmission projects, Electric and gas assets, Renewable energy infrastructure projects, Steam distribution system, Gas delivery systems, Electric service delivery systems]\nlocations: [New York City, Westchester County, Southeastern NY, Northern NJ, Upstate NY]\nownerships: [Con Edison, CECONY, O&R, RWE Renewables America, LLC, New York Transco LLC, Honeoye Storage Corporation]\ncommodities: [Electric energy, Gas, Steam, Renewable energy]\nstatus: [Operational, Under Construction, Held for Sale]')
+----------------------------------------------------------------------------------------------------
+Chunk 146:
+(8, "physical assets: [Mountain Valley Pipeline LLC]\nlocations: [WV, VA] \nownerships: [CET,  joint venture]\ncommodities: [gas transmission project] \nstatus: []\n\n\nrelationships: [asset: 'Mountain Valley Pipeline LLC', location: 'WV and VA', ownership: 'CET and a joint venture', commodity: 'gas transmission', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 147:
+(9, 'physical assets: [facilities, equipment]\nlocations: [NY]\nownerships: [utility companies, NYSPSC] \ncommodities: [electric service, gas service, steam service]\nstatus: []\n\nrelationships: [asset: facilities, location: NY, ownership: utility companies, commodity: electric service, status: operational], [asset: equipment, location: NY, ownership: utility companies, commodity: gas service, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 148:
+(10, 'physical assets: [electric transmission facilities, emergency response plan]\nlocations:  [NY State, NY City, Lower Hudson Valley, NJ ]\nownerships: [Utilities, CECONY, O&R, CON EDISON ANNUAL REPORT, Clean Energy Businesses, Con Edison Transmission, NYISO, PJM Interconnection LLC, NYSRC, RECO, NJBPU]\ncommodities: [electricity]\nstatus: [operational, under construction, in end-of-life] \n\nrelationships: [asset: electric transmission facilities, location: NY State, ownership: Utilities, commodity: electricity, status: operational], [asset: emergency response plan, location:  NY State, ownership: CECONY, O&R, commodity: electricity, status: operational], [asset:  electric transmission facilities, location: Lower Hudson Valley, ownership: Clean Energy Businesses, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 149:
+(11, 'physical assets: [distribution facilities, transmission facilities, steam-electric generation facilities]\nlocations: [New York City, Westchester County]\nownerships: [CECONY]\ncommodities: [electricity, gas, steam]\nstatus: []\nrelationships: [asset: distribution facilities, location: New York City, Westchester County, ownership: CECONY, commodity: electricity, gas, steam, status: operational],  [asset: transmission facilities, location: New York City, Westchester County, ownership: CECONY, commodity: electricity, status: operational], [asset: steam-electric generation facilities, location: New York City, Westchester County, ownership: CECONY, commodity: steam, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 150:
+(12, 'physical assets: [underground distribution lines, overhead circuits, transmission substations, area stations, electric generating facilities]\nlocations: [New York City and Westchester, Orange, Rockland, Putnam and Dutchess counties in New York State]\nownerships: [CON EDISON ANNUAL REPORT, jointly owned] \ncommodities: [electricity delivery]\nstatus: [operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 151:
+(13, 'physical assets: [generating stations, transmission facilities, distribution facilities, mains, service lines, liquefaction facility, storage tank]\nlocations: [New York City, Astoria property in Queens, NY, upstate NY]\nownerships: [CECONY, Honeoye Storage Corporation (60% CET, 40% CECONY)]\ncommodities: [electric energy, natural gas]\nstatus: [operational, under construction, retired]\nrelationships: [generating stations: New York City, ownership: CECONY, commodity: electric energy, status: operational],\n[transmission facilities: New York City, ownership: CECONY, commodity: electric energy, status: operational], \n[distribution facilities: New York City, ownership: CECONY, commodity: natural gas, status: operational], \n[mains: New York City, ownership: CECONY, commodity: natural gas, status: operational], \n[service lines: New York City, ownership: CECONY, commodity: natural gas, status: operational], \n[liquefaction facility: Astoria property in Queens, NY, ownership: CECONY, commodity: natural gas, status: operational], \n[storage tank: Astoria property in Queens, NY, ownership: CECONY, commodity: natural gas, status: operational],  \n[natural gas storage capacity: upstate NY, ownership: Honeoye Storage Corporation (60% CET, 40% CECONY), commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 152:
+(14, 'physical assets: [Gas pipelines, Compressor stations]\nlocations: [Westchester County, Pennsylvania, NJ, New York City]\nownerships: [CECONY, Tennessee Gas Pipeline] \ncommodities: [Natural gas]\nstatus: [Operational, Under construction]\n\nrelationships: [asset: Gas pipelines, location: Westchester County, ownership: CECONY, commodity: Natural gas, status: Operational], [asset: Compressor stations, location: Pennsylvania, NJ, ownership: Tennessee Gas Pipeline, commodity: Natural gas, status: Under construction], [asset: Compressor stations, location: Pennsylvania, NJ, ownership: Tennessee Gas Pipeline, commodity: Natural gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 153:
+(15, "physical assets: [steam-electric generating stations, steam-only generating stations, transmission piping, distribution substations, transmission substations, in-service line transformers, overhead distribution lines, underground distribution lines]\nlocations: []\nownerships: [CECONY, O&R, RECO, Brooklyn Navy Yard Cogeneration Partners L.P.]\ncommodities: [steam, electricity]\nstatus: [operational]\n\nrelationships: [steam-electric generating stations: '', location: '', ownership: CECONY, commodity: steam and electricity, status: operational], [steam-only generating stations: '', location: '', ownership: CECONY, commodity: steam, status: operational], [transmission piping: '', location: CECONY's service area, ownership: CECONY, commodity: steam, status: operational], [distribution substations: '', location: O&R's service area, ownership: O&R and RECO, commodity: electricity, status: operational], [transmission substations: '', location: O&R's and RECO's service areas, ownership: O&R and RECO, commodity: electricity, status: operational], [in-service line transformers: '', location: O&R's and RECO's service areas, ownership: O&R and RECO, commodity: electricity, status: operational], [overhead distribution lines: '', location: O&R's and RECO's service areas, ownership: O&R and RECO, commodity: electricity, status: operational], [underground distribution lines: '', location: O&R's and RECO's service areas, ownership: O&R and RECO, commodity: electricity, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 154:
+(16, 'physical assets: [electric distribution facilities, gas mains, gas service lines]\nlocations: [ O&R’s service area ]\nownerships: [ O&R ]\ncommodities: [electricity, natural gas]\nstatus: [operational] \n\nrelationships: [asset: electric distribution facilities, location: O&R’s service area, ownership: O&R, commodity: electricity, status: operational], [asset: gas mains, location: O&R’s service area, ownership: O&R, commodity: natural gas, status: operational], [asset: gas service lines, location: O&R’s service area, ownership: O&R, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 155:
+(17, "physical assets: [Gas system infrastructure]\nlocations: [O&R's service area, PJM assets, New England assets, California Solar, Texas Solar, Upton Solar, Water Strider Solar, Battle Mountain Solar/Battery Energy Storage System, Broken Bow II NE, Adams Rose Wind MN, Dairyland Other SD/MT NWE/Basin Electric]\nownerships: [O&R, CECONY, RWE Renewables America, LLC, Con Edison]\ncommodities: [Gas]\nstatus: [Operational, in construction]\n\n\nrelationships: [asset: Gas system infrastructure, location: O&R's service area, ownership: O&R and CECONY, commodity: Gas, status: Operational], [asset: PJM assets, location: PJM assets, ownership: Con Edison, commodity: Electricity, status: In operation], [asset: New England assets, location: New England assets, ownership: Con Edison, commodity: Electricity, status: In operation], [asset: California Solar, location: California, ownership: Con Edison, commodity: Electricity, status: In operation], [asset: Texas Solar, location: Texas, ownership: Con Edison, commodity: Electricity, status: In operation], [asset: Upton Solar, location: Upton, TX, ownership: Con Edison, commodity: Electricity, status: In operation], [asset: Water Strider Solar, location: VA, ownership: Con Edison, commodity: Electricity, status: In operation], [asset: Battle Mountain Solar/Battery Energy Storage System, location: NV, ownership: Con Edison, commodity: Electricity, status: In operation], [asset: Broken Bow II NE, location: NE, ownership: Con Edison, commodity: Wind power, status: In operation], [asset: Adams Rose Wind MN, location: MN, ownership: Con Edison, commodity: Wind power, status: In operation], [asset: Dairyland Other SD/MT NWE/Basin Electric, location: SD/MT, ownership: Con Edison, commodity: Wind power, status: In operation]")
+----------------------------------------------------------------------------------------------------
+Chunk 156:
+(18, 'locations: [ northeastern United States, upstate NY]\nownerships: [Clean Energy Businesses, Sempra Solar Holdings, LLC, affiliates of certain other New York transmission owners, CON EDISON ANNUAL REPORT, National Grid, Honeoye Storage Corporation (Honeoye)] \ncommodities: [electricity, gas]\nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 157:
+(19, "physical assets: [Honeoye Storage Corporation, Mountain Valley Pipeline]\nlocations: [WV, VA, northern PA, southern NY]\nownerships: [CET', CECONY']\ncommodities: [gas transmission]\nstatus: [under construction, proposed] \n\nrelationships: [asset: Honeoye Storage Corporation, location:  , ownership: CET', CECONY', commodity: , status: ] , [asset: Mountain Valley Pipeline, location: WV, VA, ownership: CET', four other partners, commodity: gas transmission, status: under construction]]")
+----------------------------------------------------------------------------------------------------
+Chunk 158:
+(20, "physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  [ ] \n\n\nLet's analyze the provided text step-by-step to understand why it doesn't contain information about physical assets, locations, ownerships, commodities, or status.\n\n\n5. **No Asset Status Information:** The text lacks details about the operational status (operational, under construction, end-of-life) of any physical assets.\n\n\n\nSince the text focuses solely on financial aspects and lacks descriptions of tangible assets, locations, ownerships, commodities, or asset statuses, we cannot extract the requested information.")
+----------------------------------------------------------------------------------------------------
+Chunk 159:
+(21, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 160:
+(22, "physical assets: [Credit agreement, project debt]\nlocations: []\nownerships: [Companies, administrative agent, lenders, project lenders, swap counterparties]\ncommodities: [Funding requirements, energy production]\nstatus:  [ ]\n\nrelationships: [asset: 'Credit agreement', location: '', ownership: 'Companies and the administrative agent', commodity: 'Funding requirements', status: ''], \n[asset: 'project debt', location: '', ownership: 'Clean Energy Businesses', commodity: 'Energy production', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 161:
+(23, 'physical assets: [Offshore wind renewable energy projects, transmission lines, Brooklyn Clean Energy Hub]\nlocations: [New York State, Brooklyn, New York City]\nownerships: [NYSERDA, Equinor Wind US LLC, Sunrise Wind LLC, CECONY, O&R, LIPA]\ncommodities: [Renewable energy]\nstatus: [Under construction, operational]\n\nrelationships: [asset: Offshore wind renewable energy projects, location: New York State, ownership: NYSERDA, Equinor Wind US LLC, Sunrise Wind LLC, commodity: Renewable energy, status: Under construction], [asset: transmission lines, location: New York State, ownership: CECONY, O&R, LIPA, commodity: Renewable energy, status: Operational], [asset: Brooklyn Clean Energy Hub, location: Brooklyn, ownership: CECONY, commodity: Renewable energy, status: Under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 162:
+(24, 'physical assets: [electric and gas energy efficiency programs, heat pump programs, electric vehicle infrastructure]\nlocations: [ ]\nownerships: [CECONY, O&R, NYSPSC]\ncommodities: [electric energy, gas energy, electric vehicles, energy storage]\nstatus: [operational, under construction] \n\nrelationships: [asset: electric and gas energy efficiency programs, location: , ownership: CECONY, O&R, commodity: electric energy, gas energy, status: operational], [asset: heat pump programs, location: , ownership: CECONY, O&R, commodity: electric energy, gas energy, status: operational], [asset: electric vehicle infrastructure, location: , ownership: CECONY, O&R, commodity: electric vehicles, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 163:
+(25, 'physical assets: [advanced metering infrastructure (AMI), facilities, electric distribution systems, infrastructure]\nlocations: [NY, NY State]\nownerships: [CECONY, O&R, Con Edison]\ncommodities: [electric and gas delivery]')
+----------------------------------------------------------------------------------------------------
+Chunk 164:
+(26, 'physical assets: [equipment, repair projects, steam production facilities, gas distribution pipes, substation circuit breakers and switches, electric generation assets, renewable electric production facilities, upstate nuclear power plants]\nlocations: []\nownerships: [CECONY, Companies, NYSPSC, NYSERDA, developers of large renewable electric production facilities, owners of upstate nuclear power plants]\ncommodities: [electricity generation, natural gas distribution, sulfur hexafluoride arc suppression]\nstatus: [operational, under construction, in end-of-life]\n\n\nrelationships: [asset: equipment, location: , ownership: CECONY, commodity: electricity generation, status: operational], [asset: repair projects, location: , ownership: CECONY, commodity:  electricity generation, status: operational], [asset: steam production facilities, location: , ownership: CECONY, commodity: steam, status: operational], [asset: gas distribution pipes, location: , ownership: CECONY, commodity: natural gas, status: operational], [asset: substation circuit breakers and switches, location: , ownership: CECONY, commodity: electricity transmission, status: operational], [asset: electric generation assets, location: , ownership: CECONY, commodity: electricity generation, status: operational], [asset: renewable electric production facilities, location: , ownership: developers of large renewable electric production facilities, NYSERDA, commodity: electricity generation, status: operational], [asset: upstate nuclear power plants, location: , ownership: owners of upstate nuclear power plants, NYSERDA, commodity: electricity generation, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 165:
+(27, 'physical assets: [Manufactured gas plants,  Astoria site, Gowanus Canal]\nlocations: [New York City, Westchester County, Astoria section of Queens, NY, Brooklyn, NY]\nownerships: [Con Edison, its predecessors, property owners ] \ncommodities: []\nstatus: [under construction, operational, in end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 166:
+(28, 'physical assets: [ facilities, bulkhead ] \nlocations: [ Gowanus Canal, upper reaches of the canal, middle part of the canal , Newtown Creek ]\nownerships: [ CECONY, PRPs  ]\ncommodities: [ dredging and disposal of contaminated sediments, stabilization and capping of contamination, bulkhead structural support work, access dredging, remedial action work, natural resource damage assessment ] \nstatus: [ under construction, operational ]')
+----------------------------------------------------------------------------------------------------
+Chunk 167:
+(29, 'physical assets: [Manufactured gas plants]\ncommodities: []\nstatus: [under construction, completed, ongoing]')
+----------------------------------------------------------------------------------------------------
+Chunk 168:
+(30, 'physical assets: [equipment containing PCBs]\nownerships: [CECONY, O&R, other PRPs]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: equipment containing PCBs, location:  various locations, ownership: CECONY and O&R, commodity:  electrical power distribution and generation, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 169:
+(31, 'physical assets:  []\nlocations:  []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 170:
+(32, 'physical assets: [energy facilities]\nlocations: [densely populated public places]\nownerships: [The Utilities]\ncommodities: [electricity, gas and steam service]\nstatus: [operational, under construction, damage, end-of-life] \n\nrelationships: [asset: energy facilities, location: densely populated public places, ownership: The Utilities, commodity: electricity, gas and steam service, status: operational, under construction, damage, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 171:
+(33, "physical assets: [information systems, network infrastructure, customer billing and information system, application maintenance and support, infrastructure and operations services]\nlocations: []\nownerships: [The Companies, Utilities, CECONY, Con Edison, its subsidiaries, contractors]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: 'information systems', location: '', ownership: 'The Companies', commodity: '', status: 'operational'], \n[asset: 'network infrastructure', location: '', ownership: 'The Companies', commodity: '', status: 'operational'],\n[asset: 'customer billing and information system', location: '', ownership: 'Utilities', commodity: '', status: 'under construction'],\n[asset: 'application maintenance and support', location: '', ownership: 'contractors', commodity: '', status: 'operational'], \n[asset: 'infrastructure and operations services', location: '', ownership: 'contractors', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 172:
+(34, 'physical assets: [Facilities, Equipment, Infrastructure]\nlocations: []\nownerships: [Con Edison, Utilities]\ncommodities: [Electricity, Gas]\nstatus: [] \n\nrelationships: [asset: Facilities, location:  , ownership: Con Edison, commodity: Electricity, status:  ], [asset: Equipment, location:  , ownership: Utilities, commodity: Gas, status:  ], [asset: Infrastructure, location:  , ownership:  Con Edison, commodity: Electricity and Gas, status:  ]')
+----------------------------------------------------------------------------------------------------
+Chunk 173:
+(35, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [ Westchester County, New York City, service territory]\nownerships: [CON EDISON, CECONY, O&R, Clean Energy Businesses, Con Edison Transmission]\ncommodities: [electricity, gas, steam]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: facilities, location: Westchester County, ownership: CECONY, commodity: gas, status: operational], [asset: equipment, location: New York City, ownership: CON EDISON, commodity: electricity, status: operational], [asset: infrastructure, location: service territory, ownership: O&R, commodity: gas, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 174:
+(36, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 175:
+(37, 'physical assets: [Utilities, Clean Energy Businesses, Transmission projects]\nownerships: [Con Edison, CECONY, RWE Renewables Americas, LLC, subsidiaries of Con Edison and CECONY]\ncommodities: []\nstatus: [held for sale, operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 176:
+(38, 'physical assets:  [Clean Energy Businesses]\nlocations: [ ]\nownerships: [Con Edison, RWE]\ncommodities: [Renewable energy]\nstatus: [Being sold]\n\nrelationships: [asset: Clean Energy Businesses, location:  [ ], ownership: Con Edison, commodity: Renewable energy, status: Being sold]')
+----------------------------------------------------------------------------------------------------
+Chunk 177:
+(39, "physical assets: [facilities]\nlocations: []\nownerships: [Con Edison]\ncommodities: []\nstatus: []\n\nrelationships: [asset: 'facilities', location: '', ownership: 'Con Edison', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 178:
+(40, 'physical assets: []\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 179:
+(41, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 180:
+(42, "physical assets: []\nlocations: []\nownerships: []\ncommodities:  ['electricity', 'gas']\nstatus: [] \n\n\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 181:
+(43, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY, O&R]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 182:
+(44, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 183:
+(45, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 184:
+(46, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Con Edison]\ncommodities: []\nstatus: [ ]\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 185:
+(47, "physical assets:  [Mountain Valley Pipeline] \nlocations: []\nownerships: [Con Edison Transmission]\ncommodities: []\nstatus: [impaired]\n\nrelationships: [asset: 'Mountain Valley Pipeline', location: '', ownership: 'Con Edison Transmission', commodity: '', status: 'impaired']")
+----------------------------------------------------------------------------------------------------
+Chunk 186:
+(48, "physical assets: [gas utility plant, steam utility plant, generation plants]\nlocations: []\nownerships: [CON EDISON]\ncommodities: [gas, fuel, power]\nstatus: [operational]\n\nrelationships: [asset: 'gas utility plant', location: '', ownership: 'CON EDISON', commodity: 'gas', status: 'operational'], [asset: 'steam utility plant', location: '', ownership: 'CON EDISON', commodity: 'steam', status: 'operational'], [asset: 'generation plants', location: '', ownership: 'CON EDISON', commodity: 'power', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 187:
+(49, "physical assets: [electric utility plant]\nlocations: []\nownerships: [CON EDISON]\ncommodities: [electricity]\nstatus: [operational]\n\nrelationships: [asset: 'electric utility plant', location: '', ownership: 'CON EDISON', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 188:
+(50, "physical assets: [ Gas utility plant ]\nlocations: [ ]\nownerships: [ CON EDISON ]\ncommodities: [ Gas ]\nstatus: [ operational ]\n\nrelationships: [asset: 'Gas utility plant', location: '', ownership: 'CON EDISON', commodity: 'Gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 189:
+(51, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 190:
+(52, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 191:
+(53, 'physical assets: [gas utility plant, steam generating facilities, steam utility plant]\nlocations: [ ]\nownerships: [CON EDISON ANNUAL REPORT] \ncommodities: [gas, steam]\nstatus: [operational]\nrelationships: [asset: gas utility plant, location:  , ownership: CON EDISON ANNUAL REPORT, commodity: gas, status: operational], [asset: steam generating facilities, location:  , ownership: CON EDISON ANNUAL REPORT, commodity: steam, status: operational], [asset: steam utility plant, location:  , ownership: CON EDISON ANNUAL REPORT, commodity: steam, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 192:
+(54, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 193:
+(55, "physical assets:  [facilities, equipment]\nlocations: [ ]\nownerships: [Con Edison]\ncommodities: [electricity, gas]\nstatus: [operational] \n\nrelationships: [asset: 'facilities', location: '', ownership: 'Con Edison', commodity: 'electricity', status: 'operational'], [asset: 'equipment', location: '', ownership: 'Con Edison', commodity: 'gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 194:
+(56, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 195:
+(57, "physical assets: [Utilities’ service territory]\nlocations: [ Utilities’ service territory]\nownerships: [] \ncommodities: [ energy ]\nstatus: []\nrelationships: [asset: 'Utilities’ service territory', location: 'Utilities’ service territory', ownership: '', commodity: 'energy', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 196:
+(58, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 197:
+(59, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 198:
+(60, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 199:
+(61, "physical assets: [Net plant, Other noncurrent assets]\nlocations: []\nownerships: [Con Edison, Parent company]\ncommodities: []\nstatus: [] \n\n\nrelationships: [asset: 'Net plant', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'Other noncurrent assets', location: '', ownership: 'Con Edison', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 200:
+(62, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 201:
+(63, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 202:
+(64, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 203:
+(65, "physical assets:  [Stagecoach Gas Services LLC]\nlocations: []\nownerships: [Con Edison, CET, joint venture partner]\ncommodities: []\nstatus: [Operational, Under construction, End-of-life]\n\n\nrelationships: [asset: 'Stagecoach Gas Services LLC', location: '', ownership: 'Con Edison, CET, joint venture partner', commodity: '', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 204:
+(66, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [electricity, gas]\nstatus: [ ] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 205:
+(67, 'physical assets: [alternate fuel tanks]\nlocations: []\nownerships: [CECONY, O&R]\ncommodities: [gas]\nstatus: [operational] \n\n\nrelationships: [asset: alternate fuel tanks, location:  , ownership: CECONY, O&R, commodity: gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 206:
+(68, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 207:
+(69, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 208:
+(70, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 209:
+(71, "physical assets: [Utility plant, Non-utility plant]\nlocations: []\nownerships: [Consolidated Edison, Inc.]\ncommodities: []\nstatus: [ ] \nrelationships: [asset: 'Utility plant', location: '', ownership: 'Consolidated Edison, Inc.', commodity: '', status: ''], [asset: 'Non-utility plant', location: '', ownership: 'Consolidated Edison, Inc.', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 210:
+(72, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 211:
+(73, 'physical assets: [Copper Mountain Solar, CED Southwest, Wind Holdings, Mesquite Solar, Texas Solar, California Solar, Broken Bow II, Upton County Solar, CED Nevada Virginia Other project debt]\nlocations: [ ]\nownerships: [Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus: [operational] \n\n\nrelationships: [asset: Copper Mountain Solar, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: CED Southwest, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: Wind Holdings, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: Mesquite Solar, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: Texas Solar, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: California Solar, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: Broken Bow II, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: Upton County Solar, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational], [asset: CED Nevada Virginia Other project debt, location: , ownership: Consolidated Edison Company of New York, Inc., commodity: , status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 212:
+(74, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 213:
+(75, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 214:
+(76, "physical assets: [Utility plant at original cost, Construction work in progress, Non-utility property]\nlocations: []\nownerships: [Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus: [ ]\nrelationships: [asset: 'Utility plant at original cost', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'Construction work in progress', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'Non-utility property', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: '']]")
+----------------------------------------------------------------------------------------------------
+Chunk 215:
+(77, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 216:
+(78, 'physical assets: [electric transmission projects, gas pipeline and storage facilities, renewable and sustainable energy infrastructure projects]\nownerships: [Consolidated Edison, RWE Renewables America, LLC, Consolidated Edison Transmission, LLC (CET), Con Edison Gas Pipeline and Storage, LLC (CET)]\ncommodities: [electric service, gas service, steam service, renewable energy, sustainable energy]\nstatus: [operational, under construction, held for sale] \n\nrelationships: [asset: electric transmission projects, location: southeastern New York, northern New Jersey, ownership: Consolidated Edison Transmission, LLC (CET), commodity: electric service, status: operational], [asset: gas pipeline and storage facilities, location: southeastern New York, ownership: Con Edison Gas Pipeline and Storage, LLC (CET), commodity: natural gas, status: operational], [asset: renewable and sustainable energy infrastructure projects, location: not specified, ownership: RWE Renewables America, LLC, commodity: renewable energy, sustainable energy, status: held for sale]')
+----------------------------------------------------------------------------------------------------
+Chunk 217:
+(79, "physical assets: [Utility plant, Non-utility plant]\nlocations: []\nownerships: [Con Edison, CECONY, O&R]\ncommodities: []\nstatus: [Operational, Under construction, End-of-life]\n\n\nrelationships: [asset: 'Utility plant', location: '', ownership: 'Con Edison', commodity: '', status: 'Operational'], [asset: 'Non-utility plant', location: '', ownership: 'Con Edison', commodity: '', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 218:
+(80, "physical assets:  [cloud computing arrangements] \nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [operational]\n\n\nrelationships: [asset: 'cloud computing arrangements', location: '', ownership: 'Con Edison, CECONY', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 219:
+(81, "physical assets: [Stagecoach Gas Services LLC (Stagecoach), Mountain Valley Pipeline, LLC (MVP)]\nlocations: [WV, VA]\nownerships: [Con Edison, CET, joint venture partner]\ncommodities: [gas transmission]\nstatus: [under construction]\n\nrelationships: [asset: Stagecoach Gas Services LLC (Stagecoach), location: '', ownership: Con Edison, commodity: gas transmission, status: under construction], [asset: Mountain Valley Pipeline, LLC (MVP), location: WV and VA, ownership: Con Edison, CET, joint venture partner, commodity: gas transmission, status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 220:
+(82, 'physical assets: [water crossings]\nlocations: [Jefferson National Forest, Project length] \nownerships: [Con Edison, U.S. Army Corps of Engineers, U.S. Forest Service, Bureau of Land Management, U.S. Fish and Wildlife Service, VA Department of Environmental Quality, WV Department of Environmental Protection]\ncommodities: []\nstatus: [under construction]\n\nrelationships: [asset: water crossings, location: Jefferson National Forest, ownership: Con Edison, commodity: , status: under construction], [asset: water crossings, location: Project length, ownership: Con Edison, commodity: , status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 221:
+(83, "physical assets: [Mountain Valley Pipeline]\nlocations: []\nownerships: [Con Edison CECONY, CET]\ncommodities: []\nstatus: [under construction] \n\nrelationships: [asset: Mountain Valley Pipeline, location: '', ownership: Con Edison CECONY, CET, commodity: , status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 222:
+(84, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 223:
+(85, "physical assets:  [ ]\nlocations: [Clean Energy Businesses' renewable electric project subsidiaries]\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [] \n\n\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 224:
+(86, "physical assets:  [Clean Energy Businesses]\nlocations: []\nownerships: [Con Edison]\ncommodities: []\nstatus: [held for sale]\n\n\nrelationships: [asset: 'Clean Energy Businesses', location: '', ownership: 'Con Edison', commodity: '', status: 'held for sale']")
+----------------------------------------------------------------------------------------------------
+Chunk 225:
+(87, 'physical assets:  []\nlocations: [New York]\nownerships: [CECONY, NYSPSC]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 226:
+(88, 'physical assets: [electric grid, facilities]\nlocations: []\nownerships: [Con Edison]\ncommodities: [electricity]\nstatus: [operational] \n\nrelationships: [asset: electric grid, location:  , ownership: Con Edison, commodity: electricity, status: operational].\nrelationships: [asset: facilities, location:  , ownership: Con Edison, commodity: electricity, status: operational] .')
+----------------------------------------------------------------------------------------------------
+Chunk 227:
+(89, 'physical assets: [ Eastern Queens Reliability Project]\nlocations: [Jamaica, Queens]\nownerships: [CECONY]\ncommodities: []\nstatus: [under construction] \nrelationships: [Eastern Queens Reliability Project: Jamaica, Queens, CECONY, , under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 228:
+(90, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 229:
+(91, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 230:
+(92, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 231:
+(93, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 232:
+(94, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 233:
+(95, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  [ ]')
+----------------------------------------------------------------------------------------------------
+Chunk 234:
+(96, 'physical assets: []\nlocations: [ ]\nownerships: [Con Edison, Rockland Electric Company (RECO)]\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 235:
+(97, 'physical assets: [electric system, transmission infrastructure,  ] \nlocations: [ ]\nownerships: [RECO ]\ncommodities: [electricity distribution, electricity transmission]')
+----------------------------------------------------------------------------------------------------
+Chunk 236:
+(98, 'physical assets:  []\nlocations:  [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 237:
+(99, 'physical assets:  []\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 238:
+(100, 'physical assets:  [electric facilities, gas facilities, steam facilities, Rainey substation]\nownerships: [CECONY, O&R]\ncommodities: []\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 239:
+(101, 'locations: []\nownerships: [CECONY, O&R]\ncommodities: []\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 240:
+(102, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 241:
+(103, 'physical assets: []\nlocations: []\nownerships:  Con Edison owns CECONY common stock\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 242:
+(104, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 243:
+(105, 'physical assets:  []\nlocations: []\nownerships:  Con Edison \ncommodities: []\nstatus: []\nrelationships: []  \n\n\nLet\'s break down why:\n\n* **Physical Assets:** The text focuses on financial instruments (debt, loans, equity issuances) and contractual obligations. There\'s no mention of tangible assets like facilities, equipment, or infrastructure.\n\n* **Locations:** The text doesn\'t specify geographical locations associated with any assets.\n\n* **Ownerships:** While "Con Edison" is repeatedly mentioned as a party involved in financial agreements, it primarily refers to their role as borrower, guarantor, or issuer of debt, not direct ownership of physical resources.\n\n\n* **Status:**  There\'s no information on the operational status (e.g., functioning, under repair) of any potential physical assets. \n\n\n\nThe text primarily deals with financial transactions and contractual terms related to debt financing.')
+----------------------------------------------------------------------------------------------------
+Chunk 244:
+(106, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 245:
+(107, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 246:
+(108, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 247:
+(109, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 248:
+(110, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 249:
+(111, 'physical assets: [Superfund Sites, facilities, equipment]\nlocations: [sites at which gas was manufactured or stored]\nownerships: [Utilities, their predecessors,  companies] \ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\n\n[asset: facilities, location:  sites at which gas was manufactured or stored, ownership: Utilities, their predecessors, companies, commodity: gas, status: operational]\n[asset: equipment, location:  facilities, ownership: Utilities, their predecessors, companies, commodity: various, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 250:
+(112, 'physical assets: [manufactured gas plant sites, service lines, distribution main, multi-use buildings]\nownerships: [Con Edison, CECONY, City of New York]\ncommodities: [gas delivery]\nstatus: [in end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 251:
+(113, 'physical assets: [ ]\nlocations: [ New York, NY Transco LLC ]\nownerships: [ Con Edison, CET, National Grid]\ncommodities: [ electricity, natural gas, pipeline capacity, transportation, oil, renewable energy credits, energy services ]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 252:
+(114, 'physical assets: [  ]\nlocations: [ Brooklyn Navy Yard, Astoria Generating Company, Gas Transportation and Storage ]\nownerships: [ Con Edison, CECONY ] \ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 253:
+(115, "physical assets: [real estate, distribution poles]\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [operational]\nrelationships: [asset: 'real estate', location: '', ownership: 'Con Edison', commodity: '', status: 'operational'], \n[asset: 'distribution poles', location: '', ownership: 'Con Edison', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 254:
+(116, 'physical assets: []\nlocations: [ ]\nownerships: [ Con Edison ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 255:
+(117, 'physical assets: []\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 256:
+(118, 'physical assets: [Facilities, Equipment] \nlocations: [New York State, New Jersey]\nownerships: [Con Edison, O&R, Clean Energy Businesses]\ncommodities: [Electricity, Gas, Steam]\nstatus: [Operational]\n\n\nrelationships: [asset: Facilities, location: New York State, ownership: Con Edison, commodity: Electricity, status: Operational], [asset: Equipment, location: New Jersey, ownership: O&R, commodity: Gas, status: Operational], [asset: Infrastructure, location: New York State, ownership: Clean Energy Businesses, commodity: Steam, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 257:
+(119, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 258:
+(120, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [ ]\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 259:
+(121, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 260:
+(122, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 261:
+(123, "physical assets:  [Facilities, equipment, infrastructure]\nlocations: [ ]\nownerships: [Con Edison, CECONY, O&R, Clean Energy Businesses]\ncommodities: [Electricity, natural gas, steam, refined fuels]\nstatus: [ ]\nrelationships: \n[asset: 'Facilities', location: '', ownership: 'Con Edison', commodity: 'Electricity', status: ''],\n[asset: 'Equipment', location: '', ownership: 'CECONY', commodity: 'Natural Gas', status: ''],\n[asset: 'Infrastructure', location: '', ownership: 'O&R', commodity: 'Steam', status: ''],")
+----------------------------------------------------------------------------------------------------
+Chunk 262:
+(124, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 263:
+(125, 'physical assets: []\nlocations: []\nownerships: []\nstatus: []\n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 264:
+(126, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 265:
+(127, "physical assets: []\nlocations: []\nownerships: []\ncommodities:  ['Electricity', 'Transmission Congestion Contracts/Financial Transmission Rights']\nstatus: []\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 266:
+(128, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [Electricity, Natural Gas]\nstatus: [ ]\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 267:
+(129, "physical assets: [Great Valley Solar, Copper Mountain - Mesquite Solar, CED Nevada Virginia]\nlocations: []\nownerships: [Con Edison, noncontrolling tax equity investor]\ncommodities: [electricity]\nstatus: [operational] \n\nrelationships: [asset: Great Valley Solar, location:  '', ownership: Con Edison, commodity: electricity, status: operational], [asset: Copper Mountain - Mesquite Solar, location:  '', ownership: Con Edison, commodity: electricity, status: operational], [asset: CED Nevada Virginia, location:  '', ownership: Con Edison, commodity: electricity, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 268:
+(130, 'physical assets: [Copper Mountain Solar , Battle Mountain Solar, Water Strider Solar]\nlocations: [Nevada, Virginia ]\nownerships: [Con Edison] \ncommodities: [electricity generation]\nstatus: [held for sale]\n\n\nrelationships: [asset: Copper Mountain Solar, location: Nevada, ownership: Con Edison, commodity: electricity generation, status: held for sale],\n[asset: Battle Mountain Solar, location: Nevada, ownership: Con Edison, commodity: electricity generation, status: held for sale], \n[asset: Water Strider Solar, location: Virginia, ownership: Con Edison, commodity: electricity generation, status: held for sale]')
+----------------------------------------------------------------------------------------------------
+Chunk 269:
+(131, 'physical assets: [ ]\nlocations: [  ]\nownerships: [Con Edison, CECONY, NYSPSC, O&R, Crestwood Equity Partners LP, Mountain Valley Pipeline, LLC (MVP), Stagecoach Gas Services LLC (Stagecoach), Tennessee Gas Pipeline Company LLC, NY Transco] \ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 270:
+(132, 'physical assets: [renewable electric project]\nlocations: []\nownerships: [CECONY, O&R, Clean Energy Businesses, subsidiary of the Clean Energy Businesses, Con Edison Gas Pipeline and Storage, LLC (CET), joint venture partner]\ncommodities: [electric power] \nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: renewable electric project, location: , ownership: subsidiary of the Clean Energy Businesses, commodity: electric power, status: operational], [asset: renewable electric project, location: , ownership: acquired by subsidiary of the Clean Energy Businesses, commodity: electric power, status: end-of-life], [asset: Stagecoach Gas Services LLC (Stagecoach), location: , ownership: CET and joint venture partner, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 271:
+(133, 'physical assets:  [ ]\nlocations: [ ]\ncommodities: []\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 272:
+(134, "physical assets: [Non-utility property, Construction work in progress]\nlocations: []\nownerships: [Con Edison]\ncommodities: []\nstatus: [Net, operational] \nrelationships: [asset: 'Non-utility property', location: '', ownership: 'Con Edison', commodity: '', status: 'operational'], [asset: 'Construction work in progress', location: '', ownership: 'Con Edison', commodity: '', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 273:
+(135, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 274:
+(136, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 275:
+(137, 'physical assets: []\nlocations: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 276:
+(138, 'physical assets: []\nlocations: []\nownerships:  ["Consolidated Edison, Inc."]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 277:
+(139, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 278:
+(140, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 279:
+(141, 'physical assets: []\nlocations: []\nownerships: \ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 280:
+(142, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 281:
+(0, 'physical assets: []\nlocations: [New York]\nownerships: [Consolidated Edison, Inc., Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 282:
+(1, 'physical assets: []\nlocations: []\nownerships: [Con Edison owns CECONY]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 283:
+(2, 'physical assets: [Electric service lines, Gas service lines, Steam service lines, Electric transmission projects]\nownerships: [Con Edison Company of New York, Inc. (CECONY), Orange & Rockland Utilities, Inc., Con Edison Transmission, Inc.]\ncommodities: [Electricity, Gas, Steam]\nstatus: [Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 284:
+(3, "physical assets: [energy delivery systems, electric transmission, New York Energy Solution (NYES) project, Dover Station]\nlocations: []\nownerships: [Con Edison, Con Edison Transmission, New York Transco, New York Power Authority]\ncommodities: [electricity, gas, steam]\nstatus: [operational, under construction, completed]\nrelationships: [asset: energy delivery systems, location: '', ownership: Con Edison, commodity: electricity, status: operational], [asset: electric transmission, location: '', ownership: Con Edison Transmission, commodity: electricity, status: operational], [asset: New York Energy Solution (NYES) project, location: between upstate and downstate, ownership: Con Edison Transmission, commodity: electricity, status: completed], [asset: Dover Station, location: '', ownership:  Con Edison Transmission, commodity: electricity, status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 285:
+(4, "physical assets: [two new substations]\nlocations: [Jamaica, Queens]\nownerships: [CECONY]\ncommodities: []\nstatus: [under construction]\n\nrelationships: [asset: 'two new substations', location: 'Jamaica, Queens', ownership: 'CECONY', commodity: '', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 286:
+(5, "physical assets: [Clean Energy Businesses]\nlocations: []\nownerships: [Con Edison]\ncommodities: []\nstatus: [Sold]\nrelationships: [asset: Clean Energy Businesses, location: '', ownership: Con Edison, commodity: '', status: Sold]")
+----------------------------------------------------------------------------------------------------
+Chunk 287:
+(6, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ Consolidated Edison, Inc., Consolidated Edison Company of New York, Inc. (CECONY), Orange and Rockland Utilities, Inc. (O&R) , Con Edison Transmission, Inc.]\ncommodities: []\nstatus: []\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 288:
+(7, 'physical assets: [Electric transmission projects, Gas storage facility, Gas transmission project]\nlocations: [New York, New Jersey, West Virginia, Virginia]\nownerships: [Con Edison Transmission, CECONY, affiliates of the four investor-owned electric utilities in New York]\ncommodities: [Electricity, Natural gas]\nstatus: [Operational, Proposed, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 289:
+(8, 'physical assets: [electric generating facilities, electric transmission facilities]\nlocations: []\nownerships: [Con Edison, National Grid plc, Avangrid, Inc., National Fuel Gas Company, CH Energy Group, Inc., New York Power Authority, Long Island Power Authority]\ncommodities: [electricity, gas]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: electric generating facilities, location:  N/A, ownership: Con Edison, National Grid plc, Avangrid, Inc., National Fuel Gas Company, CH Energy Group, Inc., , commodity: electricity, status: operational, under construction, end-of-life], [asset: electric transmission facilities, location: N/A, ownership: N/A, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 290:
+(9, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 291:
+(10, 'physical assets: [electric transmission facilities, gas planning infrastructure]\nlocations: [New York State, Lower Hudson Valley, New York City]\nownerships: [Utilities, Con Edison Transmission, NYISO]\ncommodities: [electricity, natural gas]\nstatus: []\n\n\nrelationships: [asset: electric transmission facilities, location: New York State, ownership: Utilities, commodity: electricity, status:  ], [asset: gas planning infrastructure, location: New York State, ownership: Utilities, commodity: natural gas, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 292:
+(11, 'physical assets: [Distribution substations, distribution facilities, transmission facilities, overhead circuits, underground circuits, steam-electric generation facilities, electric generating facilities]\nlocations: [New York City, Westchester County, New York State (specific counties listed)]\nownerships: [CECONY, National Grid, Central Hudson Gas & Electric Corporation, O&R, New York State Electric & Gas, Eversource Energy, Long Island Power Authority, NYPA, New York Transco and Public Service Electric and Gas Company]\ncommodities: [Electricity, steam]\nstatus: [Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 293:
+(12, "physical assets: [generating stations]\nlocations: [New York City]\nownerships: [CECONY]\ncommodities: [electricity]\nstatus: [operational]\n\nrelationships: [asset: 'generating stations', location: 'New York City', ownership: 'CECONY', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 294:
+(13, 'physical assets: [Generating units, peaker plants, transmission projects (Reliable Clean City), Brooklyn Clean Energy Hub, substations (Reliable Clean City - Idlewild Project), Brownsville substation, Glendale substation, transmission feeder between Vernon and Newtown, Gateway Park area substation, natural gas mains, natural gas service lines, liquefaction facility, storage tank at Astoria property, natural gas storage capacity in upstate New York]\nlocations: [CECONY’s service territory, CECONY’s New York City territory, Brooklyn, Queens (Jamaica), Brownsville substation location, Glendale substation location, Vernon, Newtown, Gateway Park area, Astoria property in Queens, upstate New York]\nownerships: [CECONY, NYISO, Honeoye Storage Corporation (30% owned by Con Edison Transmission and 70% owned by CECONY)]\ncommodities: [electricity, natural gas]\nstatus: [operational, retired, limited operation, under construction, in end-of-life]\nrelationships: [asset: Generating units, location: CECONY’s service territory, ownership: CECONY, commodity: electricity, status: operational, retired, or limited operation], [asset: peaker plants, location: CECONY’s service territory, ownership: CECONY, commodity: electricity, status: unavailable], [asset: transmission projects (Reliable Clean City), location: New York City, ownership: CECONY, commodity: electricity, status: under construction, completed], [asset: Brooklyn Clean Energy Hub, location: Brooklyn, ownership: CECONY, commodity: electricity, status: under construction, completed], [asset: substations (Reliable Clean City - Idlewild Project), location: Jamaica, Queens, ownership: CECONY, commodity: electricity, status: under construction], [asset: Brownsville substation, location: Brownsville, ownership: CECONY, commodity: electricity, status: operational], [asset: Glendale substation, location: Glendale, ownership: CECONY, commodity: electricity, status: operational], [asset: transmission feeder between Vernon and Newtown, location: Vernon and Newtown, ownership: CECONY, commodity: electricity, status: under construction], [asset: Gateway Park area substation, location: Gateway Park area, ownership: CECONY, commodity: electricity, status: under construction], [asset: natural gas mains, location: CECONY’s service territory, ownership: CECONY, commodity: natural gas, status: operational], [asset: natural gas service lines, location: CECONY’s service territory, ownership: CECONY, commodity: natural gas, status: operational], [asset: liquefaction facility, location: Astoria property in Queens, ownership: CECONY, commodity: natural gas, status: operational], [asset: storage tank at Astoria property, location: Astoria property in Queens, ownership: CECONY, commodity: natural gas, status: operational], [asset: natural gas storage capacity in upstate New York, location: upstate New York, ownership: Honeoye Storage Corporation (30% owned by Con Edison Transmission and 70% owned by CECONY), commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 295:
+(14, "physical assets: [facilities (implied - gas distribution systems, pipelines), equipment (implied - meters)]\nlocations: [CECONY's service area, New York City, Westchester County]\nownerships: [CECONY, O&R, NYPA, Tennessee Gas Pipeline]\ncommodities: [natural gas]\nstatus: [operational] \n\nrelationships: [asset: facilities, location: CECONY's service area, ownership: CECONY, commodity: natural gas, status: operational], [asset: pipelines, location: New York City, ownership: CECONY, commodity: natural gas, status: operational], [asset: equipment, location: Westchester County, ownership: O&R, commodity: natural gas, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 296:
+(15, "physical assets: [steam-electric generating stations, steam-only generating stations, transmission piping]\nlocations: [CECONY's service area]\nownerships: [CECONY, Brooklyn Navy Yard Cogeneration Partners L.P., O&R, RECO] \ncommodities: [steam]\nstatus: [operational]\n\nrelationships: [asset: steam-electric generating stations, location: CECONY's service area, ownership: CECONY, commodity: steam, status: operational], [asset: steam-only generating stations, location: CECONY's service area, ownership: CECONY, commodity: steam, status: operational], [asset: transmission piping, location: CECONY's service area, ownership: CECONY, commodity: steam, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 297:
+(16, "physical assets: [utility plant, mains, service lines]\nlocations: []\nownerships: [O&R]\ncommodities: [natural gas, electric energy]\nstatus: [operational]\n\nrelationships: [asset: utility plant, location: O&R's service territory, ownership: O&R, commodity: natural gas, status: operational], [asset: mains, location: O&R's service territory, ownership: O&R, commodity: natural gas, status: operational], [asset: service lines, location: O&R's service territory, ownership: O&R, commodity: natural gas, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 298:
+(17, 'physical assets: [ gas system, transmission lines ]\nlocations: [ O&R’s service area, New York State, upstate and downstate New York, Rock Tavern, Sugarloaf, Dover Station ]\nownerships: [ O&R, CECONY, Con Edison Transmission,  New York Transco, Honeoye Storage Corporation, Mountain Valley Pipeline, LLC]\ncommodities: [ gas, electric power ]\nstatus: [ operational, under construction ] \n\nrelationships: [asset: gas system, location: O&R’s service area, ownership: O&R and CECONY, commodity: gas, status: operational], [asset: transmission lines, location: upstate and downstate New York, ownership: Con Edison Transmission, commodity: electric power, status: operational], [asset: transmission lines, location: Rock Tavern to Sugarloaf, ownership: Con Edison Transmission, commodity: electric power, status: operational] ,  [asset: Dover Station, location: Dover Station, ownership: Con Edison Transmission, commodity: electric power, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 299:
+(18, 'physical assets: [Dover Station, electric transmission project, gas storage facility in upstate New York, Mountain Valley Pipeline, gas pipeline and storage business,  Honeoye]\nlocations: [New York State, Long Island, West Virginia, Virginia, northern Pennsylvania, southern New York, upstate New York]\nownerships: [NYISO, NYSPSC, CECONY, Con Edison Transmission, O&R, FERC, NYSERDA,  local transmission owners,  Con Edison, five partners including Con Edison Transmission]\ncommodities: [electricity, offshore wind electricity, gas] \nstatus: [under construction, in-service date of , operational, proposed -mile electric transmission project]\n\nrelationships: [asset: Dover Station, location: New York State, ownership: NYISO, commodity: electricity, status: under construction],  [asset: electric transmission project, location: Long Island and the rest of New York State, ownership: Propel NY Energy, commodity: offshore wind electricity, status: proposed -mile electric transmission project], [asset: gas storage facility in upstate New York, location: upstate New York, ownership: Honeoye (Con Edison Transmission . percent interest, CECONY remaining interest), commodity: gas, status: operational], [asset: Mountain Valley Pipeline, location: West Virginia and Virginia, ownership: MVP (five partners including Con Edison Transmission), commodity: gas, status: under construction], [asset: gas pipeline and storage business, location: northern Pennsylvania and southern New York, ownership: Stagecoach Gas Services LLC, commodity: gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 300:
+(19, "physical assets: [environmental protection facilities]\nlocations: []\nownerships: [Con Edison, CECONY, O&R, Clean Energy Businesses (until March 1, 2023)]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: 'environmental protection facilities', location: '', ownership: 'Con Edison', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 301:
+(20, 'physical assets:  []\nlocations: []\nownerships:  [Con Edison, Utilities]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 302:
+(21, "physical assets: [transmission system, electric transmission project]\nlocations: [Long Island, rest of New York State]\nownerships: [Con Edison Transmission, New York Transco, NYPA]\ncommodities: [electricity]\nstatus: [operational, under construction]\n\nrelationships: [asset: 'transmission system', location: 'Long Island', ownership: 'Con Edison Transmission', commodity: 'electricity', status: 'operational'],\n[asset: 'electric transmission project', location: 'between Long Island and the rest of New York State', ownership: 'Con Edison Transmission, New York Transco, NYPA', commodity: 'electricity', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 303:
+(22, 'physical assets: [Transmission upgrades, regulated transmission projects, Brooklyn Clean Energy Hub, Propel NY Energy project, gas system]\nlocations: [NY State] \nownerships: [CECONY, O&R, NYSERDA]\ncommodities: [Renewable energy, electricity, offshore wind electricity]\nstatus: [under construction, operational, planned]\n\nrelationships: [asset: Transmission upgrades, location: NY State, ownership: CECONY, commodity: Renewable energy, status: under construction], [asset: regulated transmission projects, location: NY State, ownership: CECONY, commodity: Electricity, status: operational], [asset: Brooklyn Clean Energy Hub, location: NY State, ownership: CECONY, commodity: offshore wind electricity, status: operational], [asset: Propel NY Energy project, location: NY State, ownership: CECONY, commodity: offshore wind electricity, status: planned], [asset: gas system, location: NY State, ownership: CECONY, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 304:
+(23, "locations: ['New York State']\nownerships: ['CECONY and O&R', 'RECO', 'NYSPSC', 'NYSDPS and NYSERDA']\nstatus: ['under construction', 'operational']\n[asset: 'energy storage', location: 'New York State', ownership: 'CECONY and O&R', commodity: 'energy storage', status: 'under construction'], \n[asset: 'thermal energy network pilot projects', location: 'New York State', ownership: 'CECONY and O&R', commodity: 'thermal energy', status: 'under construction'],\n[asset: 'distributed system platform', location: 'New York State', ownership: 'CECONY and O&R', commodity: 'energy distribution', status: 'operational'], \n[asset: 'advanced metering infrastructure (AMI)', location: 'New York State', ownership: 'CECONY and O&R', commodity: 'electricity metering', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 305:
+(24, 'physical assets: [steam plants, electric plants, co-generation plants, equipment, infrastructure, gas distribution pipes]\nlocations: []\nownerships: [Con Edison, CECONY, O&R]\ncommodities: [electricity, steam, heat] \nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: steam plants, location:  NYISO territories, ownership: CECONY, commodity: steam and electricity, status: operational], [asset: electric plants, location: NYISO territories, ownership: CECONY, commodity: electricity, status: operational], [asset: co-generation plants, location: NYISO territories, ownership: CECONY, commodity: steam and electricity, status: operational], [asset: equipment, location: NYISO territories, ownership: CECONY, commodity: various, status: operational], [asset: infrastructure, location: NYISO territories, ownership: CECONY, commodity: various, status: operational], [asset: gas distribution pipes, location: NYISO territories, ownership: Con Edison, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 306:
+(25, 'physical assets: [gas distribution systems, equipment, electric generation assets, gas insulated equipment, manufactured gas plants]\nlocations: [New York City, Westchester County, Astoria site, Gowanus Canal site, Newtown Creek site]\nownerships: [CECONY, NYSDEC, other parties]\ncommodities: [gas distribution, electricity generation, sulfur hexafluoride management, carbon dioxide emissions reduction]\nstatus: [operational, under construction, end-of-life]\n\n\nrelationships: [asset: gas distribution systems, location: New York City and Westchester County, ownership: CECONY, commodity: gas distribution, status: operational], [asset: equipment, location: Not specified, ownership: CECONY, commodity: sulfur hexafluoride management, status: operational], [asset: electric generation assets, location: Not specified, ownership: CECONY, commodity: electricity generation, status: operational], [asset: gas insulated equipment, location: Not specified, ownership: CECONY, commodity: sulfur hexafluoride management, status: operational], [asset: manufactured gas plants, location: New York City and Westchester County, ownership: CECONY and other parties, commodity: manufactured gas, status: under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 307:
+(26, 'locations: ["Astoria section of Queens, New York", "Gowanus Canal in Brooklyn, New York", "Newtown Creek"]\nownerships: ["CECONY"]\nstatus: ["operational", "under construction", "end-of-life"]')
+----------------------------------------------------------------------------------------------------
+Chunk 308:
+(27, 'physical assets: [lead-jacketed electric cables]\nlocations: [Newtown Creek, Narrowsburg, NY, Saddle Brook, NJ, Philadelphia, PA, Old Bridge, NJ, Elizabeth, NJ, Vineland, NJ, Carlstadt, NJ, New Rochelle, New York]\nownerships: [CECONY, other PRPs]\ncommodities: [protection of conducting wires from exposure to the elements, transmission and distribution of electricity] \nstatus: [operational, retired in place, under replacement]\n\nrelationships: [asset: lead-jacketed electric cables, location: Newtown Creek, ownership: CECONY, commodity: protection of conducting wires from exposure to the elements, status: operational], [asset: lead-jacketed electric cables, location: Narrowsburg, NY, ownership: other PRPs, commodity: transmission and distribution of electricity, status: retired in place], [asset: lead-jacketed electric cables, location: Saddle Brook, NJ, ownership: other PRPs, commodity: transmission and distribution of electricity, status: operational], [asset: lead-jacketed electric cables, location: Philadelphia, PA, ownership: other PRPs, commodity: transmission and distribution of electricity, status: under replacement], [asset: lead-jacketed electric cables, location: Old Bridge, NJ, ownership: other PRPs, commodity: transmission and distribution of electricity, status: operational], [asset: lead-jacketed electric cables, location: Elizabeth, NJ, ownership: other PRPs, commodity: transmission and distribution of electricity, status: under replacement], [asset: lead-jacketed electric cables, location: Vineland, NJ, ownership: other PRPs, commodity: transmission and distribution of electricity, status: operational], [asset: lead-jacketed electric cables, location: Carlstadt, NJ, ownership: other PRPs, commodity: transmission and distribution of electricity, status: under replacement], [asset: lead-jacketed electric cables, location: New Rochelle, New York, ownership: CECONY, commodity: transmission and distribution of electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 309:
+(28, 'physical assets: [underwater transmission lines, manufactured gas plants, generating facilities]\nlocations: [Hudson River, New Jersey marina, Orange County and Rockland County, New York, Metal Bank of America Philadelphia, PA, Borne Chemical Elizabeth, NJ, Ellis Road Jacksonville, FL]\nstatus: [repaired, completed remediation, under construction, ongoing remedial design, operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 310:
+(29, 'physical assets: [facilities, equipment, generating facilities, steam-electric generating facilities, peaking units] \nownerships: [CECONY, Con Edison,  New York State]\ncommodities: [electricity, air emissions]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: facilities, location: CECONY’s service area, ownership: CECONY, commodity: electricity, status: operational], [asset: equipment, location: downstate, ownership: CECONY, commodity: air emissions, status: operational], [asset: generating facilities, location: CECONY’s service area, ownership: CECONY, commodity: electricity, status: operational], [asset: steam-electric generating facilities, location:  CECONY’s service area, ownership: CECONY, commodity: electricity, status: operational], [asset: peaking units, location: downstate, ownership: CECONY, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 311:
+(30, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 312:
+(31, 'physical assets: [energy facilities]\nlocations: [densely populated public places] \nownerships: [The Utilities]\ncommodities: [electricity, gas, and steam]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: energy facilities, location: densely populated public places, ownership: The Utilities, commodity: electricity, gas, and steam, status: operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 313:
+(32, "physical assets: [customer billing and information system] \nlocations: []\nownerships: [CECONY, O&R]\ncommodities: []\nstatus: [under construction, operational]\nrelationships: [asset: 'customer billing and information system', location: '', ownership: 'CECONY and O&R', commodity: '', status: 'operational']]")
+----------------------------------------------------------------------------------------------------
+Chunk 314:
+(33, 'physical assets: [ facilities, equipment, infrastructure ]\nlocations: [ northeastern United States ]\nownerships: [ Con Edison, Utilities ]\ncommodities: [ electricity, gas ]\nstatus: []\n\n\nrelationships: [asset: facilities, location: northeastern United States, ownership: Utilities, commodity: electricity, status: operational ],  [asset: equipment, location: northeastern United States, ownership: Utilities, commodity: gas, status: operational ],  [asset: infrastructure, location: northeastern United States, ownership: Utilities, commodity: electricity and gas, status: operational ]')
+----------------------------------------------------------------------------------------------------
+Chunk 315:
+(34, "physical assets:  [electric equipment]\nlocations: [ ]\nownerships: [The Companies]\ncommodities: [electricity, gas and steam service]\nstatus: [operational, under construction] \n\n\nrelationships: [asset: 'electric equipment', location: '', ownership: 'The Companies', commodity: 'electricity', status: 'operational'], [asset: 'electric equipment', location: '', ownership: 'The Companies', commodity: 'gas', status: 'operational'],  [asset: 'electric equipment', location: '', ownership: 'The Companies', commodity: 'steam service', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 316:
+(35, "physical assets:  [utility plant, electric facilities, gas facilities, steam facilities, transmission companies]\nlocations: []\nownerships: [Con Edison, CECONY, O&R, Con Edison Transmission] \ncommodities: [electricity, natural gas, steam]\nstatus: []\n\nrelationships: [asset: 'utility plant', location: '', ownership: 'Con Edison', commodity: 'electricity', status: ''], [asset: 'electric facilities', location: '', ownership: 'CECONY', commodity: 'electricity', status: ''], [asset: 'gas facilities', location: '', ownership: 'CECONY', commodity: 'natural gas', status: ''], [asset: 'steam facilities', location: '', ownership: 'CECONY', commodity: 'steam', status: ''], [asset: 'transmission companies', location: '', ownership: 'Con Edison Transmission', commodity: 'electricity, natural gas', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 317:
+(36, 'physical assets: []\nlocations: [ ]\nownerships: [Con Edison, CECONY, O&R]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 318:
+(37, 'physical assets: [ ]\nownerships: [ Con Edison, CECONY]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 319:
+(38, 'physical assets: []\nlocations: [Long Island, New York City, Westchester County, New York State]\nownerships: [Con Edison Transmission, New York Power Authority]\ncommodities: [Offshore wind energy]\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 320:
+(39, "physical assets: [Clean Energy Businesses]\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [] \n\nrelationships: [asset: 'Clean Energy Businesses', location: '', ownership: 'Con Edison and CECONY', commodity: '', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 321:
+(40, "physical assets:  [Renewable electric project, Stagecoach Gas Services LLC (Stagecoach), Mountain Valley Pipeline, LLC]\nlocations: []\nownerships:  [Con Edison Transmission]\ncommodities: [Electricity generation, natural gas transmission]\nstatus: [Sold, Impaired]\nrelationships: \n[asset: 'Renewable electric project', location: '', ownership: 'Con Edison', commodity: 'Electricity generation', status: 'Sold'], \n[asset: 'Stagecoach Gas Services LLC (Stagecoach)', location: '', ownership: 'Con Edison Transmission', commodity: 'Natural gas transmission', status: 'Impaired'], \n[asset: 'Mountain Valley Pipeline, LLC', location: '', ownership: 'Con Edison Transmission', commodity: 'Natural gas transmission', status: 'Impaired']")
+----------------------------------------------------------------------------------------------------
+Chunk 322:
+(41, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [Con Edison]\ncommodities: []\nstatus: [ ]\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 323:
+(42, "physical assets: [ Mountain Valley Pipeline, LLC , Honeoye, Stagecoach ]\nlocations: []\nownerships: [Con Edison Transmission]\ncommodities: []\nstatus: [] \nrelationships: [asset: 'Mountain Valley Pipeline, LLC', location: '', ownership: 'Con Edison Transmission', commodity: '', status: ''], [asset: 'Honeoye', location: '', ownership: 'Con Edison Transmission', commodity: '', status: ''], [asset: 'Stagecoach', location: '', ownership: 'Con Edison Transmission', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 324:
+(43, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Con Edison]\ncommodities: []\nstatus: [ ] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 325:
+(44, 'physical assets: [facilities, equipment]\nlocations: []\nownerships: [Con Edison]\ncommodities: [electricity, natural gas]\nstatus: [operational] \n\nrelationships: [asset: facilities, location: CECONY’s service area, ownership: Con Edison, commodity: electricity, status: operational], [asset: equipment, location: CECONY’s service area, ownership: Con Edison, commodity: electricity, status: operational], [asset: facilities, location: CECONY’s service area, ownership: Con Edison, commodity: natural gas, status: operational], [asset: equipment, location: CECONY’s service area, ownership: Con Edison, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 326:
+(45, "physical assets: [steam generating facilities]\nlocations: []\nownerships: [CON EDISON]\ncommodities: [steam]\nstatus: [operational] \n\nrelationships: [asset: 'steam generating facilities', location: '', ownership: 'CON EDISON', commodity: 'steam', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 327:
+(46, "physical assets: [electric utility plant, gas utility plant]\nlocations: [New York, New Jersey]\nownerships: [O&R]\ncommodities: [electricity, natural gas]\nstatus: [operational] \n\nrelationships: [asset: 'electric utility plant', location: 'New York', ownership: 'O&R', commodity: 'electricity', status: 'operational'], [asset: 'gas utility plant', location: 'New York', ownership: 'O&R', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 328:
+(47, 'physical assets:  []\nlocations:  [ ]\nownerships:  [Con Edison, Con Edison Transmission, CECONY, New York Transco, MVP]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 329:
+(48, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 330:
+(49, "physical assets: [Utility construction expenditures, Clean Energy Businesses, Stagecoach, renewable electric projects]\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [ ]\nrelationships: [asset: 'Utility construction expenditures', location: '', ownership: 'Con Edison', commodity: '', status: ''], \n[asset: 'Clean Energy Businesses', location: '', ownership: 'Con Edison', commodity: '', status: ''], \n[asset: 'Stagecoach', location: '', ownership: 'Con Edison', commodity: '', status: ''], \n[asset: 'renewable electric projects', location: '', ownership: 'Con Edison', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 331:
+(50, 'physical assets: []\nlocations: []\nownerships:  [Con Edison, CECONY, O&R, Clean Energy Businesses]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 332:
+(51, 'physical assets:  [facilities, equipment, infrastructure]\nlocations: [Nevada, Virginia]\nownerships: [Con Edison, Tax Equity Investor]\ncommodities: [solar electric production]\nstatus: [operational, under construction, end-of-life] \n\n\nrelationships: [asset: facilities, location: Nevada, ownership: Con Edison, commodity: solar electric production, status: operational], [asset: equipment, location: Virginia, ownership: Tax Equity Investor, commodity: solar electric production, status: operational], [asset: infrastructure, location: Nevada, ownership: Con Edison, commodity: solar electric production, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 333:
+(52, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 334:
+(53, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 335:
+(54, 'physical assets:  []\nlocations:  [ ]\nownerships: [CECONY, O&R]\ncommodities: []\nstatus:  [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 336:
+(55, 'physical assets: [ARO related to removal of asbestos and asbestos-containing material, electric equipment, steam and gas distribution systems, gas and oil pipelines abandoned in place, municipal infrastructure support]\nlocations: []\nownerships: [Con Edison, CECONY] \ncommodities: [electricity, gas]\nstatus: [in end-of-life - AROs are obligations associated with the removal of assets]\n\n\nrelationships: [asset: ARO related to removal of asbestos and asbestos-containing material, location: , ownership: Con Edison, commodity: electricity, status: in end-of-life], [asset: electric equipment, location: , ownership: Con Edison, commodity: electricity, status: in end-of-life], [asset: steam and gas distribution systems, location: , ownership: Con Edison, commodity: gas, status: in end-of-life], [asset: gas and oil pipelines abandoned in place, location: , ownership: Con Edison, commodity: gas, status: in end-of-life], [asset: municipal infrastructure support, location: , ownership: Con Edison, commodity: electricity, status: in end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 337:
+(56, "physical assets: []\nlocations: []\nownerships: []\ncommodities:  ['electricity', 'gas'] \nstatus: []\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 338:
+(57, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 339:
+(58, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 340:
+(59, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Consolidated Edison, Inc.]\ncommodities: [Electricity, Gas, Steam]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 341:
+(60, 'physical assets: [Utility construction expenditures, Cost of removal less salvage, Non-utility construction expenditures, Proceeds from sale of the Clean Energy Businesses, Divestiture of renewable electric projects]\nlocations: []\nownerships: [Consolidated Edison, Inc.]\ncommodities: []\nstatus: [Operational, Under construction, End-of-life]\nrelationships: [asset: Utility construction expenditures, location: , ownership: Consolidated Edison, Inc., commodity: , status: Under construction], [asset: Cost of removal less salvage, location: , ownership: Consolidated Edison, Inc., commodity: , status: End-of-life], [asset: Non-utility construction expenditures, location: , ownership: Consolidated Edison, Inc., commodity: , status: Under construction], [asset: Proceeds from sale of the Clean Energy Businesses, location: , ownership: , commodity: , status: ], [asset: Divestiture of renewable electric projects, location: , ownership: , commodity: , status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 342:
+(61, "physical assets:  [UTILITY PLANT, NON-UTILITY PLANT]\nlocations: []\nownerships: [Consolidated Edison, Inc.] \ncommodities: []\nstatus: []\nrelationships: [asset: 'UTILITY PLANT', location: '', ownership: 'Consolidated Edison, Inc.', commodity: '', status: ''], [asset: 'NON-UTILITY PLANT', location: '', ownership: 'Consolidated Edison, Inc.', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 343:
+(62, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ Consolidated Edison Company of New York, Inc. and its subsidiaries]\ncommodities: [ ]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 344:
+(63, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 345:
+(64, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 346:
+(65, "physical assets:  [Electric, Gas, Steam, General] \nlocations: []\nownerships: [Consolidated Edison Company of New York, Inc.]\ncommodities: []\nstatus:  []\n\n\nrelationships: [asset: 'Electric', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'Gas', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'Steam', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: ''], [asset: 'General', location: '', ownership: 'Consolidated Edison Company of New York, Inc.', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 347:
+(66, 'physical assets: []\nlocations: []\nownerships:  Consolidated Edison Company of New York, Inc.\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 348:
+(67, 'physical assets: [Facilities, Equipment, Infrastructure]\nownerships: [Consolidated Edison, Inc., Consolidated Edison Company of New York, Inc., Orange and Rockland Utilities, Inc., Con Edison Transmission, Inc., Con Edison Clean Energy Businesses, Inc.]\ncommodities: [Electric service, Gas service, Steam service, Electric transmission projects, Gas pipeline and storage facilities]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 349:
+(68, "physical assets: [Utility Plant, Non-utility plant]\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: [operational, under construction, end-of-life] \n\n\nrelationships: [asset: 'Utility Plant', location: '', ownership: 'Con Edison', commodity: '', status: ''], [asset: 'Non-utility plant', location: '', ownership: 'Con Edison', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 350:
+(69, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 351:
+(70, 'physical assets: [Mountain Valley Pipeline]\nlocations: [West Virginia, Virginia]\nownerships: [Con Edison Transmission, joint venture partner(s)]\ncommodities: [natural gas transmission]\nstatus: [under construction]\n\nrelationships: [asset: Mountain Valley Pipeline, location: West Virginia and Virginia, ownership: Con Edison Transmission and joint venture partner(s), commodity: natural gas transmission, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 352:
+(71, 'physical assets: [Mountain Valley Pipeline]\nlocations: []\nownerships: [Con Edison, Mountain Valley Pipeline, LLC]\ncommodities: [transportation of natural gas] \nstatus: [under construction, operational]\nrelationships: [asset: Mountain Valley Pipeline, location:  ,, ownership: Con Edison, commodity: transportation of natural gas, status: under construction].')
+----------------------------------------------------------------------------------------------------
+Chunk 353:
+(72, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 354:
+(73, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 355:
+(74, "physical assets: [Clean Energy Businesses]\nlocations: []\nownerships: [Con Edison, noncontrolling interest]\ncommodities: []\nstatus: [held for sale, operational, under construction, in end-of-life] \nrelationships: [asset: Clean Energy Businesses, location:  '', ownership: Con Edison, commodity: '', status: held for sale]")
+----------------------------------------------------------------------------------------------------
+Chunk 356:
+(75, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 357:
+(76, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 358:
+(77, "physical assets: [property taxes, municipal infrastructure support,  Brooklyn Clean Energy Hub, two new substations in Jamaica, Queens]\nlocations: [Brooklyn, New York, Jamaica, Queens]\nownerships: [CECONY]\ncommodities: [electricity reliability, electric demand] \nstatus: [under construction, operational]\n\nrelationships: [asset: property taxes, location: '', ownership: CECONY, commodity: electricity reliability, status: ''],  [asset: municipal infrastructure support, location: '', ownership: CECONY, commodity: electricity reliability, status: ''], [asset: Brooklyn Clean Energy Hub, location: Brooklyn, New York, ownership: CECONY, commodity: electricity, status: under construction], [asset: two new substations in Jamaica, Queens, location: Jamaica, Queens, ownership: CECONY, commodity: electricity, status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 359:
+(78, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 360:
+(79, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 361:
+(80, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 362:
+(81, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 363:
+(82, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 364:
+(83, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 365:
+(84, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 366:
+(85, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 367:
+(86, "physical assets: [Infrastructure]\nlocations: []\nownerships: [RECO]\ncommodities: [Electric distribution, grid resilience, smart grids]\nstatus: [Operational, under construction (IIP)]\n\nrelationships: [asset: 'Infrastructure', location: '', ownership: 'RECO', commodity: 'Electric distribution', status: 'Operational'],  [asset: 'Infrastructure', location: '', ownership: 'RECO', commodity: 'grid resilience', status: 'under construction (IIP)'], [asset: 'Infrastructure', location: '', ownership: 'RECO', commodity: 'smart grids', status: 'under construction (IIP)']")
+----------------------------------------------------------------------------------------------------
+Chunk 368:
+(87, "physical assets: [customer billing and information system]\nlocations: []\nownerships: [CECONY, O&R]\ncommodities: []\nstatus: [operational] \n\n\nrelationships: [asset: 'customer billing and information system', location: '', ownership: 'CECONY, O&R', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 369:
+(88, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 370:
+(89, 'physical assets:  [ ]\nlocations: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 371:
+(90, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Con Edison, CECONY]\ncommodities: [ ]\nstatus: [ ] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 372:
+(91, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 373:
+(92, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 374:
+(93, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 375:
+(94, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 376:
+(95, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 377:
+(96, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 378:
+(97, 'physical assets: []\nlocations: []\nownerships:  [Con Edison, CECONY]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 379:
+(98, 'physical assets: [facilities, equipment]\nlocations: [Superfund Sites, manufactured gas plant sites, neighboring areas]\nownerships: [Utilities, predecessors of Utilities, Con Edison, CECONY]\nstatus: [under construction, operational, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 380:
+(99, 'physical assets: [multi-use five-story tall buildings, distribution main, service lines, plastic service line, plastic distribution main]\nownerships: [CECONY]\ncommodities: [gas]\nstatus: [defective, sagged, overstressed, operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 381:
+(100, "physical assets: [facilities, equipment]\nlocations: [New York Transco LLC (New York Transco), Broken Bow II]\nownerships: [Con Edison Transmission, RWE, Con Edison, New York Transco LLC]\ncommodities: [electricity, natural gas, wind energy]\nstatus: [operational, under construction, held for sale]\n\nrelationships: \n[asset: 'facilities', location: 'New York Transco LLC (New York Transco)', ownership: 'Con Edison Transmission', commodity: 'electricity', status: 'operational'],\n[asset: 'equipment', location: 'Broken Bow II', ownership: 'Con Edison', commodity: 'wind energy', status: 'held for sale']")
+----------------------------------------------------------------------------------------------------
+Chunk 382:
+(101, "physical assets: [real estate, distribution poles]\nlocations: [ ]\nownerships: [The Companies]\ncommodities: [ ]\nstatus: [ ] \nrelationships: [asset: 'real estate', location: '', ownership: 'The Companies', commodity: '', status: ''], [asset: 'distribution poles', location: '', ownership: 'The Companies', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 383:
+(102, 'physical assets:  []\nlocations: []\nownerships: [Con Edison, CECONY]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 384:
+(103, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 385:
+(104, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 386:
+(105, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Con Edison, Clean Energy Businesses]\ncommodities: []\nstatus: [ ]\nrelationships:  [] \n\n\nThe text primarily discusses financial transactions and revenue recognition methods, not physical assets.')
+----------------------------------------------------------------------------------------------------
+Chunk 387:
+(106, 'physical assets:  []\nlocations: [Imperial County, California]\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 388:
+(107, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 389:
+(108, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 390:
+(109, 'physical assets:  [ ]\nlocations: [United States of America] \nownerships: [Con Edison, CECONY, O&R, Con Edison Transmission, Clean Energy Businesses]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 391:
+(110, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['electricity', 'natural gas', 'steam', 'refined fuels']\nstatus: []\nrelationships:")
+----------------------------------------------------------------------------------------------------
+Chunk 392:
+(111, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['electric energy', 'capacity', 'natural gas', 'refined fuels']\nstatus: []\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 393:
+(112, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 394:
+(113, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['Electricity', 'Transmission Congestion Contracts']\nstatus: []\nrelationships:")
+----------------------------------------------------------------------------------------------------
+Chunk 395:
+(114, 'physical assets: [ ]\nlocations: [Brooklyn Navy Yard, Virginia, Nevada]\nownerships: [Con Edison, Tax equity investors]\ncommodities: [Electricity]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 396:
+(115, "physical assets:  [Renewable electric projects, Crane solar project, Tax Equity Projects, CED Nevada Virginia]\nlocations: [Virginia, ]\nownerships: [Con Edison, Sempra Solar Holdings, LLC, noncontrolling tax equity investor]\ncommodities: [Electricity]\nstatus: [Operational, under construction or in end-of-life] \nrelationships: [asset: 'Renewable electric projects', location: 'Virginia', ownership: 'Con Edison (partially)', commodity: 'Electricity', status: ''], [asset: 'Crane solar project', location: '', ownership: 'Con Edison', commodity: 'Electricity', status: ''], [asset: 'Tax Equity Projects', location: '', ownership: 'Con Edison (partially), noncontrolling tax equity investor', commodity: 'Electricity', status: ''], [asset: 'CED Nevada Virginia', location: '', ownership: 'Con Edison (partially), noncontrolling tax equity investor', commodity: 'Electricity', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 397:
+(116, 'physical assets: [asbestos and asbestos-containing material in buildings, electric equipment, steam and gas distribution systems, gas and oil pipelines, municipal infrastructure support, solar and wind equipment]\nownerships: [Con Edison]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\n[asset: electric equipment, location: , ownership: Con Edison, commodity: electricity transmission and distribution, status: operational] \n[asset: steam and gas distribution systems, location: , ownership: Con Edison, commodity: steam and natural gas distribution, status: operational]\n[asset: gas and oil pipelines, location: , ownership: Con Edison, commodity: oil and natural gas transportation, status: operational] \n[asset: municipal infrastructure support, location: , ownership: Con Edison, commodity:  municipal services support, status: operational]\n[asset: solar and wind equipment, location: property not owned by Con Edison, ownership: Con Edison (originally), Sold in March 2023, commodity: electricity generation, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 398:
+(117, "physical assets: [Utilities, facilities, equipment]\nlocations: []\nownerships: [Con Edison, subsidiaries, NYSPSC]\ncommodities: []\nstatus: []\nrelationships: [asset: 'Utilities', location: '', ownership: 'Con Edison and subsidiaries', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 399:
+(118, 'physical assets: [renewable electric project , renewable electric project , Stagecoach Gas Services LLC, Clean Energy Businesses, Broken Bow II]\nlocations: [ ]\nownerships: [ subsidiary of the Clean Energy Businesses, Con Edison Transmission and its joint venture partner, RWE Renewables Americas, LLC ]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: renewable electric project , location:  , ownership: subsidiary of the Clean Energy Businesses, commodity: , status: operational], \n[asset: renewable electric project , location:  , ownership: subsidiary of the Clean Energy Businesses, commodity: , status: operational],\n[asset: Stagecoach Gas Services LLC , location:  , ownership: Con Edison Transmission and its joint venture partner, commodity: , status: operational],\n[asset: Clean Energy Businesses , location:  , ownership: Con Edison, commodity: , status: operational],\n[asset: Broken Bow II , location: Nebraska, ownership: Con Edison, commodity: wind power, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 400:
+(119, 'physical assets: [Crane solar project, two solar projects located in Virginia, Broken Bow II]\nlocations: [Imperial County, California, Nebraska, Virginia]\nownerships: [Con Edison, RWE Renewables Americas, LLC]\ncommodities: [Renewable energy]\nstatus: [operational]\n\nrelationships: [asset: Crane solar project, location: , ownership: Con Edison, commodity: Renewable energy, status: operational], [asset: two solar projects located in Virginia, location: Virginia, ownership: Con Edison, commodity: Renewable energy, status: operational], [asset: Broken Bow II, location: Nebraska, ownership: Con Edison (currently), RWE Renewables Americas, LLC (after transfer), commodity: Renewable energy, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 401:
+(120, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 402:
+(121, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \n\n\nrelationships: [ ]')
+----------------------------------------------------------------------------------------------------
+Chunk 403:
+(122, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 404:
+(123, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 405:
+(124, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 406:
+(125, 'physical assets:  []\nlocations: []\nownerships:  \ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 407:
+(126, 'physical assets:  []\nlocations: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 408:
+(127, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 409:
+(128, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------

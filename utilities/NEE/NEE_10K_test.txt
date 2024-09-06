@@ -1,0 +1,951 @@
+Chunk 1:
+(0, 'physical assets: []\nlocations: [ ]\nownerships: [NextEra Energy, Inc. owns Florida Power & Light Company]\ncommodities: []\nstatus: []\nrelationships: \n[]')
+----------------------------------------------------------------------------------------------------
+Chunk 2:
+(1, 'physical assets:  [Duane Arnold Energy Center, Florida Southeast Connection, Point Beach Nuclear Power Plant, Seabrook Station]\nlocations: [Florida, US]\nownerships: [NextEra Energy Resources, NextEra Energy, Florida Power & Light Company]\ncommodities: [Electricity]\nstatus: []\nrelationships: [asset: Duane Arnold Energy Center, location: US, ownership: NextEra Energy Resources, commodity: Electricity, status: operational],  [asset: Florida Southeast Connection, location: Florida, ownership: NextEra Energy Resources, commodity: Electricity, status: operational], [asset: Point Beach Nuclear Power Plant, location: US, ownership: NextEra Energy Resources, commodity: Electricity, status: operational], [asset: Seabrook Station, location: US, ownership: NextEra Energy Resources, commodity: Electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 3:
+(2, 'physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [NEE, FPL, Gulf Power Company]\ncommodities: [electric power and energy]\nstatus: []\nrelationships: [asset: facilities, location: Florida, ownership: NEE, commodity: electric power and energy, status: operational], [asset: equipment, location: Florida, ownership: NEE, commodity: electric power and energy, status: operational], [asset: infrastructure, location: Florida, ownership: NEE, commodity: electric power and energy, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 4:
+(3, 'physical assets: [facilities (e.g., power plants, transmission lines, distribution systems), pipelines]\nlocations: [Florida]\nownerships: [FPL, Gulf Power Company (merged into FPL)]\ncommodities: [electric energy, natural gas]\nstatus: [operational]\n\nrelationships: [asset: facilities, location: Florida, ownership: FPL, commodity: electric energy, status: operational], [asset: pipelines, location: southern Florida, ownership: FPL, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 5:
+(4, "physical assets: [generation facilities (including steam, solar, nuclear), battery storage projects] \nlocations: [Florida]\ncommodities: [electricity]\nstatus: [operational, under construction (Dania Beach Clean Energy Center)]\n\n[asset: 'battery storage projects', location: 'Florida', ownership: 'FPL develops and constructs battery storage projects', commodity: 'electricity', status: 'operational'],\n [asset: 'Dania Beach Clean Energy Center', location: 'Florida', ownership: 'FPL', commodity: 'electricity', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 6:
+(5, "physical assets: [Nuclear Units St. Lucie Unit No. , St. Lucie Unit No. , Turkey Point Unit No. , Turkey Point Unit No. ]\nlocations: [] \nownerships: []\ncommodities: [electricity]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: 'St. Lucie Unit No.', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'], [asset: 'St. Lucie Unit No.', location: '', ownership: 'FPL', commodity: 'electricity', status: 'scheduled refueling outage'], [asset: 'Turkey Point Unit No.', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'], [asset: 'Turkey Point Unit No.', location: '', ownership: 'FPL', commodity: 'electricity', status: 'scheduled refueling outage']]")
+----------------------------------------------------------------------------------------------------
+Chunk 7:
+(6, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 8:
+(7, 'locations: [Okeechobee County, Florida]\nownerships: []\ncommodities: [electricity generation]\nstatus: [operational, operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 9:
+(8, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [northwest Florida, Florida, U.S., Canada, North America]\nownerships: [Gulf Power Company, The Southern Company, FPL, NextEra Energy Resources (NEE), NEER, NEP] \ncommodities: [electricity, renewable energy, wind energy, solar energy, natural gas, natural gas liquids, oil]\nstatus: [operational]\n\n\n\nrelationships: [asset: facilities, location: northwest Florida, ownership: Gulf Power Company, commodity: electricity, status: operational],  [asset: equipment, location: Florida, ownership: FPL, commodity: electricity, status: operational], [asset: infrastructure, location: North America, ownership: NEER, commodity: electricity and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 10:
+(9, 'physical assets: [Generation facilities, natural gas pipelines, transmission facilities, wind facilities, solar facilities, nuclear units]\nownerships: [NextEra Energy Resources, NEP (NextEra Energy Partners), non-affiliates]\ncommodities: [Energy, capacity, renewable energy credits (RECs), ancillary services, uranium, natural gas]\nstatus: [Operational, under construction, end-of-life]\nrelationships: [asset: Generation facilities, location: Competitive markets in regions where those facilities are located, ownership: NextEra Energy Resources, commodity: Energy, capacity, renewable energy credits (RECs), ancillary services, status: Operational] \n[asset: natural gas pipelines, location: U.S., ownership: NextEra Energy Resources, commodity: Natural gas, status: Operational]\n[asset: transmission facilities, location: U.S., ownership: NextEra Energy Resources, commodity: N/A, status: Operational] \n[asset: wind facilities, location: States in the U.S. and provinces in Canada, ownership: NextEra Energy Resources, commodity: Wind energy, status: Operational]\n[asset: solar facilities, location: States in the U.S., ownership: NextEra Energy Resources, commodity: Solar energy, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 11:
+(10, 'physical assets: [Point Beach Units Nos., Duane Arnold]\nlocations: [Iowa]\nownerships: [NEER, joint owners]\ncommodities: [nuclear power generation]\nstatus: [operational, ceased operations]\nrelationships: [Point Beach Units Nos.: Point Beach, NEER, nuclear power generation, operational], [Duane Arnold: Iowa,  NEER, joint owners, nuclear power generation, ceased operations]')
+----------------------------------------------------------------------------------------------------
+Chunk 12:
+(11, 'locations: [Texas, Southwestern Alabama, Central Florida, Northeastern Pennsylvania, Southeastern Pennsylvania, West Virginia, Virginia, ERCOT, CAISO, Southwest Power Pool (SPP), Independent Electricity System Operator (IESO), NYISO, Ontario, Canada, New York]\nownerships: [NextEra Energy Resources, NEP OpCo common units, third party, NEET, FERC-regulated transmission utilities]\ncommodities: [natural gas, oil, electricity, renewable attributes, carbon offsets, power, fuel]\nstatus: [in-service, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 13:
+(12, 'physical assets: [generation facilities,  MW capacity of a power generation asset]\nlocations: [Western Electricity Coordinating Council, SERC Reliability Corporation, U.S., Canada ]\nownerships: [NEER]\ncommodities: [energy, capacity and ancillary services] \nstatus: [operational]\n\nrelationships: [asset: generation facilities, location: Western Electricity Coordinating Council, ownership: NEER, commodity: energy, capacity and ancillary services, status: operational], [asset: MW capacity of a power generation asset, location: SERC Reliability Corporation, ownership: NEER, commodity: energy, capacity and ancillary services, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 14:
+(13, 'physical assets: [facilities]\nlocations: [ERCOT, U.S., Canada, Ontario]\nownerships: [NEER, FPL, subsidiaries]\ncommodities: [electricity]\nstatus: [operational, under construction] \n\nrelationships: [asset: facilities, location: ERCOT, ownership: NEER, commodity: electricity, status: operational], [asset: facilities, location: U.S., ownership: NEER, commodity: electricity, status: operational], [asset: facilities, location: Canada, ownership: NEER, commodity: electricity, status: operational], [asset: facilities, location: Ontario, ownership: NEER, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 15:
+(14, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 16:
+(15, 'physical assets: [ ]\nlocations: [  Florida, ]\nownerships: [ NEE, FPL]\ncommodities: []\nstatus: [ ] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 17:
+(16, "physical assets:  [renewable energy projects]\nlocations: [ regions in which NEER operates or plans to develop and operate renewable energy facilities ] \nownerships: [NEER, FPL]\ncommodities: [wind energy, solar energy]\nstatus: [under development, operational]\n\n\nrelationships: [asset: 'renewable energy projects', location: 'regions in which NEER operates or plans to develop and operate renewable energy facilities', ownership: 'NEER, FPL', commodity: 'wind energy, solar energy', status: 'under development, operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 18:
+(17, "physical assets: [power generation facilities, power transmission infrastructure, natural gas transmission infrastructure, wind turbines] \nlocations: []\nownerships: [NEE, FPL, subsidiaries of NEE]\ncommodities: [electricity, natural gas]\nstatus: []\nrelationships: [asset: 'power generation facilities', location: '', ownership: 'NEE, FPL', commodity: 'electricity', status: ''],  [asset: 'power transmission infrastructure', location: '', ownership: 'NEE, FPL', commodity: 'electricity', status: ''], [asset: 'natural gas transmission infrastructure', location: '', ownership: 'NEE, FPL', commodity: 'natural gas', status: ''], [asset: 'wind turbines', location: '', ownership: 'subsidiaries of NEE', commodity: 'electricity', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 19:
+(18, "physical assets: [electric generation facilities, bulk-power transmission systems, gas infrastructure facilities, electric generation, transmission and distribution facilities, solar generation facilities]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: [electricity, energy]\nstatus: [under construction, operational]\nrelationships: [asset: 'electric generation facilities', location: '', ownership: 'NEE', commodity: 'electricity', status: 'operational'],  [asset: 'bulk-power transmission systems', location: '', ownership: 'NEE', commodity: 'energy', status: 'operational'], [asset: 'gas infrastructure facilities', location: '', ownership: 'NEE', commodity: 'energy', status: 'under construction'] ,[asset: 'electric generation, transmission and distribution facilities', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'],  [asset: 'solar generation facilities', location: '', ownership: 'NEE', commodity: 'electricity', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 20:
+(19, "physical assets: electric generation facilities, transmission facilities, natural gas transmission facilities, retail gas distribution system, gas infrastructure facilities\nlocations:  [ ]\nownerships: NEE and FPL\ncommodities: electricity, natural gas\nstatus: [operational, under construction] \n\n\nrelationships: [asset: 'electric generation facilities', location: '', ownership: 'NEE and FPL', commodity: 'electricity', status: 'operational'], [asset: 'transmission facilities', location: '', ownership: 'NEE and FPL', commodity: 'electricity', status: 'operational'], [asset: 'natural gas transmission facilities', location: '', ownership: 'NEE and FPL', commodity: 'natural gas', status: 'operational'], [asset: 'retail gas distribution system', location: 'Florida', ownership: 'NEE and FPL', commodity: 'natural gas', status: 'operational'], [asset: 'gas infrastructure facilities', location: '', ownership: 'NEE and FPL', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 21:
+(20, 'physical assets: [power generation facilities, transmission systems, distribution systems, natural gas production systems, storage systems, infrastructure]\nlocations: [east and lower west coasts of Florida, northwest Florida]\nownerships: [NEE, FPL]\ncommodities: [electricity, natural gas, oil, energy-related commodities]\nstatus: [operational, under construction (implied by "modifying or alternating plant operations and expanding load shedding options"), damaged (implied by "repair damaged facilities")]\n\nrelationships: [asset: power generation facilities, location: east and lower west coasts of Florida, northwest Florida, ownership: NEE, FPL, commodity: electricity, status: operational, damaged],\n[asset: transmission systems, location: east and lower west coasts of Florida, northwest Florida, ownership: NEE, FPL, commodity: electricity, status: operational, damaged], \n[asset: distribution systems, location: east and lower west coasts of Florida, northwest Florida, ownership: NEE, FPL, commodity: electricity, status: operational, damaged],\n[asset: natural gas production systems, location: not specified, ownership: NEE, FPL, commodity: natural gas, status: operational, damaged], \n[asset: storage systems, location: not specified, ownership: NEE, FPL, commodity: natural gas, oil, status: operational, damaged],\n[asset: infrastructure, location: not specified, ownership: NEE, FPL, commodity: electricity, natural gas, status: operational, damaged]')
+----------------------------------------------------------------------------------------------------
+Chunk 22:
+(21, "physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ['natural gas', 'natural gas liquids', 'oil', 'energy commodities', 'fuel', 'electricity', 'renewable and other energy commodities']\nstatus: [ ]\n\n\nrelationships:  []")
+----------------------------------------------------------------------------------------------------
+Chunk 23:
+(22, 'physical assets: [power transmission facilities, natural gas transportation facilities, nuclear fuel transportation facilities, other commodity transportation facilities, generation facility, transmission facility]\nlocations: []\nownerships: [Subsidiaries of NEE, including FPL, do not own many of the power transmission and natural gas, nuclear fuel and other commodity transportation facilities they depend upon.]\ncommodities: [power, natural gas, nuclear fuel, other commodities]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: power transmission facilities, location: , ownership:  Subsidiaries of NEE, including FPL, do not own many of the facilities they depend upon., commodity: power, status: operational], [asset: natural gas transportation facilities, location: , ownership: Subsidiaries of NEE, including FPL, do not own many of the facilities they depend upon., commodity: natural gas, status: operational], [asset: nuclear fuel transportation facilities, location: , ownership: Subsidiaries of NEE, including FPL, do not own many of the facilities they depend upon., commodity: nuclear fuel, status: operational], [asset: other commodity transportation facilities, location: , ownership: Subsidiaries of NEE, including FPL, do not own many of the facilities they depend upon., commodity: other commodities, status: operational], [asset: generation facility, location: , ownership:  Subsidiaries of NEE, including FPL, , commodity: power, status: operational], [asset: transmission facility, location: , ownership: Subsidiaries of NEE, including FPL, , commodity: power, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 24:
+(23, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 25:
+(24, "physical assets:  [nuclear generation facilities]\nlocations: [Florida, U.S., Europe]\nownerships: [NEE, FPL]\ncommodities: [electricity]\nstatus: [operational]\n\n\nrelationships: [asset: 'nuclear generation facilities', location: 'Florida', ownership: 'NEE, FPL', commodity: 'electricity', status: 'operational'] \nrelationships: [asset: 'nuclear generation facilities', location: 'U.S.', ownership: 'NEE, FPL', commodity: 'electricity', status: 'operational'] \nrelationships: [asset: 'nuclear generation facilities', location: 'Europe', ownership: 'NEE, FPL', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 26:
+(25, "physical assets: [nuclear generation facilities]\nlocations: [Europe]\nownerships: [NEE, FPL]\ncommodities: [electricity]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: 'nuclear generation facilities', location: 'Europe', ownership: 'NEE, FPL', commodity: 'electricity', status: 'operational, under construction, end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 27:
+(26, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 28:
+(27, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 29:
+(28, 'physical assets: [properties, electric lines, generation facilities, pipeline facilities, transmission assets, wind facilities]\nlocations: [Altamont region of California, Wyoming]\nownerships: [FPL, subsidiaries within the NEER segment, owners of private property, governmental authorities]\ncommodities: [electricity generation and transmission] \nstatus: [operational, under construction, leased]\n\nrelationships: [asset: properties, location: , ownership: FPL, commodity: electricity generation and transmission, status: operational], [asset: electric lines, location: , ownership: FPL, commodity: electricity transmission, status: operational], [asset: generation facilities, location: , ownership: subsidiaries within the NEER segment, commodity: electricity generation, status: operational], [asset: pipeline facilities, location: , ownership: subsidiaries within the NEER segment, commodity: natural gas transportation, status: operational], [asset: transmission assets, location: , ownership: subsidiaries within the NEER segment, commodity: electricity transmission, status: operational], [asset: wind facilities, location: Altamont region of California, Wyoming, ownership: subsidiaries within the NEER segment, commodity: electricity generation, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 30:
+(29, 'physical assets:  [ ]\nlocations: [ Florida, U.S., world ]\nownerships: [ NextEra Energy, Inc., FPL, NEER, Gulf Power Company ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 31:
+(30, 'physical assets: [solar generation facilities, wind generation facilities]\nlocations: [Spain]\nownerships: [NextEra Energy Resources, noncontrolling ownership interest]\ncommodities: [electricity] \nstatus: [operational, under construction]\n\n\nrelationships: [asset: solar generation facilities, location: Spain, ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: wind generation facilities, location:  unknown, ownership: NextEra Energy Resources (and noncontrolling interest), commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 32:
+(31, 'physical assets: [solar generation facility, battery storage facility, wind generation facilities, transmission utilities]\nlocations: []\nownerships: [ subsidiaries of NextEra Energy Resources, NEP subsidiary,  wholly owned subsidiary of NEET, GridLiance Holdco, LP and GridLiance GP, LLC (GridLiance), FPL, Gulf Power Company]\ncommodities: [electricity]\nstatus: [under construction, operational, currently under construction]\n\nrelationships: [asset: solar generation facility, location: , ownership: subsidiaries of NextEra Energy Resources, commodity: electricity, status: under construction], [asset: battery storage facility, location: , ownership: subsidiaries of NextEra Energy Resources, commodity: electricity, status: operational], [asset: wind generation facilities, location: , ownership: subsidiaries of NextEra Energy Resources, commodity: electricity, status: operational], [asset: transmission utilities, location: six states, Midwest and Nevada, ownership: GridLiance Holdco, LP and GridLiance GP, LLC (GridLiance), commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 33:
+(32, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 34:
+(33, "physical assets: [electric generation facilities, rate-regulated transmission facilities and transmission lines, natural gas, natural gas liquids and oil production and pipeline infrastructure assets, wind generating projects, solar generating projects, battery storage,  wind and solar facilities]\nlocations: []\nownerships: [NEE's, FPL's, NEER, NEP, a third party]\ncommodities: [energy]\nstatus: [operational, under construction]\nrelationships: [asset: electric generation facilities, location: U.S. and Canada, ownership: NEER, commodity: energy, status: operational], [asset: rate-regulated transmission facilities and transmission lines, location:  U.S., ownership: NEER, commodity: energy, status: operational], [asset: natural gas, natural gas liquids and oil production and pipeline infrastructure assets, location: U.S., ownership: NEER, commodity: energy, status: operational], [asset: wind generating projects, location: U.S., ownership: NEE's, FPL's, a third party, commodity: energy, status: operational], [asset: solar generating projects, location: U.S., ownership: NEE's, FPL's, a third party, commodity: energy, status: operational], [asset: battery storage, location: U.S., ownership: NEER, commodity: energy, status: operational], [asset: wind and solar facilities, location: Texas, ownership: NEER, commodity: energy, status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 35:
+(34, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [NextEra Energy Resources, NextEra Energy, FPL, NEECH] \ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 36:
+(35, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ NEE owns a noncontrolling general partner interest in NEP and beneficially owned approximately .% of NEP’s voting power]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 37:
+(36, 'physical assets: []\nlocations: []\nownerships: [NEE owns NEECH, NEECH owns subsidiaries]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 38:
+(37, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 39:
+(38, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 40:
+(39, 'physical assets: []\nlocations: []\nownerships: [NEE, NEER] \ncommodities: [fuel, electricity]\nstatus: []\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 41:
+(40, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 42:
+(41, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 43:
+(42, 'physical assets: [nuclear units, wind facilities, solar facilities]\nlocations: [ ]\nownerships: [FPL, NEER] \ncommodities: [energy production]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: nuclear units, location: , ownership: FPL, commodity: energy production, status: operational], [asset: wind facilities, location: , ownership: NEER, commodity: energy production, status: operational], [asset: solar facilities, location: , ownership: NEER, commodity: energy production, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 44:
+(43, "physical assets: [nuclear plants] \nlocations: []\nownerships: [NEE, NEER]\ncommodities: [electricity, fuel]\nstatus: [decommissioning]\n\nrelationships: [asset: 'nuclear plants', location: '', ownership: 'NEE, NEER', commodity: 'electricity, fuel', status: 'decommissioning']")
+----------------------------------------------------------------------------------------------------
+Chunk 45:
+(44, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 46:
+(45, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 47:
+(46, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 48:
+(47, 'physical assets: []\nlocations: []\nownerships: \ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 49:
+(48, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 50:
+(49, "physical assets: [property, plant, and equipment]\nlocations: []\nownerships: [FPL]\ncommodities: [utility service]\nstatus: [operational, under construction, end-of-life] \nrelationships: [asset: 'property, plant, and equipment', location: '', ownership: 'FPL', commodity: 'utility service', status: 'operational, under construction, end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 51:
+(50, "physical assets: [Property, plant and equipment]\nlocations: []\nownerships: [NextEra Energy, Inc.]\ncommodities: []\nstatus:  \n\nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'NextEra Energy, Inc.', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 52:
+(51, 'locations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 53:
+(52, 'physical assets: []\nlocations: []\nownerships:  [NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 54:
+(53, "physical assets: [Electric utility plant and other property – net]\nlocations: []\nownerships: [FLORIDA POWER & LIGHT COMPANY]\ncommodities: []\nstatus: []\nrelationships: [asset: 'Electric utility plant and other property – net', location: '', ownership: 'FLORIDA POWER & LIGHT COMPANY', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 55:
+(54, 'physical assets: [electric utility, facilities, infrastructure] \nlocations: [Florida, eight counties throughout northwest Florida]\nownerships: [NextEra Energy, Inc., Florida Power & Light Company, NextEra Energy Resources, LLC, NextEra Energy Transmission, LLC, Gulf Power Company]\ncommodities: [electricity]\nstatus: [operational]\n\nrelationships: [asset: electric utility, location: Florida, ownership: Florida Power & Light Company, commodity: electricity, status: operational], [asset: facilities, location: Florida, ownership: Florida Power & Light Company, commodity: electricity, status: operational], [asset: infrastructure, location: Florida, ownership: Florida Power & Light Company, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 56:
+(55, 'physical assets: [facilities (implied),  transmission assets, generation facilities, solar generation facilities]\nlocations: []\nownerships: [NextEra Energy Inc. (NEE), Florida Power & Light Company (FPL), NextEra Energy Resources (NEER)]\ncommodities: [power]\nstatus: [operational (implied), under construction (implied)] \n\nrelationships: [asset: facilities, location:  Florida, ownership: FPL, commodity: power, status: operational], [asset: transmission assets, location: Florida, ownership: FPL, commodity: power, status: operational], [asset: generation facilities, location: Florida, ownership: FPL, commodity: power, status: operational], [asset: solar generation facilities, location: Florida, ownership: FPL, commodity: power, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 57:
+(56, 'physical assets: [SolarTogether™, Solar generation facilities] \nlocations: [Former Gulf Power service area]\nownerships: [FPL]\ncommodities: [Electricity]\nstatus: [Operational, Under construction]\n\nrelationships: [SolarTogether™: Former Gulf Power service area, FPL, Electricity, Operational], [Solar generation facilities: Former Gulf Power service area, FPL, Electricity, Under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 58:
+(57, 'locations: [Okeechobee County, Florida]\nownerships: [FPL and NEER]\ncommodities: [natural gas, electricity]\nstatus: [operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 59:
+(58, "physical assets: [Nuclear units, wind facilities, solar facilities]\nlocations: []\nownerships: [FPL, NEER, NextEra Energy Capital Holdings, Inc., NextEra Energy Resources' subsidiaries]\ncommodities: [Electricity]\nstatus: [Under construction, operational, end-of-life]\n\nrelationships: [asset: 'Nuclear units', location: '', ownership: 'FPL and NEER', commodity: 'Electricity', status: 'Operational'], \n[asset: 'Wind facilities', location: '', ownership: 'NEER', commodity: 'Electricity', status: 'Under construction, end-of-life'],\n[asset: 'Solar facilities', location: '', ownership: 'NEER', commodity: 'Electricity', status: 'Under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 60:
+(59, "physical assets: [Nuclear Plants, Generation Plants, Wind Facilities, Solar Facilities]\nlocations: [Turkey Point, St. Lucie, Seabrook Station, Duane Arnold Energy Center, Point Beach]\nownerships: [FPL, NEE]\ncommodities: [Electricity Generation, Spent Fuel Storage]\nstatus: [Operational, Under Construction (implied), End-of-Life (implied)]\n\nrelationships: [asset: 'Nuclear Plants', location: 'Turkey Point', ownership: 'FPL', commodity: 'Electricity Generation', status: 'Operational'], \n[asset: 'Nuclear Plants', location: 'St. Lucie', ownership: 'FPL', commodity: 'Electricity Generation', status: 'Operational'], \n[asset: 'Generation Plants', location: '', ownership: 'FPL', commodity: 'Electricity Generation', status: 'Operational'], \n[asset: 'Wind Facilities', location: '', ownership: 'NEE', commodity: 'Electricity Generation', status: 'Operational'], \n[asset: 'Solar Facilities', location: '', ownership: 'NEE', commodity: 'Electricity Generation', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 61:
+(60, "physical assets: [nuclear plants, wind and solar facilities]\nlocations: [ ]\nownerships: [NEER, FPL, Seabrook, Duane Arnold, Point Beach]\ncommodities: [electricity]\nstatus: [operational, under construction, end-of-life] \nrelationships: [asset: 'nuclear plants', location: '', ownership: 'NEER', commodity: 'electricity', status: 'operational'], [asset: 'wind and solar facilities', location: '', ownership: 'NEER', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 62:
+(61, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [NextEra Energy, Inc. and Florida Power & Light Company]\ncommodities: [Electricity, Fuel, Renewable Energy Credits, Emissions Allowances]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 63:
+(62, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [NEE, FPL] \ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 64:
+(63, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 65:
+(64, 'physical assets: [wind generation facilities, solar generation facilities, battery storage capacity]\nlocations: []\nownerships: [ NextEra Energy Resources (NEE), third-party investors]\ncommodities: [electricity generation from wind and solar resources, energy storage]\nstatus: [in operation or under construction]\n\nrelationships: [asset: wind generation facilities, location: unspecified, ownership: NEE retains controlling interest; third-party investors hold Class B membership interests, commodity: electricity generation, status: in operation or under construction], [asset: solar generation facilities, location: unspecified, ownership: NEE retains controlling interest; third-party investors hold Class B membership interests, commodity: electricity generation, status: in operation or under construction], [asset: battery storage capacity, location: unspecified, ownership: NEE retains controlling interest; third-party investors hold Class B membership interests, commodity: energy storage, status: in operation or under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 66:
+(65, 'physical assets: [wind generation facilities, solar generation facilities, battery storage facility]\nlocations: [U.S., West and Midwest regions of the U.S., Arizona geographically diverse locations throughout the U.S.]\nownerships: [NextEra Energy Resources, NEP subsidiary, third party]\ncommodities: [electricity, energy]\nstatus: [operational, under construction]\n\nrelationships: [asset: wind generation facilities, location: U.S., West and Midwest regions of the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: solar generation facilities, location: U.S., geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: battery storage facility, location: Arizona, ownership: NextEra Energy Resources, commodity: energy, status: under construction], [asset: wind generation facilities, location: U.S., ownership: NEP subsidiary, commodity: electricity, status: operational], [asset: solar generation facilities, location: geographically diverse locations throughout the U.S., ownership: NEP subsidiary, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 67:
+(66, "physical assets: [solar-plus-storage facility, two solar generation facilities in Spain, three wind generation facilities, three solar generation facilities]\nlocations: [Spain, Midwest and West regions of the U.S.]\nownerships: [NextEra Energy Resources, NEP subsidiary]\ncommodities: [electricity]\nstatus: [operational, under construction] \nrelationships: [solar-plus-storage facility: '', location: '', ownership: NextEra Energy Resources, commodity: electricity, status: operational], [two solar generation facilities in Spain: Spain, ownership: NextEra Energy Resources, commodity: electricity, status: operational], [three wind generation facilities: Midwest and West regions of the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational], [three solar generation facilities: Midwest and West regions of the U.S., ownership: NEP subsidiary, commodity: electricity, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 68:
+(67, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [energy, electric capacity, electric transmission]\nstatus: [ ] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 69:
+(68, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: \nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 70:
+(69, 'physical assets: []\nlocations: []\nownerships: []\ncommodities:  []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 71:
+(70, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: [power, gas, congestion] \nstatus: []\n\nrelationships:  [] \n\n\nThe provided text focuses on financial instruments (derivative contracts) and their fair value calculations. It does not discuss physical assets, locations, ownership details, or the operational status of any physical entities.')
+----------------------------------------------------------------------------------------------------
+Chunk 72:
+(71, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [commodity contracts, foreign currency, interest rate]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 73:
+(72, 'physical assets: []\nlocations: []\nownerships:  [NEE, FPL]\ncommodities: [Power, Natural gas, Oil]\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 74:
+(73, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 75:
+(74, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 76:
+(75, 'physical assets: [Mountain Valley Pipeline]\nlocations: [ ]\nownerships: [NextEra Energy Resources, joint venture partners]\ncommodities: [Natural Gas transportation]')
+----------------------------------------------------------------------------------------------------
+Chunk 77:
+(76, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [northwest Florida]\nownerships: [NextEra Energy Resources, Gulf Power Company]\ncommodities: [electricity]\nstatus: [operational]\n\nrelationships: [asset: facilities, location: northwest Florida, ownership: NextEra Energy Resources, commodity: electricity, status: operational], \n[asset: equipment, location: northwest Florida, ownership: NextEra Energy Resources, commodity: electricity, status: operational], \n[asset: infrastructure, location: northwest Florida, ownership: NextEra Energy Resources, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 78:
+(77, 'physical assets: [property, plant and equipment, regulatory assets, underwater transmission cable system]\nlocations: [Pittsburg to San Francisco, California]\nownerships: [NEE, FPL, Trans Bay Cable LLC]\ncommodities: [electricity transmission]\nstatus: [operational]\n\nrelationships: [asset: property, plant and equipment, location: , ownership: NEE, commodity: electricity transmission, status: operational], [asset: regulatory assets, location: , ownership: NEE, commodity: electricity transmission, status: operational], [asset: underwater transmission cable system, location: Pittsburg to San Francisco, California, ownership: Trans Bay Cable LLC, commodity: electricity transmission, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 79:
+(78, "physical assets: [GridLiance's transmission lines, Property, plant and equipment]\nlocations: [six states, five in the Midwest and Nevada]\nownerships: [NEE, GridLiance Holdco, LP, GridLiance GP, LLC]\ncommodities: [electricity transmission]\nstatus: [operational] \n\n\nrelationships: [asset: GridLiance's transmission lines, location: six states, five in the Midwest and Nevada, ownership: GridLiance Holdco, LP, GridLiance GP, LLC, commodity: electricity transmission, status: operational], [asset: Property, plant and equipment, location:  not specified, ownership: NEE, commodity: electricity generation and distribution, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 80:
+(79, 'physical assets: [Jointly-Owned Electric Plants,  Transmission substation assets]\nownerships: [NEE subsidiaries, FPL]\ncommodities: [Electric power generation]\nstatus: [Operational, Under construction, Planned retirement ]')
+----------------------------------------------------------------------------------------------------
+Chunk 81:
+(80, "physical assets: [electricity transmission line, wind generation facilities, solar facilities, solar plus battery storage facilities]\nlocations: [ ]\nownerships: [NextEra Energy Resources, subsidiaries of NextEra Energy Resources]\ncommodities: [electricity]\nstatus: [under construction, operational]\nrelationships: [asset: electricity transmission line, location: '', ownership: NEET subsidiary, commodity: electricity, status: under construction], [asset: wind generation facilities, location: '', ownership: NextEra Energy Resources and subsidiaries, commodity: electricity, status: operational], [asset: solar facilities, location: '', ownership: NextEra Energy Resources and subsidiaries, commodity: electricity, status: operational], [asset: solar plus battery storage facilities, location: '', ownership: NextEra Energy Resources and subsidiaries, commodity: electricity, status: under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 82:
+(81, "physical assets: [generation facilities, property, plant and equipment, buildings, equipment, land use agreements, substations, natural gas and oil electric generation facility, battery storage facilities]\nlocations: []\nownerships: [NextEra Energy Resources, subsidiaries of NEE, FPL]\ncommodities: [electricity] \nstatus: []\n\n\nrelationships: [asset: 'generation facilities', location: '', ownership: 'NextEra Energy Resources', commodity: 'electricity', status: ''], [asset: 'property, plant and equipment', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: ''], [asset: 'buildings', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: ''], [asset: 'equipment', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: ''], [asset: 'land use agreements', location: '', ownership: 'NextEra Energy Resources', commodity: 'electricity', status: ''], [asset: 'substations', location: '', ownership: 'NextEra Energy Resources', commodity: 'electricity', status: ''], [asset: 'natural gas and oil electric generation facility', location: '', ownership: 'NextEra Energy Resources', commodity: 'electricity', status: ''], [asset: 'battery storage facilities', location: '', ownership: 'NextEra Energy Resources', commodity: 'electricity', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 83:
+(82, "physical assets: [power sales agreements, nuclear units, wind and solar facilities, electric transmission and distribution assets, pipelines]\nlocations: []\nownerships: [NEE, FPL, NEP]\ncommodities: [electricity]\nstatus: [operational, under construction, decommissioning, end-of-life]\nrelationships: [asset: power sales agreements, location: '', ownership: NEE, commodity: electricity, status: operational], \n[asset: nuclear units, location: '', ownership: FPL and NEER, commodity: electricity, status: decommissioning], \n[asset: wind and solar facilities, location: '', ownership: NEER, commodity: electricity, status: decommissioning], \n[asset: electric transmission and distribution assets, location: '', ownership: NEE and FPL, commodity: electricity, status: operational], \n[asset: pipelines, location: '', ownership: NEE and FPL, commodity: oil or natural gas, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 84:
+(83, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 85:
+(84, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 86:
+(85, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 87:
+(86, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 88:
+(87, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  \n\n\nThe provided text focuses on financial instruments and contractual obligations related to the issuance of equity units by NextEra Energy (NEE). It does not discuss any physical assets, locations, or commodities.')
+----------------------------------------------------------------------------------------------------
+Chunk 89:
+(88, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 90:
+(89, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 91:
+(90, 'physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY]\ncommodities: [electricity generation, transmission, distribution, wind power, solar power, battery storage, nuclear fuel]\nstatus: [under construction, operational]\n\n\nrelationships: [asset: facilities, location: FPL service area, ownership: NEXTERA ENERGY, INC. and FLORIDA POWER & LIGHT COMPANY, commodity: electricity generation, transmission, distribution, status: operational], [asset: equipment, location: FPL service area, ownership: NEXTERA ENERGY, INC. and FLORIDA POWER & LIGHT COMPANY, commodity: electricity generation, transmission, distribution, status: operational], [asset: infrastructure, location: FPL service area, ownership: NEXTERA ENERGY, INC. and FLORIDA POWER & LIGHT COMPANY, commodity: electricity transmission, distribution, status: operational], [asset: wind projects, location: various sites across the US, ownership: NEXTERA ENERGY, INC., commodity: wind power, status: under construction], [asset: solar projects, location: various sites across the US, ownership: NEXTERA ENERGY, INC., commodity: solar power, status: under construction], [asset: battery storage facilities, location: various sites across the US, ownership: NEXTERA ENERGY, INC., commodity: grid stabilization, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 92:
+(91, "physical assets: [facilities, equipment, infrastructure]\nlocations: [ ]\nownerships: [NEE, NEER, FPL, joint ventures]\ncommodities: [natural gas transportation, wind turbines, wind towers, solar modules, uranium, nuclear fuel]\nstatus: [under construction, operational]\n\nrelationships: [asset: facilities, location: '', ownership: NEE, commodity: natural gas transportation, status: operational], [asset: equipment, location: '', ownership: NEER, commodity: wind turbines, status: under construction], [asset: infrastructure, location: '', ownership: FPL, commodity: solar modules, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 93:
+(92, "physical assets: [nuclear plants, transmission and distribution property, natural gas pipeline assets]\nlocations: [Duane Arnold, Seabrook, St. Lucie Unit No., Florida]\nownerships: [NEE, FPL, minority interests in Seabrook, Duane Arnold and St. Lucie Unit No.]\ncommodities: [electricity generation, electricity transmission and distribution, natural gas transportation]\nstatus: []\n\n\nrelationships: [asset: 'nuclear plants', location: 'Duane Arnold', ownership: 'NEE or another participating insured', commodity: 'electricity generation', status: ''], [asset: 'nuclear plants', location: 'Seabrook', ownership: 'NEE or another participating insured', commodity: 'electricity generation', status: ''], [asset: 'nuclear plants', location: 'St. Lucie Unit No.', ownership: 'NEE or another participating insured', commodity: 'electricity generation', status: ''], [asset: 'transmission and distribution property', location: '', ownership: 'NEE', commodity: 'electricity transmission and distribution', status: ''], [asset: 'natural gas pipeline assets', location: '', ownership: 'NEE', commodity: 'natural gas transportation', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 94:
+(93, "physical assets: [Property, plant and equipment]\nlocations: []\nownerships: [NextEra Energy, Inc., Florida Power & Light Company, Gulf Power]\ncommodities: []\nstatus: [] \nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'NextEra Energy, Inc.', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 95:
+(94, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 96:
+(95, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 97:
+(96, "physical assets:  [Mortgage and Deed of Trust] \nlocations: []\nownerships: [Florida Power & Light Company, Deutsche Bank Trust Company Americas]\ncommodities: []\nstatus: []\nrelationships: [asset: 'Mortgage and Deed of Trust', location: '', ownership: 'Florida Power & Light Company and Deutsche Bank Trust Company Americas', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 98:
+(97, 'physical assets: []\nlocations: []\nownerships:  [Florida Power & Light Company, Deutsche Bank Trust Company Americas, The Bank of New York Mellon] \ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 99:
+(98, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 100:
+(99, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 101:
+(100, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 102:
+(101, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 103:
+(102, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 104:
+(103, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 105:
+(104, 'physical assets: []\nlocations: []\nownerships:  \ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 106:
+(0, 'physical assets: []\nlocations: [ ]\nownerships: [NextEra Energy, Inc., Florida Power & Light Company]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 107:
+(1, "physical assets: [Duane Arnold Energy Center, Florida Southeast Connection, Point Beach Nuclear Power Plant, Sabal Trail Transmission, Seabrook Station]\nlocations: []\nownerships: [NextEra Energy Resources, NextEra Energy, FPL, NextEra Energy Capital Holdings, Inc., Deutsche Bank Trust Company Americas]\ncommodities: []\nstatus: []\n\n\nrelationships: [asset: 'Duane Arnold Energy Center', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: ''], [asset: 'Florida Southeast Connection', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: ''], [asset: 'Point Beach Nuclear Power Plant', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: ''], [asset: 'Sabal Trail Transmission', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: ''], [asset: 'Seabrook Station', location: '', ownership: 'NextEra Energy Resources', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 108:
+(2, "physical assets: [generation facilities, transmission facilities, distribution facilities, renewable generation facilities, battery storage projects, electric transmission facilities]\nlocations: []\nownerships: [NEE, FPL, NEER, Gulf Power Company]\ncommodities: [electricity]\nstatus: [operational, under construction]\nrelationships: [asset: 'generation facilities', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'], \n[asset: 'transmission facilities', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'],\n[asset: 'distribution facilities', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'],\n[asset: 'renewable generation facilities', location: '', ownership: 'NEER', commodity: 'electricity', status: 'operational'],\n[asset: 'battery storage projects', location: '', ownership: 'NEER', commodity: 'electricity', status: 'operational'],\n[asset: 'electric transmission facilities', location: '', ownership: 'NEER', commodity: 'electricity', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 109:
+(3, 'physical assets: [facilities, equipment]\nlocations: [Florida, nine counties throughout northwest Florida, east and lower west coasts of Florida, eight counties throughout southern Florida]\nownerships: [NEE, NEECH, FPL, subsidiaries]\ncommodities: [electric energy, natural gas]\nstatus: [operational]\n\nrelationships: [asset: facilities, location: Florida, ownership: FPL, commodity: electric energy, status: operational], [asset: equipment, location: Florida, ownership: FPL, commodity: electric energy, status: operational], [asset: transmission and distribution lines, location: Florida, ownership: FPL, commodity: electric energy, status: operational], [asset: substations, location: Florida, ownership: FPL, commodity: electric energy, status: operational], [asset: natural gas pipelines, location: eight counties throughout southern Florida, ownership: FPL, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 110:
+(4, 'physical assets: [building, facilities, equipment, units, solar generation facilities, nuclear units, coal units, battery storage projects]\nlocations: [Florida, Mississippi, Georgia]\nownerships: [FPL, joint owners]\ncommodities: [electricity]\nstatus: [operational, under construction, in end-of-life]\nrelationships: [asset: building, location: Florida, ownership: FPL, commodity: electricity, status: operational], [asset: facilities, location: Florida, ownership: FPL, commodity: electricity, status: operational], [asset: equipment, location: Florida, ownership: FPL, commodity: electricity, status: operational], [asset: units, location: Florida, ownership: FPL, commodity: electricity, status: operational], [asset: solar generation facilities, location: Florida, ownership: FPL, commodity: electricity, status: operational], [asset: nuclear units, location: Florida, ownership: FPL, commodity: electricity, status: operational], [asset: coal units, location: Mississippi, Georgia, ownership: joint owners, commodity: electricity, status: in end-of-life], [asset: battery storage projects, location: Florida, ownership: FPL, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 111:
+(5, 'physical assets: [Nuclear power plants (Turkey Point, St. Lucie Unit No.), on-site storage pools, dry storage casks]\nlocations: []\nownerships: [FPL, non-affiliates] \ncommodities: [Electricity, natural gas, low sulfur diesel, renewable energy credits (RECs)]\nstatus: [operational, under construction, end-of-life (planned)]\nrelationships: [asset: Nuclear power plants (Turkey Point), location: , ownership: FPL, commodity: Electricity, status: operational], [asset: St. Lucie Unit No., location: , ownership: FPL, commodity: Electricity, status: operational], [asset: on-site storage pools, location: , ownership: FPL, commodity: Spent nuclear fuel, status: operational], [asset: dry storage casks, location: , ownership: FPL, commodity: Spent nuclear fuel, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 112:
+(6, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 113:
+(7, 'physical assets: [electric generation facilities, transmission and distribution lines, distribution lines, overhead transmission lines, solar facilities, battery storage projects]\nlocations: []\nownerships: [FPL, NextEra Energy Resources, NEET]\ncommodities: [electricity, energy]\nstatus: []\n\n\nrelationships: [asset: electric generation facilities, location:  , ownership: FPL, commodity: electricity, status: operational], [asset: transmission and distribution lines, location:  , ownership: FPL, commodity: electricity, status: operational], [asset: distribution lines, location:  , ownership: FPL, commodity: electricity, status: operational], [asset: overhead transmission lines, location:  , ownership: FPL, commodity: electricity, status: operational], [asset: solar facilities, location:  , ownership: FPL, commodity: electricity, status: operational], [asset: battery storage projects, location:  , ownership: FPL, commodity: energy, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 114:
+(8, 'physical assets: [generation facilities, transmission facilities, substations, circuit miles of transmission lines, wind facilities, solar and solar plus battery storage projects, contracted natural gas pipelines]\nlocations: [North America, U.S., Northeast region of the U.S., states in the U.S.]\nownerships: [NextEra Energy Resources, NEP OpCo, wholly owned subsidiaries, noncontrolling or joint venture interests]\ncommodities: [power, fuel, natural gas, natural gas liquids, oil, electricity, capacity, RECs, ancillary services]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: generation facilities, location: North America, U.S., Northeast region of the U.S., states in the U.S., ownership: NextEra Energy Resources, commodity: power, fuel, electricity, capacity, RECs, ancillary services, status: operational], [asset: transmission facilities, location: North America, ownership: NextEra Energy Resources, commodity: power, status: operational], [asset: substations, location: North America, ownership: NextEra Energy Resources, commodity: power, status: operational], [asset: circuit miles of transmission lines, location: North America, ownership: NextEra Energy Resources, commodity: power, status: operational], [asset: wind facilities, location: states in the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: solar and solar plus battery storage projects, location: U.S., ownership: NEP OpCo, commodity: electricity, status: operational], [asset: contracted natural gas pipelines, location: U.S., ownership: NEP OpCo, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 115:
+(9, 'physical assets: [generating capacity, photovoltaic facilities, solar thermal facilities, nuclear units, battery storage capacity, biogas projects, landfill gas-to-electric facilities]\nownerships: [NextEra Energy Resources, NEP, non-affiliates]\ncommodities: [electricity, renewable energy]\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 116:
+(10, 'physical assets: [wind and solar generation facilities, natural gas pipelines]\nlocations: [South Texas, Southwestern Alabama to Central Florida, Central Florida to South Florida, Northeastern Pennsylvania to Southeastern Pennsylvania, West Virginia, Virginia, Midwest and South regions of the U.S.]\nownerships: [NextEra Energy Resources, a third party, NEP OpCo common units]\ncommodities: [electricity, natural gas]\nstatus: [operational, under construction]\n\nrelationships: [asset: wind and solar generation facilities, location: Not specified, ownership:  Owners of wind and solar generation facilities, commodity: electricity, status: operational], [asset: natural gas pipelines, location: Texas, Southwestern Alabama to Central Florida, Central Florida to South Florida, Northeastern Pennsylvania to Southeastern Pennsylvania, West Virginia, Virginia, Midwest and South regions of the U.S., ownership: NextEra Energy Resources, a third party, NEP OpCo common units, commodity: natural gas, status: operational], [asset: natural gas pipeline under construction, location: West Virginia and Virginia, ownership: NEER, commodity: natural gas, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 117:
+(11, "physical assets: [Miles Substations Kilovolt Transmission Line, Trans Bay Cable DC]\nlocations: [ERCOT, CAISO, Southwest Power Pool (SPP), Independent Electricity System Operator (IESO), NYISO, Texas, California, Illinois, Kansas, Kentucky, Missouri, Nevada, Oklahoma, Ontario, Canada, New York]\nownerships: [PUCT, FERC, OEB, NextEra Energy Resources subsidiary, NEET, ]\ncommodities: [Power, fuel, renewable attributes, carbon offsets]\nstatus: [Operational, In-Service]\n\nrelationships: [asset: 'Miles Substations Kilovolt', location: 'Texas', ownership: 'PUCT', commodity: 'Power', status: 'In-Service'], [asset: 'Trans Bay Cable DC', location: 'California', ownership: 'FERC', commodity: 'Power', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 118:
+(12, "physical assets: [generation facilities, wind and solar generation portfolio]\nlocations: [U.S., ERCOT, Canada]\nownerships: [NEER]\ncommodities: [electricity, RECs and other environmental attributes]\nstatus: [] \n\n\nrelationships: [asset: 'generation facilities', location: 'U.S.', ownership: 'NEER', commodity: 'electricity', status: ''], [asset: 'wind and solar generation portfolio', location: 'U.S.', ownership: 'NEER', commodity: 'electricity, RECs and other environmental attributes', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 119:
+(13, "physical assets: [electric generation facilities, wind generation facilities]\nlocations: []\nownerships: [NextEra Energy Resources, subsidiaries of NextEra Energy Resources, FPL] \ncommodities: [energy, renewable energy resources]\nstatus: [operational, under development, in construction]\n\nrelationships: [asset: 'electric generation facilities', location: '', ownership: 'NextEra Energy Resources', commodity: 'energy', status: 'operational'], [asset: 'wind generation facilities', location: '', ownership: 'NextEra Energy Resources', commodity: 'renewable energy resources', status: 'under development',]")
+----------------------------------------------------------------------------------------------------
+Chunk 120:
+(14, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 121:
+(15, "physical assets:  [facilities, electric generation facilities, transmission and distribution facilities, natural gas and oil production facilities, natural gas, oil and other fuel transportation, processing and storage facilities ]\nlocations: [Florida] \nownerships: [NEE, FPL]\ncommodities: [electric energy, natural gas, oil]\nstatus: []\n\n\nrelationships: [asset: 'facilities', location: 'Florida', ownership: 'NEE', commodity: 'electric energy', status: ''], [asset: 'electric generation facilities', location: 'Florida', ownership: 'FPL', commodity: 'electric energy', status: ''], [asset: 'transmission and distribution systems', location: 'Florida', ownership: 'FPL', commodity: 'electric energy', status: ''], [asset: 'natural gas and oil production facilities', location: '', ownership: 'NEE', commodity: 'natural gas, oil', status: ''], [asset: 'natural gas, oil and other fuel transportation, processing and storage facilities', location: '', ownership: 'NEE', commodity: 'natural gas, oil', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 122:
+(16, 'physical assets: []\nlocations: [ regions in which NEER and FPL operate or plan to develop and operate renewable energy facilities, Florida market] \nownerships:  [NEE, FPL]\ncommodities: [wind and solar energy]\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 123:
+(17, 'physical assets: [power generation facilities, power transmission lines, natural gas transmission infrastructure, wind facilities]\nlocations: []\nownerships: [NextEra Energy Resources (subsidiary of NEE), FPL (subsidiary of NEE)]\ncommodities: [electricity production, natural gas transportation]\nstatus: [operational, under construction]\n\n\nrelationships: [asset: power generation facilities, location: not specified, ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: power transmission lines, location: not specified, ownership: FPL, commodity: electricity, status: operational], [asset: natural gas transmission infrastructure, location: not specified, ownership: NEE, commodity: natural gas, status: operational], [asset: wind facilities, location: not specified, ownership: NextEra Energy Resources, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 124:
+(18, "physical assets: [bulk-power transmission systems, electric generation facilities, gas infrastructure facilities]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: [electricity, gas]\nstatus:  [operational] \n\n\nrelationships: [asset: bulk-power transmission systems, location: '', ownership: NEE, FPL, commodity: electricity, status: operational], [asset: electric generation facilities, location: '', ownership: NEE, FPL, commodity: electricity, status: operational], [asset: gas infrastructure facilities, location: '', ownership: NEE, FPL, commodity: gas, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 125:
+(19, 'physical assets: [electric generation facilities, transmission facilities, distribution facilities, gas infrastructure facilities, solar generation facilities]\nlocations: []\nownerships: [NEE and FPL]\ncommodities: [electricity, natural gas]\nstatus: [under development, under construction, operational]\n\n\nrelationships: [asset: electric generation facilities, location: , ownership: NEE and FPL, commodity: electricity, status: under development, under construction], [asset: transmission facilities, location: , ownership: NEE and FPL, commodity: electricity, status: operational], [asset: distribution facilities, location: , ownership: NEE and FPL, commodity: electricity, status: operational], [asset: gas infrastructure facilities, location: , ownership: NEE and FPL, commodity: natural gas, status: under development, under construction], [asset: solar generation facilities, location: , ownership: NEE and FPL, commodity: electricity, status: under development]')
+----------------------------------------------------------------------------------------------------
+Chunk 126:
+(20, "physical assets: [facilities, equipment, transmission or distribution systems, pipelines,  natural gas production, transmission, storage or distribution systems] \nlocations: [east and lower west coasts of Florida, northwest Florida, populated areas]\nownerships: [NEE's and FPL's]\ncommodities: [electricity, natural gas, other fuels]\nstatus: [operational, under construction, end-of-life (implied)]\nrelationships: [asset: facilities, location: east and lower west coasts of Florida, northwest Florida, populated areas, ownership: NEE's and FPL's, commodity: electricity, status: operational], [asset: equipment, location: east and lower west coasts of Florida, northwest Florida, populated areas, ownership: NEE's and FPL's, commodity: electricity, status: operational], [asset: transmission or distribution systems, location: east and lower west coasts of Florida, northwest Florida, populated areas, ownership: NEE's and FPL's, commodity: electricity, status: operational], [asset: pipelines, location: east and lower west coasts of Florida, northwest Florida, populated areas, ownership: NEE's and FPL's, commodity: natural gas, status: operational], [asset: natural gas production, transmission, storage or distribution systems, location: east and lower west coasts of Florida, northwest Florida, populated areas, ownership: NEE's and FPL's, commodity: natural gas, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 127:
+(21, 'physical assets: [facilities, equipment, infrastructure, substations, gas pipelines, power generation facilities, wind and solar facilities, fuel storage facilities, information technology systems]\nlocations: []\nownerships: [ FPL, NEE, NEER ] \ncommodities: [electricity, natural gas, oil, energy commodities]\nstatus: []\n\nrelationships: [asset: facilities, location: , ownership: FPL, commodity: electricity, status: operational],  [asset: equipment, location: , ownership: FPL, commodity: electricity, status: operational], [asset: infrastructure, location: , ownership: FPL, commodity: electricity, status: operational], [asset: substations, location: , ownership: FPL, commodity: electricity, status: operational], [asset: gas pipelines, location: , ownership: NEER, commodity: natural gas, status: operational], [asset: power generation facilities, location: , ownership: FPL, commodity: electricity, status: operational], [asset: wind and solar facilities, location: , ownership: NEER, commodity: electricity, status: operational], [asset: fuel storage facilities, location: , ownership: FPL, commodity: oil, natural gas, status: operational], [asset: information technology systems, location: , ownership: FPL, commodity: data transmission, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 128:
+(22, "physical assets:  [gas infrastructure] \nlocations: []\nownerships:  [NEER, NEE]\ncommodities: [natural gas, oil]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: 'gas infrastructure', location: '', ownership: 'NEER, NEE', commodity: 'natural gas, oil', status: 'operational, under construction, end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 129:
+(23, "physical assets: [power transmission facilities, natural gas facilities, nuclear fuel transportation facilities, other commodity transportation facilities, generation or transmission facility, pipeline, power generation facilities]\nlocations: []\nownerships: []\ncommodities: [power, natural gas, nuclear fuel, other commodities]\nstatus: [] \nrelationships: [asset: 'power transmission facilities', location: '', ownership: 'many of which they do not own', commodity: 'power', status: ''], [asset: 'natural gas facilities', location: '', ownership: 'many of which they do not own', commodity: 'natural gas', status: ''], [asset: 'nuclear fuel transportation facilities', location: '', ownership: 'many of which they do not own', commodity: 'nuclear fuel', status: ''], [asset: 'other commodity transportation facilities', location: '', ownership: 'many of which they do not own', commodity: 'other commodities', status: ''], [asset: 'generation or transmission facility', location: '', ownership: '', commodity: '', status: ''], [asset: 'pipeline', location: '', ownership: '', commodity: '', status: ''], [asset: 'power generation facilities', location: '', ownership: '', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 130:
+(24, "physical assets:  [information systems]\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: [asset: 'information systems', location: '', ownership: 'NEE and FPL', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 131:
+(25, "physical assets: [nuclear generation facilities]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: [electricity generation]\nstatus: [operational, under construction, end-of-life (implied)]\nrelationships: [asset: 'nuclear generation facilities', location: '', ownership: 'NEE, FPL', commodity: 'electricity generation', status: 'operational, under construction, end-of-life (implied)']")
+----------------------------------------------------------------------------------------------------
+Chunk 132:
+(26, 'physical assets: [nuclear generation units] \nlocations: []\nownerships: [NEE, FPL]\ncommodities: [electricity]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: nuclear generation units, location: not specified, ownership: NEE, FPL, commodity: electricity, status: operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 133:
+(27, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 134:
+(28, 'physical assets: [generation facilities, pipeline facilities, transmission assets]\nlocations: []\ncommodities: []\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 135:
+(29, "physical assets: [generation facilities, pipeline facilities, transmission lines]\nlocations: [land under easement, rights-of-way or leased from owners of private property or governmental entities]\nownerships: [private property, governmental entities]\ncommodities: []\nstatus: [] \n\nrelationships: [asset: 'generation facilities', location: 'land under easement, rights-of-way or leased from owners of private property or governmental entities', ownership: 'private property or governmental entities', commodity: '', status: '']. \n relationships: [asset: 'pipeline facilities', location: 'land under easement, rights-of-way or leased from owners of private property or governmental entities', ownership: 'private property or governmental entities', commodity: '', status: ''].  \nrelationships: [asset: 'transmission lines', location: 'land under easement, rights-of-way or leased from owners of private property or governmental entities', ownership: 'private property or governmental entities', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 136:
+(30, "physical assets:  [plant in service and other property]\nlocations: []\nownerships: []\ncommodities: [energy] \nstatus: [operational]\n\n\nrelationships: [asset: 'plant in service and other property', location: '', ownership: '', commodity: 'energy', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 137:
+(31, "physical assets: [Mountain Valley Pipeline, wind generation facilities, solar generation facilities, battery storage facility, transmission utilities]\nlocations: [Midwest, Nevada, Southeast Asian locations]\nownerships: [NextEra Energy Resources, NEP subsidiary, GridLiance Holdco, LP and GridLiance GP, LLC]\ncommodities: [renewable energy, electricity]\nstatus: [operational, under construction]\nrelationships: [asset: Mountain Valley Pipeline, location: '', ownership: NextEra Energy Resources, commodity: renewable energy, status: operational], [asset: wind generation facilities, location: Midwest, Nevada, Southeast Asian locations, ownership: NextEra Energy Resources, NEP subsidiary, commodity: renewable energy, status: operational, under construction], [asset: solar generation facilities, location: , ownership: NextEra Energy Resources, NEP subsidiary, commodity: renewable energy, status: operational, under construction], [asset: battery storage facility, location: , ownership: NextEra Energy Resources, NEP subsidiary, commodity: renewable energy, status: operational], [asset: transmission utilities, location: Midwest, Nevada, ownership: GridLiance Holdco, LP and GridLiance GP, LLC, commodity: electricity, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 138:
+(32, 'physical assets: [Dania Beach Clean Energy Center, solar generation additions, transmission and distribution additions]\nlocations: [ ]\nownerships: [FPL]\ncommodities: [electricity generation and distribution]\nstatus: [operational]\n\nrelationships: [asset: Dania Beach Clean Energy Center, location: , ownership: FPL, commodity: electricity generation, status: operational], [asset: solar generation additions, location: , ownership: FPL, commodity: electricity generation, status: operational], [asset: transmission and distribution additions, location: , ownership: FPL, commodity: electricity distribution, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 139:
+(33, 'physical assets: [electric generation facilities, transmission facilities and transmission lines, rate-regulated transmission facilities, pipeline infrastructure assets, battery storage, renewable fuels]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: [electricity, energy, natural gas, natural gas liquids, oil] \nstatus: [operational, under construction]\n\n\nrelationships: [asset: electric generation facilities, location: U.S. and Canada, ownership: NEER, commodity: electricity, status: operational], [asset: transmission facilities and transmission lines, location: U.S. and Canada, ownership: NEER, commodity: electricity, status: operational], [asset: rate-regulated transmission facilities and transmission lines, location: U.S. and Canada, ownership: NEER, commodity: electricity, status: operational], [asset: pipeline infrastructure assets, location: U.S. and Canada, ownership: NEER, commodity: natural gas, natural gas liquids, oil, status: operational], [asset: battery storage, location: N/A, ownership: NEER, commodity: energy, status: operational], [asset: renewable fuels, location: N/A, ownership: NEER, commodity: renewable fuels, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 140:
+(34, "physical assets: [ facilities, equipment, infrastructure ]\nlocations: [ ]\nownerships: [ NextEra Energy Resources, NEP ]\ncommodities: [ wind, solar, battery storage, gas, power ]\nstatus: [ operational ]\n\nrelationships: [asset: facilities, location: '', ownership: NextEra Energy Resources, commodity: power, status: operational], [asset: equipment, location: '', ownership: NextEra Energy Resources, commodity: wind, status: operational], [asset: infrastructure, location: '', ownership: NextEra Energy Resources, commodity: gas, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 141:
+(35, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  [ ]')
+----------------------------------------------------------------------------------------------------
+Chunk 142:
+(36, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 143:
+(37, 'physical assets: []\nlocations: []\nownerships: [NEE, NEECH, subsidiaries of NEE]\ncommodities:  [energy commodities, wholesale energy commodities]\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 144:
+(38, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 145:
+(39, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  \n\n\nThe text focuses on financial instruments, bond provisions, and accounting standards related to reference rate reform. It does not mention any physical assets, locations, commodities, or their statuses.')
+----------------------------------------------------------------------------------------------------
+Chunk 146:
+(40, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 147:
+(41, 'physical assets: []\nlocations: []\nownerships: [NEE]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 148:
+(42, "physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [NEE, FPL, NEER]\ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\n\nrelationships: [asset: 'facilities', location: '', ownership: 'NEE', commodity: '', status: 'operational'], [asset: 'equipment', location: '', ownership: 'NEE', commodity: '', status: 'operational'], [asset: 'infrastructure', location: '', ownership: 'NEE', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 149:
+(43, "physical assets: [nuclear plants, other generation plants]\nlocations: [ ]\nownerships: [NEE, FPL, NEER] \ncommodities: [electricity generation]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: 'nuclear plants', location: '', ownership: 'NEE, FPL, NEER', commodity: 'electricity generation', status: 'operational'], [asset: 'other generation plants', location: '', ownership: 'FPL', commodity: 'electricity generation', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 150:
+(44, "physical assets: [ facilities,  generation facilities ] \nlocations: []\nownerships: [ NEE, FPL ]\ncommodities: [ fuel, electricity, power ]\nstatus: [ unavailable ]\n\nrelationships: [asset: 'facilities', location: '', ownership: 'NEE', commodity: 'fuel', status: 'unavailable'],  [asset: 'generation facilities', location: '', ownership: 'FPL', commodity: 'electricity', status: 'unavailable']")
+----------------------------------------------------------------------------------------------------
+Chunk 151:
+(45, "physical assets: [ physical inventory ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [ ]\nstatus: [ ]\n\nrelationships: [ asset: 'physical inventory', location: '', ownership: '', commodity: '', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 152:
+(46, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 153:
+(47, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 154:
+(48, 'physical assets: []\nlocations: [Boca Raton, Florida]\nownerships: [NextEra Energy, Inc., Florida Power & Light Company]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 155:
+(49, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 156:
+(50, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 157:
+(51, "physical assets: [Property, plant and equipment]\nlocations: []\nownerships: [NEXTERA ENERGY, INC.]\ncommodities: []\nstatus: [] \nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 158:
+(52, "physical assets: [Facilities, Equipment, Infrastructure]\nlocations: []\nownerships: [NextEra Energy, Inc.] \ncommodities: [Electricity Production and Distribution]\nstatus: []\nrelationships: [asset: 'Facilities', location: '', ownership: 'NextEra Energy, Inc.', commodity: 'Electricity Production and Distribution', status: ''].\nrelationships: [asset: 'Equipment', location: '', ownership: 'NextEra Energy, Inc.', commodity: 'Electricity Production and Distribution', status: ''].\nrelationships: [asset: 'Infrastructure', location: '', ownership: 'NextEra Energy, Inc.', commodity: 'Electricity Production and Distribution', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 159:
+(53, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 160:
+(54, "physical assets: [Electric utility plant and other property]\nlocations: []\nownerships: [NextEra Energy, Inc., Florida Power & Light Company]\ncommodities: []\nstatus: []\n\n\nrelationships: [asset: 'Electric utility plant and other property', location: '', ownership: 'NextEra Energy, Inc., Florida Power & Light Company', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 161:
+(55, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Florida, eight counties throughout northwest Florida]\nownerships: [NextEra Energy Inc., Florida Power & Light Company, Gulf Power Company]\ncommodities: [electricity, natural gas, natural gas liquids, oil]\nstatus: []\n\nrelationships: [asset: facilities, location: Florida, ownership: NextEra Energy Inc., commodity: electricity, status: operational], [asset: equipment, location: eight counties throughout northwest Florida, ownership: Florida Power & Light Company, commodity: electricity, status: operational], [asset: infrastructure, location: Florida, ownership: Gulf Power Company, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 162:
+(56, "physical assets: [generation facilities, transmission assets, electric generation facilities]\nlocations: []\nownerships: [ NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY ]\ncommodities: [ electricity ]\nstatus: [operational, under construction, end-of-life ]\n\nrelationships: [asset: 'generation facilities', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: 'electricity', status: 'operational'], [asset: 'transmission assets', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: 'electricity', status: 'operational'], [asset: 'electric generation facilities', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: 'electricity', status: 'end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 163:
+(57, "physical assets: [solar generation facilities]\nlocations: []\nownerships: [FPL]\ncommodities: [solar energy production] \nstatus: [under construction, operational]\n\n\nrelationships: [asset: 'solar generation facilities', location: '', ownership: 'FPL', commodity: 'solar energy production', status: 'under construction, operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 164:
+(58, "physical assets:  [Units of utility property, electric property, renewable property, plant in service, other property, construction work in progress, nuclear fuel contracts]\nlocations: [] \nownerships: [NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL), NEER]\ncommodities: [Electric generation, Renewable energy, Oil and gas production, Nuclear fuel]\nstatus:  [Operational, Under construction, End-of-life (retired)]\nrelationships: [asset: 'Units of utility property', location: '', ownership: 'NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL)', commodity: 'Electric generation', status: 'Operational'], [asset: 'Electric property', location: '', ownership: 'NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL)', commodity: 'Electric generation', status: 'Operational'], [asset: 'Renewable property', location: '', ownership: 'NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL)', commodity: 'Renewable energy', status: 'Operational'], [asset: 'Plant in service', location: '', ownership: 'NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL)', commodity: 'Electric generation', status: 'Operational'], [asset: 'Other property', location: '', ownership: 'NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL)', commodity: 'Oil and gas production, Nuclear fuel', status: 'Operational'], [asset: 'Construction work in progress', location: '', ownership: 'NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL)', commodity: 'Electric generation, Renewable energy', status: 'Under construction'], [asset: 'Nuclear fuel contracts', location: '', ownership: 'NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY (FPL)', commodity: 'Nuclear fuel', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 165:
+(59, 'physical assets:  [construction materials, progress payments on major equipment contracts, third-party engineering costs, capitalized interest, other costs directly associated with the construction and development of various projects, electric plant in service, other property, nuclear units, wind and solar facilities]\nlocations: [ ] \nownerships: [NextEra Energy Resources (NEER), NextEra Energy Capital Holdings, Inc. (NEECH), Florida Power & Light Company (FPL),  ]\ncommodities: [electricity generation]\nstatus: [under construction, in service, end-of-life]\nrelationships: [asset: construction materials, location: , ownership: NEER, commodity: electricity generation, status: under construction], \n[asset: progress payments on major equipment contracts, location: , ownership: NEER, commodity: electricity generation, status: under construction], \n[asset: third-party engineering costs, location: , ownership: NEER, commodity: electricity generation, status: under construction],  \n[asset: capitalized interest, location: , ownership: NEER, commodity: electricity generation, status: under construction], \n[asset: other costs directly associated with the construction and development of various projects, location: , ownership: NEER, commodity: electricity generation, status: under construction], \n[asset: electric plant in service, location: , ownership: NEER, commodity: electricity generation, status: in service],  \n[asset: other property, location: , ownership: NEER, commodity: electricity generation, status: in service], \n[asset: nuclear units, location: , ownership: FPL, commodity: electricity generation, status: in service],  \n[asset: wind and solar facilities, location: , ownership: NEER, commodity: electricity generation, status: in service]')
+----------------------------------------------------------------------------------------------------
+Chunk 166:
+(60, 'physical assets: [Nuclear units (Lucie Unit No., Turkey Point Units Nos. , and  and St. Lucie Units Nos. and ), Seabrook Station, Duane Arnold Energy Center, Point Beach Nuclear Power Plant, wind and solar facilities]\nlocations: [United States (U.S.)]\nownerships: [FPL, NEER]\ncommodities: []\nstatus: [Operational, under construction (implied by decommissioning plans)]\n\nrelationships: [asset: Lucie Unit No., location: United States, ownership: FPL, commodity: Electricity generation, status: Operational], [asset: Turkey Point Units Nos. , location: United States, ownership: FPL, commodity: Electricity generation, status: Operational], [asset: St. Lucie Units Nos. and , location: United States, ownership: FPL, commodity: Electricity generation, status: Operational], [asset: Seabrook Station, location: United States, ownership: NEER, commodity: Electricity generation, status: Operational], [asset: Duane Arnold Energy Center, location: United States, ownership: NEER, commodity: Electricity generation, status: Operational], [asset: Point Beach Nuclear Power Plant, location: United States, ownership: NEER, commodity: Electricity generation, status: Operational], [asset: Wind and solar facilities, location: Not specified, ownership: NEER, commodity: Electricity generation, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 167:
+(61, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 168:
+(62, 'physical assets: [facilities, infrastructure]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: [energy, fuel, electricity]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: facilities, location: , ownership: NEE, commodity: energy, status: operational], [asset: infrastructure, location: , ownership: FPL, commodity: fuel, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 169:
+(63, 'physical assets: []\nlocations: []\nownerships:  [NEE, FPL] \ncommodities: []\nstatus: []\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 170:
+(64, 'physical assets:  []\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 171:
+(65, 'physical assets: [wind generation facilities, solar generation facilities, battery storage facilities]\nlocations: []\nownerships: [NextEra Energy Resources (controlling interest), third-party investors (noncontrolling interests)]\ncommodities: [electricity generation and storage]\nstatus: [operation, under construction]\nrelationships: [asset: wind generation facilities, location:  , ownership: NextEra Energy Resources (controlling interest), third-party investors (noncontrolling interests), commodity: electricity generation, status: operation, under construction], [asset: solar generation facilities, location: , ownership: NextEra Energy Resources (controlling interest), third-party investors (noncontrolling interests), commodity: electricity generation, status: operation, under construction], [asset: battery storage facilities, location: , ownership: NextEra Energy Resources (controlling interest), third-party investors (noncontrolling interests), commodity: energy storage, status: operation, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 172:
+(66, 'physical assets: [wind generation facilities, solar plus battery facility, solar generation facilities, battery storage facilities]\nlocations: [geographically diverse locations throughout the U.S., Midwest region of the U.S., California]\nownerships: [NextEra Energy Resources, NEP subsidiary, third party]\ncommodities: [electricity generation]\nstatus: [operational, under construction]\n\nrelationships: [asset: wind generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity generation, status: operational],\n[asset: solar plus battery facility, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity generation, status: operational],\n[asset: solar generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity generation, status: operational],\n[asset: battery storage facilities, location: California, ownership: NextEra Energy Resources, commodity: electricity generation, status: operational], \n [asset: wind generation facilities, location: Midwest region of the U.S., ownership: NextEra Energy Resources, commodity: electricity generation, status: under construction], \n[asset: battery storage facilities, location: California, ownership: NEP subsidiary, commodity: electricity generation, status: operational],')
+----------------------------------------------------------------------------------------------------
+Chunk 173:
+(67, 'physical assets: [wind generation facilities, solar generation facilities, battery storage facility]\nlocations: [West and Midwest regions of the U.S., geographically diverse locations throughout the U.S., Spain, Arizona]\nownerships: [NextEra Energy Resources, NEP subsidiary, third party]\ncommodities: [energy commodities, electricity]\nstatus: [operational, under construction]\nrelationships: [asset: wind generation facilities, location: West and Midwest regions of the U.S., ownership: NextEra Energy Resources, commodity: energy commodities, status: operational], [asset: solar generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: battery storage facility, location: Arizona, ownership: NextEra Energy Resources, commodity: electricity, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 174:
+(68, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [energy commodities, electric capacity, electric transmission]\nstatus: [ ] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 175:
+(69, "physical assets:  [power generation assets, gas infrastructure assets]\nlocations: []\nownerships: [NEE, FPL] \ncommodities: [electricity, natural gas]\nstatus: [operational]\n\nrelationships: [asset: 'power generation assets', location: '', ownership: 'NEE', commodity: 'electricity', status: 'operational'], [asset: 'gas infrastructure assets', location: '', ownership: 'NEE', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 176:
+(70, 'physical assets: []\nlocations: []\nownerships: []\ncommodities:  [ ]\nstatus: [] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 177:
+(71, "physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ['Commodity contracts', 'Interest rate contracts', 'Foreign currency contracts'] \nstatus: [ ]\n\n\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 178:
+(72, "physical assets: []\nlocations: []\nownerships: []\ncommodities:  ['power', 'gas', 'congestion'] \nstatus: []\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 179:
+(73, 'physical assets: []\nlocations: []\nownerships: [ NextEra Energy, Inc., Florida Power & Light Company]\ncommodities: [Power, Natural gas, Oil]\nstatus: []\n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 180:
+(74, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 181:
+(75, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 182:
+(76, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 183:
+(77, 'physical assets: [Mountain Valley Pipeline]\nlocations: []\nownerships: [NextEra Energy Resources, joint venture partners]\ncommodities: [Transportation of natural gas]')
+----------------------------------------------------------------------------------------------------
+Chunk 184:
+(78, "physical assets: [Property, plant and equipment]\nlocations: [FPL service areas, former service areas of FPL and Gulf Power Company,  new unified rates and tariffs ]\nownerships: [FPL, Gulf Power Company, NEE]\ncommodities: []\nstatus: [operational]\n\n\nrelationships: [asset: 'Property, plant and equipment', location: 'FPL service areas', ownership: 'FPL', commodity: '', status: 'operational'],  [asset: 'Property, plant and equipment', location: 'former service areas of FPL and Gulf Power Company', ownership: 'Gulf Power Company', commodity: '', status: 'operational'], [asset: 'Property, plant and equipment', location: '', ownership: 'NEE', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 185:
+(79, "physical assets: ['Property, plant and equipment', 'transmission lines']\nlocations: ['Midwest', 'Nevada', 'six states']\nownerships: ['NEE', 'FPL', 'GridLiance', 'NextEra Energy Resources']\ncommodities: ['Electricity transmission', 'Renewable energy', 'Biogas', 'Landfill gas']\nstatus: ['operational', 'under construction', 'in end-of-life']\nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'NEE', commodity: 'Electricity transmission', status: 'operational'],  [asset: 'transmission lines', location: 'Midwest', ownership: 'GridLiance', commodity: 'Electricity transmission', status: 'operational'],  [asset: 'Renewable energy projects', location: '', ownership: 'NextEra Energy Resources', commodity: 'Renewable energy', status: 'operational'] , [asset: 'Biogas projects', location: '', ownership: 'NextEra Energy Resources', commodity: 'Biogas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 186:
+(80, 'ownerships: [NEE subsidiaries, FPL, joint interest owners]\ncommodities: []\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 187:
+(81, "physical assets: [Electric transmission line, solar facilities, battery storage facility]\nlocations: []\nownerships: [NextEra Energy Resources, subsidiaries of NextEra Energy Resources]\ncommodities: [Electricity Generation, Battery Storage]\nstatus: [Operational, under construction]\n\n\nrelationships: [asset: 'Electric transmission line', location: '', ownership: 'NEET VIE', commodity: 'Electricity Transmission', status: 'Operational'],\n[asset: 'Solar facilities', location: '', ownership: 'Subsidiaries of NextEra Energy Resources', commodity: 'Electricity Generation', status: 'Operational'], \n[asset: 'Battery storage facility', location: '', ownership: 'Subsidiaries of NextEra Energy Resources', commodity: 'Battery Storage', status: 'Under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 188:
+(82, 'physical assets: [property, plant and equipment, wind generation facilities, solar generation facilities, battery storage facilities]\nlocations: []\nownerships: [NextEra Energy Resources]\ncommodities: [electricity]\nstatus: [operational, under construction]\n\n\nrelationships: [asset: property, plant and equipment, location:  , ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: wind generation facilities, location: , ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: solar generation facilities, location: , ownership: NextEra Energy Resources, commodity: electricity, status: operational], [asset: battery storage facilities, location:  , ownership: NextEra Energy Resources, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 189:
+(83, "physical assets: [electric generation facility, battery storage facilities, nuclear units, wind facilities, solar facilities, transmission and distribution assets, pipelines]\nlocations: []\nownerships: [NextEra Energy (NEE), Florida Power & Light Company (FPL)] \ncommodities: [electricity, natural gas, oil]\nstatus: [operational, under construction, decommissioning]\n\nrelationships: [asset: electric generation facility, location: '', ownership: NextEra Energy (NEE), commodity: electricity, status: operational], [asset: battery storage facilities, location: '', ownership: NextEra Energy (NEE), commodity: electricity, status: operational], [asset: nuclear units, location: '', ownership: Florida Power & Light Company (FPL), commodity: electricity, status: decommissioning], [asset: wind facilities, location: '', ownership: NextEra Energy Resources (NEER), commodity: electricity, status: decommissioning], [asset: solar facilities, location: '', ownership: NextEra Energy Resources (NEER), commodity: electricity, status: operational], [asset: transmission and distribution assets, location: '', ownership: NextEra Energy (NEE) and Florida Power & Light Company (FPL), commodity: electricity, status: operational], [asset: pipelines, location: '', ownership: NextEra Energy (NEE) and Florida Power & Light Company (FPL), commodity: natural gas and oil, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 190:
+(84, "physical assets: [Easements]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: []\nstatus: [Perpetual]\n\nrelationships: [asset: 'Easements', location: '', ownership: 'NEE, FPL', commodity: '', status: 'Perpetual']")
+----------------------------------------------------------------------------------------------------
+Chunk 191:
+(85, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 192:
+(86, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 193:
+(87, 'physical assets: []\nlocations: []\nownerships:  []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 194:
+(88, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 195:
+(89, "physical assets: [Debentures]\nlocations: []\nownerships: [NEE, NEP]\ncommodities: []\nstatus: [] \n\n\nrelationships: [asset: 'Debentures', location: '', ownership: 'NEE and NEP', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 196:
+(90, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 197:
+(91, "physical assets: [Generation facilities, Transmission and distribution infrastructure, Nuclear fuel storage]\nlocations: []\nownerships: [NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY] \ncommodities: [Electricity generation and distribution]\nstatus: [Operational, Under construction]\nrelationships: [asset: 'Generation facilities', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: 'Electricity generation', status: 'Operational'], [asset: 'Transmission and distribution infrastructure', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: 'Electricity transmission and distribution', status: 'Operational'], [asset: 'Nuclear fuel storage', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: 'Nuclear fuel', status: 'Under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 198:
+(92, 'physical assets: [solar projects, battery storage projects, renewable fuels projects, transmission, wind turbines, wind towers, solar modules, natural gas transportation infrastructure, nuclear power plants]\nlocations: [Southeast Asian locations, Seabrook, St. Lucie Unit No.]\nownerships: [NEE, NEER, FPL, joint ventures, minority interests]\ncommodities: [solar energy, battery storage, renewable fuels, wind energy, nuclear energy, natural gas]\nstatus: [under construction, operational]\n\n\nrelationships: [asset: solar projects, location: Southeast Asian locations, ownership: NEE, commodity: solar energy, status: under construction], [asset: battery storage projects, location: , ownership: NEE, commodity: battery storage, status: operational], [asset: renewable fuels projects, location: , ownership: NEE, commodity: renewable fuels, status: operational], [asset: transmission, location: , ownership: NEE, commodity: electricity, status: under construction], [asset: wind turbines, location: , ownership: NEER, commodity: wind energy, status: operational], [asset: wind towers, location: , ownership: NEER, commodity: wind energy, status: operational], [asset: solar modules, location: , ownership: NEER, commodity: solar energy, status: operational], [asset: natural gas transportation infrastructure, location: , ownership: FPL, commodity: natural gas, status: operational], [asset: nuclear power plants, location: Seabrook, St. Lucie Unit No., ownership: NEE, commodity: nuclear energy, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 199:
+(93, "physical assets:  [nuclear plants, transmission and distribution property, natural gas pipeline assets]\nlocations: [ ] \nownerships: [NEE, FPL, minority interests in Seabrook, Duane Arnold and St. Lucie Unit No. ]\ncommodities: []\nstatus: [operational]\nrelationships: [asset: 'nuclear plants', location: '', ownership: 'NEE', commodity: '', status: 'operational'],\n[asset: 'transmission and distribution property', location: '', ownership: 'NEE, FPL', commodity: '', status: 'operational'],\n[asset: 'natural gas pipeline assets', location: '', ownership: 'NEE, FPL', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 200:
+(94, "physical assets: [Property, plant and equipment]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: []\nstatus: [] \n\nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'NEE, FPL', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 201:
+(95, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 202:
+(96, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 203:
+(97, "physical assets:  [Mortgage and Deed of Trust]\nlocations: []\nownerships: [Florida Power & Light Company, Deutsche Bank Trust Company Americas]\ncommodities: []\nstatus: [] \n\n\nrelationships: [asset: 'Mortgage and Deed of Trust', location: '', ownership: 'Florida Power & Light Company, Deutsche Bank Trust Company Americas', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 204:
+(98, 'physical assets: []\nlocations: []\nownerships:  \ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 205:
+(99, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 206:
+(100, 'physical assets: []\nlocations: []\nownerships:  [NextEra Energy Capital Holdings, Inc., FPL Group Capital Inc, FPL Group, Inc., The Bank of New York Mellon]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 207:
+(101, 'physical assets: []\nlocations: []\nownerships:  [NextEra Energy Capital Holdings, Inc., NextEra Energy, Inc.]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 208:
+(102, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 209:
+(103, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 210:
+(104, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 211:
+(105, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 212:
+(106, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 213:
+(0, 'physical assets: []\nlocations: [Florida]\nownerships: [NextEra Energy, Inc., Florida Power & Light Company] \ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 214:
+(1, 'physical assets: [ ]\nlocations: [ ]\nownerships: [NextEra Energy, Inc., Florida Power & Light Company]\ncommodities: [ ]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 215:
+(2, "physical assets: [electric power and energy infrastructure companies, generation facilities, transmission and distribution facilities, renewable generation facilities, electric transmission facilities, battery storage]\nlocations: []\nownerships: [NEE (NextEra Energy), FPL (Florida Power & Light), NEER (NextEra Energy Resources), Gulf Power Company]\ncommodities: [electric energy]\nstatus: \n\nrelationships: [asset: 'electric power and energy infrastructure companies', location: '', ownership: 'NEE (NextEra Energy)', commodity: 'electric energy', status: ''],\n[asset: 'generation facilities', location: '', ownership: 'FPL, NEER', commodity: 'electric energy', status: ''], \n[asset: 'transmission and distribution facilities', location: '', ownership: 'FPL', commodity: 'electric energy', status: ''], \n[asset: 'renewable generation facilities', location: '', ownership: 'NEER', commodity: 'electricity from wind and sun', status: ''], \n[asset: 'electric transmission facilities', location: '', ownership: 'NEER', commodity: 'electricity', status: ''], \n[asset: 'battery storage', location: '', ownership: 'NEER', commodity: 'electricity storage', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 216:
+(3, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Florida (East & Lower West Coasts), ten counties in Northwest Florida]\nownerships: [FPL (owned by NEE), NEECH (wholly owned subsidiary of NEE), NEP (affiliate of NextEra Energy Resources)]\ncommodities: [electricity generation, transmission, distribution, and sale]\nstatus: [operational] \n\nrelationships: [asset: facilities, location: Florida (East & Lower West Coasts), ownership: FPL, commodity: electricity generation, status: operational], [asset: equipment, location: Florida (East & Lower West Coasts), ownership: FPL, commodity: electricity transmission and distribution, status: operational], [asset: infrastructure, location: Florida (East & Lower West Coasts), ownership: FPL, commodity: electricity transmission and distribution, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 217:
+(4, "physical assets: [steam generating capacity, solar generating capacity, nuclear units, coal units, battery storage projects, natural gas generation facility, hydrogen facility]\nlocations: [Florida, Mississippi, Georgia]\nownerships: [FPL, independent power producers, joint ownership interests in coal units with other entities ]\ncommodities: [electrical energy]\nstatus: [operational, under construction, end-of-life (retired)]\n\nrelationships: [asset: steam generating capacity, location: '', ownership: FPL, commodity: electrical energy, status: operational], [asset: solar generating capacity, location: '', ownership: FPL, commodity: electrical energy, status: operational], [asset: nuclear units, location: Florida, ownership: FPL, commodity: electrical energy, status: operational], [asset: coal units, location: Mississippi, Georgia, ownership: FPL (undivided interests), other entities (joint ownership), commodity: electrical energy, status: end-of-life (retired)], [asset: battery storage projects, location: '', ownership: FPL, commodity: electrical energy, status: operational], [asset: natural gas generation facility, location: '', ownership: FPL, commodity: electrical energy, status: operational], [asset: hydrogen facility, location: '', ownership: FPL, commodity:  electrical energy (blending with natural gas), status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 218:
+(5, "physical assets: [St. Lucie Unit No., Turkey Point Unit No.]\nlocations: []\nownerships: [FPL, non-affiliates]\ncommodities: [electricity, spent nuclear fuel]\nstatus: [operational, under construction] \nrelationships: [St. Lucie Unit No.:  location: '', ownership: FPL, commodity: electricity, status: operational], [Turkey Point Unit Nos.: location: '', ownership: FPL, commodity: electricity, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 219:
+(6, 'physical assets: [ ]\nlocations: [ combined utility system (including the former Gulf Power Company service area)]\nownerships: [ FPL]\ncommodities: []\nstatus: [ ] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 220:
+(7, "physical assets: [electric generation facilities, transmission and distribution lines, distribution lines, overhead transmission lines]\nlocations: [ ]\nownerships: [FPL]\ncommodities: [electricity]\nstatus: [operational]\n\nrelationships: [asset: 'electric generation facilities', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'], [asset: 'transmission and distribution lines', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'], [asset: 'distribution lines', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational'], [asset: 'overhead transmission lines', location: '', ownership: 'FPL', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 221:
+(8, 'physical assets: [facilities, equipment, infrastructure, substations, circuit miles of transmission lines]\nlocations: [states, Canadian provinces, North America, U.S.]\nownerships: [partial or full ownership interests, rate-regulated transmission facilities, wholly owned subsidiaries, noncontrolling or joint venture interests, NextEra Energy Resources, NEP OpCo, contracted clean energy assets]\ncommodities: [electric power, uranium, natural gas, natural gas liquids, oil] \nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: facilities, location: states, Canadian provinces, North America, ownership: partial or full ownership interests, commodity: electric power, status: operational], [asset: equipment, location: states, Canadian provinces, North America, ownership: partial or full ownership interests, commodity: electric power, status: operational], [asset: infrastructure, location: states, Canadian provinces, North America, ownership: partial or full ownership interests, commodity: electric power, status: operational], [asset: substations, location: North America, ownership: NextEra Energy Resources, commodity: electric power, status: operational], [asset: circuit miles of transmission lines, location: North America, ownership: NextEra Energy Resources, commodity: electric power, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 222:
+(9, 'physical assets: [generation facilities, wind facilities, solar facilities, nuclear units, battery storage capacity, biogas projects]\nownerships: [NextEra Energy Resources, non-affiliates, joint owners (Seabrook unit)]\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 223:
+(10, 'locations: [Southwestern Alabama to Central Florida, Central Florida to South Florida, Northwestern West Virginia to Southern Virginia, Midwest and South regions of the U.S., south Texas]\nownerships: [NextEra Energy Resources, FPL (Florida Power & Light), NextEra Energy Resources subsidiary]\ncommodities: [electricity, natural gas, oil, renewable energy]\nstatus: [operational, under construction, in end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 224:
+(11, 'physical assets: [Substations, Kilovolt, Transmission Line]\nownerships: [Southwest Power Pool (SPP), ERCOT, Independent Electricity System Operator (IESO), CAISO, FERC, NEET, NextEra Energy Resources, PMI]\ncommodities: [Energy and related energy credits, capacity and ancillary services]\nstatus: [Operational, Under Construction]\n\n\nrelationships: [asset: Substations, location: Kansas, ownership: SPP, commodity: Energy and related energy credits, capacity and ancillary services, status: Operational], [asset: Kilovolt, location: Oklahoma, ownership: ERCOT, commodity: Energy and related energy credits, capacity and ancillary services, status: Operational], [asset: Transmission Line, location: Texas, ownership: NEET, commodity: Energy and related energy credits, capacity and ancillary services, status: Operational], [asset: Substation, location: Nevada, ownership: CAISO, commodity: Energy and related energy credits, capacity and ancillary services, status: Under Construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 225:
+(12, "physical assets: [facilities]\nlocations: [U.S., ERCOT, Canada]\nownerships: [NEER]\ncommodities: [electricity] \nstatus: [operational]\n\nrelationships: [asset: 'facilities', location: 'U.S.', ownership: 'NEER', commodity: 'electricity', status: 'operational'],[asset: 'facilities', location: 'ERCOT', ownership: 'NEER', commodity: 'electricity', status: 'operational'], [asset: 'facilities', location: 'Canada', ownership: 'NEER', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 226:
+(13, "physical assets: [facilities]\nlocations: []\nownerships: [NEE, FPL]\ncommodities: [renewable energy resources, energy]\nstatus: []\nrelationships: [asset: 'facilities', location: '', ownership: 'NEE, FPL', commodity: 'renewable energy resources, energy', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 227:
+(14, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 228:
+(15, "physical assets:  [generation plants, transmission and distribution systems, plant operations]\nlocations: []\nownerships: [FPL, NEE]\ncommodities: [electric energy]\nstatus: []\n\n\nrelationships: [asset: 'generation plants', location: '', ownership: 'FPL', commodity: 'electric energy', status: ''],  [asset: 'transmission and distribution systems', location: '', ownership: 'FPL', commodity: 'electric energy', status: ''], [asset: 'plant operations', location: '', ownership: 'FPL', commodity: 'electric energy', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 229:
+(16, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 230:
+(17, 'physical assets: [wind turbines]\nlocations: []\nownerships: [NextEra Energy Resources, subsidiaries]\ncommodities: [electricity generation]\nstatus: [operational, under construction]\n\nrelationships: [asset: wind turbines, location: , ownership: NextEra Energy Resources, subsidiaries, commodity: electricity generation, status: operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 231:
+(18, "physical assets: ['electric generation facilities', 'transmission and distribution facilities', 'gas infrastructure facilities']\nlocations: []\nownerships: ['NEE', 'FPL']\ncommodities: ['electricity', 'natural gas']\nstatus: ['under development', 'operational']\n\n\nrelationships: [asset: 'electric generation facilities', location: '', ownership: 'NEE, FPL', commodity: 'electricity', status: 'under development'], [asset: 'transmission and distribution facilities', location: '', ownership: 'NEE, FPL', commodity: 'electricity', status: 'operational'], [asset: 'gas infrastructure facilities', location: '', ownership: 'NEE, FPL', commodity: 'natural gas', status: 'under development']")
+----------------------------------------------------------------------------------------------------
+Chunk 232:
+(19, "physical assets:  electric generation and transmission facilities, natural gas transmission facilities, electric generation, transmission and distribution facilities, gas infrastructure facilities, other facilities\nlocations: []\nownerships: NEE and FPL \ncommodities: electricity, natural gas\nstatus: []\n\n\nrelationships: [asset: 'electric generation and transmission facilities', location: '', ownership: 'NEE and FPL', commodity: 'electricity', status: ''],  [asset: 'natural gas transmission facilities', location: '', ownership: 'NEE and FPL', commodity: 'natural gas', status: ''], [asset: 'electric generation, transmission and distribution facilities', location: '', ownership: 'NEE and FPL', commodity: 'electricity', status: ''], [asset: 'gas infrastructure facilities', location: '', ownership: 'NEE and FPL', commodity: 'natural gas', status: ''], [asset: 'other facilities', location: '', ownership: 'NEE and FPL', commodity: '', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 233:
+(20, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [east and lower west coasts of Florida, northwest Florida]\nownerships: [NEE, FPL]\ncommodities: [electricity, natural gas, fuels, energy, wind resource, solar resource]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: facilities, location: east and lower west coasts of Florida, ownership: NEE, FPL, commodity: electricity, status: operational], [asset: equipment, location: east and lower west coasts of Florida, ownership: NEE, FPL, commodity: electricity, status: operational], [asset: infrastructure, location: northwest Florida, ownership: NEE, FPL, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 234:
+(21, "physical assets: [transmission and distribution property, natural gas pipeline assets]\nlocations: []\nownerships: [NEE, FPL, NEER]\ncommodities: [natural gas, oil, energy commodities]\nstatus: [operational, impaired]\nrelationships: [asset: transmission and distribution property, location: '', ownership: NEE, commodity: natural gas, status: operational], [asset: natural gas pipeline assets, location: '', ownership: NEE, commodity: natural gas, status: impaired]")
+----------------------------------------------------------------------------------------------------
+Chunk 235:
+(22, "physical assets: [power transmission facilities, natural gas facilities, nuclear fuel transportation facilities, power generation facilities, transmission facilities, pipeline]\nlocations: []\nownerships: [ Subsidiaries of NEE, including FPL do not own many of the facilities they depend upon.]\ncommodities: [electricity, gas, transmission rights, nuclear fuel ]\nstatus: []\n\nrelationships: [asset: 'power transmission facilities', location: '', ownership: 'Subsidiaries of NEE, including FPL do not own many of the facilities they depend upon.', commodity: 'electricity', status: ''], [asset: 'natural gas facilities', location: '', ownership: 'Subsidiaries of NEE, including FPL do not own many of the facilities they depend upon.', commodity: 'gas', status: ''], [asset: 'nuclear fuel transportation facilities', location: '', ownership: 'Subsidiaries of NEE, including FPL do not own many of the facilities they depend upon.', commodity: 'nuclear fuel', status: ''], [asset: 'power generation facilities', location: '', ownership: 'Subsidiaries of NEE, including FPL', commodity: 'electricity', status: ''], [asset: 'transmission facilities', location: '', ownership: 'Subsidiaries of NEE, including FPL', commodity: 'electricity', status: ''], [asset: 'pipeline', location: '', ownership: 'Subsidiaries of NEE, including FPL', commodity: 'natural gas', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 236:
+(23, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 237:
+(24, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 238:
+(25, "physical assets: [nuclear generation facilities]\nlocations: [U.S., Europe]\nownerships: [NEE, FPL]\ncommodities: [electricity generation]\nstatus: [operational, under construction (potential)]\n\nrelationships: [asset: 'nuclear generation facilities', location: 'U.S.', ownership: 'NEE, FPL', commodity: 'electricity generation', status: 'operational, potential for under construction']]")
+----------------------------------------------------------------------------------------------------
+Chunk 239:
+(26, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 240:
+(27, 'physical assets:  []\nlocations:  []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 241:
+(28, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 242:
+(29, 'physical assets: [substations, gas pipelines]\nlocations:  [ ]\nownerships: [NEE, FPL] \ncommodities: [energy infrastructure]\nstatus: []\nrelationships: [asset: substations, location: , ownership: NEE, FPL, commodity: energy infrastructure, status: ]\nrelationships: [asset: gas pipelines, location: , ownership: NEE, FPL, commodity: energy infrastructure, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 243:
+(30, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 244:
+(31, 'physical assets: [ ]\nlocations: [ ]\nownerships: [  ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 245:
+(32, "physical assets: [battery storage facility, wind generation facilities, solar plus battery facility, renewable energy projects, Dania Beach Clean Energy Center]\nlocations: []\nownerships: [NextEra Energy Resources, NEP subsidiary, FPL]\ncommodities: [electricity generation, battery storage]\nstatus: [operational, under construction, in end-of-life] \nrelationships: [battery storage facility: '', location: '', ownership: subsidiaries of NextEra Energy Resources, commodity: battery storage, status: operational], [wind generation facilities: '', location: '', ownership: subsidiaries of NextEra Energy Resources, commodity: electricity generation, status: operational], [solar plus battery facility: '', location: '', ownership: subsidiaries of NextEra Energy Resources, commodity: electricity generation and battery storage, status: operational], [renewable energy projects: '', location: '', ownership: wholly owned subsidiary of NextEra Energy Resources, commodity: electricity generation, status: unknown], [Dania Beach Clean Energy Center: '', location: '', ownership: FPL, commodity: electricity generation, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 246:
+(33, 'physical assets: [solar facilities, environmental projects, storm protection plan investments, generation facilities]\nlocations: []\nownerships: [FPL]\ncommodities: []\nstatus: [operational]\nrelationships: [asset: solar facilities, location: [], ownership: FPL, commodity: energy production, status: operational], [asset: environmental projects, location: [], ownership: FPL, commodity: environmental protection, status: operational], [asset: storm protection plan investments, location: [], ownership: FPL, commodity: disaster mitigation, status: operational], [asset: generation facilities, location: [], ownership: FPL, commodity: electricity generation, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 247:
+(34, "physical assets: [New investments, Existing clean energy, Gas infrastructure, Customer supply, NEET, Mountain Valley Pipeline]\nlocations: [ ]\nownerships: [NEP, NEER]\ncommodities: [Energy]\nstatus: [Operational, Under Construction, End-of-life]\n\n\nrelationships: [asset: 'New investments', location: '', ownership: 'NEE', commodity: 'Energy', status: 'Operational'], [asset: 'Existing clean energy', location: '', ownership: 'NEE', commodity: 'Energy', status: 'Operational'], [asset: 'Gas infrastructure', location: '', ownership: 'NEE', commodity: 'Energy', status: 'Operational'], [asset: 'Customer supply', location: '', ownership: 'NEE', commodity: 'Energy', status: 'Operational'], [asset: 'NEET', location: '', ownership: 'NEE', commodity: 'Energy', status: 'Operational'], [asset: 'Mountain Valley Pipeline', location: '', ownership: 'NEP and NEER', commodity: 'Energy', status: 'End-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 248:
+(35, 'physical assets: []\nlocations: []\nownerships:  NextEra Energy Resources, NEE, FPL, NEECH \ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 249:
+(36, "physical assets: [Facilities, equipment, infrastructure]\nlocations: []\nownerships: [NEE, FPL, NEER]\ncommodities: [Electricity generation and distribution]\nstatus: []\nrelationships: [asset: 'Facilities', location: '', ownership: 'NEE', commodity: 'Electricity generation and distribution', status: ''], [asset: 'Equipment', location: '', ownership: 'NEE', commodity: 'Electricity generation and distribution', status: ''], [asset: 'Infrastructure', location: '', ownership: 'NEE', commodity: 'Electricity generation and distribution', status: ''],")
+----------------------------------------------------------------------------------------------------
+Chunk 250:
+(37, 'physical assets: []\nlocations: []\nownerships:  [NEE, NEECH, FPL, subsidiaries of NEE] \ncommodities: []\nstatus: []\n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 251:
+(38, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 252:
+(39, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 253:
+(40, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 254:
+(41, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 255:
+(42, 'physical assets: [long-lived assets]\nlocations: []\nownerships: [NEE] \ncommodities: []\nstatus: []\n\nrelationships: [asset: long-lived assets, location: , ownership: NEE, commodity: , status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 256:
+(43, 'physical assets: [nuclear plants] \nlocations: []\nownerships: [NEE, FPL, NEER]\ncommodities: [electricity generation]\nstatus: [operational, under construction (implied by "extension of operating licenses")]\n\n\nrelationships: [asset: \'nuclear plants\', location: \'\', ownership: \'NEE\', commodity: \'electricity generation\', status: \'operational, under construction (implied by "extension of operating licenses)\']')
+----------------------------------------------------------------------------------------------------
+Chunk 257:
+(44, "physical assets: [facilities]\nlocations: []\nownerships: [NEE, FPL, NEER]\ncommodities: [fuel, electricity, power generation]\nstatus: [] \n\nrelationships: [asset: 'facilities', location: '', ownership: 'NEE', commodity: 'fuel, electricity', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 258:
+(45, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 259:
+(46, 'physical assets: []\nlocations: []\nownerships: [NEE, FPL]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 260:
+(47, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 261:
+(48, 'physical assets:  []\nlocations: []\nownerships: [NextEra Energy, Inc., Florida Power & Light Company]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 262:
+(49, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 263:
+(50, "physical assets:  [property, plant, and equipment, regulatory assets, regulatory liabilities]\nlocations: []\nownerships: [FPL, FPSC, regulators]\ncommodities: []\nstatus: []\nrelationships: [asset: 'property, plant, and equipment', location: '', ownership: 'FPL', commodity: '', status: ''], [asset: 'regulatory assets', location: '', ownership: 'FPL', commodity: '', status: ''], [asset: 'regulatory liabilities', location: '', ownership: 'FPL', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 264:
+(51, "physical assets: [ Property, plant and equipment] \nlocations: []\nownerships: [ NEXTERA ENERGY, INC.]\ncommodities: []\nstatus: []\nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'NEXTERA ENERGY, INC.', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 265:
+(52, 'locations: []\nownerships: [ NEXTERA ENERGY, INC., FPL, NEER ]\ncommodities: []\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 266:
+(53, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 267:
+(54, "physical assets:  Electric utility plant and other property \nlocations: []\nownerships: FLORIDA POWER & LIGHT COMPANY\ncommodities: []\nstatus: []\nrelationships: [asset: 'Electric utility plant and other property', location: '', ownership: 'FLORIDA POWER & LIGHT COMPANY', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 268:
+(55, 'physical assets: [ ]\nlocations: [Florida]\nownerships: [NextEra Energy, Inc., Florida Power & Light Company, NextEra Energy Resources, LLC, NextEra Energy Transmission, LLC]\ncommodities: []\nstatus: []\n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 269:
+(56, 'physical assets: [Early retirement of generation facilities and transmission assets, Deferred clause and franchise expenses, Storm restoration costs, Other]\nlocations: [ ]\nownerships: [NEXTERA ENERGY, INC., FLORIDA POWER & LIGHT COMPANY]\ncommodities: [Electricity] \nstatus: [Operational, Under construction, End-of-life]\nrelationships: [asset: Early retirement of generation facilities and transmission assets, location:  , ownership: NEXTERA ENERGY, INC. and FLORIDA POWER & LIGHT COMPANY, commodity: Electricity, status: Operational], [asset: Deferred clause and franchise expenses, location:  , ownership: NEXTERA ENERGY, INC. and FLORIDA POWER & LIGHT COMPANY, commodity: Electricity, status: Operational], [asset: Storm restoration costs, location:  , ownership: NEXTERA ENERGY, INC. and FLORIDA POWER & LIGHT COMPANY, commodity: Electricity, status: Under construction], [asset: Other, location:  , ownership: NEXTERA ENERGY, INC. and FLORIDA POWER & LIGHT COMPANY, commodity: Electricity, status: End-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 270:
+(57, "physical assets:  [SolarTogether ® , electric plant, transmission businesses' units of utility property] \nlocations: []\nownerships: [FPL, NEER]\ncommodities: [solar energy, electricity]\nstatus: [operational, under construction]\n\n\nrelationships: [asset: SolarTogether ®, location:  , ownership: FPL, commodity: solar energy, status: operational], [asset: electric plant, location: , ownership: FPL, commodity: electricity, status: operational], [asset: transmission businesses' units of utility property, location: , ownership: NEER and FPL, commodity: electricity, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 271:
+(58, 'physical assets: [electric plant in service, other property, transmission assets, nuclear fuel, construction materials, major equipment contracts] \nlocations: [ ]\nownerships: [FPL, NEER]\ncommodities: [electricity, uranium]\nstatus: [operational, under construction]\n\nrelationships: [asset: electric plant in service, location:  , ownership: FPL, commodity: electricity, status: operational], [asset: other property, location:  , ownership: FPL, commodity:  , status: operational], [asset: transmission assets, location:  , ownership: NEER, commodity: electricity, status: operational], [asset: nuclear fuel, location:  , ownership: FPL, commodity: uranium, status: operational], [asset: construction materials, location:  , ownership: FPL and NEER, commodity:  , status: under construction], [asset: major equipment contracts, location:  , ownership: FPL and NEER, commodity:  , status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 272:
+(59, 'physical assets: [nuclear units, wind facilities, solar facilities]\nlocations: [Turkey Point, St. Lucie]\nownerships: [NEE, FPL]\ncommodities: [electricity generation]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: nuclear units, location: Turkey Point, ownership: FPL, commodity: electricity generation, status: operational], [asset: wind facilities, location:  , ownership: NEER, commodity: electricity generation, status: end-of-life], [asset: solar facilities, location: , ownership: NEER, commodity: electricity generation, status: end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 273:
+(60, 'physical assets: [electric generation plants, facilities, nuclear plants]\nlocations: [Seabrook Station, Duane Arnold Energy Center, Point Beach Nuclear Power Plant]\nownerships: [NextEra Energy, Inc., Florida Power & Light Company (FPL)]\ncommodities: [] \nstatus: [operational, under construction]\n\nrelationships: [asset: electric generation plants, location: Seabrook Station, ownership: NextEra Energy, Inc., commodity: electricity, status: operational], [asset: nuclear plants, location: Duane Arnold Energy Center, ownership: NextEra Energy, Inc., commodity: electricity, status: operational], [asset: nuclear plants, location: Point Beach Nuclear Power Plant, ownership: NextEra Energy, Inc., commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 274:
+(61, "physical assets: [nuclear generation units, combustion turbines, battery storage]\nlocations: []\nownerships: [NEE]\ncommodities: [electricity]\nstatus: [operational]\n\nrelationships: [asset: 'nuclear generation units', location: '', ownership: 'NEE', commodity: 'electricity', status: 'operational'], [asset: 'combustion turbines', location: '', ownership: 'NEE', commodity: 'electricity', status: 'operational'], [asset: 'battery storage', location: '', ownership: 'NEE', commodity: 'electricity', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 275:
+(62, "physical assets:  [ ]\nlocations: [FPL's service area]\nownerships: [NEE, FPL]\ncommodities: [ ]\nstatus: [ ]\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 276:
+(63, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 277:
+(64, 'physical assets:  [ ]\nlocations: [Florida, U.S., various states, certain foreign jurisdictions]\nownerships: [NEE, subsidiaries of NextEra Energy Resources, third-party investors, NEE and FPL, Noncontrolling Interests, differential membership interests]\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 278:
+(65, 'physical assets: [wind generation facilities, solar generation facilities, battery storage facility]\nlocations: [Florida, geographically diverse locations throughout the U.S., Midwest region of the U.S.]\nownerships: [NextEra Energy Resources, NEP subsidiary, Florida City Gas business]\ncommodities: [electricity generation]\nstatus: [operational, under construction] \n\n\nrelationships: [asset: wind generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity generation, status: operational], [asset: solar generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity generation, status: operational], [asset: battery storage facility, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity generation, status: operational], [asset: wind generation facilities, location: Midwest region of the U.S., ownership: NEP subsidiary, commodity: electricity generation, status: operational], [asset: wind generation facilities, location: Florida, ownership: Florida City Gas business, commodity: electricity generation, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 279:
+(66, 'physical assets: [battery storage facility, wind generation facilities, solar generation facilities]\nlocations: [California, geographically diverse locations throughout the U.S., West and Midwest regions of the U.S.]\nownerships: [NextEra Energy Resources, NEP subsidiary, third party]\ncommodities: [energy commodities, electric capacity, electric transmission, electricity]\nstatus: [operational, under construction]\n\nrelationships: [asset: battery storage facility, location: California, ownership: NEP subsidiary, commodity: energy commodities, status: operational], \n[asset: wind generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational], \n[asset: solar generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational], \n[asset: wind generation facilities, location: West and Midwest regions of the U.S., ownership: NEP subsidiary, commodity: electricity, status: operational], \n[asset: solar generation facilities, location: geographically diverse locations throughout the U.S., ownership: NextEra Energy Resources, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 280:
+(67, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [energy commodities, electric capacity, electric transmission]\nstatus: [ ] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 281:
+(68, "physical assets:  [power generation, gas infrastructure]\nlocations: []\nownerships: [NEE, FPL] \ncommodities: [electricity, natural gas]\nstatus: [operational]\n\nrelationships: [asset: 'power generation', location: '', ownership: 'NEE', commodity: 'electricity', status: 'operational'], [asset: 'gas infrastructure', location: '', ownership: 'NEE', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 282:
+(69, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: \nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 283:
+(70, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: [commodity contracts]\nstatus: []\nrelationships:  \n\n\nLet me explain why:\n\n* **Physical Assets:** The text focuses on financial instruments (derivative assets and liabilities) related to commodities, not tangible physical assets like facilities or equipment.\n* **Locations:** No geographical locations are mentioned in the context of physical assets. \n* **Status:** There is no information about the operational status, construction, or end-of-life status of any physical assets.')
+----------------------------------------------------------------------------------------------------
+Chunk 284:
+(71, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['power', 'gas', 'congestion']\nstatus: []\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 285:
+(72, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['Power', 'Natural gas', 'Oil']\nstatus: []\n\n\nrelationships:")
+----------------------------------------------------------------------------------------------------
+Chunk 286:
+(73, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 287:
+(74, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 288:
+(75, 'physical assets: []\nlocations: []\nownerships: [NextEra Energy Resources, NEE, FPL, NextEra Energy Operating Partners, LP (NEP OpCo), Mountain Valley Pipeline, LLC]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 289:
+(76, "physical assets: [Mountain Valley Pipeline]\nlocations: []\nownerships: [NextEra Energy Resources]\ncommodities: [pipeline transportation]\nstatus: [under construction] \nrelationships: [asset: 'Mountain Valley Pipeline', location: '', ownership: 'NextEra Energy Resources', commodity: 'pipeline transportation', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 290:
+(77, 'physical assets:  [property, plant and equipment, transmission lines]\nlocations: [former service areas of FPL and Gulf Power Company, six states, five in the Midwest and Nevada]\nownerships: [FPL, NEET, NEE, NextEra Energy Resources, owners of Energy Power Partners Fund I, L.P. and North American Sustainable Energy Fund, L.P.]\ncommodities:  [electricity, renewable natural gas]\nstatus: [operational, under construction]\n\n\nrelationships: [asset: property, plant and equipment, location: former service areas of FPL and Gulf Power Company, ownership: FPL, commodity: electricity, status: operational], [asset: transmission lines, location: six states, five in the Midwest and Nevada, ownership: NEET, commodity: electricity, status: operational] , [asset: biogas projects, location:  not specified, ownership: NextEra Energy Resources, commodity: renewable natural gas, status: operating]')
+----------------------------------------------------------------------------------------------------
+Chunk 291:
+(78, "physical assets:  [Electric plant in service and other property, Nuclear fuel, Construction work in progress]\nownerships: [NEE, FPL, NEER]\ncommodities: []\nstatus: [operational, under construction]\n\nrelationships: [asset: 'Electric plant in service and other property', location: ' ', ownership: 'NEE, FPL', commodity: 'electricity generation, transmission, distribution', status: 'operational'],  [asset: 'Nuclear fuel', location: ' ', ownership: 'NEE, FPL', commodity: 'nuclear power generation', status: 'operational'], [asset: 'Construction work in progress', location: ' ', ownership: 'NEE, FPL', commodity: 'electricity infrastructure development', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 292:
+(79, 'physical assets: [ ]\nlocations: [ ]\nownerships: [NextEra Energy, NEE, NEP, Sabal Trail Transmission, LLC (Sabal Trail), Mountain Valley Pipeline]\ncommodities: [natural gas pipelines or electric generation facilities, natural gas, renewable energy]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 293:
+(80, "physical assets: [electric transmission line, solar generation facilities, wind generation facilities, battery storage facilities]\nlocations: []\nownerships: [NextEra Energy Resources, subsidiaries of NextEra Energy Resources]\ncommodities: [electricity generation and storage]\nstatus: [operational]\n\nrelationships: [asset: electric transmission line, location: '', ownership: NEET subsidiary, commodity: electricity transmission, status: operational], [asset: solar generation facilities, location: '', ownership: indirect subsidiaries of NextEra Energy Resources, commodity: electricity generation, status: operational], [asset: wind generation facilities, location: '', ownership: VIEs consolidated by NextEra Energy Resources, commodity: electricity generation, status: operational], [asset: battery storage facilities, location: '', ownership: VIEs consolidated by NextEra Energy Resources, commodity: energy storage, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 294:
+(81, 'physical assets: [ land use agreements, buildings, equipment, battery storage facilities, natural gas and oil electric generation facility, renewable energy projects, substations, wind facilities, solar facilities, nuclear units]\nlocations: []\nownerships: [ subsidiaries of NEE, FPL, NEER ]\ncommodities: [ electricity ]\nstatus: [ operational ]\n\nrelationships: [asset: land use agreements, location: , ownership: subsidiaries of NEE, commodity: renewable energy projects, status: operational], [asset: buildings, location: , ownership: subsidiaries of NEE, commodity: , status: operational], [asset: equipment, location: , ownership: subsidiaries of NEE, commodity: , status: operational], [asset: battery storage facilities, location: , ownership: subsidiaries of NEE, commodity: electricity, status: operational], [asset: natural gas and oil electric generation facility, location: , ownership: subsidiaries of NEE, commodity: electricity, status: operational], [asset: renewable energy projects, location: , ownership: subsidiaries of NEE, commodity: electricity, status: operational], [asset: substations, location: , ownership: subsidiaries of NEE, commodity: electricity, status: operational], [asset: wind facilities, location: , ownership: NEER, commodity: electricity, status: operational], [asset: solar facilities, location: , ownership: NEER, commodity: electricity, status: operational], [asset: nuclear units, location: , ownership: FPL and NEER, commodity: electricity, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 295:
+(82, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 296:
+(83, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 297:
+(84, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 298:
+(85, 'physical assets: []\nlocations: []\nownerships: [NEE, FPL, NEECH]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 299:
+(86, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 300:
+(87, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 301:
+(88, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 302:
+(89, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 303:
+(90, 'physical assets: [financing leases, contracts, natural gas transportation agreements, wind turbines, wind towers, solar modules, uranium, nuclear fuel]\nlocations: [ ]\nownerships: [NextEra Energy (NEE), Florida Power & Light Company (FPL), Sabal Trail and Florida Southeast Connection, LLC, Mountain Valley Pipeline, joint venture, Seabrook, St. Lucie Unit No. ]\ncommodities: [natural gas, wind energy, solar energy, uranium]\nstatus: [operational, under construction]\n\nrelationships: [asset: financing leases, location:  , ownership: NEE or one of its subsidiaries, commodity:  , status: operational], [asset: contracts, location:  , ownership: NEE or FPL, commodity: transportation and storage of natural gas, wind energy, solar energy, uranium, status: operational], [asset: natural gas transportation agreements, location: Sabal Trail, Florida Southeast Connection, Mountain Valley Pipeline,  , ownership: NEE or FPL, commodity: natural gas, status: operational], [asset: wind turbines, location:  , ownership: NEER, commodity: wind energy, status: operational], [asset: wind towers, location:  , ownership: NEER, commodity: wind energy, status: operational], [asset: solar modules, location:  , ownership: NEER, commodity: solar energy, status: operational], [asset: uranium, location:  , ownership: NEER, commodity: nuclear fuel, status: operational], [asset: nuclear fuel, location:  , ownership: NEER, commodity: nuclear energy, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 304:
+(91, "physical assets: [transmission and distribution property, natural gas pipeline assets]\nlocations: []\nownerships: [ NextEra Energy Resources and FPL ] \ncommodities: []\nstatus: [ ]\nrelationships: [asset: transmission and distribution property, location:  '', ownership: NextEra Energy Resources and FPL , commodity: '', status:  ], [asset: natural gas pipeline assets, location:  '', ownership: NextEra Energy Resources and FPL , commodity: '', status:  ]")
+----------------------------------------------------------------------------------------------------
+Chunk 305:
+(92, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 306:
+(93, "physical assets: [Property, plant and equipment]\nlocations: []\nownerships: [NEE]\ncommodities: []\nstatus: []\n\n\nrelationships: [asset: 'Property, plant and equipment', location: '', ownership: 'NEE', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 307:
+(94, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 308:
+(95, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 309:
+(96, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 310:
+(97, 'physical assets: []\nlocations: []\nownerships: [NextEra Energy Capital Holdings, Inc., FPL Group Capital Inc]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 311:
+(98, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 312:
+(99, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 313:
+(100, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 314:
+(101, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 315:
+(102, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 316:
+(103, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 317:
+(104, 'physical assets: []\nlocations: []\nownerships: Florida Power & Light Company \ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------

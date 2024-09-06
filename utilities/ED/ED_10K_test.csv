@@ -1,0 +1,654 @@
+physical asset,location,ownership,commodity,status
+generating stations,New York City,CECONY,electricity,operational
+transmission facilities,New York City,CECONY,electricity,operational
+gas distribution facilities,New York City,CECONY,natural gas,operational
+steam-electric generating stations,,CECONY,steam and electricity,operational
+steam-only generating stations,,CECONY,steam,operational
+transmission piping,,CECONY,steam,operational
+distribution facilities,,O&R,electricity,operational
+transmission lines,,O&R and RECO,electricity,operational
+transmission substations,,O&R and RECO,electricity,operational
+distribution substations,,O&R and RECO,electricity,operational
+in-service line transformers,,O&R and RECO,electricity,operational
+overhead distribution lines,,O&R and RECO,electricity,operational
+underground distribution lines,,O&R and RECO,electricity,operational
+power grid,"Brooklyn, NY",CECONY,offshore wind generation,
+power grid,United States,public and private electric utilities,carbon dioxide emissions,
+generating facilities,,CECONY,energy production,"operational, under construction"
+facilities,,Con Edison,electricity,
+facilities,,CECONY,electricity,
+facilities,,O&R,electricity,
+facilities,,Clean Energy Businesses,electricity,
+facilities,,Con Edison Transmission,electricity,
+"Mountain Valley Pipeline, LLC",,Con Edison Transmission,,
+Stagecoach,,Con Edison Transmission,,
+Honeoye,,Con Edison Transmission,,
+Clean Energy Businesses,,Con Edison,,
+Con Edison Transmission,,Con Edison,,
+Stagecoach Gas Services LLC (Stagecoach),,,,
+"Mountain Valley Pipeline, LLC",,,,
+Honeoye,,,,
+Mountain Valley Pipeline,,Con Edison,,impaired
+Facilities,,CECONY,Gas,
+Equipment,,CECONY,Gas,
+Infrastructure,,CECONY,Gas,
+Facilities,,CECONY,Steam,
+Equipment,,CECONY,Steam,
+Infrastructure,,CECONY,Steam,
+steam generating facilities,,CON EDISON,steam,operational
+utility plant,,CON EDISON,electricity,operational
+electric utility plant,,CON EDISON,electricity,operational
+gas utility plant,,CON EDISON,natural gas,operational
+renewable electric projects,,CON EDISON,electricity,operational
+electric utility plant,,CON EDISON,electricity,operational
+electric utility plant,,CON EDISON,natural gas,operational
+Stagecoach,,Con Edison,,
+Clean Energy Businesses,,Con Edison,,
+properties formerly used by CECONY in its operations,,CECONY,,
+electric and gas transmission projects,,Con Edison,,
+utility construction expenditures,,"Con Edison, CECONY",,under construction
+electric plant,,,,operational
+gas plant,,,,operational
+general plant,,,,operational
+construction work in progress,,,,under construction
+Utility plant,,"Consolidated Edison, Inc.",,operational
+Construction work in progress,,"Consolidated Edison, Inc.",,under construction
+Copper Mountain Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Coram,,"Consolidated Edison Company of New York, Inc.",,operational
+CED Southwest,,"Consolidated Edison Company of New York, Inc.",,operational
+Wind Holdings,,"Consolidated Edison Company of New York, Inc.",,operational
+CED California,,"Consolidated Edison Company of New York, Inc.",,operational
+Texas Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+California Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Broken Bow II,,"Consolidated Edison Company of New York, Inc.",,operational
+Upton County Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Mesquite Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+CED Nevada,,"Consolidated Edison Company of New York, Inc.",,operational
+Virginia,,"Consolidated Edison Company of New York, Inc.",,operational
+Utility Plant,,"Consolidated Edison Company of New York, Inc.",,
+Non-utility property,,"Consolidated Edison Company of New York, Inc.",,
+Construction work in progress,,"Consolidated Edison Company of New York, Inc.",,
+Cash and temporary cash investments,,"Consolidated Edison Company of New York, Inc.",,
+Utility plant,,Con Edison,,
+Non-utility plant,,Con Edison,,
+Utility plant,,CECONY,,
+Non-utility plant,,CECONY,,
+Electric system,New York,"RECO, CON EDISON",Electricity,Operational
+electric and gas plant assets,,Con Edison,,operational
+steam plant assets,,CECONY,,operational
+Lease obligations,,"Con Edison, CECONY",,under construction
+Right-of-use assets,,"Con Edison, CECONY",,
+Electricity grid,New York City,Con Edison,Electricity,Operational
+Gas pipelines,Upstate New York,Con Edison,Natural gas,Operational
+Steam distribution system,New York City,Con Edison,Steam,Operational
+Renewable energy projects,Not specified,Con Edison,Renewable energy,Operational
+Electric facilities,United States of America,Con Edison,Electricity,
+Gas facilities,United States of America,Con Edison,Natural Gas,
+Steam facilities,United States of America,Con Edison,Steam,
+Transmission infrastructure,United States of America,Con Edison,"Electricity, Natural Gas, Steam",
+Mountain Valley Pipeline LLC,WV and VA,CET and a joint venture,gas transmission,
+Credit agreement,,Companies and the administrative agent,Funding requirements,
+project debt,,Clean Energy Businesses,Energy production,
+information systems,,The Companies,,operational
+network infrastructure,,The Companies,,operational
+customer billing and information system,,Utilities,,under construction
+application maintenance and support,,contractors,,operational
+infrastructure and operations services,,contractors,,operational
+facilities,,Con Edison,,
+Mountain Valley Pipeline,,Con Edison Transmission,,impaired
+gas utility plant,,CON EDISON,gas,operational
+steam utility plant,,CON EDISON,steam,operational
+generation plants,,CON EDISON,power,operational
+electric utility plant,,CON EDISON,electricity,operational
+Gas utility plant,,CON EDISON,Gas,operational
+facilities,,Con Edison,electricity,operational
+equipment,,Con Edison,gas,operational
+Utilities’ service territory,Utilities’ service territory,,energy,
+Net plant,,Con Edison,,
+Other noncurrent assets,,Con Edison,,
+Stagecoach Gas Services LLC,,"Con Edison, CET, joint venture partner",,Operational
+Utility plant,,"Consolidated Edison, Inc.",,
+Non-utility plant,,"Consolidated Edison, Inc.",,
+Utility plant at original cost,,"Consolidated Edison Company of New York, Inc.",,
+Construction work in progress,,"Consolidated Edison Company of New York, Inc.",,
+Non-utility property,,"Consolidated Edison Company of New York, Inc.",,
+Utility plant,,Con Edison,,Operational
+Non-utility plant,,Con Edison,,Operational
+cloud computing arrangements,,"Con Edison, CECONY",,operational
+Clean Energy Businesses,,Con Edison,,held for sale
+real estate,,Con Edison,,operational
+distribution poles,,Con Edison,,operational
+Facilities,,Con Edison,Electricity,
+Equipment,,CECONY,Natural Gas,
+Infrastructure,,O&R,Steam,
+Non-utility property,,Con Edison,,operational
+Construction work in progress,,Con Edison,,under construction
+two new substations,"Jamaica, Queens",CECONY,,under construction
+generating stations,New York City,CECONY,electricity,operational
+environmental protection facilities,,Con Edison,,operational
+transmission system,Long Island,Con Edison Transmission,electricity,operational
+electric transmission project,between Long Island and the rest of New York State,"Con Edison Transmission, New York Transco, NYPA",electricity,under construction
+energy storage,New York State,CECONY and O&R,energy storage,under construction
+thermal energy network pilot projects,New York State,CECONY and O&R,thermal energy,under construction
+distributed system platform,New York State,CECONY and O&R,energy distribution,operational
+advanced metering infrastructure (AMI),New York State,CECONY and O&R,electricity metering,operational
+customer billing and information system,,CECONY and O&R,,operational
+electric equipment,,The Companies,electricity,operational
+electric equipment,,The Companies,gas,operational
+electric equipment,,The Companies,steam service,operational
+utility plant,,Con Edison,electricity,
+electric facilities,,CECONY,electricity,
+gas facilities,,CECONY,natural gas,
+steam facilities,,CECONY,steam,
+transmission companies,,Con Edison Transmission,"electricity, natural gas",
+Clean Energy Businesses,,Con Edison and CECONY,,
+Renewable electric project,,Con Edison,Electricity generation,Sold
+Stagecoach Gas Services LLC (Stagecoach),,Con Edison Transmission,Natural gas transmission,Impaired
+"Mountain Valley Pipeline, LLC",,Con Edison Transmission,Natural gas transmission,Impaired
+"Mountain Valley Pipeline, LLC",,Con Edison Transmission,,
+Honeoye,,Con Edison Transmission,,
+Stagecoach,,Con Edison Transmission,,
+steam generating facilities,,CON EDISON,steam,operational
+electric utility plant,New York,O&R,electricity,operational
+gas utility plant,New York,O&R,natural gas,operational
+Utility construction expenditures,,Con Edison,,
+Clean Energy Businesses,,Con Edison,,
+Stagecoach,,Con Edison,,
+renewable electric projects,,Con Edison,,
+UTILITY PLANT,,"Consolidated Edison, Inc.",,
+NON-UTILITY PLANT,,"Consolidated Edison, Inc.",,
+Electric,,"Consolidated Edison Company of New York, Inc.",,
+Gas,,"Consolidated Edison Company of New York, Inc.",,
+Steam,,"Consolidated Edison Company of New York, Inc.",,
+General,,"Consolidated Edison Company of New York, Inc.",,
+Utility Plant,,Con Edison,,
+Non-utility plant,,Con Edison,,
+Infrastructure,,RECO,Electric distribution,Operational
+Infrastructure,,RECO,grid resilience,under construction (IIP)
+Infrastructure,,RECO,smart grids,under construction (IIP)
+customer billing and information system,,"CECONY, O&R",,operational
+facilities,New York Transco LLC (New York Transco),Con Edison Transmission,electricity,operational
+equipment,Broken Bow II,Con Edison,wind energy,held for sale
+real estate,,The Companies,,
+distribution poles,,The Companies,,
+Renewable electric projects,Virginia,Con Edison (partially),Electricity,
+Crane solar project,,Con Edison,Electricity,
+Tax Equity Projects,,"Con Edison (partially), noncontrolling tax equity investor",Electricity,
+CED Nevada Virginia,,"Con Edison (partially), noncontrolling tax equity investor",Electricity,
+Utilities,,Con Edison and subsidiaries,,
+renewable electric projects,not specified,"Con Edison Clean Energy Businesses, Inc.",renewable energy,under construction
+electric transmission projects,not specified,"Con Edison Transmission, Inc.",electricity,operational
+renewable energy projects,,Con Edison,electricity,operational
+facilities,,Con Edison,electricity,operational
+pipeline,West Virginia and Virginia,Mountain Valley Pipeline LLC (MVP),natural gas,under construction
+Electric Facilities,New York City (except a part of Queens) and most of Westchester County,CECONY,Electric Energy,
+Electric Sales and Deliveries,New York City (except a part of Queens) and most of Westchester County,CECONY,Electric Energy,
+Electric Peak Demand Electric Supply,New York City (except a part of Queens) and most of Westchester County,CECONY,Electric Energy,
+electric transmission projects,NY,"Consolidated Edison Transmission, LLC (CET Electric)",electricity,operational
+gas storage facility,upstate NY,Honeoye Storage Corporation,gas,operational
+gas transmission project,"WV, VA",Mountain Valley Pipeline LLC,gas,under construction
+gas pipeline and storage business,"northern PA, southern NY",Stagecoach Gas Services LLC,gas,disposed
+electric generating facilities,NY State,Con Edison,electricity,operational
+electric transmission facilities,NY State,utilities (mentioned in the text but not specific companies),electricity,
+generating stations,New York City,CECONY,electricity,operational
+transmission facilities,New York City,CECONY,electricity,operational
+gas distribution facilities,New York City,CECONY,natural gas,operational
+pipeline,in or near CECONY's service territory,CECONY,natural gas,operational
+mains,CECONY's service territory,CECONY,natural gas,operational
+service lines,CECONY's service territory,CECONY,natural gas,operational
+natural gas liquefaction facility,"Astoria property in Queens, NY",CECONY,natural gas,operational
+storage tank,"Astoria property in Queens, NY",CECONY,natural gas,operational
+steam-electric generating stations,,CECONY,steam and electricity,operational
+steam-only generating stations,,CECONY,steam,operational
+transmission piping,,CECONY,steam,operational
+distribution facilities,,O&R,electricity,operational
+transmission lines,,O&R and RECO,electricity,operational
+transmission substations,,O&R and RECO,electricity,operational
+distribution substations,,O&R and RECO,electricity,operational
+in-service line transformers,,O&R and RECO,electricity,operational
+overhead distribution lines,,O&R and RECO,electricity,operational
+underground distribution lines,,O&R and RECO,electricity,operational
+facilities,O&R’s service area,O&R,electricity,operational
+equipment,O&R’s franchise area,O&R,electricity,operational
+facilities,O&R’s service area,O&R,natural gas,operational
+equipment,O&R’s franchise area,O&R,natural gas,operational
+Gas Delivery System,O&R's service area,O&R and CECONY,Natural Gas,Operational
+PJM assets,NJ/PA,CON EDISON,Electricity,Operational
+New England assets,MA/RI,CON EDISON,Electricity,Operational
+California Solar projects,California,CON EDISON,Electricity,Operational
+Texas Solar projects,Texas,CON EDISON,Electricity,Operational
+Upton Solar project,Texas,CON EDISON,Electricity,Operational
+Copper Mountain Solar project,Nevada,CON EDISON,Electricity,Operational
+Mesquite Solar project,Arizona,CON EDISON,Electricity,Operational
+Great Valley Solar project,California,CON EDISON,Electricity,Operational
+Water Strider Solar project,Virginia,CON EDISON,Electricity,Operational
+Battle Mountain Solar/Battery Energy Storage System project,Nevada,CON EDISON,Electricity,Operational
+gas transmission project,WV and VA,joint venture with four other partners,natural gas,under construction
+pipeline,northern PA and southern NY,CET Gas,natural gas,operational
+power grid,"Brooklyn, NY",CECONY,offshore wind generation,
+power grid,United States,public and private electric utilities,carbon dioxide emissions,
+energy storage,NY service areas,CECONY and O&R,power capacity,under construction
+facilities,NY service areas,CECONY and O&R,distributed generation,operational
+equipment,NY service areas,CECONY and O&R,distributed generation,operational
+"AMI components (smart meters, communication network, information technology systems and business applications)",NY service areas,CECONY and O&R,energy management,deployed
+infrastructure,"CECONY's electric, gas and steam systems",CECONY,"electricity, gas, steam",operational
+facilities,"CECONY's electric, gas and steam systems",CECONY,"electricity, gas, steam",operational
+equipment,"CECONY's electric, gas and steam systems",CECONY,"electricity, gas, steam",operational
+"Remedial design, planning or action","Astoria section of Queens, NY",CECONY,,ongoing
+Newtown Creek,"Brooklyn and Queens, NY","PRPs, EPA, CECONY","industrial, petroleum, recycling, manufacturing, distribution, wastewater treatment, transportation",contaminated
+facilities,Newtown Creek,"PRPs, EPA, CECONY","industrial, petroleum, recycling, manufacturing, distribution,  status: operational] \n[asset: warehouses, location: Newtown Creek, ownership: PRPs, EPA, CECONY, commodity: distribution",operational
+trucking,Newtown Creek,"PRPs, EPA, CECONY",transportation,operational
+concrete manufacture,Newtown Creek,"PRPs, EPA, CECONY",construction,operational
+transportation infrastructure,Newtown Creek,"PRPs, EPA, CECONY",transportation,operational
+wastewater treatment plant,Newtown Creek,"PRPs, EPA, CECONY",wastewater treatment,operational
+feeder,"New Rochelle, NY",CECONY,power distribution,failed
+street manhole,"New Rochelle, NY",CECONY,power distribution,damaged
+transmission lines,"Hudson River, NJ marina",CECONY and other utility,power transmission,repaired
+pier,"Hudson River, NJ marina",marina owner,docking,collapsed
+Manufactured gas plants,"Orange County and Rockland County, NY",O&R and its predecessors,energy production,"operational, under construction, in end-of-life"
+transmission lines,unspecified,CECONY and the other utility,electricity distribution,operational
+generating facilities,,CECONY,energy production,"operational, under construction"
+energy facilities,densely populated public places,The Utilities,"electricity, gas, steam",operational
+energy facilities,NY,The Utilities,"electricity, gas, steam",under construction
+energy facilities,densely populated public places,The Utilities,"electricity, gas, steam",end-of-life
+facilities,,CON EDISON,electricity,operational
+equipment,,CON EDISON,electricity,operational
+infrastructure,,CON EDISON,gas,operational
+facilities,,Con Edison,electricity,
+facilities,,CECONY,electricity,
+facilities,,O&R,electricity,
+facilities,,Clean Energy Businesses,electricity,
+facilities,,Con Edison Transmission,electricity,
+Facilities,New York City,CECONY,Electric service,operational
+Equipment,New York's Westchester County,O&R,Gas service,operational
+"Mountain Valley Pipeline, LLC",,Con Edison Transmission,,
+Stagecoach,,Con Edison Transmission,,
+Honeoye,,Con Edison Transmission,,
+facilities,customer premises,The Companies,"electric, gas, steam service",operational
+equipment,work and common areas,Con Edison and its subsidiaries,"electric, gas, steam service",operational
+Clean Energy Businesses,,Con Edison,,
+Con Edison Transmission,,Con Edison,,
+Stagecoach Gas Services LLC (Stagecoach),,,,
+"Mountain Valley Pipeline, LLC",,,,
+Honeoye,,,,
+Mountain Valley Pipeline,,Con Edison,,impaired
+Facilities,,CECONY,Gas,
+Equipment,,CECONY,Gas,
+Infrastructure,,CECONY,Gas,
+Facilities,,CECONY,Steam,
+Equipment,,CECONY,Steam,
+Infrastructure,,CECONY,Steam,
+steam generating facilities,,CON EDISON,steam,operational
+utility plant,,CON EDISON,electricity,operational
+electric utility plant,,CON EDISON,electricity,operational
+gas utility plant,,CON EDISON,natural gas,operational
+renewable electric projects,,CON EDISON,electricity,operational
+electric utility plant,,CON EDISON,electricity,operational
+electric utility plant,,CON EDISON,natural gas,operational
+Gas utility plant,,Con Edison,gas,Operational
+Stagecoach,,Con Edison,,
+Clean Energy Businesses,,Con Edison,,
+properties formerly used by CECONY in its operations,,CECONY,,
+electric and gas transmission projects,,Con Edison,,
+utility construction expenditures,,"Con Edison, CECONY",,under construction
+electric plant,,,,operational
+gas plant,,,,operational
+general plant,,,,operational
+construction work in progress,,,,under construction
+Mountain Valley Pipeline LLC,,"Consolidated Edison, Inc.",gas transmission,under construction
+Utility plant,,"Consolidated Edison, Inc.",,operational
+Construction work in progress,,"Consolidated Edison, Inc.",,under construction
+Copper Mountain Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Coram,,"Consolidated Edison Company of New York, Inc.",,operational
+CED Southwest,,"Consolidated Edison Company of New York, Inc.",,operational
+Wind Holdings,,"Consolidated Edison Company of New York, Inc.",,operational
+CED California,,"Consolidated Edison Company of New York, Inc.",,operational
+Texas Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+California Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Broken Bow II,,"Consolidated Edison Company of New York, Inc.",,operational
+Upton County Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Mesquite Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+CED Nevada,,"Consolidated Edison Company of New York, Inc.",,operational
+Virginia,,"Consolidated Edison Company of New York, Inc.",,operational
+Utility Plant,,"Consolidated Edison Company of New York, Inc.",,
+Non-utility property,,"Consolidated Edison Company of New York, Inc.",,
+Construction work in progress,,"Consolidated Edison Company of New York, Inc.",,
+Cash and temporary cash investments,,"Consolidated Edison Company of New York, Inc.",,
+Utility plant,,Con Edison,,
+Non-utility plant,,Con Edison,,
+Utility plant,,CECONY,,
+Non-utility plant,,CECONY,,
+\'Mountain Valley Pipeline\,\'Jefferson National Forest\,\'Con Edison and CET Gas\,\'natural gas transportation\,\'under construction\
+Gas accounts,,CECONY,Energy,Longer-lived
+Electric system,New York,"RECO, CON EDISON",Electricity,Operational
+Electric Distribution Systems,Flatbush area of Brooklyn,CECONY,Electric service,Operational
+Utilities’ NY electric rate plans,NY,"CECONY, O&R",electricity,operational
+facilities,NY,"CECONY, O&R",electricity,operational
+equipment,NY,"CECONY, O&R",electricity,operational
+electric and gas plant assets,,Con Edison,,operational
+steam plant assets,,CECONY,,operational
+facilities and equipment,sites at which gas was manufactured or stored,"Utilities, their predecessors",gas,under construction
+manufactured gas plant sites,Superfund Sites,one of the Utilities,gas,in end-of-life
+facilities,,Con Edison,electricity,
+equipment,,Clean Energy Businesses,electricity,
+infrastructure,,NYSPSC,,
+Lease obligations,,"Con Edison, CECONY",,under construction
+Right-of-use assets,,"Con Edison, CECONY",,
+Electricity grid,New York City,Con Edison,Electricity,Operational
+Gas pipelines,Upstate New York,Con Edison,Natural gas,Operational
+Steam distribution system,New York City,Con Edison,Steam,Operational
+Renewable energy projects,Not specified,Con Edison,Renewable energy,Operational
+Electric facilities,United States of America,Con Edison,Electricity,
+Gas facilities,United States of America,Con Edison,Natural Gas,
+Steam facilities,United States of America,Con Edison,Steam,
+Transmission infrastructure,United States of America,Con Edison,"Electricity, Natural Gas, Steam",
+Great Valley Solar,CA,noncontrolling interest of the tax equity investor,solar energy,
+Great Valley Solar,CA,noncontrolling interest of the tax equity investor,solar energy,
+Great Valley Solar,CA,noncontrolling interest of the tax equity investor,solar energy,
+Great Valley Solar,CA,noncontrolling interest of the tax equity investor,solar energy,
+Copper Mountain Solar,NV and AZ,noncontrolling interest of the tax equity investor,solar energy,
+Mesquite Solar,NV and AZ,noncontrolling interest of the tax equity investor,solar energy,
+Mesquite Solar,NV and AZ,noncontrolling interest of the tax equity investor,solar energy,
+Copper Mountain Solar,NV and VA,noncontrolling interest of the tax equity investor,solar energy,
+Battle Mountain Solar,NV and VA,noncontrolling interest of the tax equity investor,solar energy,
+Water Strider Solar,NV and VA,noncontrolling interest of the tax equity investor,solar energy,
+Mountain Valley Pipeline (MVP),New York State,"CECONY, O&R, Con Edison Gas Pipeline and Storage LLC (CET Gas), joint venture partner",Natural Gas,Operational
+Renewable electric project,Not specified,Clean Energy Businesses subsidiary,Electricity,Operational
+Stagecoach Gas Services LLC,Not specified,CET Gas and its joint venture partner,Natural gas,Under construction
+"Consolidated Edison Company of New York, Inc.",New York City and Westchester County,Con Edison,,
+"Orange & Rockland Utilities, Inc.",southeastern NY and northern NJ,Con Edison,,
+"Con Edison Clean Energy Businesses, Inc.",,Con Edison,renewable energy infrastructure projects,
+"Con Edison Transmission, Inc.",,Con Edison,electric transmission projects,
+energy delivery systems,,Con Edison,electricity,upgraded and reinforced
+renewable electric projects,,Clean Energy Businesses,electricity,under construction
+electric transmission,,Con Edison Transmission,electricity,operational
+Clean Energy Businesses,,Con Edison,,held for sale
+Mountain Valley Pipeline LLC,WV and VA,CET and a joint venture,gas transmission,
+facilities,NY,utility companies,electric service,operational
+equipment,NY,utility companies,gas service,operational
+electric transmission facilities,NY State,Utilities,electricity,operational
+emergency response plan,NY State,"CECONY, O&R",electricity,operational
+electric transmission facilities,Lower Hudson Valley,Clean Energy Businesses,electricity,operational
+distribution facilities,"New York City, Westchester County",CECONY,"electricity, gas, steam",operational
+transmission facilities,"New York City, Westchester County",CECONY,electricity,operational
+steam-electric generation facilities,"New York City, Westchester County",CECONY,steam,operational
+Gas pipelines,Westchester County,CECONY,Natural gas,Operational
+Compressor stations,"Pennsylvania, NJ",Tennessee Gas Pipeline,Natural gas,Under construction
+Compressor stations,"Pennsylvania, NJ",Tennessee Gas Pipeline,Natural gas,Operational
+electric distribution facilities,O&R’s service area,O&R,electricity,operational
+gas mains,O&R’s service area,O&R,natural gas,operational
+gas service lines,O&R’s service area,O&R,natural gas,operational
+Gas system infrastructure,O&R's service area,O&R and CECONY,Gas,Operational
+PJM assets,PJM assets,Con Edison,Electricity,In operation
+New England assets,New England assets,Con Edison,Electricity,In operation
+California Solar,California,Con Edison,Electricity,In operation
+Texas Solar,Texas,Con Edison,Electricity,In operation
+Upton Solar,"Upton, TX",Con Edison,Electricity,In operation
+Water Strider Solar,VA,Con Edison,Electricity,In operation
+Battle Mountain Solar/Battery Energy Storage System,NV,Con Edison,Electricity,In operation
+Broken Bow II NE,NE,Con Edison,Wind power,In operation
+Adams Rose Wind MN,MN,Con Edison,Wind power,In operation
+Dairyland Other SD/MT NWE/Basin Electric,SD/MT,Con Edison,Wind power,In operation
+Honeoye Storage Corporation,,"CET', CECONY",,
+Mountain Valley Pipeline,"WV, VA","CET', four other partners",gas transmission,under construction
+Credit agreement,,Companies and the administrative agent,Funding requirements,
+project debt,,Clean Energy Businesses,Energy production,
+Offshore wind renewable energy projects,New York State,"NYSERDA, Equinor Wind US LLC, Sunrise Wind LLC",Renewable energy,Under construction
+transmission lines,New York State,"CECONY, O&R, LIPA",Renewable energy,Operational
+Brooklyn Clean Energy Hub,Brooklyn,CECONY,Renewable energy,Under construction
+electric and gas energy efficiency programs,,"CECONY, O&R","electric energy, gas energy",operational
+heat pump programs,,"CECONY, O&R","electric energy, gas energy",operational
+electric vehicle infrastructure,,"CECONY, O&R",electric vehicles,under construction
+equipment,,CECONY,electricity generation,operational
+repair projects,,CECONY,electricity generation,operational
+steam production facilities,,CECONY,steam,operational
+gas distribution pipes,,CECONY,natural gas,operational
+substation circuit breakers and switches,,CECONY,electricity transmission,operational
+electric generation assets,,CECONY,electricity generation,operational
+renewable electric production facilities,,"developers of large renewable electric production facilities, NYSERDA",electricity generation,operational
+upstate nuclear power plants,,"owners of upstate nuclear power plants, NYSERDA",electricity generation,operational
+equipment containing PCBs,various locations,CECONY and O&R,electrical power distribution and generation,operational
+energy facilities,densely populated public places,The Utilities,"electricity, gas and steam service","operational, under construction, damage, end-of-life"
+information systems,,The Companies,,operational
+network infrastructure,,The Companies,,operational
+customer billing and information system,,Utilities,,under construction
+application maintenance and support,,contractors,,operational
+infrastructure and operations services,,contractors,,operational
+Facilities,,Con Edison,Electricity,
+Equipment,,Utilities,Gas,
+Infrastructure,,Con Edison,Electricity and Gas,
+facilities,Westchester County,CECONY,gas,operational
+equipment,New York City,CON EDISON,electricity,operational
+infrastructure,service territory,O&R,gas,under construction
+Clean Energy Businesses, ,Con Edison,Renewable energy,Being sold
+facilities,,Con Edison,,
+Mountain Valley Pipeline,,Con Edison Transmission,,impaired
+gas utility plant,,CON EDISON,gas,operational
+steam utility plant,,CON EDISON,steam,operational
+generation plants,,CON EDISON,power,operational
+electric utility plant,,CON EDISON,electricity,operational
+Gas utility plant,,CON EDISON,Gas,operational
+gas utility plant,,CON EDISON ANNUAL REPORT,gas,operational
+steam generating facilities,,CON EDISON ANNUAL REPORT,steam,operational
+steam utility plant,,CON EDISON ANNUAL REPORT,steam,operational
+facilities,,Con Edison,electricity,operational
+equipment,,Con Edison,gas,operational
+Utilities’ service territory,Utilities’ service territory,,energy,
+Net plant,,Con Edison,,
+Other noncurrent assets,,Con Edison,,
+Stagecoach Gas Services LLC,,"Con Edison, CET, joint venture partner",,Operational
+alternate fuel tanks,,"CECONY, O&R",gas,operational
+Utility plant,,"Consolidated Edison, Inc.",,
+Non-utility plant,,"Consolidated Edison, Inc.",,
+Copper Mountain Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+CED Southwest,,"Consolidated Edison Company of New York, Inc.",,operational
+Wind Holdings,,"Consolidated Edison Company of New York, Inc.",,operational
+Mesquite Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Texas Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+California Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+Broken Bow II,,"Consolidated Edison Company of New York, Inc.",,operational
+Upton County Solar,,"Consolidated Edison Company of New York, Inc.",,operational
+CED Nevada Virginia Other project debt,,"Consolidated Edison Company of New York, Inc.",,operational
+Utility plant at original cost,,"Consolidated Edison Company of New York, Inc.",,
+Construction work in progress,,"Consolidated Edison Company of New York, Inc.",,
+Non-utility property,,"Consolidated Edison Company of New York, Inc.",,
+electric transmission projects,"southeastern New York, northern New Jersey","Consolidated Edison Transmission, LLC (CET)",electric service,operational
+gas pipeline and storage facilities,southeastern New York,"Con Edison Gas Pipeline and Storage, LLC (CET)",natural gas,operational
+renewable and sustainable energy infrastructure projects,not specified,"RWE Renewables America, LLC","renewable energy, sustainable energy",held for sale
+Utility plant,,Con Edison,,Operational
+Non-utility plant,,Con Edison,,Operational
+cloud computing arrangements,,"Con Edison, CECONY",,operational
+Stagecoach Gas Services LLC (Stagecoach),,Con Edison,gas transmission,under construction
+"Mountain Valley Pipeline, LLC (MVP)",WV and VA,"Con Edison, CET, joint venture partner",gas transmission,under construction
+water crossings,Jefferson National Forest,Con Edison,,under construction
+water crossings,Project length,Con Edison,,under construction
+Mountain Valley Pipeline,,"Con Edison CECONY, CET",,under construction
+Clean Energy Businesses,,Con Edison,,held for sale
+electric grid,,Con Edison,electricity,operational
+facilities,,Con Edison,electricity,operational
+facilities,sites at which gas was manufactured or stored,"Utilities, their predecessors, companies",gas,operational
+equipment,facilities,"Utilities, their predecessors, companies",various,operational
+real estate,,Con Edison,,operational
+distribution poles,,Con Edison,,operational
+Facilities,New York State,Con Edison,Electricity,Operational
+Equipment,New Jersey,O&R,Gas,Operational
+Infrastructure,New York State,Clean Energy Businesses,Steam,Operational
+Facilities,,Con Edison,Electricity,
+Equipment,,CECONY,Natural Gas,
+Infrastructure,,O&R,Steam,
+Great Valley Solar,,Con Edison,electricity,operational
+Copper Mountain - Mesquite Solar,,Con Edison,electricity,operational
+CED Nevada Virginia,,Con Edison,electricity,operational
+Copper Mountain Solar,Nevada,Con Edison,electricity generation,held for sale
+Battle Mountain Solar,Nevada,Con Edison,electricity generation,held for sale
+Water Strider Solar,Virginia,Con Edison,electricity generation,held for sale
+renewable electric project,,subsidiary of the Clean Energy Businesses,electric power,operational
+renewable electric project,,acquired by subsidiary of the Clean Energy Businesses,electric power,end-of-life
+Stagecoach Gas Services LLC (Stagecoach),,CET and joint venture partner,natural gas,operational
+Non-utility property,,Con Edison,,operational
+Construction work in progress,,Con Edison,,under construction
+energy delivery systems,,Con Edison,electricity,operational
+electric transmission,,Con Edison Transmission,electricity,operational
+New York Energy Solution (NYES) project,between upstate and downstate,Con Edison Transmission,electricity,completed
+Dover Station,,Con Edison Transmission,electricity,under construction
+two new substations,"Jamaica, Queens",CECONY,,under construction
+Clean Energy Businesses,,Con Edison,,Sold
+electric generating facilities,N/A,"Con Edison, National Grid plc, Avangrid, Inc., National Fuel Gas Company, CH Energy Group, Inc.,",electricity,"operational, under construction, end-of-life"
+electric transmission facilities,N/A,N/A,electricity,operational
+electric transmission facilities,New York State,Utilities,electricity,
+gas planning infrastructure,New York State,Utilities,natural gas,
+generating stations,New York City,CECONY,electricity,operational
+Generating units,CECONY’s service territory,CECONY,electricity,"operational, retired, or limited operation"
+peaker plants,CECONY’s service territory,CECONY,electricity,unavailable
+transmission projects (Reliable Clean City),New York City,CECONY,electricity,"under construction, completed"
+Brooklyn Clean Energy Hub,Brooklyn,CECONY,electricity,"under construction, completed"
+substations (Reliable Clean City - Idlewild Project),"Jamaica, Queens",CECONY,electricity,under construction
+Brownsville substation,Brownsville,CECONY,electricity,operational
+Glendale substation,Glendale,CECONY,electricity,operational
+transmission feeder between Vernon and Newtown,Vernon and Newtown,CECONY,electricity,under construction
+Gateway Park area substation,Gateway Park area,CECONY,electricity,under construction
+natural gas mains,CECONY’s service territory,CECONY,natural gas,operational
+natural gas service lines,CECONY’s service territory,CECONY,natural gas,operational
+liquefaction facility,Astoria property in Queens,CECONY,natural gas,operational
+storage tank at Astoria property,Astoria property in Queens,CECONY,natural gas,operational
+natural gas storage capacity in upstate New York,upstate New York,Honeoye Storage Corporation (30% owned by Con Edison Transmission and 70% owned by CECONY),natural gas,operational
+facilities,CECONY's service area,CECONY,natural gas,operational
+pipelines,New York City,CECONY,natural gas,operational
+equipment,Westchester County,O&R,natural gas,operational
+steam-electric generating stations,CECONY's service area,CECONY,steam,operational
+steam-only generating stations,CECONY's service area,CECONY,steam,operational
+transmission piping,CECONY's service area,CECONY,steam,operational
+utility plant,O&R's service territory,O&R,natural gas,operational
+mains,O&R's service territory,O&R,natural gas,operational
+service lines,O&R's service territory,O&R,natural gas,operational
+gas system,O&R’s service area,O&R and CECONY,gas,operational
+transmission lines,upstate and downstate New York,Con Edison Transmission,electric power,operational
+transmission lines,Rock Tavern to Sugarloaf,Con Edison Transmission,electric power,operational
+Dover Station,Dover Station,Con Edison Transmission,electric power,under construction
+Dover Station,New York State,NYISO,electricity,under construction
+electric transmission project,Long Island and the rest of New York State,Propel NY Energy,offshore wind electricity,proposed -mile electric transmission project
+gas storage facility in upstate New York,upstate New York,"Honeoye (Con Edison Transmission . percent interest, CECONY remaining interest)",gas,operational
+Mountain Valley Pipeline,West Virginia and Virginia,MVP (five partners including Con Edison Transmission),gas,under construction
+gas pipeline and storage business,northern Pennsylvania and southern New York,Stagecoach Gas Services LLC,gas,operational
+environmental protection facilities,,Con Edison,,operational
+transmission system,Long Island,Con Edison Transmission,electricity,operational
+electric transmission project,between Long Island and the rest of New York State,"Con Edison Transmission, New York Transco, NYPA",electricity,under construction
+Transmission upgrades,NY State,CECONY,Renewable energy,under construction
+regulated transmission projects,NY State,CECONY,Electricity,operational
+Brooklyn Clean Energy Hub,NY State,CECONY,offshore wind electricity,operational
+Propel NY Energy project,NY State,CECONY,offshore wind electricity,planned
+gas system,NY State,CECONY,natural gas,operational
+energy storage,New York State,CECONY and O&R,energy storage,under construction
+thermal energy network pilot projects,New York State,CECONY and O&R,thermal energy,under construction
+distributed system platform,New York State,CECONY and O&R,energy distribution,operational
+advanced metering infrastructure (AMI),New York State,CECONY and O&R,electricity metering,operational
+steam plants,NYISO territories,CECONY,steam and electricity,operational
+electric plants,NYISO territories,CECONY,electricity,operational
+co-generation plants,NYISO territories,CECONY,steam and electricity,operational
+equipment,NYISO territories,CECONY,various,operational
+infrastructure,NYISO territories,CECONY,various,operational
+gas distribution pipes,NYISO territories,Con Edison,natural gas,operational
+gas distribution systems,New York City and Westchester County,CECONY,gas distribution,operational
+equipment,Not specified,CECONY,sulfur hexafluoride management,operational
+electric generation assets,Not specified,CECONY,electricity generation,operational
+gas insulated equipment,Not specified,CECONY,sulfur hexafluoride management,operational
+manufactured gas plants,New York City and Westchester County,CECONY and other parties,manufactured gas,"under construction, end-of-life"
+lead-jacketed electric cables,Newtown Creek,CECONY,protection of conducting wires from exposure to the elements,operational
+lead-jacketed electric cables,"Narrowsburg, NY",other PRPs,transmission and distribution of electricity,retired in place
+lead-jacketed electric cables,"Saddle Brook, NJ",other PRPs,transmission and distribution of electricity,operational
+lead-jacketed electric cables,"Philadelphia, PA",other PRPs,transmission and distribution of electricity,under replacement
+lead-jacketed electric cables,"Old Bridge, NJ",other PRPs,transmission and distribution of electricity,operational
+lead-jacketed electric cables,"Elizabeth, NJ",other PRPs,transmission and distribution of electricity,under replacement
+lead-jacketed electric cables,"Vineland, NJ",other PRPs,transmission and distribution of electricity,operational
+lead-jacketed electric cables,"Carlstadt, NJ",other PRPs,transmission and distribution of electricity,under replacement
+lead-jacketed electric cables,"New Rochelle, New York",CECONY,transmission and distribution of electricity,operational
+facilities,CECONY’s service area,CECONY,electricity,operational
+equipment,downstate,CECONY,air emissions,operational
+generating facilities,CECONY’s service area,CECONY,electricity,operational
+steam-electric generating facilities,CECONY’s service area,CECONY,electricity,operational
+peaking units,downstate,CECONY,electricity,operational
+energy facilities,densely populated public places,The Utilities,"electricity, gas, and steam","operational, under construction, end-of-life"
+customer billing and information system,,CECONY and O&R,,operational
+facilities,northeastern United States,Utilities,electricity,operational
+equipment,northeastern United States,Utilities,gas,operational
+infrastructure,northeastern United States,Utilities,electricity and gas,operational
+electric equipment,,The Companies,electricity,operational
+electric equipment,,The Companies,gas,operational
+electric equipment,,The Companies,steam service,operational
+utility plant,,Con Edison,electricity,
+electric facilities,,CECONY,electricity,
+gas facilities,,CECONY,natural gas,
+steam facilities,,CECONY,steam,
+transmission companies,,Con Edison Transmission,"electricity, natural gas",
+Clean Energy Businesses,,Con Edison and CECONY,,
+Renewable electric project,,Con Edison,Electricity generation,Sold
+Stagecoach Gas Services LLC (Stagecoach),,Con Edison Transmission,Natural gas transmission,Impaired
+"Mountain Valley Pipeline, LLC",,Con Edison Transmission,Natural gas transmission,Impaired
+"Mountain Valley Pipeline, LLC",,Con Edison Transmission,,
+Honeoye,,Con Edison Transmission,,
+Stagecoach,,Con Edison Transmission,,
+facilities,CECONY’s service area,Con Edison,electricity,operational
+equipment,CECONY’s service area,Con Edison,electricity,operational
+facilities,CECONY’s service area,Con Edison,natural gas,operational
+equipment,CECONY’s service area,Con Edison,natural gas,operational
+steam generating facilities,,CON EDISON,steam,operational
+electric utility plant,New York,O&R,electricity,operational
+gas utility plant,New York,O&R,natural gas,operational
+Utility construction expenditures,,Con Edison,,
+Clean Energy Businesses,,Con Edison,,
+Stagecoach,,Con Edison,,
+renewable electric projects,,Con Edison,,
+facilities,Nevada,Con Edison,solar electric production,operational
+equipment,Virginia,Tax Equity Investor,solar electric production,operational
+infrastructure,Nevada,Con Edison,solar electric production,under construction
+ARO related to removal of asbestos and asbestos-containing material,,Con Edison,electricity,in end-of-life
+electric equipment,,Con Edison,electricity,in end-of-life
+steam and gas distribution systems,,Con Edison,gas,in end-of-life
+gas and oil pipelines abandoned in place,,Con Edison,gas,in end-of-life
+municipal infrastructure support,,Con Edison,electricity,in end-of-life
+Utility construction expenditures,,"Consolidated Edison, Inc.",,Under construction
+Cost of removal less salvage,,"Consolidated Edison, Inc.",,End-of-life
+Non-utility construction expenditures,,"Consolidated Edison, Inc.",,Under construction
+Proceeds from sale of the Clean Energy Businesses,,,,
+Divestiture of renewable electric projects,,,,
+UTILITY PLANT,,"Consolidated Edison, Inc.",,
+NON-UTILITY PLANT,,"Consolidated Edison, Inc.",,
+Electric,,"Consolidated Edison Company of New York, Inc.",,
+Gas,,"Consolidated Edison Company of New York, Inc.",,
+Steam,,"Consolidated Edison Company of New York, Inc.",,
+General,,"Consolidated Edison Company of New York, Inc.",,
+Utility Plant,,Con Edison,,
+Non-utility plant,,Con Edison,,
+Mountain Valley Pipeline,West Virginia and Virginia,Con Edison Transmission and joint venture partner(s),natural gas transmission,under construction
+Mountain Valley Pipeline,",",Con Edison,transportation of natural gas,under construction
+Clean Energy Businesses,,Con Edison,,held for sale
+property taxes,,CECONY,electricity reliability,
+municipal infrastructure support,,CECONY,electricity reliability,
+Brooklyn Clean Energy Hub,"Brooklyn, New York",CECONY,electricity,under construction
+"two new substations in Jamaica, Queens","Jamaica, Queens",CECONY,electricity,under construction
+Infrastructure,,RECO,Electric distribution,Operational
+Infrastructure,,RECO,grid resilience,under construction (IIP)
+Infrastructure,,RECO,smart grids,under construction (IIP)
+customer billing and information system,,"CECONY, O&R",,operational
+facilities,New York Transco LLC (New York Transco),Con Edison Transmission,electricity,operational
+equipment,Broken Bow II,Con Edison,wind energy,held for sale
+real estate,,The Companies,,
+distribution poles,,The Companies,,
+Renewable electric projects,Virginia,Con Edison (partially),Electricity,
+Crane solar project,,Con Edison,Electricity,
+Tax Equity Projects,,"Con Edison (partially), noncontrolling tax equity investor",Electricity,
+CED Nevada Virginia,,"Con Edison (partially), noncontrolling tax equity investor",Electricity,
+electric equipment,,Con Edison,electricity transmission and distribution,operational
+steam and gas distribution systems,,Con Edison,steam and natural gas distribution,operational
+gas and oil pipelines,,Con Edison,oil and natural gas transportation,operational
+municipal infrastructure support,,Con Edison,municipal services support,operational
+solar and wind equipment,property not owned by Con Edison,"Con Edison (originally), Sold in March 2023",electricity generation,operational
+Utilities,,Con Edison and subsidiaries,,
+renewable electric project,,subsidiary of the Clean Energy Businesses,,operational
+renewable electric project,,subsidiary of the Clean Energy Businesses,,operational
+Stagecoach Gas Services LLC,,Con Edison Transmission and its joint venture partner,,operational
+Clean Energy Businesses,,Con Edison,,operational
+Broken Bow II,Nebraska,Con Edison,wind power,under construction
+Crane solar project,,Con Edison,Renewable energy,operational
+two solar projects located in Virginia,Virginia,Con Edison,Renewable energy,operational
+Broken Bow II,Nebraska,"Con Edison (currently), RWE Renewables Americas, LLC (after transfer)",Renewable energy,under construction

@@ -1,0 +1,11 @@
+﻿Name,Asset Type,Location,Commodity,Operating Company,Status,Capacity,Capacity (Megawatts),Region - NERC,Region - ISO
+Oconee 3 power station,Nuclear Power Station,"South Carolina, USA",Power,"Duke Energy Carolinas, LLC",,,--,Southeast Electric Reliability Council,
+Catawba 1 power station,Nuclear Power Station,"South Carolina, USA",Power,"Duke Energy Carolinas, LLC",,,--,Southeast Electric Reliability Council,
+McGuire 1 power station,Nuclear Power Station,"North Carolina, USA",Power,"Duke Energy Carolinas, LLC",,,--,Southeast Electric Reliability Council,
+Intercession City Power Station - Intercession 11 CT,Oil-fired Power Station,"Florida, USA",Power,Duke Energy Florida LLC,Commissioned,148.50 Megawatts,148.5,,
+Allen Power Station - Allen 05,Coal-fired Power Station,"North Carolina, USA",Power,Duke Energy Carolinas LLC,Commissioned,272.00 Megawatts,272,,
+Tiger Bay Cogen - Tiger Bay 01 CT/HRSG,Gas-fired Power Station,"Florida, USA",Power,Duke Energy Florida LLC,Commissioned,195.00 Megawatts,195,,
+Bad Creek Pump Storage Power Station - Bad Creek PS3,Hydro Pump Storage Power Station,"South Carolina, USA",Power,Duke Energy Carolinas LLC,Commissioned,324.00 Megawatts,324,,
+Pumpjack PV Solar I - Pumpjack I PV,Solar Power Station,"California, USA",Power,Duke Energy Generation Services LLC,Commissioned,20.00 Megawatts,20,,
+Caprock PV Solar Ranch - Caprock 01 PV,Solar Power Station,USA,Power,Duke Energy Renewables,Commissioned,32.40 Megawatts,32.4,,
+Elm City PV Solar Plant - Elm City 01 PV,Solar Power Station,USA,Power,Duke Energy Renewables,Commissioned,40.00 Megawatts,40,,

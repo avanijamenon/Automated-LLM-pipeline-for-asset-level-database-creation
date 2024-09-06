@@ -1,0 +1,34 @@
+physical assets: [Renewable|Wind, Renewable|Solar]
+locations: [WY, WI, TX, CA, CO, NC, NM, NY]
+ownerships: [51%, 100%]
+commodities: [electricity]
+status: []
+
+
+relationships: [asset: 'Renewable|Wind', location: 'WY', ownership: '51%', commodity: 'electricity', status: ''], 
+[asset: 'Renewable|Wind', location: 'WI', ownership: '51%', commodity: 'electricity', status: ''], 
+[asset: 'Renewable|Wind', location: '', ownership: '51%', commodity: 'electricity', status: ''],
+[asset: 'Commercial Renewables – Solar', location: 'TX', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Holstein(a)', location: 'TX', ownership: '100%', commodity: 'electricity', status: ''], 
+[asset: 'Rambler', location: 'CA', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'North Rosamond(a)', location: 'TX', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Pflugerville(a)', location: 'TX', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Lapetus(a)', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Conetoe II', location: 'CO', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Palmer(a)', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Broad River(a)', location: 'CA', ownership: '67%', commodity: 'electricity', status: ''],
+[asset: 'Seville I & II', location: 'CA', ownership: '67%', commodity: 'electricity', status: ''],
+[asset: 'Rio Bravo I & II', location: 'CA', ownership: '67%', commodity: 'electricity', status: ''],
+[asset: 'Wildwood I & II', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Speedway(a)', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Kelford', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Dogwood', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Pasquotank', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Caprock', location: 'NM', ownership: '67%', commodity: 'electricity', status: ''],
+[asset: 'Creswell Alligood', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Pumpjack', location: 'CA', ownership: '67%', commodity: 'electricity', status: ''],
+[asset: 'Longboat', location: 'CA', ownership: '67%', commodity: 'electricity', status: ''],
+[asset: 'Washington White Post', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Whitakers', location: 'NC', ownership: '100%', commodity: 'electricity', status: ''],
+[asset: 'Highlander I & II', location: 'CA', ownership: '51%', commodity: 'electricity', status: ''],
+[asset: 'Other small solar(a)', location: 'Various', ownership: 'Various', commodity: 'electricity', status: '']

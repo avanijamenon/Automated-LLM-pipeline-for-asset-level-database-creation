@@ -1,0 +1,78 @@
+|Plant|Location|Net Summer Capability (MW)|Percentage|
+|---|---|---|---|
+|Gas| | | |
+|Jasper (CC)(1)|Hardeeville, SC|902| |
+|Columbia Energy Center (CC)(1)|Hardeeville, SC|902| |
+|Urquhart (CC)(1)|Gaston, SC|520| |
+| |Beech Island, SC|458| |
+|McMeekin| | | |
+|Hagood (CT)(1)|Irmo, SC|250| |
+| |Charleston, SC|126| |
+|Urquhart Unit 3(1)|Beech Island, SC|95| |
+|Urquhart (CT)|Beech Island, SC|87| |
+|Coit (CT)(1)(2)|Columbia, SC|26| |
+|Total Gas| |2,464|38%|
+|Coal| | | |
+|Wateree|Eastover, SC|684| |
+|Williams|Goose Creek, SC|595| |
+|Cope(3)|Cope, SC|415| |
+|Total Coal| |1,694|26|
+|Hydro| | | |
+|Fairfield|Jenkinsville, SC|576| |
+|Saluda|Irmo, SC|198| |
+|Other|Various|18| |
+|Total Hydro| |792|12|
+|Nuclear| | | |
+|Summer|Jenkinsville, SC|644|10|
+| | |5,594| |
+|Power Purchase Agreements| |973|14|
+|Total Utility Generation| |6,567|100%|
+
+
+|Plant|Location|Net Summer Capability (MW)|Percentage Net Summer Capability|
+|---|---|---|---|
+|Nuclear Millstone|Waterford, CT|2,013|67%|
+|Solar Total Nuclear| |2,013| |
+|Hardin I|Hardin County, OH|150| |
+|Amazon Solar Farm Virginia – Southampton|Newsoms, VA|100| |
+|Amazon Solar Farm Virginia – Accomack|Oak Hall, VA|80| |
+|Greensville|Greensville County, VA|80| |
+|Innovative Solar 37|Morven, NC|79| |
+|Wilkinson|Pantego, NC|74| |
+|Seabrook|Beaufort County, SC|73| |
+|Moffett Solar 1|Ridgeland, SC|71| |
+|Summit Farms Solar|Moyock, NC|60| |
+|Midway II|Calipatria, CA|30| |
+|Amazon Solar Farm Virginia – Buckingham|Cumberland, VA|20| |
+|Amazon Solar Farm Virginia – Correctional|Barhamsville, VA|20| |
+|Hecate Cherrydale|Cape Charles, VA|20| |
+|Amazon Solar Farm Virginia – Sussex Drive|Stoney Creek, VA|20| |
+|Amazon Solar Farm Virginia – Scott II|Powhatan, VA|20| |
+|Myrtle|Suffolk, VA|15| |
+|Trask|Beaufort County, SC|12| |
+|Hecate Energy Clarke County|White Post, VA|10| |
+|Ridgeland Solar Farm I|Ridgeland, SC|10| |
+|Yemassee|Hampton County, SC|10| |
+|Blackville|Blackville, SC|7| |
+|Denmark|Denmark, SC|6| |
+|Other|Various|35| |
+|Total Solar| |1,002|33%|
+|Total Nonregulated Generation| |3,015|100%|
+
+
+|Plant|Location|Net Summer Capability (MW)|Percentage Net Summer Capability|
+|---|---|---|---|
+|Colonial Trail West|Surry County, VA|142| |
+|Sadler Solar|Emporia, VA|100| |
+|Spring Grove|Surry County, VA|98| |
+|Piney Creek|Halifax, VA|80| |
+|Sycamore|Gretna, VA|42| |
+|Grassfield|Chesapeake, VA|20| |
+|Norge|Williamsburg, VA|20| |
+|Solidago|Windsor, VA|20| |
+|Whitehouse Solar|Louisa County, VA|20| |
+|Winterberry|Gloucester County, VA|20| |
+|Woodland Solar|Isle of Wight County, VA|19| |
+|Scott Solar|Powhatan, VA|17| |
+|Total Solar| |598|3%|
+

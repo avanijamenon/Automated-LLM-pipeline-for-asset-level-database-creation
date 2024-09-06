@@ -1,0 +1,408 @@
+physical asset,location,ownership,commodity,Countries,USA states
+500kV Lines (Transmission Infrastructure),New Jersey; Delaware River,PECO Energy Company,,USA,"Delaware, New Jersey"
+500kV Lines (Transmission Infrastructure),New Jersey; Delaware River,Pepco Holdings LLC,,USA,"Delaware, New Jersey"
+500kV Lines (Transmission Infrastructure),New Jersey; Delaware River,Delmarva Power & Light Company,,USA,"Delaware, New Jersey"
+500kV Lines (Transmission Infrastructure),New Jersey; Delaware River,Atlantic City Electric Company,,USA,"Delaware, New Jersey"
+500kV Lines (Transmission Infrastructure),New Jersey; Delaware River,Exelon Corporation,,USA,"Delaware, New Jersey"
+Albany Green Energy Biomass Facility,New England,Exelon Corporation,Biomass Energy,USA,
+Baltimore City Conduit System,Baltimore City,,,USA,
+Benning Road Site,"Benning Road,Washington D.C.",Exelon Corporation,Electricity,USA,Washington
+Benning Road Site,"Benning Road,Washington D.C.",Pepco Holdings LLC,Electricity,USA,Washington
+(Baltimore Gas And Electric Company),Baltimore Gas And Electric Company,Exelon Corporation,,USA,
+Bulk Power Transmission System,,Utility Registrants,Electricity,,
+Buzzard Point Facility,"Washington,D.C.",Exelon Corporation,,USA,Washington
+Buzzard Point Facility,"Washington,D.C.",Pepco Holdings LLC,,USA,Washington
+Chilling And Cooling Equipment,,Exelon Corporation,,,
+Communication Systems,Utility Registrants' Markets,Utility Registrants,Electricity,,
+Communication Systems,Utility Registrants' Markets,Utility Registrants,Natural Gas,,
+Conowingo Hydroelectric Project,Conowingo,Exelon Corporation,Electricity,USA,
+Construction Work In Progress,,Exelon Corporation,,,
+Contracted Wind Asset,Maryland,Exelon Corporation,Electricity,USA,Maryland
+Contracted Wind Asset,Maryland,CRP Ventures,Electricity,USA,Maryland
+Delivery Systems,Service Territory,Utility Registrants,Electricity,,
+Delivery Systems,Service Territory,Utility Registrants,Natural Gas,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,Utility Registrants,Electricity,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,PECO Energy Company,Electricity,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,Baltimore Gas And Electric Company,Electricity,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,Delmarva Power & Light Company,Electricity,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,Commonwealth Edison Company,Electricity,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,Pepco Holdings LLC,Electricity,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,Atlantic City Electric Company,Electricity,,
+Distribution And Transmission Infrastructures,Utility Registrants Service Areas,Exelon Corporation,Electricity,,
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Exelon Corporation,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Exelon Corporation,Power,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Exelon Corporation,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",PECO Energy Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",PECO Energy Company,Power,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",PECO Energy Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Baltimore Gas And Electric Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Baltimore Gas And Electric Company,Power,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Baltimore Gas And Electric Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Delmarva Power & Light Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Delmarva Power & Light Company,Power,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Delmarva Power & Light Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Commonwealth Edison Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Commonwealth Edison Company,Power,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Commonwealth Edison Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Pepco Holdings LLC,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Pepco Holdings LLC,Power,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Pepco Holdings LLC,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Atlantic City Electric Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Atlantic City Electric Company,Power,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,District Of Columbia,Pennsylvania,Delaware,Quad Cities,Braidwood,Il",Atlantic City Electric Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Distribution Systems,Service Areas,Utility Registrants,Natural Gas,,
+Distribution Systems,Service Areas,Utility Registrants,Electricity,,
+Distribution Systems,Service Areas,Pepco Holdings LLC,Natural Gas,,
+Distribution Systems,Service Areas,Pepco Holdings LLC,Electricity,,
+Distribution Systems,Service Areas,Baltimore Gas And Electric Company,Natural Gas,,
+Distribution Systems,Service Areas,Baltimore Gas And Electric Company,Electricity,,
+Distribution Systems,Service Areas,Delmarva Power & Light Company,Natural Gas,,
+Distribution Systems,Service Areas,Delmarva Power & Light Company,Electricity,,
+Distribution Systems,Service Areas,Commonwealth Edison Company,Natural Gas,,
+Distribution Systems,Service Areas,Commonwealth Edison Company,Electricity,,
+Distribution Systems,Service Areas,Atlantic City Electric Company,Natural Gas,,
+Distribution Systems,Service Areas,Atlantic City Electric Company,Electricity,,
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Exelon Corporation,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Exelon Corporation,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Pepco Holdings LLC,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Pepco Holdings LLC,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Baltimore Gas And Electric Company,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Baltimore Gas And Electric Company,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Delmarva Power & Light Company,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Delmarva Power & Light Company,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Commonwealth Edison Company,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Commonwealth Edison Company,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Atlantic City Electric Company,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Atlantic City Electric Company,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",PECO Energy Company,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",PECO Energy Company,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Utility Registrants,Electricity,USA,"Delaware, Pennsylvania, New Jersey"
+Electric And Natural Gas Transmission And Distribution Assets,"Delaware,New Jersey,Pennsylvania",Utility Registrants,Natural Gas,USA,"Delaware, Pennsylvania, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Commonwealth Edison Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Commonwealth Edison Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Pepco Holdings LLC,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Pepco Holdings LLC,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Atlantic City Electric Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Atlantic City Electric Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",PECO Energy Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",PECO Energy Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Baltimore Gas And Electric Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Baltimore Gas And Electric Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Delmarva Power & Light Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Delmarva Power & Light Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Exelon Corporation,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric Distribution Infrastructure,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania,Commonwealth Edison Company's Service Area,Central Maryland (Including The City Of Baltimore),Portions Of New Castle County,Delaware,City Of Chicago,Seneca,Il,Salem,Portions Of Delaware And Maryland",Exelon Corporation,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+electric Exelon Exelon Corporationplants,,Exelon Corporation,Electricity,,
+electric Exelon Exelon Corporationplants,,Exelon Corporation,Clean Energy,,
+Electric Grid,"Disadvantaged Communities,Service Territory",Pepco Holdings LLC,Electricity,,
+Electric Grid,"Disadvantaged Communities,Service Territory",Commonwealth Edison Company,Electricity,,
+Electric Grid,"Disadvantaged Communities,Service Territory",Exelon Corporation,Electricity,,
+Electric Grid,"Disadvantaged Communities,Service Territory",Utility Registrants,Electricity,,
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Exelon Corporation,Electricity,Canada,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Exelon Corporation,Electricity,USA,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Exelon Corporation,Natural Gas,Canada,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Exelon Corporation,Natural Gas,USA,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Exelon Corporation,Renewable Energy,Canada,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Exelon Corporation,Renewable Energy,USA,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Constellation Energy,Electricity,Canada,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Constellation Energy,Electricity,USA,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Constellation Energy,Natural Gas,Canada,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Constellation Energy,Natural Gas,USA,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Constellation Energy,Renewable Energy,Canada,"Michigan, New York, California, Colorado, Nebraska"
+Electricity Exelon Exelon CorporationFacilities,"PJM,MISO,NYISO,ERCOT,ISO-NE,FRCC,WECC,CAISO,AESO,OIESO,Canada,Mid-Atlantic,Midwest,New York",Constellation Energy,Renewable Energy,USA,"Michigan, New York, California, Colorado, Nebraska"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Delmarva Power & Light Company,Electricity,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Delmarva Power & Light Company,Natural Gas,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Atlantic City Electric Company,Electricity,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Atlantic City Electric Company,Natural Gas,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Baltimore Gas And Electric Company,Electricity,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Baltimore Gas And Electric Company,Natural Gas,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Delmarva Power & Light Company,Electricity,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Delmarva Power & Light Company,Natural Gas,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Commonwealth Edison Company,Electricity,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Commonwealth Edison Company,Natural Gas,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Exelon Corporation,Electricity,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",Exelon Corporation,Natural Gas,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",PECO Energy Company,Electricity,USA,"Delaware, Maryland, Illinois, New Jersey"
+electricity transmission infrastructure,"Delaware,Maryland,Illinois,New Jersey",PECO Energy Company,Natural Gas,USA,"Delaware, Maryland, Illinois, New Jersey"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Atlantic City Electric Company,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Atlantic City Electric Company,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Commonwealth Edison Company,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Commonwealth Edison Company,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Baltimore Gas And Electric Company,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Baltimore Gas And Electric Company,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Constellation Energy,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Constellation Energy,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Delmarva Power & Light Company,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Delmarva Power & Light Company,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Exelon Corporation,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Exelon Corporation,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Pepco Holdings LLC,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",Pepco Holdings LLC,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",PECO Energy Company,Natural Gas,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+equipment,"Southeastern Pennsylvania,Portions of Delaware and Maryland,PJM Operated Markets,Byron,IL,Delaware,District of Columbia,Peach Bottom,Montgomery and Prince George's Counties,Maryland,Midwest and Mid-Atlantic of the USA",PECO Energy Company,Electricity,USA,"Delaware, Maryland, Illinois, Pennsylvania"
+Facilities (Physical Asset),,Maryland Economic Development Corporation,,,
+Facilities (Physical Asset),,The Pollution Control Financing Authority of Salem County,,,
+Facilities (Physical Asset),,Atlantic City Electric Company,,,
+Facilities (Physical Asset),,Delmarva Power & Light Company,,,
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",The Delaware Economic Development Authority,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",The Delaware Economic Development Authority,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",PECO Energy Company,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",PECO Energy Company,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Commonwealth Edison Company,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Commonwealth Edison Company,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Pepco Holdings LLC,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Pepco Holdings LLC,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Atlantic City Electric Company,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Atlantic City Electric Company,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Exelon Corporation,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Exelon Corporation,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Baltimore Gas And Electric Company,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Baltimore Gas And Electric Company,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Delmarva Power & Light Company,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Delmarva Power & Light Company,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Utility Registrants,Electricity,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Gas Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,New Jersey,Pennsylvania,District of Columbia",Utility Registrants,Natural Gas,USA,"Pennsylvania, Maryland, Illinois, New Jersey"
+Generating Assets (Power Exelon Corporation),,Constellation Energy,Electricity,,
+Generating Assets (Power Exelon Corporation),,Constellation Energy,Power,,
+Generating Assets (Power Exelon Corporation),,Constellation Energy,Natural Gas,,
+Generating Assets (Power Exelon Corporation),,Commonwealth Edison Company,Electricity,,
+Generating Assets (Power Exelon Corporation),,Commonwealth Edison Company,Power,,
+Generating Assets (Power Exelon Corporation),,Commonwealth Edison Company,Natural Gas,,
+Generating Assets (Power Exelon Corporation),,PECO Energy Company,Electricity,,
+Generating Assets (Power Exelon Corporation),,PECO Energy Company,Power,,
+Generating Assets (Power Exelon Corporation),,PECO Energy Company,Natural Gas,,
+Generating Assets (Power Exelon Corporation),,Baltimore Gas And Electric Company,Electricity,,
+Generating Assets (Power Exelon Corporation),,Baltimore Gas And Electric Company,Power,,
+Generating Assets (Power Exelon Corporation),,Baltimore Gas And Electric Company,Natural Gas,,
+Generating Assets (Power Exelon Corporation),,Exelon Corporation,Electricity,,
+Generating Assets (Power Exelon Corporation),,Exelon Corporation,Power,,
+Generating Assets (Power Exelon Corporation),,Exelon Corporation,Natural Gas,,
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Utility Registrants,Electricity,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Utility Registrants,Natural Gas,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Utility Registrants,Renewable Energy,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Constellation Energy,Electricity,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Constellation Energy,Natural Gas,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Constellation Energy,Renewable Energy,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Exelon Corporation,Electricity,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Exelon Corporation,Natural Gas,USA,"Colorado, New York"
+Exelon Exelon Corporationfacility,"Mid-Atlantic,Midwest,New York,ERCOT,Other Power Regions",Exelon Corporation,Renewable Energy,USA,"Colorado, New York"
+Exelon Corporation's Five Reportable Segments (Mid-Atlantic,"Mid-Atlantic,Midwest,New York,Ercot,And Other Power Regions",Exelon Corporation,,USA,New York
+Midwest,"Mid-Atlantic,Midwest,New York,Ercot,And Other Power Regions",Exelon Corporation,,USA,New York
+New York,"Mid-Atlantic,Midwest,New York,Ercot,And Other Power Regions",Exelon Corporation,,USA,New York
+Ercot,"Mid-Atlantic,Midwest,New York,Ercot,And Other Power Regions",Exelon Corporation,,USA,New York
+And Other Power Regions),"Mid-Atlantic,Midwest,New York,Ercot,And Other Power Regions",Exelon Corporation,,USA,New York
+Inventories (Raw Materials),,Utility Registrants,,,
+Mining And Processing Sites (mgp sites),Various Locations,Commonwealth Edison Company,,,
+Mining And Processing Sites (mgp sites),Various Locations,PECO Energy Company,,,
+Mining And Processing Sites (mgp sites),Various Locations,Baltimore Gas And Electric Company,,,
+Mining And Processing Sites (mgp sites),Various Locations,Delmarva Power & Light Company,,,
+Motor Vehicles (Used for transportation),,Exelon Corporation,,,
+Motor Vehicles (Used for transportation),,Utility Registrants,,,
+Muddy Run Pumped Storage Facility Project,Muddy Run,Exelon Corporation,Electricity,,
+MWs of New Solar Exelon Exelon Corporation(Solar Power Plant),"Maryland,District Of Columbia,Delaware",Exelon Corporation,Solar Energy,USA,"Delaware, Maryland"
+MWs of New Solar Exelon Exelon Corporation(Solar Power Plant),"Maryland,District Of Columbia,Delaware",Exelon Corporation,Wind Energy,USA,"Delaware, Maryland"
+Nine Mile Point (Power Plant),Nine Mile Point,Exelon Corporation,Electricity,,
+Nine Mile Point (Power Plant),Nine Mile Point,EDF,Electricity,,
+Nuclear Fuel (Commodity: Nuclear fuel),,Exelon Corporation,,,
+Personal Protective Equipment (PPE),,,,,
+Plant,"Illinois,Pennsylvania",Commonwealth Edison Company,Electricity,USA,"Illinois, Pennsylvania"
+Plant,"Illinois,Pennsylvania",Baltimore Gas And Electric Company,Electricity,USA,"Illinois, Pennsylvania"
+Plant,"Illinois,Pennsylvania",Pepco Holdings LLC,Electricity,USA,"Illinois, Pennsylvania"
+Plant,"Illinois,Pennsylvania",Delmarva Power & Light Company,Electricity,USA,"Illinois, Pennsylvania"
+Plant,"Illinois,Pennsylvania",Atlantic City Electric Company,Electricity,USA,"Illinois, Pennsylvania"
+Plant,"Illinois,Pennsylvania",Exelon Corporation,Electricity,USA,"Illinois, Pennsylvania"
+Power Plants,"Midwest,ERCOT,Other Power Regions",Exelon Corporation,Electricity,USA,Colorado
+Power Plants,"Midwest,ERCOT,Other Power Regions",Exelon Corporation,Nuclear Power,USA,Colorado
+"Properties  
+
+
+
+Let me know when you're ready for the next cell!",,Utility Registrants,,,
+Smart Meters,"Customer Premises,New Jersey,Service Territory",Atlantic City Electric Company,Electricity,USA,New Jersey
+Smart Meters,"Customer Premises,New Jersey,Service Territory",Atlantic City Electric Company,Natural Gas,USA,New Jersey
+Smart Meters,"Customer Premises,New Jersey,Service Territory",Utility Registrants,Electricity,USA,New Jersey
+Smart Meters,"Customer Premises,New Jersey,Service Territory",Utility Registrants,Natural Gas,USA,New Jersey
+Solar Business (Facility),,Exelon Corporation,,,
+Steam Plant Building,Buzzard Point Facility,Exelon Corporation,Electricity,USA,
+Steam Plant Building,Buzzard Point Facility,Pepco Holdings LLC,Electricity,USA,
+Substation,"Buzzard Point Facility,New Jersey And Delaware",Exelon Corporation,Electricity,USA,"Delaware, New Jersey"
+Substation,"Buzzard Point Facility,New Jersey And Delaware",Pepco Holdings LLC,Electricity,USA,"Delaware, New Jersey"
+Substation,"Buzzard Point Facility,New Jersey And Delaware",Delmarva Power & Light Company,Electricity,USA,"Delaware, New Jersey"
+Substation,"Buzzard Point Facility,New Jersey And Delaware",Atlantic City Electric Company,Electricity,USA,"Delaware, New Jersey"
+Transmission Tower (Physical Asset used for Communication),,Pepco Holdings LLC,,,
+Transmission Tower (Physical Asset used for Communication),,Delmarva Power & Light Company,,,
+Transmission Tower (Physical Asset used for Communication),,Atlantic City Electric Company,,,
+underground vaults,District Wide System,Pepco Holdings LLC,,,
+Utility Plant Assets,,Commonwealth Edison Company,Electricity,,
+Utility Plant Assets,,Exelon Corporation,Electricity,,
+Wind Project,,Exelon Corporation,Wind Energy,,
+Wind Project,,Exelon Corporation,Electricity,,
+Wires,City Of Chicago,Commonwealth Edison Company,Electricity,USA,
+Three Mile Island Nuclear Facility,,Pepco Holdings LLC,,,
+Storage Pools,USA,Exelon Corporation,Nuclear Power,USA,
+Dry Cask Storage Facilities,USA,Exelon Corporation,Nuclear Power,USA,
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",PECO Energy Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",PECO Energy Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Commonwealth Edison Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Commonwealth Edison Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Pepco Holdings LLC,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Pepco Holdings LLC,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Atlantic City Electric Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Atlantic City Electric Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Exelon Corporation,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Exelon Corporation,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Baltimore Gas And Electric Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Baltimore Gas And Electric Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Delmarva Power & Light Company,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Delmarva Power & Light Company,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Utility Registrants,Electricity,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Disposal Facilities,"Midwest And East Coast Of The Usa,Illinois,Maryland,New Jersey,Pennsylvania,Delaware",Utility Registrants,Natural Gas,USA,"Maryland, Pennsylvania, New Jersey, Delaware, Illinois"
+Fossil And Renewable Generating Stations,USA,Exelon Corporation,Electricity,USA,
+Fossil And Renewable Generating Stations,USA,Exelon Corporation,Nuclear Power,USA,
+Smart Grids,,Exelon Corporation,Electricity,,
+Peaking Units  (Power Exelon Corporation),,Exelon Corporation,Electricity,,
+Gas Turbines,,Exelon Corporation,Electricity,,
+Nuclear Stations,"Calvert Cliffs,Ginna",Exelon Corporation,Electricity,USA,
+Nuclear Stations,"Calvert Cliffs,Ginna",Exelon Corporation,Nuclear Power,USA,
+Wind And Solar Facilities,,Exelon Corporation,Electricity,,
+Electric Substations,,Commonwealth Edison Company,Electricity,,
+Electric Substations,,PECO Energy Company,Electricity,,
+Electric Substations,,Pepco Holdings LLC,Electricity,,
+Electric Substations,,Delmarva Power & Light Company,Electricity,,
+Electric Substations,,Atlantic City Electric Company,Electricity,,
+High Voltage Electric Transmission Lines,,Commonwealth Edison Company,Electricity,,
+High Voltage Electric Transmission Lines,,PECO Energy Company,Electricity,,
+High Voltage Electric Transmission Lines,,Pepco Holdings LLC,Electricity,,
+High Voltage Electric Transmission Lines,,Delmarva Power & Light Company,Electricity,,
+High Voltage Electric Transmission Lines,,Atlantic City Electric Company,Electricity,,
+Overhead And Underground Lines,,Commonwealth Edison Company,Electricity,,
+Overhead And Underground Lines,,PECO Energy Company,Electricity,,
+Overhead And Underground Lines,,Pepco Holdings LLC,Electricity,,
+Overhead And Underground Lines,,Delmarva Power & Light Company,Electricity,,
+Overhead And Underground Lines,,Atlantic City Electric Company,Electricity,,
+Overhead And Underground Lines,,Baltimore Gas And Electric Company,Electricity,,
+Natural Gas Transmission Mains,Delaware,Delmarva Power & Light Company,Natural Gas,USA,Delaware
+Natural Gas Transmission Mains,Delaware,PECO Energy Company,Natural Gas,USA,Delaware
+Natural Gas Transmission Mains,Delaware,Baltimore Gas And Electric Company,Natural Gas,USA,Delaware
+LNG Facility,"West Conshohocken,Pennsylvania",PECO Energy Company,Natural Gas,USA,Pennsylvania
+Propane Air Plant,"Chester,Pennsylvania",PECO Energy Company,Propane,USA,Pennsylvania
+City Gate Stations,,PECO Energy Company,Natural Gas,,
+City Gate Stations,,Baltimore Gas And Electric Company,Natural Gas,,
+City Gate Stations,,Delmarva Power & Light Company,Natural Gas,,
+Direct Pipeline,,PECO Energy Company,Natural Gas,,
+Direct Pipeline,,Baltimore Gas And Electric Company,Natural Gas,,
+Direct Pipeline,,Delmarva Power & Light Company,Natural Gas,,
+Customer Delivery Points,,PECO Energy Company,Natural Gas,,
+Customer Delivery Points,,Baltimore Gas And Electric Company,Natural Gas,,
+Customer Delivery Points,,Delmarva Power & Light Company,Natural Gas,,
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Exelon Corporation,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Exelon Corporation,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Pepco Holdings LLC,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Pepco Holdings LLC,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Atlantic City Electric Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Atlantic City Electric Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Baltimore Gas And Electric Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Baltimore Gas And Electric Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Delmarva Power & Light Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Delmarva Power & Light Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Commonwealth Edison Company,Electricity,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Electric System,"District Of Columbia,Maryland,New Jersey,Delaware,Pennsylvania",Commonwealth Edison Company,Natural Gas,USA,"Pennsylvania, Delaware, Maryland, New Jersey"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Atlantic City Electric Company,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Atlantic City Electric Company,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",PECO Energy Company,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",PECO Energy Company,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Commonwealth Edison Company,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Commonwealth Edison Company,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Exelon Corporation,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Exelon Corporation,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Baltimore Gas And Electric Company,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Baltimore Gas And Electric Company,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Pepco Holdings LLC,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Pepco Holdings LLC,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Delmarva Power & Light Company,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",Delmarva Power & Light Company,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",PSEG,Electricity,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Communications Facilities,"Midwest and East Coast of the USA,Illinois,Maryland,Pennsylvania,Delaware,Braidwood,IL,Quad Cities,Nine Mile Point Unit NJ/DE",PSEG,Natural Gas,USA,"Maryland, New Jersey, Pennsylvania, Delaware, Illinois"
+Natural Gas Pipelines,Delaware,Baltimore Gas And Electric Company,Natural Gas,USA,Delaware
+Natural Gas Pipelines,Delaware,Delmarva Power & Light Company,Natural Gas,USA,Delaware
+Natural Gas Pipelines,Delaware,Exelon Corporation,Natural Gas,USA,Delaware
+Natural Gas Pipelines,Delaware,PECO Energy Company,Natural Gas,USA,Delaware
+Wells,,,Natural Gas,,
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Exelon Corporation,Natural Gas,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Exelon Corporation,Electricity,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,PECO Energy Company,Natural Gas,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,PECO Energy Company,Electricity,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Baltimore Gas And Electric Company,Natural Gas,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Baltimore Gas And Electric Company,Electricity,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Delmarva Power & Light Company,Natural Gas,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Delmarva Power & Light Company,Electricity,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Utility Registrants,Natural Gas,USA,"Delaware, New Jersey"
+Gas Transportation And Distribution Lines,New Jersey/Delaware,Utility Registrants,Electricity,USA,"Delaware, New Jersey"
+Equipment And Buildings (potentially contaminated with asbestos and PCBs),,Commonwealth Edison Company,,,
+Equipment And Buildings (potentially contaminated with asbestos and PCBs),,PECO Energy Company,,,
+Equipment And Buildings (potentially contaminated with asbestos and PCBs),,Baltimore Gas And Electric Company,,,
+Equipment And Buildings (potentially contaminated with asbestos and PCBs),,Pepco Holdings LLC,,,
+Equipment And Buildings (potentially contaminated with asbestos and PCBs),,Delmarva Power & Light Company,,,
+Equipment And Buildings (potentially contaminated with asbestos and PCBs),,Atlantic City Electric Company,,,
+Storage Tanks,,Exelon Corporation,,,
+Leased Land,,Exelon Corporation,,,
+Antelope Valley Solar Ranch,,Exelon Corporation,Renewable Energy,,
+Antelope Valley Solar Ranch,,Exelon Corporation,Electricity,,
+Sacramento PV Energy,,Exelon Corporation,Renewable Energy,,
+Constellation Solar Horizons,,Exelon Corporation,Renewable Energy,,
+West Lake Landfill,Missouri,Exelon Corporation,,USA,Missouri
+Latty Avenue Facility,"St. Louis,Missouri",Cotter Corporation,Uranium Ores,USA,Missouri
+Latty Avenue Facility,"St. Louis,Missouri",Cotter Corporation,Metals,USA,Missouri
+Latty Avenue Facility,"St. Louis,Missouri",USA Army Corps of Engineers,Uranium Ores,USA,Missouri
+Latty Avenue Facility,"St. Louis,Missouri",USA Army Corps of Engineers,Metals,USA,Missouri
+Vehicle Fleet,"Service Territories 
+
+
+Let me know when you're ready for the next cell!",Exelon Corporation,,,
+Electric Transportation,New Jersey/Delaware,Exelon Corporation,Electricity,USA,"Delaware, New Jersey"
+Advanced Metering Infrastructure,New Jersey,Atlantic City Electric Company,,USA,New Jersey
+Switching Substation,New Jersey,Atlantic City Electric Company,Electricity,USA,New Jersey
+Electric Generating Facility,Benning Road Site,Pepco Holdings LLC,Electricity,,
+Transmission And Distribution Service Center,Benning Road Site,Pepco Holdings LLC,Electricity,,
+Gas Purification Sites,,Commonwealth Edison Company,,,
+Gas Purification Sites,,PECO Energy Company,,,
+Gas Purification Sites,,Baltimore Gas And Electric Company,,,
+Gas Purification Sites,,Pepco Holdings LLC,,,
+Gas Purification Sites,,Delmarva Power & Light Company,,,
+Gas Purification Sites,,Atlantic City Electric Company,,,
+Operations (Physical Asset),Near The Registrant's Operations,Utility Registrants,Electricity,,
+Operations (Physical Asset),Near The Registrant's Operations,Exelon Corporation,Electricity,,
+Middle Mile Broadband Infrastructure,Underserved Communities,Commonwealth Edison Company,,,
+Middle Mile Broadband Infrastructure,Underserved Communities,Baltimore Gas And Electric Company,,,
+Advanced Distribution Management Systems (ADMS),Disadvantaged Communities,Commonwealth Edison Company,,,
+Advanced Distribution Management Systems (ADMS),Disadvantaged Communities,Pepco Holdings LLC,,,
+Grid-Edged Technologies,Disadvantaged Communities,Commonwealth Edison Company,Clean Energy,,
+Grid-Edged Technologies,Disadvantaged Communities,Pepco Holdings LLC,Clean Energy,,
+Solar Panels,Disadvantaged Communities,Commonwealth Edison Company,Clean Energy,,
+Microgrid Technologies,Disadvantaged Communities,Commonwealth Edison Company,Clean Energy,,
+Microgrid Technologies,Disadvantaged Communities,Pepco Holdings LLC,Clean Energy,,
+500kV Line (Over Delaware River),Delaware River,PECO Energy Company,Electricity,USA,Delaware
+500kV Line (Over Delaware River),Delaware River,Delmarva Power & Light Company,Electricity,USA,Delaware
+500kV Line (Over Delaware River),Delaware River,Atlantic City Electric Company,Electricity,USA,Delaware
+Braidwood Station,"Philadelphia,PA",Exelon Corporation,,USA,Pennsylvania
+Byron Station,"Philadelphia,PA",Exelon Corporation,,USA,Pennsylvania
+Calvert Cliffs Station,"Philadelphia,PA",Exelon Corporation,,USA,Pennsylvania
+Clinton Station,"Clinton,NY",Exelon Corporation,,USA,New York
+Dresden Station,"Dresden,OH",Exelon Corporation,,USA,Ohio
+FitzPatrick Station,"Lycoming County,PA",Exelon Corporation,,USA,Pennsylvania
+La Salle Station,"LaSalle,IL",Exelon Corporation,,USA,Illinois
+Limerick Station,"Pottstown,PA",Exelon Corporation,,USA,Pennsylvania
+Nine Mile Point Station,"Scriba,NY",Exelon Corporation,,USA,New York
+Peach Bottom Station,"Peach Bottom,PA",Exelon Corporation,,USA,Pennsylvania
+Quad Cities Station,"Cordova,IL",Exelon Corporation,,USA,Illinois
+Ginna Station,"Ontario County,NY",Exelon Corporation,,USA,New York
+Salem Station,"Salem,NH",Exelon Corporation,,USA,New Hampshire
+Richmond station,"Philadelphia,PA",Exelon Corporation,,USA,Pennsylvania
+Philadelphia Road station,"Baltimore,MD",Exelon Corporation,,USA,Maryland
+Eddystone station,"Eddystone,PA",Exelon Corporation,,USA,Pennsylvania
+Delaware station,"Philadelphia,PA",Exelon Corporation,,USA,Pennsylvania
+Southwark station,"Philadelphia,PA",Exelon Corporation,,USA,Pennsylvania
+Falls station,"Morrisville,PA",Exelon Corporation,,USA,Pennsylvania
+Moser station,"Lower Pottsgrove Twp.,PA",Exelon Corporation,,USA,Pennsylvania
+Chester station,"Chester,PA",Exelon Corporation,,USA,Pennsylvania
+Schuylkill station,"Chester,PA",Exelon Corporation,,USA,Pennsylvania

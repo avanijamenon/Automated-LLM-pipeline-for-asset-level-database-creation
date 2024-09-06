@@ -1,0 +1,720 @@
+physical asset,location,ownership,commodity,Countries,status,USA states
+Storm Recovery Property,['nan'],Duke Energy Carolinas,Electricity,nan,,['nan']
+Storm Recovery Property,['nan'],Duke Energy Progress,Electricity,nan,,['nan']
+Storm Recovery Property,['nan'],Duke Energy Florida Project Finance LLC (DEFPF),Electricity,nan,,['nan']
+Storm Recovery Property,['nan'],Duke Energy Florida,Electricity,nan,,['nan']
+Storm Recovery Property,['nan'],Duke Energy,Electricity,nan,,['nan']
+Abandoned Plants,['nan'],Duke Energy,nan,nan,,['nan']
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy,Electricity,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy,Coal Combustion Byproduct,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy,Waste Disposal,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy,Coal Ash,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Electricity,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Coal Combustion Byproduct,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Waste Disposal,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Coal Ash,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Progress,Electricity,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Progress,Coal Combustion Byproduct,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Progress,Waste Disposal,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Progress,Coal Ash,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Florida,Electricity,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Florida,Coal Combustion Byproduct,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Florida,Waste Disposal,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Florida,Coal Ash,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Indiana,Electricity,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Indiana,Coal Combustion Byproduct,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Indiana,Waste Disposal,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Indiana,Coal Ash,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Ohio,Electricity,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Ohio,Coal Combustion Byproduct,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Ohio,Waste Disposal,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Ash Impoundments,"['Duke Energy Carolinas', 'Duke Energy Progress', ""Various Sites Across Duke Energy's Operations"", 'Duke Energy Florida', 'North Carolina Sites', 'North Carolina', 'South Carolina']",Duke Energy Ohio,Coal Ash,USA,,"['North Carolina', 'South Carolina', 'Florida']"
+Atlantic Coast Pipeline,"['West Virginia', 'North Carolina']",Atlantic Coast Pipeline LLC,Natural Gas,USA,,"['Virginia', 'North Carolina', 'West Virginia']"
+Buildings And Improvements,['nan'],Duke Energy,nan,nan,,['nan']
+Carolina Long Bay Offshore Wind Contract,['nan'],Duke Energy,Electricity,nan,,['nan']
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy,Coal,USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy,Coal Combustion Residuals (CCR),USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy,Electricity,USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy Carolinas,Coal,USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy Carolinas,Coal Combustion Residuals (CCR),USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy Carolinas,Electricity,USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy Progress,Coal,USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy Progress,Coal Combustion Residuals (CCR),USA,,"['South Carolina', 'North Carolina']"
+ccr landfills,"['North Carolina', 'South Carolina']",Duke Energy Progress,Electricity,USA,,"['South Carolina', 'North Carolina']"
+Central Corridor Project,['Ohio Service Territory'],Duke Energy Ohio,Natural Gas,USA,,['Ohio']
+Citrus County CC Plant,['nan'],Duke Energy Progress,Electricity,nan,,['nan']
+Co Emission Control Equipment,['nan'],Duke Energy,Electricity,nan,,['nan']
+Co Emission Control Equipment,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Indiana,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Indiana,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Carolinas,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Carolinas,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Progress,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Progress,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Florida,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Florida,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Ohio,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Basins,"['Indiana', 'North Carolina', 'South Carolina', ""Various sites across Duke Energy's operations""]",Duke Energy Ohio,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Inventories,['nan'],Duke Energy,Fuel,nan,,['nan']
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Carolinas,Energy,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Carolinas,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Progress,Energy,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Progress,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Indiana,Energy,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Indiana,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Florida,Energy,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Florida,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Ohio,Energy,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy,Energy,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Coal-Fired Generating Facilities,"['North Carolina', 'Indiana', 'Florida', 'Ohio', 'South Carolina', 'Kentucky', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Commercial Renewables Business Segment,['nan'],Duke Energy,Energy Generation,nan,,['nan']
+Construction Projects,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+cooling water intake structures,['nan'],Duke Energy,Electricity,nan,,['nan']
+cooling water intake structures,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Crystal River Unit,"['Crystal River', 'Florida']",Duke Energy Florida,Electricity,USA,,['Florida']
+Crystal River Unit,"['Crystal River', 'Florida']",Duke Energy Florida,Electricity,USA,,['Florida']
+Crystal River Unit,"['Crystal River', 'Florida']",Duke Energy,Electricity,USA,,['Florida']
+Crystal River Unit,"['Crystal River', 'Florida']",Duke Energy,Electricity,USA,,['Florida']
+Damage Assessors,['Service Territories'],Duke Energy,Electricity,nan,,['nan']
+Dan River Steam Station,"['Eden', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Coal,USA,,"['South Carolina', 'North Carolina']"
+Dan River Steam Station,"['Eden', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Electricity,USA,,"['South Carolina', 'North Carolina']"
+Dan River Steam Station,"['Eden', 'North Carolina', 'South Carolina']",Duke Energy,Coal,USA,,"['South Carolina', 'North Carolina']"
+Dan River Steam Station,"['Eden', 'North Carolina', 'South Carolina']",Duke Energy,Electricity,USA,,"['South Carolina', 'North Carolina']"
+Debary Solar Plant,['Duke Energy Florida'],Duke Energy,Solar Energy,USA,,['Florida']
+Debary Solar Plant,['Duke Energy Florida'],Duke Energy,Electricity,USA,,['Florida']
+Debary Solar Plant,['Duke Energy Florida'],Utilities,Solar Energy,USA,,['Florida']
+Debary Solar Plant,['Duke Energy Florida'],Utilities,Electricity,USA,,['Florida']
+Distributed Generation Group,"['Regions Where Duke Energy Operates', 'North Carolina']",Duke Energy,Electricity,USA,,['North Carolina']
+Distributed Generation Group,"['Regions Where Duke Energy Operates', 'North Carolina']",ArcLight affiliates,Electricity,USA,,['North Carolina']
+Distributed Generation Group,"['Regions Where Duke Energy Operates', 'North Carolina']",Duke Energy Carolinas,Electricity,USA,,['North Carolina']
+Distribution Network,"['Indiana', 'North Carolina']",Duke Energy,Electricity,USA,,"['Indiana', 'North Carolina']"
+dual-fuel generating facilities,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & IS Service Area', 'Kentucky', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+dual-fuel generating facilities,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & IS Service Area', 'Kentucky', 'North Carolina', 'South Carolina']",Duke Energy Florida,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+dual-fuel generating facilities,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & IS Service Area', 'Kentucky', 'North Carolina', 'South Carolina']",Duke Energy Indiana,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+dual-fuel generating facilities,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & IS Service Area', 'Kentucky', 'North Carolina', 'South Carolina']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+dual-fuel generating facilities,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & IS Service Area', 'Kentucky', 'North Carolina', 'South Carolina']",EU&I,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+dual-fuel generating facilities,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & IS Service Area', 'Kentucky', 'North Carolina', 'South Carolina']",Duke Energy Progress,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+dual-fuel generating facilities,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & IS Service Area', 'Kentucky', 'North Carolina', 'South Carolina']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Duke Energy Carolinas Facilities,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Tennessee', 'Indiana', 'Kentucky']",Duke Energy Carolinas,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+Duke Energy Carolinas Facilities,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Tennessee', 'Indiana', 'Kentucky']",Duke Energy Carolinas,Electricity Distribution,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+Duke Energy Carolinas Facilities,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Tennessee', 'Indiana', 'Kentucky']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+Duke Energy Carolinas Facilities,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Tennessee', 'Indiana', 'Kentucky']",Duke Energy,Electricity Distribution,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+Duke Energy Carolinas Facilities,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Tennessee', 'Indiana', 'Kentucky']",Duke Energy Progress,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+Duke Energy Carolinas Facilities,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Tennessee', 'Indiana', 'Kentucky']",Duke Energy Progress,Electricity Distribution,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+Duke Energy Indiana Holdco,['Indiana'],Duke Energy,Electricity,USA,,['Indiana']
+Duke Energy Indiana Holdco,['Indiana'],Duke Energy Indiana,Electricity,USA,,['Indiana']
+LLC,['Indiana'],Duke Energy,Electricity,USA,,['Indiana']
+LLC,['Indiana'],Duke Energy Indiana,Electricity,USA,,['Indiana']
+Electric Transmission Infrastructure Investments,['Ohio'],Duke Energy,Electricity,USA,,['Ohio']
+Electric Transmission Infrastructure Investments,['Ohio'],Duke Energy Carolinas,Electricity,USA,,['Ohio']
+Electric Transmission Infrastructure Investments,['Ohio'],Duke Energy Ohio,Electricity,USA,,['Ohio']
+Regulated Electric Utilities,"['Carolinas', 'Florida', 'Midwest']",Duke Energy,Electricity,USA,,['Florida']
+Regulated Electric Utilities,"['Carolinas', 'Florida', 'Midwest']",Duke Energy Progress,Electricity,USA,,['Florida']
+Natural Gas Local Distribution Companies (in Ohio and Kentucky),"['Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Natural Gas Storage,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Piedmont,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Storage,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Piedmont,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Storage,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Storage,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Storage,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Storage,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Midstream Pipeline,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Piedmont,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Midstream Pipeline,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Piedmont,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Midstream Pipeline,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Midstream Pipeline,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Midstream Pipeline,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Midstream Pipeline,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+and Renewable Natural Gas Investments,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Piedmont,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+and Renewable Natural Gas Investments,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Piedmont,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+and Renewable Natural Gas Investments,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+and Renewable Natural Gas Investments,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+and Renewable Natural Gas Investments,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+and Renewable Natural Gas Investments,"['Carolinas', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Distribution,"['Carolinas', 'Ohio']",Duke Energy,Electricity,USA,,['Ohio']
+Electric Distribution,"['Carolinas', 'Ohio']",Duke Energy Ohio,Electricity,USA,,['Ohio']
+Electric Gas,['nan'],Duke Energy Carolinas,Electricity,nan,,['nan']
+Electric Gas,['nan'],Duke Energy Carolinas,Natural Gas,nan,,['nan']
+Electric Gas,['nan'],Duke Energy Progress,Electricity,nan,,['nan']
+Electric Gas,['nan'],Duke Energy Progress,Natural Gas,nan,,['nan']
+Electric Gas,['nan'],Duke Energy,Electricity,nan,,['nan']
+Electric Gas,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Electric Gas,['nan'],Duke Energy Ohio,Electricity,nan,,['nan']
+Electric Gas,['nan'],Duke Energy Ohio,Natural Gas,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy Carolinas,Electricity,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy Carolinas,Natural Gas,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy Progress,Electricity,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy Progress,Natural Gas,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy,Electricity,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy Ohio,Electricity,nan,,['nan']
+Total Utilities And Infrastructure,['nan'],Duke Energy Ohio,Natural Gas,nan,,['nan']
+Electric Generation,"['North Carolina', 'Florida']",Duke Energy,Electricity,USA,,"['North Carolina', 'Florida']"
+Electric Generation,"['North Carolina', 'Florida']",Duke Energy,Natural Gas,USA,,"['North Carolina', 'Florida']"
+Electric Generation,"['North Carolina', 'Florida']",Duke Energy Progress,Electricity,USA,,"['North Carolina', 'Florida']"
+Electric Generation,"['North Carolina', 'Florida']",Duke Energy Progress,Natural Gas,USA,,"['North Carolina', 'Florida']"
+Electric Generation,"['North Carolina', 'Florida']",Duke Energy Florida,Electricity,USA,,"['North Carolina', 'Florida']"
+Electric Generation,"['North Carolina', 'Florida']",Duke Energy Florida,Natural Gas,USA,,"['North Carolina', 'Florida']"
+Electric Grid,['North Carolina'],Duke Energy,Electricity,USA,,['North Carolina']
+Electric Grid,['North Carolina'],Duke Energy,Natural Gas,USA,,['North Carolina']
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Carolinas,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Carolinas,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Progress,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Progress,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Florida,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Florida,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Indiana,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Indiana,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",American Transmission Company,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",American Transmission Company,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",GIC,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",GIC,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Electricity,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Electric Transmission Projects,"['Southeast Regions Of The Usa', 'Central California', 'North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['California', 'Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Energy Storage,['nan'],Duke Energy Progress,Energy,nan,,['nan']
+Energy Storage,['nan'],Duke Energy Progress,Natural Gas,nan,,['nan']
+Energy Storage,['nan'],Duke Energy Progress,Electricity,nan,,['nan']
+Energy Storage,['nan'],Duke Energy,Energy,nan,,['nan']
+Energy Storage,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Energy Storage,['nan'],Duke Energy,Electricity,nan,,['nan']
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Progress,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Progress,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Progress,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Progress,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Progress,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Florida,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Florida,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Florida,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Florida,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Florida,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Ohio,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Ohio,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Ohio,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Ohio,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Indiana,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Indiana,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Indiana,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Indiana,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Indiana,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Carolinas,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Carolinas,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Carolinas,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Carolinas,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Carolinas,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Electric Utilities and Infrastructure,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Electric Utilities and Infrastructure,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Electric Utilities and Infrastructure,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Electric Utilities and Infrastructure,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Electric Utilities and Infrastructure,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",GIC,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",GIC,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",GIC,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",GIC,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",GIC,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Kentucky,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Kentucky,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Kentucky,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy Kentucky,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Progress Energy Inc LLC,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Progress Energy Inc LLC,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Progress Energy Inc LLC,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Progress Energy Inc LLC,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Progress Energy Inc LLC,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Piedmont Natural Gas Company,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Piedmont Natural Gas Company,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Piedmont Natural Gas Company,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Piedmont Natural Gas Company,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Piedmont Natural Gas Company,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Nuclear Fuel Materials And Services,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+equipment,"['South Carolina', 'Tennessee', 'Florida', 'Kentucky', 'Ohio', 'Southeast And Midwest Regions Of The USA', 'Northern Appalachia', 'Illinois Basin', 'Portions Of Ohio And Kentucky']",Duke Energy,Energy,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'South Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy,Nuclear Fuel,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy,Fossil Fuels,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy,Energy Storage,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Ohio,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Ohio,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Ohio,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Ohio,Nuclear Fuel,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Ohio,Fossil Fuels,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Ohio,Energy Storage,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Indiana,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Indiana,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Indiana,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Indiana,Nuclear Fuel,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Indiana,Fossil Fuels,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Indiana,Energy Storage,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Carolinas,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Carolinas,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Carolinas,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Carolinas,Nuclear Fuel,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Carolinas,Fossil Fuels,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Carolinas,Energy Storage,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Piedmont,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Piedmont,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Piedmont,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Piedmont,Nuclear Fuel,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Piedmont,Fossil Fuels,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Piedmont,Energy Storage,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Progress,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Progress,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Progress,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Progress,Nuclear Fuel,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Progress,Fossil Fuels,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Progress,Energy Storage,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Florida,Electricity,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Florida,Natural Gas,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Florida,Coal,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Florida,Nuclear Fuel,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Florida,Fossil Fuels,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Facilities,"['North Carolina', 'Ohio', 'Kentucky', 'Florida', 'Tennessee', 'Illinois Basin', 'Central Appalachia', 'Carolinas', 'Southeast and Midwest regions of the USA']",Duke Energy Florida,Energy Storage,USA,,"['Illinois', 'Ohio', 'Florida', 'Tennessee', 'Kentucky', 'North Carolina']"
+Fixtures,['nan'],Duke Energy,nan,nan,,['nan']
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy,Natural Gas,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy Progress,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy Progress,Natural Gas,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy Florida,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy Florida,Natural Gas,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Facilities [Nuclear Plants],"['North Carolina', 'Florida', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Natural Gas,USA,,"['Indiana', 'South Carolina', 'North Carolina', 'Florida']"
+Generation Portfolio,['nan'],Duke Energy,Electricity,nan,,['nan']
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Florida,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Florida,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Florida,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Florida,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Ohio,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Ohio,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Indiana,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Indiana,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Indiana,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Indiana,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Kentucky,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Kentucky,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Kentucky,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Progress,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Progress,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Progress,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Progress,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Carolinas,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Carolinas,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Carolinas,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Duke Energy Carolinas,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Piedmont,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Piedmont,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Piedmont,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",Piedmont,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",GIC,Electricity,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",GIC,Natural Gas,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",GIC,Propane,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+infrastructure,"['Florida', 'Indiana', 'North Carolina', 'Ohio', 'Kentucky', 'Tennessee', 'Midwest', 'Southeast']",GIC,Clean Energy,USA,,"['Ohio', 'Florida', 'Indiana', 'Tennessee', 'Kentucky', 'North Carolina']"
+interstate pipelines,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Land,['nan'],Duke Energy,nan,nan,,['nan']
+Liquefied Natural Gas Inventories,['nan'],Duke Energy,Fuel,nan,,['nan']
+Midstream Pipeline,"['Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Natural Gas And Electric Assets,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy Kentucky,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy Florida,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Distribution And Transmission Activities,"['Portions of North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Northern Kentucky']",Duke Energy Florida,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",Duke Energy,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",Interstate Pipeline Companies,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",Interstate Pipeline Companies,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas Pipelines,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Natural Gas-Fired Power Plants,"['North Carolina', 'South Carolina', 'Indiana', 'Florida', 'Ohio']",Duke Energy,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Natural Gas-Fired Power Plants,"['North Carolina', 'South Carolina', 'Indiana', 'Florida', 'Ohio']",Duke Energy Carolinas,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Natural Gas-Fired Power Plants,"['North Carolina', 'South Carolina', 'Indiana', 'Florida', 'Ohio']",Duke Energy Florida,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Natural Gas-Fired Power Plants,"['North Carolina', 'South Carolina', 'Indiana', 'Florida', 'Ohio']",Duke Energy Indiana,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Natural Gas-Fired Power Plants,"['North Carolina', 'South Carolina', 'Indiana', 'Florida', 'Ohio']",Duke Energy Ohio,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Natural Gas-Fired Power Plants,"['North Carolina', 'South Carolina', 'Indiana', 'Florida', 'Ohio']",Duke Energy Progress,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Net Property,['nan'],Duke Energy Progress,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Progress,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Progress,Electric Generation,nan,,['nan']
+Net Property,['nan'],Progress Energy Inc.,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Progress Energy Inc.,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Progress Energy Inc.,Electric Generation,nan,,['nan']
+Net Property,['nan'],Duke Energy Ohio,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Ohio,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Ohio,Electric Generation,nan,,['nan']
+Net Property,['nan'],Duke Energy Indiana,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Indiana,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Indiana,Electric Generation,nan,,['nan']
+Net Property,['nan'],LLC,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],LLC,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],LLC,Electric Generation,nan,,['nan']
+Net Property,['nan'],Piedmont Natural Gas Company,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Piedmont Natural Gas Company,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Piedmont Natural Gas Company,Electric Generation,nan,,['nan']
+Net Property,['nan'],Duke Energy,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy,Electric Generation,nan,,['nan']
+Net Property,['nan'],Duke Energy Carolinas,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Carolinas,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Carolinas,Electric Generation,nan,,['nan']
+Net Property,['nan'],Duke Energy Florida,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Florida,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy Florida,Electric Generation,nan,,['nan']
+Net Property,['nan'],Duke Energy,Regulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy,Nonregulated Natural Gas,nan,,['nan']
+Net Property,['nan'],Duke Energy,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Progress,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Progress,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Progress,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Progress Energy Inc.,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Progress Energy Inc.,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Progress Energy Inc.,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Ohio,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Ohio,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Ohio,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Indiana,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Indiana,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Indiana,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],LLC,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],LLC,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],LLC,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Piedmont Natural Gas Company,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Piedmont Natural Gas Company,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Piedmont Natural Gas Company,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Carolinas,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Carolinas,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Carolinas,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Florida,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Florida,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy Florida,Electric Generation,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy,Regulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy,Nonregulated Natural Gas,nan,,['nan']
+Plant And Equipment,['nan'],Duke Energy,Electric Generation,nan,,['nan']
+Nuclear Fuel,['nan'],Duke Energy,Electric Generation,nan,,['nan']
+Nuclear Reactors,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'EU & Is Service Area']",Duke Energy,nan,USA,,"['Indiana', 'Florida', 'Ohio']"
+Nuclear Stations,"['Duke Energy Carolinas', 'Duke Energy Progress', 'Florida', 'Oconee']",Duke Energy Carolinas,Electricity,USA,,['Florida']
+Nuclear Stations,"['Duke Energy Carolinas', 'Duke Energy Progress', 'Florida', 'Oconee']",Duke Energy Progress,Electricity,USA,,['Florida']
+Nuclear Stations,"['Duke Energy Carolinas', 'Duke Energy Progress', 'Florida', 'Oconee']",Florida Power & Light,Electricity,USA,,['Florida']
+Oconee Nuclear Station,"['South Carolina', 'Oconee', 'North Carolina']",Duke Energy Carolinas,Energy Production,USA,,"['South Carolina', 'North Carolina']"
+Oconee Nuclear Station,"['South Carolina', 'Oconee', 'North Carolina']",Duke Energy Carolinas,Electricity,USA,,"['South Carolina', 'North Carolina']"
+Offshore Wind Farm,['Atlantic Ocean  east of Wilmington'],nan,Wind Energy,nan,,['nan']
+Offshore Wind Farm,['Atlantic Ocean  east of Wilmington'],nan,Electricity,nan,,['nan']
+Ovec's Power Plants,"['Duke Energy Carolinas Service Territories', 'North Carolina', 'South Carolina', 'Indiana']",Duke Energy Ohio,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Ovec's Power Plants,"['Duke Energy Carolinas Service Territories', 'North Carolina', 'South Carolina', 'Indiana']",OVEC,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Ovec's Power Plants,"['Duke Energy Carolinas Service Territories', 'North Carolina', 'South Carolina', 'Indiana']",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Ovec's Power Plants,"['Duke Energy Carolinas Service Territories', 'North Carolina', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Ovec's Power Plants,"['Duke Energy Carolinas Service Territories', 'North Carolina', 'South Carolina', 'Indiana']",Duke Energy Progress,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Ovec's Power Plants,"['Duke Energy Carolinas Service Territories', 'North Carolina', 'South Carolina', 'Indiana']",Duke Energy Florida,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+pipeline projects,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",Duke Energy,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+pipeline projects,"['Ohio', 'Kentucky', 'North Carolina', 'South Carolina', 'Tennessee']",KO Transmission (Wholly Owned Subsidiary of Duke Energy Ohio),Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Pipeline Transportation Capacity,"['Ohio', 'Kentucky']",Dominion,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Pipeline Transportation Capacity,"['Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Pipeline Transportation Capacity,"['Ohio', 'Kentucky']",KO Transmission (Wholly Owned Subsidiary of Duke Energy Ohio),Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Pipeline Transportation Capacity,"['Ohio', 'Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Plant In Service,['nan'],Duke Energy,Electricity,nan,,['nan']
+Production Facilities,"['Jubail', 'Saudi Arabia']",NMC,Petrochemicals,Saudi Arabia,,['nan']
+Production Facilities,"['Jubail', 'Saudi Arabia']",NMC,Plastics,Saudi Arabia,,['nan']
+Propane Peaking Facilities,['nan'],Duke Energy Ohio,nan,nan,,['nan']
+Properties,['nan'],Duke Energy,nan,nan,,['nan']
+Real Estate,['nan'],Duke Energy Carolinas,Electricity,nan,,['nan']
+Recently Completed Plants,['nan'],Duke Energy,Electricity,nan,,['nan']
+regulated generation fleet,['Service Territories'],Duke Energy,Electricity,nan,,['nan']
+regulated generation fleet,['Service Territories'],Duke Energy,Energy Generation,nan,,['nan']
+regulated plants,['nan'],Duke Energy,Electricity,nan,,['nan']
+Renewable Energy Certificates,['nan'],Duke Energy,Renewable Energy,nan,,['nan']
+Renewable Energy Certificates,['nan'],Duke Energy,Electricity,nan,,['nan']
+Renewable Operating And Development Projects,['nan'],Duke Energy,Renewable Energy,nan,,['nan']
+Renewable Operating And Development Projects,['nan'],Duke Energy,Electricity,nan,,['nan']
+Renewables,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Renewables,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy,Energy Generation,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Renewables,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Progress,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Renewables,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Progress,Energy Generation,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Renewables,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Renewables,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Energy Generation,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Retired Generating Plants,"['Indiana', 'EU & IS Service Area']",Duke Energy Indiana,Electricity,USA,,['Indiana']
+Substations,"['Moore County', 'North Carolina']",Duke Energy,Electricity,USA,,['North Carolina']
+Surface Impoundments,"['North Carolina Sites', 'South Carolina']",Duke Energy,Coal,USA,,"['South Carolina', 'North Carolina']"
+Surface Impoundments,"['North Carolina Sites', 'South Carolina']",Duke Energy,Ash,USA,,"['South Carolina', 'North Carolina']"
+Targeted Underground Infrastructure,['North Carolina'],Duke Energy,Electricity,USA,,['North Carolina']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Progress,Energy,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Progress,Electricity,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Progress,Natural Gas Transmission And Distribution,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Progress,Electricity Supply,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy,Energy,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy,Electricity,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy,Natural Gas Transmission And Distribution,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy,Electricity Supply,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Florida,Energy,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Florida,Electricity,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Florida,Natural Gas Transmission And Distribution,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Florida,Electricity Supply,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Ohio,Energy,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Ohio,Electricity,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Ohio,Natural Gas Transmission And Distribution,USA,,['Ohio']
+Transmission And Distribution Investments,['Ohio'],Duke Energy Ohio,Electricity Supply,USA,,['Ohio']
+transmission systems and lines,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky', 'Indiana']",Duke Energy,Natural Gas,USA,,"['North Carolina', 'Ohio', 'Indiana', 'Tennessee', 'Kentucky', 'South Carolina']"
+transmission systems and lines,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky', 'Indiana']",Duke Energy,Electricity,USA,,"['North Carolina', 'Ohio', 'Indiana', 'Tennessee', 'Kentucky', 'South Carolina']"
+Transportation Systems (Pipelines),['nan'],Duke Energy,Fuel Sources,nan,,['nan']
+two-unit AP1000 Nuclear Power Plant,['nan'],Duke Energy Florida,nan,nan,,['nan']
+two-unit AP1000 Nuclear Power Plant,['nan'],Westinghouse Electric Company LLC,nan,nan,,['nan']
+two-unit AP1000 Nuclear Power Plant,['nan'],Stone & Webster Inc.,nan,nan,,['nan']
+two-unit AP1000 Nuclear Power Plant,['nan'],Duke Energy,nan,nan,,['nan']
+Wastewater Treatment Systems,['nan'],Duke Energy,Electricity,nan,,['nan']
+Wastewater Treatment Systems,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Wind Or Solar Facilities,['Texas'],Duke Energy,Electricity,USA,,['Texas']
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy Kentucky,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Interstate Pipeline Companies,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Operating and offshore Pipelines & transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Interstate Pipeline Companies,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Physical Plant Security,['nan'],Duke Energy,Electricity,nan,,['nan']
+Electric Generation Plants (Including Coal,['Various States'],Duke Energy,Electricity,nan,,['nan']
+Nuclear And Renewables),['Various States'],Duke Energy,Electricity,nan,,['nan']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Progress Energy Inc.,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Progress Energy Inc.,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Progress Energy Inc.,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Progress Energy Inc.,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Ohio,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Ohio,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Ohio,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Ohio,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Indiana,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Indiana,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Indiana,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Indiana,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Progress,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Progress,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Progress,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Progress,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Florida,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Florida,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Florida,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy Florida,Natural Gas,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Electricity,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Solar,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Wind,USA,,['Texas']
+Property,"['Texas', 'PJM West Market']",Duke Energy,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Progress Energy Inc.,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Progress Energy Inc.,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Progress Energy Inc.,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Progress Energy Inc.,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Ohio,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Ohio,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Ohio,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Ohio,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Indiana,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Indiana,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Indiana,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Indiana,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Piedmont Natural Gas Company,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Progress,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Progress,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Progress,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Progress,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Carolinas,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Florida,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Florida,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Florida,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy Florida,Natural Gas,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Electricity,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Solar,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Wind,USA,,['Texas']
+Plant And Equipment Related To Renewable Energy Plants,"['Texas', 'PJM West Market']",Duke Energy,Natural Gas,USA,,['Texas']
+Coal Units,"['Crystal River', 'North Carolina', 'South Carolina', ""Indiana \n\n\nLet me know if you have another cell value you'd like me to clean!""]",Duke Energy Progress,Electric Generation,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Units,"['Crystal River', 'North Carolina', 'South Carolina', ""Indiana \n\n\nLet me know if you have another cell value you'd like me to clean!""]",Duke Energy Progress,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Units,"['Crystal River', 'North Carolina', 'South Carolina', ""Indiana \n\n\nLet me know if you have another cell value you'd like me to clean!""]",Duke Energy Carolinas,Electric Generation,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Units,"['Crystal River', 'North Carolina', 'South Carolina', ""Indiana \n\n\nLet me know if you have another cell value you'd like me to clean!""]",Duke Energy Carolinas,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Units,"['Crystal River', 'North Carolina', 'South Carolina', ""Indiana \n\n\nLet me know if you have another cell value you'd like me to clean!""]",Duke Energy,Electric Generation,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Units,"['Crystal River', 'North Carolina', 'South Carolina', ""Indiana \n\n\nLet me know if you have another cell value you'd like me to clean!""]",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Hydropower Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Indiana,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Indiana,Ash,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Carolinas,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Carolinas,Ash,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Progress,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Progress,Ash,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Florida,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Florida,Ash,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Ohio,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy Ohio,Ash,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy,Coal,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Coal Ash Impoundments (physical assets used for Energy Generation),"['Indiana', 'North Carolina', 'South Carolina', 'Various Sites Across Duke Energy Operations']",Duke Energy,Ash,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy,Energy,USA,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy,Energy,Texas,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy,Electricity,USA,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy,Electricity,Texas,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy Progress,Energy,USA,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy Progress,Energy,Texas,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy Progress,Electricity,USA,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Duke Energy Progress,Electricity,Texas,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Brookfield Affiliates,Energy,USA,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Brookfield Affiliates,Energy,Texas,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Brookfield Affiliates,Electricity,USA,,['Texas']
+Utility-Scale Wind And Solar Generation Assets,"['Throughout the USA', 'Texas']",Brookfield Affiliates,Electricity,Texas,,['Texas']
+Lee Nuclear Project,['South Carolina'],Duke Energy Carolinas,Electricity,USA,,['South Carolina']
+Propane Caverns,['Ohio'],Duke Energy Ohio,Propane,USA,,['Ohio']
+Infrastructure Upgrade Investments,"['Tennessee', 'North Carolina']",Duke Energy Piedmont,Electricity,USA,,"['Tennessee', 'North Carolina']"
+Plant Additions,"['Tennessee', 'North Carolina']",Duke Energy Piedmont,Electricity,USA,,"['Tennessee', 'North Carolina']"
+Robeson County LNG Facility,['Robeson County'],Duke Energy Piedmont,Natural Gas,USA,,['nan']
+Pender Onslow County Expansion Project,['Pender Onslow County'],Duke Energy Piedmont,Natural Gas,USA,,['nan']
+McGuire Unit,['North Carolina'],Duke Energy Carolinas,Electricity,USA,,['North Carolina']
+Brunswick Unit,['nan'],Duke Energy Progress,Electricity,nan,,['nan']
+Natural gas and fuel oil supply,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Piedmont,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Natural gas and fuel oil supply,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Piedmont,Fuel Oil,USA,,"['Ohio', 'Kentucky']"
+Natural gas and fuel oil supply,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Natural gas and fuel oil supply,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Ohio,Fuel Oil,USA,,"['Ohio', 'Kentucky']"
+Natural gas and fuel oil supply,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Natural gas and fuel oil supply,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Kentucky,Fuel Oil,USA,,"['Ohio', 'Kentucky']"
+transportation and storage infrastructure,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Piedmont,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+transportation and storage infrastructure,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Piedmont,Fuel Oil,USA,,"['Ohio', 'Kentucky']"
+transportation and storage infrastructure,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Ohio,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+transportation and storage infrastructure,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Ohio,Fuel Oil,USA,,"['Ohio', 'Kentucky']"
+transportation and storage infrastructure,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Kentucky,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+transportation and storage infrastructure,"['EU Service Area', 'Ohio', 'Northern Kentucky']",Duke Energy Kentucky,Fuel Oil,USA,,"['Ohio', 'Kentucky']"
+"Duke Energy Ohio [Electric Generation Facility] 
+
+
+Let me know if you'd like me to process another cell!  I'm ready for your next instruction.",['Ohio'],Duke Energy,nan,USA,,['Ohio']
+CCR Materials,['Off-Site Locations'],Duke Energy,Electricity,nan,,['nan']
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy,Power Generation,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Carolinas,Power Generation,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Florida,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Florida,Power Generation,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Indiana,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Indiana,Power Generation,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Ohio,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Ohio,Power Generation,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Progress,Electricity,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Coal Plants,"['Carolinas', 'Florida', 'Indiana', 'Ohio', 'North Carolina', 'South Carolina']",Duke Energy Progress,Power Generation,USA,,"['North Carolina', 'Ohio', 'Florida', 'Indiana', 'South Carolina']"
+Riverbend Plant,['North Carolina'],Duke Energy Carolinas,Electricity,USA,,['North Carolina']
+Riverbend Plant,['North Carolina'],Duke Energy Progress,Electricity,USA,,['North Carolina']
+Catwba Unit,['nan'],Duke Energy Carolinas,Electricity,USA,,['nan']
+Catwba Unit,['nan'],Duke Energy Progress,Electricity,USA,,['nan']
+Robinson Unit,['nan'],Duke Energy Carolinas,Electricity,USA,,['nan']
+Robinson Unit,['nan'],Duke Energy Progress,Electricity,USA,,['nan']
+Hydrogen-Capable Natural Gas Generation,['nan'],nan,Electricity,nan,,['nan']
+key transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+key transmission facilities,"['North Carolina', 'South Carolina', 'Tennessee', 'Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'South Carolina', 'Tennessee', 'Kentucky', 'North Carolina']"
+Pumped Hydro Storage,['nan'],Utilities,Electricity,nan,,['nan']
+replacement generating units,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+replacement generating units,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Progress,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+replacement generating units,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Associated Transmission Infrastructure,['nan'],Duke Energy,Electricity,nan,,['nan']
+Edwardsport Integrated Gasification Combined Cycle (IGCC) Plant,['Indiana'],Duke Energy Indiana,Electricity,USA,,['Indiana']
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",NEIL,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",NEIL,Energy Production,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Carolinas,Energy Production,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Progress,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Progress,Energy Production,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Florida,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy Florida,Energy Production,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy,Electricity,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Commercial Nuclear Power Plants,"['North Carolina', 'South Carolina', 'Indiana']",Duke Energy,Energy Production,USA,,"['Indiana', 'South Carolina', 'North Carolina']"
+Sabal Trail (Pipeline),['Florida'],Duke Energy,Natural Gas,USA,,['Florida']
+ACP Pipeline,"['Ohio', 'Kentucky']",Duke Energy,Natural Gas,USA,,"['Ohio', 'Kentucky']"
+Wind Group,['Texas'],Brookfield Affiliates,Electricity,USA,,['Texas']
+generating plant,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Kentucky', 'Indiana', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana', 'Eu & Is Service Area']",Duke Energy Carolinas,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+generating plant,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Kentucky', 'Indiana', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana', 'Eu & Is Service Area']",Duke Energy Florida,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+generating plant,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Kentucky', 'Indiana', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana', 'Eu & Is Service Area']",Duke Energy Progress,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+generating plant,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Kentucky', 'Indiana', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana', 'Eu & Is Service Area']",Duke Energy,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+generating plant,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Kentucky', 'Indiana', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana', 'Eu & Is Service Area']",Duke Energy Ohio,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+generating plant,"['North Carolina', 'South Carolina', 'Florida', 'Ohio', 'Kentucky', 'Indiana', 'Portions Of North Carolina And South Carolina', 'Portions Of Indiana', 'Eu & Is Service Area']",Duke Energy Indiana,Electricity,USA,,"['Ohio', 'South Carolina', 'Florida', 'Indiana', 'Kentucky', 'North Carolina']"
+Engineered Off-Site Or On-Site Lined Landfills,['nan'],Duke Energy,Coal,nan,,['nan']
+Spent Fuel Pools,['nan'],Duke Energy Carolinas,Spent Nuclear Fuel  Storage,nan,,['nan']
+Spent Fuel Pools,['nan'],Duke Energy Progress,Spent Nuclear Fuel  Storage,nan,,['nan']
+Spent Fuel Pools,['nan'],Duke Energy Florida,Spent Nuclear Fuel  Storage,nan,,['nan']
+dry cask storage facilities,['nan'],Duke Energy Carolinas,Nuclear Fuel Storage,nan,,['nan']
+dry cask storage facilities,['nan'],Duke Energy Progress,Nuclear Fuel Storage,nan,,['nan']
+dry cask storage facilities,['nan'],Duke Energy Florida,Nuclear Fuel Storage,nan,,['nan']
+W.S. Lee Steam Station Site In South Carolina,['South Carolina'],Duke Energy,Electricity,USA,,['South Carolina']
+W.S. Lee Steam Station Site In South Carolina,['South Carolina'],Duke Energy,Coal,USA,,['South Carolina']
+Catawba Nuclear Plant,['South Carolina'],Duke Energy Carolinas,nan,USA,,['South Carolina']
+Belevws Creek Fossil,['North Carolina'],Duke Energy Carolinas,nan,USA,,['North Carolina']
+Lincoln Combustion Turbine,['North Carolina'],Duke Energy Carolinas,nan,USA,,['North Carolina']
+Mill Creek CT,['South Carolina'],Duke Energy Carolinas,nan,USA,,['South Carolina']
+W.S. Lee Combined Cycle,['South Carolina'],Duke Energy Carolinas,nan,USA,,['South Carolina']
+Bad Creek Hydro,['South Carolina'],Duke Energy Carolinas,nan,USA,,['South Carolina']
+Jocassee Hydro [Hydroelectric Dam],['South Carolina'],Duke Energy Carolinas,nan,USA,,['South Carolina']
+Cowans Ford Hydroelectric Plant,['North Carolina'],Duke Energy Carolinas,nan,USA,,['North Carolina']
+Keowee Hydro,['South Carolina'],Duke Energy Carolinas,nan,USA,,['South Carolina']
+Distribution Mains,['nan'],Duke Energy,Natural Gas,nan,,['nan']
+Bulk Electric System,"['Carolinas', 'Service Territories']",Duke Energy,Electricity,USA,,['nan']
+Coal Ash Basin Sites,"['Impacted Regions', 'South Carolina']",Duke Energy,Electricity,USA,,['South Carolina']
+broad river(a) energy station,['CA'],Duke Energy,electricity,USA,,['California']
+caprock solar plant,['NM'],Duke Energy,electricity,USA,,['New Mexico']
+commercial renewables solar,['TX'],Duke Energy,electricity,USA,,['Texas']
+conetoe ii solar,['CO'],Duke Energy,electricity,USA,,['Colorado']
+creswell alligood solar,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+dogwood solar,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+highlander i & ii solar,['CA'],Duke Energy,electricity,USA,,['California']
+holstein(a) solar,['TX'],Duke Energy,electricity,USA,,['Texas']
+kelford solar,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+lapetus(a) solar,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+longboat solar,['CA'],Duke Energy,electricity,USA,,['California']
+north rosamond(a) solar,['TX'],Duke Energy,electricity,USA,,['Texas']
+other small solar(a),['Various'],Duke Energy,electricity,USA,,['nan']
+palmer(a) solar,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+pasquotank solar,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+pflugerville(a) solar,['TX'],Duke Energy,electricity,USA,,['Texas']
+pumpjack solar,['CA'],Duke Energy,electricity,USA,,['California']
+rambler solar,['CA'],Duke Energy,electricity,USA,,['California']
+renewable|wind,"['WY', 'WI']",Duke Energy,electricity,USA,,"['Wisconsin', 'Wyoming']"
+rio bravo i & ii solar,['CA'],Duke Energy,electricity,USA,,['California']
+seville i & ii,['CA'],Duke Energy,electricity,USA,,['California']
+speedway(a),['NC'],Duke Energy,electricity,USA,,['North Carolina']
+washington white post solar park,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+whitakers solar park,['NC'],Duke Energy,electricity,USA,,['North Carolina']
+wildwood i & ii solar park,['NC'],Duke Energy,electricity,USA,,['North Carolina']
