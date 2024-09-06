@@ -1,0 +1,900 @@
+physical asset,location,ownership,commodity,status
+patents,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas and NGLs",active
+facilities,Australia,ConocoPhillips,LNG,operational
+equipment,Germany,ConocoPhillips,LNG,operational
+infrastructure,Indonesia,ConocoPhillips,LNG,end-of-life
+facilities,Qatar,ConocoPhillips,LNG,under construction
+equipment,United States,ConocoPhillips,LNG,operational
+Shell’s assets in the Delaware Basin,Delaware Basin,ConocoPhillips,,
+Concho,,ConocoPhillips,,
+E&P facilities,,ConocoPhillips,"crude oil, bitumen, natural gas","operational, under construction"
+LNG development,,ConocoPhillips,LNG,under construction
+Offshore properties,,ConocoPhillips,oil and gas,"Operational, nearing end-of-life"
+proved oil and gas properties,,ConocoPhillips,oil and gas,operational
+plants and equipment,,ConocoPhillips,oil and gas,operational
+"Net properties, plants and equipment",,ConocoPhillips,,
+E&P assets,,ConocoPhillips,,"operational, under construction, end-of-life"
+PP&E,,ConocoPhillips,,
+ARO,,ConocoPhillips,,
+facilities,Australia-West,ConocoPhillips,,
+equipment,Permian based Delaware Basin,ConocoPhillips,,
+infrastructure,Texas,ConocoPhillips,,
+"properties, plants and equipment",Permian based Delaware Basin,Shell,,
+net acres,Permian based Delaware Basin,ConocoPhillips,,
+offshore platforms,"Carpinteria, California",ConocoPhillips,"natural gas, crude oil",decommissioned
+office buildings,,ConocoPhillips,,operational
+drilling equipment,,ConocoPhillips,,operational
+ocean transport vessels,,ConocoPhillips,,operational
+tugboats,,ConocoPhillips,,operational
+corporate aircraft,,ConocoPhillips,,operational
+facilities and equipment,,ConocoPhillips,,operational
+"Properties, plants and equipment",,ConocoPhillips,,
+Properties,,ConocoPhillips,,
+Plants,,ConocoPhillips,,
+Equipment,,ConocoPhillips,,
+Facilities,Alaska,ConocoPhillips,Crude Oil,
+Facilities,Lower,ConocoPhillips,Crude Oil,
+Facilities,Europe,ConocoPhillips,Crude Oil,
+Facilities,Asia Pacific/Middle East,ConocoPhillips,Crude Oil,
+Facilities,Africa,ConocoPhillips,Crude Oil,
+Facilities,Libya,ConocoPhillips,Crude Oil,
+facilities,Asia Pacific/Middle East,ConocoPhillips,bitumen,operational
+equipment,Africa,ConocoPhillips,oil,operational
+infrastructure,Canada,equity affiliates,bitumen,under construction
+facilities,Lower,ConocoPhillips,oil,end-of-life
+equipment,Europe,equity affiliates,bitumen,operational
+Facilities,Alaska,ConocoPhillips,Oil and Natural Gas,Operational
+Equipment,Lower,ConocoPhillips,Oil and Natural Gas,Under Construction
+Facilities,Alaska,ConocoPhillips,,
+Equipment,Lower 48,ConocoPhillips,,
+Infrastructure,Canada,ConocoPhillips,,
+Facilities,Europe,ConocoPhillips,,
+Equipment,Asia Pacific/Middle East,ConocoPhillips,,
+Infrastructure,Africa,ConocoPhillips,,
+Facilities,Other Areas,ConocoPhillips,,
+operations,North America,ConocoPhillips,oil,
+unconventional plays,North America,ConocoPhillips,oil,
+conventional assets,"North America, Europe, Africa and Asia",ConocoPhillips,oil,
+LNG developments,,ConocoPhillips,LNG,
+oil sands,Canada,ConocoPhillips,oil,
+Pad,Surmont oil sands leases,ConocoPhillips,bitumen,operational
+Pad,Surmont oil sands leases,ConocoPhillips,bitumen,under construction
+central processing facility,Montney,ConocoPhillips,natural gas,operational
+FPSO vessel,"Alvheim Field, Northern part of the North Sea",ConocoPhillips,crude oil,operational
+facilities,,ConocoPhillips,"crude oil, bitumen, natural gas and NGLs",operational
+equipment,,ConocoPhillips,"crude oil, bitumen, natural gas and NGLs",operational
+pipeline facilities,,ConocoPhillips,"crude oil, bitumen, natural gas and NGLs",operational
+facilities,,ConocoPhillips,fossil fuels,
+equipment,,ConocoPhillips,fossil fuels,
+infrastructure,,ConocoPhillips,fossil fuels,
+oil and gas production facilities,Alaska,ConocoPhillips,"Crude oil, bitumen, LNG, natural gas, NGL","operational, under construction (implied)"
+oil and gas production facilities,U.S.,ConocoPhillips,"Crude oil, bitumen, LNG, natural gas, NGL","operational, under construction (implied)"
+oil and gas production facilities,foreign jurisdictions,ConocoPhillips,"Crude oil, bitumen, LNG, natural gas, NGL","operational, under construction (implied)"
+production assets,,ConocoPhillips,,
+distribution assets,,ConocoPhillips,,
+storage assets,,ConocoPhillips,,
+systems and infrastructure,,ConocoPhillips,,
+Development and exploration activities,Lower Delaware Basin,ConocoPhillips,,
+Development and exploration activities,Eagle Ford,ConocoPhillips,,
+Development and exploration activities,Midland Basin,ConocoPhillips,,
+Development and exploration activities,Bakken,ConocoPhillips,,
+Appraisal and development activities,Montney,ConocoPhillips,,
+Development and optimization of Surmont,Surmont,ConocoPhillips,,
+Development activities,Norway,ConocoPhillips,,
+Continued development activities,Malaysia,ConocoPhillips,,
+Continued development activities,China,ConocoPhillips,,
+leasehold,Delaware Basin,ConocoPhillips,oil and gas,operational
+leasehold,Midland Basin,ConocoPhillips,oil and gas,operational
+leasehold,Canada,ConocoPhillips,oil and gas,under construction
+exploratory wells,Delaware Basin,ConocoPhillips,oil and gas,under construction
+exploratory wells,Midland Basin,ConocoPhillips,oil and gas,under construction
+exploratory wells,Canada,ConocoPhillips,oil and gas,under construction
+mineral rights,Delaware Basin,ConocoPhillips,oil and gas,operational
+mineral rights,Midland Basin,ConocoPhillips,oil and gas,operational
+mineral rights,Canada,ConocoPhillips,oil and gas,under construction
+E&P facilities,,ConocoPhillips,"Crude oil, bitumen, natural gas, LNG, NGLs",
+LNG development,,ConocoPhillips,LNG,
+"Net properties, plants and equipment",,ConocoPhillips,,
+Undivided interests in oil and gas joint ventures,,,oil and gas,
+pipelines,,,oil and gas,
+natural gas plants,,,oil and gas,
+terminals,,,oil and gas,
+PP&E,,ConocoPhillips,"oil, gas",
+exploratory wells,,ConocoPhillips,"oil, gas",
+development wells,,ConocoPhillips,"oil, gas",
+producing properties,,ConocoPhillips,"oil, gas",operational
+SAGD facilities,,ConocoPhillips,"oil, gas",
+pipeline and LNG assets,,ConocoPhillips,"oil, gas",
+long-lived assets,,,,operational
+proved developed and undeveloped reserves,,,,operational
+complete units of depreciable property,,,,operational
+partial units of depreciable property,,,,operational
+Oil and gas properties,,ConocoPhillips,Oil and gas,
+Eagle Ford acreage,Permian-based Delaware Basin,ConocoPhillips,,
+Eagle Ford acreage,Permian-based Midland Basin,ConocoPhillips,,
+Sites,"Federal Superfund sites, comparable state and international sites","ConocoPhillips, other potentially responsible parties",,under investigation
+Petrozuata heavy oil ventures,Petrozuata,"Petróleos de Venezuela, S.A. (PDVSA)",Heavy oil,Expropriated
+Corocoro development project,Offshore Corocoro,"Petróleos de Venezuela, S.A. (PDVSA)",Oil,Expropriated
+"Properties, plants and equipment",,"ConocoPhillips -K, oil and gas joint ventures",,operational
+"Properties, Plants and Equipment",,ConocoPhillips,Crude oil,Operational
+"Properties, Plants and Equipment",,ConocoPhillips,Natural gas,Operational
+Reserves data,,ConocoPhillips,Crude Oil,
+seismic information,,ConocoPhillips,Crude Oil,
+geologic maps,,ConocoPhillips,Crude Oil,
+well logs,,ConocoPhillips,Crude Oil,
+production tests,,ConocoPhillips,Crude Oil,
+material balance calculations,,ConocoPhillips,Crude Oil,
+reservoir simulation models,,ConocoPhillips,Crude Oil,
+well performance data,,ConocoPhillips,Crude Oil,
+operating procedures,,ConocoPhillips,Crude Oil,
+support equipment,,ConocoPhillips,,operational
+support equipment,,ConocoPhillips,,under construction
+support equipment,,ConocoPhillips,,end-of-life
+facilities,,ConocoPhillips,oil and natural gas,
+equipment,,ConocoPhillips,oil and natural gas,
+infrastructure,,ConocoPhillips,oil and natural gas,
+oil and gas production facilities,,,oil and gas,new
+existing oil and gas facilities,,,oil and gas,existing
+operating systems,,not owned or operated by us,,
+networks,,not owned or operated by us,,
+software,,not owned or operated by us,,
+infrastructure,,not owned or operated by us,,
+facilities,,,,
+facilities,,ConocoPhillips,crude oil,
+equipment,,ConocoPhillips,natural gas,
+infrastructure,,ConocoPhillips,bitumen,
+Surmont oil sands development,Alberta,ConocoPhillips,bitumen,operational
+Montney unconventional play,British Columbia,ConocoPhillips,natural gas liquids,operational
+pipeline capacity between Canada and the U.S. Gulf Coast,between Canada and the U.S. Gulf Coast,ConocoPhillips,third-party volumes,operational
+facilities in Norway sector of the North Sea,Norway sector of the North Sea,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+facilities in Norwegian Sea,Norwegian Sea,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+facilities in Qatar,Qatar,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+facilities in Libya,Libya,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+terminalling operations in the U.K.,U.K.,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+Es Sider export terminal,Libya,ConocoPhillips,crude oil,operational
+other eastern export terminals,Libya,ConocoPhillips,crude oil,operational
+Tor II redevelopment project,Norway,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+Facilities,Australia,ConocoPhillips,LNG,
+Equipment,China,ConocoPhillips,Oil,
+Facilities,Colombia,ConocoPhillips,Oil,
+Facilities,Argentina,ConocoPhillips,Oil,
+Equipment,Senegal,ConocoPhillips,Oil,
+Facilities,Permian Basin,Shell,Oil,
+Australia-West assets and operations,Australia,ConocoPhillips,,
+Niobrara interests,Niobrara,ConocoPhillips,,
+Waddell Ranch interests,Lower,ConocoPhillips,,
+ConocoPhillips U.K. subsidiaries,U.K.,ConocoPhillips,,
+Greater Sunrise Fields,Greater Sunrise Fields,ConocoPhillips,,
+E&P facilities,,ConocoPhillips,oil and gas,
+LNG development,,ConocoPhillips,LNG,
+oil and gas developments,,ConocoPhillips,"crude oil, bitumen, natural gas, LNG, NGLs",
+acquired proved and unproved oil and gas properties,,ConocoPhillips (after acquisition from Shell Enterprise LLC),oil and gas,
+"Properties, plants and equipment",,ConocoPhillips,,operational
+Oil and gas properties,"Permian Basin, New Mexico, West Texas",ConocoPhillips,Crude oil and natural gas,Operational
+"two offshore platforms located near Carpinteria, California","Carpinteria, California",ConocoPhillips,natural gas,under construction
+"two offshore platforms located near Carpinteria, California","Carpinteria, California",prior owners of Outer Continental Shelf (OCS) Lease P-,crude oil,under construction
+office buildings,,ConocoPhillips,oil and gas exploration and production,operational
+drilling equipment,,ConocoPhillips,oil and gas exploration and production,operational
+ocean transport vessels,,ConocoPhillips,oil and gas exploration and production,operational
+tugboats,,ConocoPhillips,oil and gas exploration and production,operational
+corporate aircraft,,ConocoPhillips,oil and gas exploration and production,operational
+other facilities and equipment,,ConocoPhillips,oil and gas exploration and production,operational
+"Properties, Plants and Equipment",,ConocoPhillips,Crude oil,Operational
+"Properties, Plants and Equipment",,ConocoPhillips,Natural gas,Operational
+"Depreciation, Depletion, Amortization and Impairments",Alaska,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Lower 48,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Canada,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments","Europe, Middle East and North Africa",ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Asia Pacific,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Other International,ConocoPhillips,,
+Reservoirs,Alaska,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Lower,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Europe,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Asia Pacific/Middle East,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Africa,ConocoPhillips,Crude Oil,Operational
+Reservoirs,U.S.,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Canada,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Permian,ConocoPhillips (through Concho & Shell acquisitions),Crude Oil,Operational
+well locations,Lower,ConocoPhillips,"crude oil, natural gas, natural gas liquids",operational
+unconventional plays,Lower,ConocoPhillips,"crude oil, natural gas, natural gas liquids",operational
+Facilities,Asia Pacific/Middle East,ConocoPhillips,Bcf,
+Equipment,Alaska,ConocoPhillips,Bcf,
+Facilities,Lower 48,ConocoPhillips,Bcf,
+Equipment,Europe,ConocoPhillips,Bcf,
+Facilities,Canada,ConocoPhillips,Montney,
+Equipment,Permian,"Shell, Concho",Bcf,
+pipeline,,ConocoPhillips,crude oil,
+marine operations,,ConocoPhillips,crude oil,
+LNG operations,,ConocoPhillips,natural gas,
+crude oil and gas marketing activities,,ConocoPhillips,"crude oil, natural gas",
+transportation operations,,ConocoPhillips,"crude oil, natural gas",
+Proved property,Asia Pacific/ Other,ConocoPhillips -K,,
+Unproved property,Asia Pacific/ Other,ConocoPhillips -K,,
+Proved property,Alaska,ConocoPhillips -K,,
+Unproved property,Alaska,ConocoPhillips -K,,
+Proved property,U.S.,ConocoPhillips -K,,
+Unproved property,U.S.,ConocoPhillips -K,,
+Proved property,Canada,ConocoPhillips -K,,
+Unproved property,Canada,ConocoPhillips -K,,
+Proved property,Europe,ConocoPhillips -K,,
+Unproved property,Europe,ConocoPhillips -K,,
+Proved property,Middle East,ConocoPhillips -K,,
+Unproved property,Middle East,ConocoPhillips -K,,
+Proved property,Africa,ConocoPhillips -K,,
+Unproved property,Africa,ConocoPhillips -K,,
+Proved property,,Equity affiliates,,
+Unproved property,,Equity affiliates,,
+facilities,Alaska,ConocoPhillips,oil,operational
+equipment,Lower 48,ConocoPhillips,natural gas,operational
+infrastructure,Canada,ConocoPhillips,LNG,operational
+Prudhoe Bay Unit,Alaska,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Greater Point McIntyre Area fields,Alaska,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Kuparuk River Unit,Alaska,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Alpine Field,Western North Slope,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Nanuq field,Western North Slope,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Fiord field,Western North Slope,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Qannik field,Western North Slope,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Colville River Unit,Western North Slope,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Greater Mooses Tooth Unit,Western North Slope,ConocoPhillips,"Crude oil, natural gas, NGLs",Operational
+Es Sider terminal,,ConocoPhillips,Crude Oil,"operational"""
+Australia Pacific LNG Pty Ltd.,"Bowen and Surat basins in Queensland, Australia",ConocoPhillips/Origin Energy Limited/China Petrochemical Corporation (Sinopec),CBM,"operational"""
+gathering systems,,ConocoPhillips,CBM,"operational"""
+central gas processing and compression stations,,ConocoPhillips,CBM,"operational"""
+water treatment facilities,,ConocoPhillips,CBM,"operational"""
+export pipeline,,ConocoPhillips,CBM,"operational"""
+LNG trains,"Curtis Island near Gladstone, Queensland",ConocoPhillips,LNG,"operational"""
+wells,,ConocoPhillips/Origin Energy Limited/China Petrochemical Corporation (Sinopec),CBM,"operational"""
+Exploration Permit (T/49P),"Otway Basin, Australia",ConocoPhillips,CBM,"pending regulatory approvals"""
+Exploration Permit (VIC/P79),"Otway Basin, Australia",ConocoPhillips/3D Oil,CBM,"pending regulatory approvals"""
+wells,Malaysia,Shell,Crude Oil,operational
+facilities,Sabah,PTTEP,Natural Gas,operational
+facilities,Sarawak,ConocoPhillips,NGLs,under construction
+Natural gas production facilities,"U.S., Canada, Asia, Africa, Europe",ConocoPhillips,natural gas,operational
+crude oil production facilities,"U.S., Canada, Asia, Africa, Europe",ConocoPhillips,crude oil,operational
+bitumen production facilities,"U.S., Canada, Asia, Africa, Europe",ConocoPhillips,bitumen,operational
+natural gas liquids production facilities,"U.S., Canada, Asia, Africa, Europe",ConocoPhillips,natural gas liquids,operational
+LNG liquefaction facilities,"Australia, Qatar",ConocoPhillips,LNG,operational
+well containment equipment and technology,U.S. Gulf of Mexico,Marine Well Containment Company (MWCC),"natural gas, crude oil, bitumen",operational
+subsea well-control equipment,global,Oil Spill Response Limited (OSRL)-Subsea Well Intervention Service (SWIS),"natural gas, crude oil, bitumen",operational
+carbon dioxide storage sites,U.S. Gulf Coast,ConocoPhillips,carbon dioxide sequestration,under construction
+Teesside Oil Terminal,Teesside,ConocoPhillips,oil emissions reduction,operational
+patents,,ConocoPhillips," crude oil, bitumen, LNG, natural gas and NGLs",active
+facilities,,ConocoPhillips,"crude oil, bitumen, natural gas, NGLs",
+equipment,,ConocoPhillips,"crude oil, bitumen, natural gas, NGLs",
+infrastructure,,ConocoPhillips,"crude oil, bitumen, natural gas, NGLs",
+gathering facilities,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas, NGLs",operational
+processing facilities,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas, NGLs",operational
+compression facilities,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas, NGLs",operational
+transportation facilities,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas, NGLs",operational
+pipeline facilities,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas, NGLs",operational
+equipment,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas, NGLs",operational
+diluents,,ConocoPhillips,"crude oil, bitumen, LNG, natural gas, NGLs",operational
+facilities,offshore environments,ConocoPhillips,oil and gas,operational
+production facilities,arctic fields,ConocoPhillips,oil and gas,under construction
+facilities,,,oil and gas production,operational
+infrastructure,,,oil and gas production,operational
+systems,,,data storage and processing,operational
+networks,,,data storage and processing,disrupted (potential)
+software,,,data storage and processing,disrupted (potential)
+facilities,Australia,ConocoPhillips,LNG,operational
+equipment,Germany,ConocoPhillips,LNG,operational
+infrastructure,Indonesia,ConocoPhillips,LNG,end-of-life
+facilities,Qatar,ConocoPhillips,LNG,under construction
+equipment,United States,ConocoPhillips,LNG,operational
+facilities,Paris,ConocoPhillips,oil and gas,operational
+equipment,Germany,ConocoPhillips,LNG,operational
+infrastructure,Qatar,ConocoPhillips,LNG,operational
+facilities,China,ConocoPhillips,oil and gas,operational
+equipment,Norway,ConocoPhillips,oil and gas,operational
+infrastructure,United States,ConocoPhillips,oil and gas,operational
+facilities,APLNG,ConocoPhillips,oil and gas,operational
+equipment,NFE and NFS LNG projects in Qatar,ConocoPhillips,oil and gas,operational
+infrastructure,Port Arthur LNG in the U.S.,ConocoPhillips,oil and gas,operational
+facilities,German LNG Terminal at Brunsbuttel,ConocoPhillips,oil and gas,operational
+facilities,Indonesia,ConocoPhillips,oil and gas,end-of-life
+equipment,Lower segment,ConocoPhillips,oil and gas,end-of-life
+NFE,,ConocoPhillips,oil and natural gas,operational
+NFS,,ConocoPhillips,oil and natural gas,operational
+PALNG,,ConocoPhillips,natural gas,operational
+Willow,,ConocoPhillips,oil and natural gas,under construction
+facilities,Alaska,ConocoPhillips,oil,operational
+equipment,Lower,ConocoPhillips,natural gas,operational
+infrastructure,Canada,ConocoPhillips,oil and natural gas,operational
+wells,"U.S., Norway, Canada, Australia, China, Malaysia, Qatar, Libya, Alaska, Lower 48","ConocoPhillips, Shell, Concho","crude oil, bitumen, LNG, natural gas, NGLs",operational
+facilities,"U.S., Norway, Canada, Australia, China, Malaysia, Qatar, Libya, Alaska, Lower 48","ConocoPhillips, Shell, Concho","crude oil, bitumen, LNG, natural gas, NGLs",operational
+infrastructure,"U.S., Norway, Canada, Australia, China, Malaysia, Qatar, Libya, Alaska, Lower 48","ConocoPhillips, Shell, Concho","crude oil, bitumen, LNG, natural gas, NGLs",operational
+facilities,Alaska,ConocoPhillips,"crude oil, natural gas, NGLs",operational
+equipment,contiguous U.S.,ConocoPhillips,"crude oil, natural gas",operational
+infrastructure,Gulf of Mexico,ConocoPhillips,"crude oil, natural gas",operational
+facilities,Alberta,ConocoPhillips,"bitumen, crude oil",operational
+equipment,British Columbia,ConocoPhillips,"bitumen, natural gas",operational
+facilities,Norway,ConocoPhillips,Crude oil,operational
+facilities,Norwegian Sea,ConocoPhillips,Natural gas liquids,operational
+facilities,Qatar,ConocoPhillips,LNG,operational
+facilities,Libya,ConocoPhillips and TotalEnergies,Crude oil,operational
+facilities,U.K.,ConocoPhillips,Natural gas liquids,operational
+facilities,Greater Ekofisk Area of Norway,ConocoPhillips,Crude oil,operational
+facilities,China,ConocoPhillips,Crude oil,operational
+facilities,Malaysia,ConocoPhillips,Natural gas liquids,operational
+facilities,Australia,ConocoPhillips,LNG,operational
+facilities,Singapore,ConocoPhillips,Crude oil,operational
+facilities,Japan,ConocoPhillips,Natural gas liquids,operational
+APLNG,,ConocoPhillips,crude oil,
+Lower assets,,ConocoPhillips,crude oil,
+QG8,,ConocoPhillips,crude oil,
+Concho,,ConocoPhillips,crude oil,
+Shell Permian assets,,ConocoPhillips,crude oil,
+Shell’s assets in the Delaware Basin,Delaware Basin,ConocoPhillips,,
+Concho,,ConocoPhillips,,
+Development activities in the Lower,Lower,ConocoPhillips,Oil,operational
+Appraisal and development activities in Alaska related to the Western North Slope and development activities in the Greater Kuparuk Area,Alaska,ConocoPhillips,Oil,operational
+Appraisal and development activities at Montney as well as optimization and development of oil sands in Canada,Canada,ConocoPhillips,Oil,operational
+"Development, exploration and appraisal activities across assets in Norway",Norway,ConocoPhillips,Oil,operational
+Continued development and exploration activities in Malaysia and China,Malaysia and China,ConocoPhillips,Oil,operational
+G&G seismic information,,ConocoPhillips,oil and gas,operational
+leasehold acquisition costs,"Delaware and Midland Basins, Canada, Alaska",ConocoPhillips,oil and gas,under construction
+exploratory well costs,"Delaware and Midland Basins, Canada, Alaska",ConocoPhillips,oil and gas,under construction
+individually significant leaseholds,"Delaware and Midland Basins, Canada, Alaska",ConocoPhillips,oil and gas,operational
+pooled leaseholds,"Delaware and Midland Basins, Canada, Alaska",ConocoPhillips,oil and gas,operational
+mineral rights,"Delaware and Midland Basins, Canada, Alaska",ConocoPhillips,oil and gas,operational
+exploratory wells,"Delaware and Midland Basins, Canada, Alaska",ConocoPhillips,oil and gas,under construction
+suspended exploratory wells,"Delaware and Midland Basins, Canada, Alaska",ConocoPhillips,oil and gas,end-of-life
+proved reserves,,consolidated companies,oil and gas,operational
+PP&E,,consolidated companies,oil and gas,operational
+tangible equipment,operational sites,ConocoPhillips,oil and gas,operational
+oil and gas platforms,seabed around the world,ConocoPhillips,oil and gas,nearing the end of their operations
+oil and gas production facilities,Alaska,ConocoPhillips,oil and gas,operational
+pipelines,Alaska,ConocoPhillips,oil and gas,nearing the end of their operations
+E&P facilities,,ConocoPhillips,"crude oil, bitumen, natural gas","operational, under construction"
+LNG development,,ConocoPhillips,LNG,under construction
+Offshore properties,,ConocoPhillips,oil and gas,"Operational, nearing end-of-life"
+proved oil and gas properties,,ConocoPhillips,oil and gas,operational
+plants and equipment,,ConocoPhillips,oil and gas,operational
+"Net properties, plants and equipment",,ConocoPhillips,,
+Oil and gas exploration and development,,ConocoPhillips,Oil and Gas,Operational
+Property Acquisition Costs,,ConocoPhillips,Oil and Gas,Operational
+Exploratory Costs,,ConocoPhillips,Oil and Gas,Under Construction
+Development Costs,,ConocoPhillips,Oil and Gas,Under Construction
+E&P assets,,ConocoPhillips,,"operational, under construction, end-of-life"
+Crude oil and natural gas,,ConocoPhillips,Crude oil,
+Materials and supplies,,ConocoPhillips,,
+Facilities (implied),,ConocoPhillips,Crude oil and natural gas,
+Equipment (implied),,ConocoPhillips,Crude oil and natural gas,
+PP&E,,ConocoPhillips,,
+ARO,,ConocoPhillips,,
+facilities,Australia-West,ConocoPhillips,,
+equipment,Permian based Delaware Basin,ConocoPhillips,,
+infrastructure,Texas,ConocoPhillips,,
+"properties, plants and equipment",Permian based Delaware Basin,Shell,,
+net acres,Permian based Delaware Basin,ConocoPhillips,,
+Montney acreage,Canada,ConocoPhillips,natural gas,undeveloped
+Inga Fireweed asset,Canada,ConocoPhillips,natural gas,operational
+Waddell Ranch interests,Permian Basin,ConocoPhillips,oil,operational
+Niobrara interests,Argentina,ConocoPhillips,oil,operational
+Australia-West assets and operations,Australia,ConocoPhillips,natural gas,operational
+APLNG LNG facility,"Queensland, Australia",ConocoPhillips,LNG,Operational
+APLNG production and pipeline system,Bowen and Surat basins,Origin Energy Limited,Natural gas,Operational
+dry hole,Asia Pacific segment,ConocoPhillips,natural gas,suspended
+undeveloped leasehold,Kamunsu East Field in Malaysia,ConocoPhillips,natural gas,no longer in development plans
+APLNG investment,Asia Pacific segment,ConocoPhillips,natural gas,impaired
+Wind River Basin operations area,Lower,ConocoPhillips,natural gas,operational
+Madden Field,Wind River Basin,ConocoPhillips,natural gas,operational
+Lost Cabin Gas Plant,Wind River Basin,ConocoPhillips,natural gas,operational
+wells,"Alaska, Canada, Europe, Middle East and North Africa, Lower",ConocoPhillips,natural gas,operational/end-of-life
+offshore oil and gas platforms,global,ConocoPhillips,oil and gas,end-of-life
+oil and gas production facilities and pipelines,Alaska,ConocoPhillips,oil and gas,operational/end-of-life
+offshore platforms,"Carpinteria, California",ConocoPhillips,"natural gas, crude oil",decommissioned
+office buildings,,ConocoPhillips,,operational
+drilling equipment,,ConocoPhillips,,operational
+ocean transport vessels,,ConocoPhillips,,operational
+tugboats,,ConocoPhillips,,operational
+corporate aircraft,,ConocoPhillips,,operational
+facilities and equipment,,ConocoPhillips,,operational
+"Properties, plants and equipment",,ConocoPhillips,,
+Properties,,ConocoPhillips,,
+Plants,,ConocoPhillips,,
+Equipment,,ConocoPhillips,,
+facilities,"Alaska; Lower ; Canada; Europe, Middle East and North Africa; Asia Pacific; Other International",ConocoPhillips,"crude oil, bitumen, natural gas, LNG and NGLs",
+facilities,New Mexico,ConocoPhillips,oil,operational
+equipment,West Texas,ConocoPhillips,natural gas,operational
+infrastructure,Texas Delaware Basin,Shell,oil,operational
+oil and gas facilities,U.S.,ConocoPhillips,oil,operational
+wells,Canada,ConocoPhillips,gas,operational
+oil and gas facilities,Europe,ConocoPhillips,oil,operational
+wells,Asia Pacific/Middle East,equity affiliates,gas,operational
+oil and gas facilities,Africa,ConocoPhillips,oil,operational
+Facilities,Alaska,ConocoPhillips,Crude Oil,
+Facilities,Lower,ConocoPhillips,Crude Oil,
+Facilities,Europe,ConocoPhillips,Crude Oil,
+Facilities,Asia Pacific/Middle East,ConocoPhillips,Crude Oil,
+Facilities,Africa,ConocoPhillips,Crude Oil,
+Facilities,Libya,ConocoPhillips,Crude Oil,
+well locations,Permian Basin,ConocoPhillips,natural gas liquids,operational
+well locations,Permian Basin,Shell,natural gas,under construction
+well locations,Middle East,equity affiliates,natural gas liquids,operational
+Facilities,Alaska,ConocoPhillips,Natural Gas,Operational
+Equipment,Lower 48,ConocoPhillips,Natural Gas,Operational
+Facilities,Canada,ConocoPhillips,Natural Gas,Operational
+Equipment,Europe,ConocoPhillips,Natural Gas,Operational
+Facilities,Asia Pacific/Middle East,ConocoPhillips,Natural Gas,Operational
+Equipment,Africa,ConocoPhillips,Natural Gas,Operational
+Facilities,Alaska,Equity Affiliates,Natural Gas,Operational
+Equipment,Lower 48,Equity Affiliates,Natural Gas,Operational
+facilities,Asia Pacific/Middle East,ConocoPhillips,bitumen,operational
+equipment,Africa,ConocoPhillips,oil,operational
+infrastructure,Canada,equity affiliates,bitumen,under construction
+facilities,Lower,ConocoPhillips,oil,end-of-life
+equipment,Europe,equity affiliates,bitumen,operational
+Facilities,Alaska,ConocoPhillips,Oil and Natural Gas,Operational
+Equipment,Lower,ConocoPhillips,Oil and Natural Gas,Under Construction
+Facilities,Alaska,ConocoPhillips,,
+Equipment,Lower 48,ConocoPhillips,,
+Infrastructure,Canada,ConocoPhillips,,
+Facilities,Europe,ConocoPhillips,,
+Equipment,Asia Pacific/Middle East,ConocoPhillips,,
+Infrastructure,Africa,ConocoPhillips,,
+Facilities,Other Areas,ConocoPhillips,,
+Facilities,Alaska,ConocoPhillips,Crude Oil,Operational
+Equipment,Lower United States,ConocoPhillips,Natural Gas Liquids,Operational
+Infrastructure,Canada,ConocoPhillips,Bitumen,Operational
+Facilities,Europe,ConocoPhillips,Crude Oil,Operational
+Equipment,Asia Pacific,ConocoPhillips,Natural Gas,Operational
+Infrastructure,Africa,ConocoPhillips,Bitumen,End-of-Life
+wells,Alaska,ConocoPhillips,crude oil and natural gas,Productive
+wells,Lower 48 states,ConocoPhillips,crude oil and natural gas,In Progress
+wells,United States,ConocoPhillips,crude oil and natural gas,Active completion
+Proved property,Alaska,ConocoPhillips,oil and gas,operational
+Unproved property,Lower U.S.,ConocoPhillips,oil and gas,under construction
+Proved property,Canada,ConocoPhillips,oil and gas,end-of-life
+operations,North America,ConocoPhillips,oil,
+unconventional plays,North America,ConocoPhillips,oil,
+conventional assets,"North America, Europe, Africa and Asia",ConocoPhillips,oil,
+LNG developments,,ConocoPhillips,LNG,
+oil sands,Canada,ConocoPhillips,oil,
+Prudhoe Bay Field,"Alaska, North Slope",ConocoPhillips,crude oil,operational
+Kuparuk Field,"Alaska, North Slope",ConocoPhillips,crude oil,operational
+Colville River Unit,"Alaska,  ownership: ConocoPhillips, commodity: crude oil, status: operational], [asset: Greater Mooses Tooth Unit, location: Alaska",ConocoPhillips,crude oil,operational
+Bear Tooth Unit,Alaska,ConocoPhillips,crude oil,operational
+Prudhoe Bay Unit,"Alaska, North Slope",ConocoPhillips,crude oil,operational
+production facilities,Prudhoe Bay,ConocoPhillips,crude oil,operational
+gas plants,Prudhoe Bay,ConocoPhillips,natural gas,operational
+seawater plants,Prudhoe Bay,ConocoPhillips,none,operational
+central power station,Prudhoe Bay,ConocoPhillips,none,operational
+central production facilities,Kuparuk,ConocoPhillips,crude oil,operational
+seawater treatment plant,Kuparuk,ConocoPhillips,crude oil,operational
+rigs,Colville River Unit,ConocoPhillips,oil and natural gas,operational
+central production facility,Colville River Unit,ConocoPhillips,oil and natural gas,operational
+drill sites,Willow project,ConocoPhillips,oil and natural gas,under construction
+operations center and camp,Willow project,ConocoPhillips,oil and natural gas,under construction
+processing facility,Willow project,ConocoPhillips,oil and natural gas,under construction
+pipelines,North Slope,ConocoPhillips,petroleum liquids,operational
+tankers,Valdez to refineries on the west coast of the U.S.,"Polar Tankers, Inc.",oil,operational
+condensate processing facilities,Texas and New Mexico,ConocoPhillips,natural gas liquids,operational
+Pad ,Surmont oil sands leases,ConocoPhillips,bitumen,operational
+Pad ,Surmont oil sands leases,ConocoPhillips,bitumen,under construction
+central processing facility,Montney,ConocoPhillips,natural gas,operational
+FPSO vessel,"Alvheim Field, Northern part of the North Sea",ConocoPhillips,crude oil,operational
+Shuttle tankers,"Scottish Area Gas Evacuation (SAGE) Terminal at St. Fergus, U.K.",ConocoPhillips,crude oil,operational
+SAGE Pipeline,"Scottish Area Gas Evacuation (SAGE) Terminal at St. Fergus, U.K.",ConocoPhillips,natural gas,operational
+Kobra East and Gekko (KEG) project,Norwegian sector of the North Sea,ConocoPhillips,crude oil,operational
+subsea tieback to the Alvheim FPSO,Norwegian sector of the North Sea,ConocoPhillips,crude oil,operational
+Breidablikk project,Norwegian sector of the North Sea,partner-operated,crude oil,operational
+Ve exploration well on PL919,PL919 located in the North Sea,partner-operated,natural gas,end-of-life
+Warka discovery well on license PL1009,"PL1009, located in the Norwegian Sea",ConocoPhillips,natural gas,dry hole
+Slagugle discovery,Norwegian Sea,ConocoPhillips,crude oil,under construction
+Norpipe Oil Pipeline System,"Ekofisk to a crude oil stabilization and NGLs processing facility in Teesside, U.K.",ConocoPhillips (. percent),crude oil,operational
+"crude oil stabilization and NGLs processing facility at Teesside, U.K.","Teesside, U.K.",ConocoPhillips (. percent),crude oil,operational
+Tension leg platform,KBB platform,ConocoPhillips,Oil,Operational
+Pipes,KBB platform,ConocoPhillips,Oil,Operational
+KBB platform,SOGT,ConocoPhillips,Oil,Operational
+FPSO,Siakap North-Petai oil field,PTTEP,Oil,Operational
+Blocks WL4-,Salam and Benum Fields,ConocoPhillips,Oil,under construction
+Block SK304,Sarawak offshore Malaysia,ConocoPhillips,Oil,under construction
+Block SB405,Sabah offshore Malaysia,ConocoPhillips,Oil,under construction
+Middle Magdalena Basin Block VMM-,Colombia,ConocoPhillips,Oil,under construction
+facilities,,ConocoPhillips," crude oil, bitumen, natural gas and NGLs ",operational
+equipment,,ConocoPhillips," crude oil, bitumen, natural gas and NGLs ",operational
+pipeline facilities,,ConocoPhillips," crude oil, bitumen, natural gas and NGLs ",operational
+facilities,,ConocoPhillips,fossil fuels,
+equipment,,ConocoPhillips,fossil fuels,
+infrastructure,,ConocoPhillips,fossil fuels,
+oil and gas production facilities,Alaska,ConocoPhillips,"Crude oil, bitumen, LNG, natural gas, NGL","operational, under construction (implied)"
+oil and gas production facilities,U.S.,ConocoPhillips,"Crude oil, bitumen, LNG, natural gas, NGL","operational, under construction (implied)"
+oil and gas production facilities,foreign jurisdictions,ConocoPhillips,"Crude oil, bitumen, LNG, natural gas, NGL","operational, under construction (implied)"
+production assets,,ConocoPhillips,,
+distribution assets,,ConocoPhillips,,
+storage assets,,ConocoPhillips,,
+systems and infrastructure,,ConocoPhillips,,
+Facilities,Not specified,ConocoPhillips,Oil and natural gas,Operational
+Equipment,Not specified,ConocoPhillips,Oil and natural gas,Operational
+Infrastructure,Not specified,ConocoPhillips,Oil and natural gas,Operational
+wells,"U.S., Norway, Canada, Australia, China, Malaysia, Qatar, Libya, Alaska",ConocoPhillips,"crude oil, bitumen, natural gas, NGLs, LNG",operational
+facilities,"U.S., Norway, Canada, Australia, China, Malaysia, Qatar, Libya, Alaska",ConocoPhillips,"crude oil, bitumen, natural gas, NGLs, LNG",operational
+facilities,Alaska,ConocoPhillips,crude oil,operational
+equipment,Western North Slope and Greater Kuparuk Area,ConocoPhillips,natural gas,operational
+infrastructure,south of the Kuparuk River Unit and east of the Colville River on state lands,ConocoPhillips,crude oil,under construction
+facilities,Delaware Basin,ConocoPhillips,crude oil,operational
+equipment,Midland Basin,ConocoPhillips,natural gas,operational
+infrastructure,Eagle Ford and Bakken,ConocoPhillips,bitumen,operational
+facilities,Alberta,ConocoPhillips,crude oil,operational
+equipment,British Columbia,ConocoPhillips,natural gas,operational
+wells,Montney,ConocoPhillips,bitumen,operational
+facilities,Surmont,ConocoPhillips,bitumen,operational
+Port Arthur LNG project,Port Arthur,ConocoPhillips (percent direct equity holding),LNG,under construction
+facilities,Permian Basin,ConocoPhillips,crude oil,operational
+equipment,Delaware Basin,ConocoPhillips,crude oil,operational
+facilities,Libya,ConocoPhillips,crude oil,operational
+infrastructure,Norway,ConocoPhillips,natural gas,operational
+facilities in Alaska,Alaska,ConocoPhillips,oil,operational
+facilities in Lower 48,Lower 48,ConocoPhillips,oil,operational
+facilities in Canada,Canada,ConocoPhillips,oil,operational
+"facilities in Europe, Middle East and North Africa","Europe, Middle East, North Africa",ConocoPhillips,oil,operational
+facilities in Asia Pacific,Asia Pacific,ConocoPhillips,oil,operational
+Development and exploration activities,Lower Delaware Basin,ConocoPhillips,,
+Development and exploration activities,Eagle Ford,ConocoPhillips,,
+Development and exploration activities,Midland Basin,ConocoPhillips,,
+Development and exploration activities,Bakken,ConocoPhillips,,
+Appraisal and development activities,Montney,ConocoPhillips,,
+Development and optimization of Surmont,Surmont,ConocoPhillips,,
+Development activities,Norway,ConocoPhillips,,
+Continued development activities,Malaysia,ConocoPhillips,,
+Continued development activities,China,ConocoPhillips,,
+facilities,U.S.,ConocoPhillips,oil,operational
+pipelines,U.S.,ConocoPhillips,oil,operational
+onshore facilities,U.S.,ConocoPhillips,oil,operational
+offshore facilities,U.S. waters,lessees or permittees,oil,operational
+vessels,navigable waters of the U.S.,owners and operators,oil,operational
+underground injection wells,U.S.,ConocoPhillips,wastewater,operational
+leasehold,Delaware Basin,ConocoPhillips,oil and gas,operational
+leasehold,Midland Basin,ConocoPhillips,oil and gas,operational
+leasehold,Canada,ConocoPhillips,oil and gas,under construction
+exploratory wells,Delaware Basin,ConocoPhillips,oil and gas,under construction
+exploratory wells,Midland Basin,ConocoPhillips,oil and gas,under construction
+exploratory wells,Canada,ConocoPhillips,oil and gas,under construction
+mineral rights,Delaware Basin,ConocoPhillips,oil and gas,operational
+mineral rights,Midland Basin,ConocoPhillips,oil and gas,operational
+mineral rights,Canada,ConocoPhillips,oil and gas,under construction
+PP&E,,ConocoPhillips,oil and gas,operational
+proved reserves,,ConocoPhillips,oil and gas,operational
+tangible equipment,operational sites,ConocoPhillips,oil and gas,operational
+oil and gas platforms,seabed,ConocoPhillips,oil and gas,end-of-life
+oil and gas production facilities,Alaska,ConocoPhillips,oil and gas,operational
+pipelines,around the world,ConocoPhillips,oil and gas,operational
+E&P facilities,,ConocoPhillips,"Crude oil, bitumen, natural gas, LNG, NGLs",
+LNG development,,ConocoPhillips,LNG,
+proved oil and gas properties,,ConocoPhillips,hydrocarbon properties,operational
+plants and equipment,,ConocoPhillips,"steam-assisted gravity drainage facilities, pipeline, liquified natural gas assets",operational
+"Net properties, plants and equipment",,ConocoPhillips,,
+Undivided interests in oil and gas joint ventures,,,oil and gas,
+pipelines,,,oil and gas,
+natural gas plants,,,oil and gas,
+terminals,,,oil and gas,
+PP&E,,ConocoPhillips,"oil, gas",
+exploratory wells,,ConocoPhillips,"oil, gas",
+development wells,,ConocoPhillips,"oil, gas",
+producing properties,,ConocoPhillips,"oil, gas",operational
+SAGD facilities,,ConocoPhillips,"oil, gas",
+pipeline and LNG assets,,ConocoPhillips,"oil, gas",
+long-lived assets,,,,operational
+proved developed and undeveloped reserves,,,,operational
+complete units of depreciable property,,,,operational
+partial units of depreciable property,,,,operational
+Surmont,Canada,ConocoPhillips (working interest),Crude oil and natural gas,Operational
+Oil and gas properties,,ConocoPhillips,Oil and gas,
+Eagle Ford acreage,Permian-based Delaware Basin,ConocoPhillips,,
+Eagle Ford acreage,Permian-based Midland Basin,ConocoPhillips,,
+Shell Permian Assets in the Delaware Basin,Texas,ConocoPhillips,natural gas,operational
+APLNG facilities,"Australia, Queensland",ConocoPhillips and Origin Energy,"natural gas, LNG",operational
+PALNG facility,unknown,ConocoPhillips and other partners,LNG,operational
+N3 LNG project,Qatar,ConocoPhillips and QatarEnergy,LNG,operational
+Asset retirement obligations (ARO),Worldwide,ConocoPhillips,Oil and gas,Operational
+Plugging and abandonment of wells,Worldwide,ConocoPhillips,Oil and gas,End-of-life
+Removal and disposal of offshore oil and gas platforms,Worldwide,ConocoPhillips,Oil and gas,End-of-life
+Oil and gas production facilities,Alaska,ConocoPhillips,Oil and gas,Operational
+Pipelines,Alaska,ConocoPhillips,Oil and gas,Operational
+Sites,"Federal Superfund sites, comparable state and international sites","ConocoPhillips, other potentially responsible parties",,under investigation
+Petrozuata heavy oil ventures,Petrozuata,"Petróleos de Venezuela, S.A. (PDVSA)",Heavy oil,Expropriated
+Corocoro development project,Offshore Corocoro,"Petróleos de Venezuela, S.A. (PDVSA)",Oil,Expropriated
+office buildings,,ConocoPhillips,,operational
+drilling equipment,,ConocoPhillips,,operational
+ocean transport vessels,,ConocoPhillips,,operational
+tugboats,,ConocoPhillips,,operational
+corporate aircraft,,ConocoPhillips,,operational
+other facilities and equipment,,ConocoPhillips,,operational
+"Properties, plants and equipment",,"ConocoPhillips -K, oil and gas joint ventures",,operational
+"Properties, Plants and Equipment",,ConocoPhillips,Crude oil,Operational
+"Properties, Plants and Equipment",,ConocoPhillips,Natural gas,Operational
+Reserves data,,ConocoPhillips,Crude Oil,
+seismic information,,ConocoPhillips,Crude Oil,
+geologic maps,,ConocoPhillips,Crude Oil,
+well logs,,ConocoPhillips,Crude Oil,
+production tests,,ConocoPhillips,Crude Oil,
+material balance calculations,,ConocoPhillips,Crude Oil,
+reservoir simulation models,,ConocoPhillips,Crude Oil,
+well performance data,,ConocoPhillips,Crude Oil,
+operating procedures,,ConocoPhillips,Crude Oil,
+Willow Project,Alaska,ConocoPhillips,Crude oil,Operational
+Nuna Projects,Alaska,ConocoPhillips,Crude oil,Operational
+unconventional plays in the Permian Basin,Permian Basin,ConocoPhillips,"Crude oil, natural gas liquids (NGLs)",Operational
+Montney,Canada,ConocoPhillips,Natural gas,Operational
+Facilities,Alaska,ConocoPhillips,Natural Gas,Operational
+Facilities,Lower,ConocoPhillips,Natural Gas,Operational
+Facilities,Europe,ConocoPhillips,Natural Gas,Operational
+Facilities,Asia Pacific/Middle East Africa,ConocoPhillips,Natural Gas,Operational
+Facilities,Canada,ConocoPhillips,Natural Gas,Operational
+Facilities,United States,ConocoPhillips,Natural Gas,Operational
+BCF,Lower,ConocoPhillips,bitumen,operational
+facilities,Lower,ConocoPhillips,bitumen,operational
+infrastructure,Canada,ConocoPhillips,natural gas,operational
+equipment,Europe,ConocoPhillips,crude oil,operational
+facilities,Alaska,ConocoPhillips,oil,operational
+equipment,Lower,ConocoPhillips,natural gas,under construction
+infrastructure,Canada,ConocoPhillips,oil,end-of-life
+support equipment,,ConocoPhillips,,operational
+support equipment,,ConocoPhillips,,under construction
+support equipment,,ConocoPhillips,,end-of-life
+Facilities,Alaska,ConocoPhillips,Crude Oil,Operational
+Equipment,Lower United States,ConocoPhillips,Natural Gas,Operational
+Infrastructure,Canada,ConocoPhillips,Bitumen,Operational
+wells,Alaska,ConocoPhillips,crude oil,productive
+acreage,Lower 48 states,ConocoPhillips,crude oil,developed
+wells,United States,ConocoPhillips,natural gas,in progress
+Proved property,Alaska,ConocoPhillips,Oil and Gas,Operational
+Unproved property,Lower U.S.,ConocoPhillips,Oil and Gas,Under Construction
+Proved property,Canada,ConocoPhillips,Oil and Gas,End-of-Life
+facilities,,ConocoPhillips,oil and natural gas,
+equipment,,ConocoPhillips,oil and natural gas,
+infrastructure,,ConocoPhillips,oil and natural gas,
+facilities,Alaska,ConocoPhillips,"crude oil, natural gas, NGLs",operational
+Prudhoe Bay Field,"Prudhoe Bay, Alaska",ConocoPhillips,crude oil,operational
+Kuparuk Field,Greater Kuparuk Area,ConocoPhillips,crude oil,operational
+exploration leases,Alaska,ConocoPhillips,"crude oil, natural gas, NGLs",under development
+three central production facilities,Prudhoe Bay Field,ConocoPhillips,"oil, natural gas and water",operational
+seawater treatment plant,Prudhoe Bay Field,ConocoPhillips,water,operational
+rotary-drilled wells,Kuparuk,ConocoPhillips,oil and gas,operational
+horizontal multi-laterals,Kuparuk,ConocoPhillips,oil and gas,operational
+coiled-tubing drilling rig,Western North Slope,ConocoPhillips,oil and gas,operational
+one central production facility,Alpine Field,ConocoPhillips,"oil, natural gas and water",operational
+two drill sites (Greater Mooses Tooth # and Greater Mooses Tooth #),Greater Mooses Tooth Unit (NPR-A),ConocoPhillips,oil and gas,operational
+conventional rotary rig,Western North Slope,ConocoPhillips,oil and gas,operational
+extended reach drilling rig,Western North Slope,ConocoPhillips,oil and gas,operational
+3D seismic survey,state and federal lands,ConocoPhillips,oil and gas,completed
+near vertical sidetrack wellbore,Coyote Brookian topset exploration prospect (Kuparuk River Unit),ConocoPhillips,oil and gas,under construction
+pipeline,North Slope,"ConocoPhillips (partly),  Trans-Alaska Pipeline System (TAPS)","oil, natural gas",operational
+double-hulled tankers,"Valdez, Alaska","Polar Tankers, Inc.","oil, natural gas",operational
+million net acres of onshore conventional and unconventional acreage,Lower 48 States,held by production/owned by the company,oil,"operational"""
+six rigs,Delaware Basin,operated by ConocoPhillips,oil,"operational"""
+two frac crews,Delaware Basin,operated by ConocoPhillips,oil,"operational"""
+operated wells,Delaware Basin,operated by ConocoPhillips,oil,"operational"""
+five rigs,Midland Basin,operated by ConocoPhillips,oil,"operational"""
+two frac crews,Midland Basin,operated by ConocoPhillips,oil,"operational"""
+operated wells,Midland Basin,operated by ConocoPhillips,oil,"operational"""
+four rigs,Eagle Ford,operated by ConocoPhillips,oil,"operational"""
+two frac crews,Eagle Ford,operated by ConocoPhillips,oil,"operational"""
+operated wells,Eagle Ford,operated by ConocoPhillips,oil,"operational"""
+one rig,Bakken,operated by ConocoPhillips,oil,"operational"""
+one frac crew,Bakken,operated by ConocoPhillips,oil,"operational"""
+operated wells,Bakken,operated by ConocoPhillips,oil,"operational"""
+centralized condensate processing facilities,Texas and New Mexico,operated by ConocoPhillips,oil,"operational"""
+LNG carriers,globally,leased by QG3 and QG4,LNG,operational
+offshore facilities,North Field,QG3 and QG4,LNG,operational
+LNG process trains,onshore,QG3 and QG4,LNG,operational
+gas treating facilities,onshore,QG3 and QG4,LNG,operational
+gathering systems,Bowen and Surat basins,Origin Energy Limited,CBM,operational
+central gas processing and compression stations,Bowen and Surat basins,Origin Energy Limited,CBM,operational
+water treatment facilities,Bowen and Surat basins,Origin Energy Limited,CBM,operational
+export pipeline,Bowen and Surat basins to Curtis Island,Origin Energy Limited,CBM,operational
+LNG facility,Curtis Island near Gladstone,ConocoPhillips Australia,LNG,operational
+oil fields,"Corridor Block, South Sumatra",ConocoPhillips,crude oil,operational
+natural gas fields,"Corridor Block, South Sumatra",ConocoPhillips,natural gas,operational
+Grissik and Suban gas processing plants,"Corridor Block, South Sumatra",ConocoPhillips,natural gas,operational
+Duri steamflood,central Sumatra,ConocoPhillips,natural gas,operational
+operated production,,ConocoPhillips,crude oil,operational
+capital investments,,ConocoPhillips,,
+proved reserves,,ConocoPhillips,,impaired
+long-lived assets,,ConocoPhillips,,
+investment in nonconsolidated entities accounted for under the equity method,,ConocoPhillips,,
+unproved properties,,ConocoPhillips,,
+facilities,NA,ConocoPhillips,"crude oil, bitumen, natural gas, NGLs",operational
+equipment,NA,ConocoPhillips,"crude oil, bitumen, natural gas, NGLs",operational
+wells,NA,ConocoPhillips,"crude oil, bitumen, natural gas, NGLs",operational
+oil and gas production facilities,,,oil and gas,new
+existing oil and gas facilities,,,oil and gas,existing
+facilities,Alaska,ConocoPhillips,oil and natural gas,operational
+equipment,U.S.,ConocoPhillips,oil and natural gas,operational
+facilities,foreign countries,ConocoPhillips,oil and natural gas,operational
+facilities,Venezuela,Venezuelan government,oil,unknown
+technologies,not specified,ConocoPhillips,oil and gas production,operational
+systems,not specified,ConocoPhillips,oil and gas production,operational
+networks,not specified,ConocoPhillips,oil and gas production,operational
+facilities,not specified,ConocoPhillips,oil and gas production,operational
+infrastructure,not specified,ConocoPhillips,oil and gas production,operational
+operating systems,,not owned or operated by us,,
+networks,,not owned or operated by us,,
+software,,not owned or operated by us,,
+infrastructure,,not owned or operated by us,,
+facilities,,,,
+Facilities,Lower,ConocoPhillips,Oil and Gas,Operational
+Equipment,Asia Pacific,ConocoPhillips,Oil and Gas,Operational
+Infrastructure,Permian Basin,ConocoPhillips,Oil and Gas,Operational
+Facilities,Libya,ConocoPhillips,Oil and Gas,Operational
+Capital infrastructure,"Midland and Delaware basins, Eagle Ford, Bakken in the Lower 48 states, Asia Pacific segment, Indonesia",ConocoPhillips,Oil and gas,Operational
+facilities,"Midland and Delaware basins, Eagle Ford, Bakken in the Lower 48 states, Asia Pacific segment, Indonesia",ConocoPhillips,Oil and gas,Operational
+facilities,,ConocoPhillips,crude oil,
+equipment,,ConocoPhillips,natural gas,
+infrastructure,,ConocoPhillips,bitumen,
+facilities,U.S.,ConocoPhillips,crude oil,operational
+equipment,Norway,ConocoPhillips,natural gas,operational
+infrastructure,Canada,ConocoPhillips,bitumen,operational
+facilities,Lower,ConocoPhillips,crude oil,operational
+equipment,Alaska,ConocoPhillips,natural gas,operational
+infrastructure,Canada,ConocoPhillips,bitumen,operational
+Surmont oil sands development,Alberta,ConocoPhillips,bitumen,operational
+Montney unconventional play,British Columbia,ConocoPhillips,natural gas liquids,operational
+pipeline capacity between Canada and the U.S. Gulf Coast,between Canada and the U.S. Gulf Coast,ConocoPhillips,third-party volumes,operational
+facilities in Norway sector of the North Sea,Norway sector of the North Sea,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+facilities in Norwegian Sea,Norwegian Sea,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+facilities in Qatar,Qatar,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+facilities in Libya,Libya,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+terminalling operations in the U.K.,U.K.,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+Es Sider export terminal,Libya,ConocoPhillips,crude oil,operational
+other eastern export terminals,Libya,ConocoPhillips,crude oil,operational
+Tor II redevelopment project,Norway,ConocoPhillips,"crude oil, natural gas liquids, natural gas",operational
+Facilities,Australia,ConocoPhillips,LNG,
+Equipment,China,ConocoPhillips,Oil,
+Facilities,Colombia,ConocoPhillips,Oil,
+Facilities,Argentina,ConocoPhillips,Oil,
+Equipment,Senegal,ConocoPhillips,Oil,
+Facilities,Permian Basin,Shell,Oil,
+facilities,Delaware Basin,ConocoPhillips,crude oil,operational
+equipment,Delaware Basin,ConocoPhillips,crude oil,operational
+infrastructure,Libya,ConocoPhillips,crude oil,operational
+Australia-West assets and operations,Australia,ConocoPhillips,,
+Niobrara interests,Niobrara,ConocoPhillips,,
+Waddell Ranch interests,Lower ,ConocoPhillips,,
+ConocoPhillips U.K. subsidiaries,U.K.,ConocoPhillips,,
+Greater Sunrise Fields,Greater Sunrise Fields,ConocoPhillips,,
+"Development activities in the Lower 48, primarily Permian, Eagle Ford, and Bakken",Lower 48,ConocoPhillips,Oil,Operational
+Appraisal and development activities in Alaska related to the Western North Slope and development activities in the Greater Kuparuk Area,Alaska,ConocoPhillips,Oil,Under Construction
+Appraisal and development activities in the Montney and optimization of oil sands development in Canada,Canada,ConocoPhillips,Oil,Operational
+Appraisal and development activities in the Montney,Canada,ConocoPhillips,oil,
+optimization of oil sands development,Canada,ConocoPhillips,oil sands,
+continued development activities across assets in Norway,Norway,ConocoPhillips,oil,
+continued development activities in China,China,ConocoPhillips,oil,
+continued development activities in Malaysia,Malaysia,ConocoPhillips,oil,
+continued development activities in Indonesia,Indonesia,ConocoPhillips,oil,
+facilities,U.S.,ConocoPhillips,oil and natural gas,operational
+equipment,Canada,ConocoPhillips,oil and natural gas,operational
+infrastructure,European Union,ConocoPhillips,oil and natural gas,operational
+Leaseholds,Permian Basin,ConocoPhillips,Oil and gas,Under construction
+Mineral rights,Permian Basin,ConocoPhillips,Oil and gas,Operational
+Exploratory wells,Permian Basin,ConocoPhillips,Oil and gas,Under construction
+Suspended exploratory wells,Permian Basin,ConocoPhillips,Oil and gas,Under construction
+PP&E,,ConocoPhillips,oil and gas,"operational, under construction, end-of-life"
+tangible equipment,operational sites around the world,ConocoPhillips,oil and gas,operational
+oil and gas platforms,around the world,ConocoPhillips,oil and gas,operational
+oil and gas production facilities,Alaska,ConocoPhillips,oil and gas,nearing the end of their operations
+pipelines,Alaska,ConocoPhillips,oil and gas,operational
+E&P facilities,,ConocoPhillips,oil and gas,
+LNG development,,ConocoPhillips,LNG,
+oil and gas developments,,ConocoPhillips,"crude oil, bitumen, natural gas, LNG, NGLs",
+ARO,offshore properties,ConocoPhillips,oil and gas,"operational, nearing the end of their operations"
+proved oil and gas properties,,ConocoPhillips,"oil, natural gas",operational
+plants and equipment,,ConocoPhillips,"oil, natural gas",operational
+acquired proved and unproved oil and gas properties,,ConocoPhillips (after acquisition from Shell Enterprise LLC),oil and gas,
+"Properties, plants and equipment",,ConocoPhillips,,operational
+PP&E,,ConocoPhillips,oil and gas,operational
+exploratory wells,,ConocoPhillips,oil and gas,under construction
+development wells,,ConocoPhillips,oil and gas,operational
+pipeline,,ConocoPhillips,oil and gas,operational
+LNG assets,,ConocoPhillips,oil and gas,operational
+SAGD facilities,,ConocoPhillips,oil and gas,operational
+producing properties,,ConocoPhillips,oil and gas,operational
+"Properties, Plants and Equipment",,ConocoPhillips,,"Operational, Under Construction, End-of-Life"
+Oil and gas properties,"Permian Basin, New Mexico, West Texas",ConocoPhillips,Crude oil and natural gas,Operational
+"""Net properties, plants and equipment""","""Permian based Delaware Basin""","""ConocoPhillips""","""oil""","""operational"""
+"""Oil and gas properties""","""Texas""","""ConocoPhillips""","""oil""","""operational"""
+Lower segment assets,Lower segment,ConocoPhillips,,Operational
+Montney acreage,Canada,ConocoPhillips,,Operational
+Inga Fireweed asset,Montney zone in Canada,ConocoPhillips,,Operational
+Waddell Ranch interests,Permian Basin,ConocoPhillips,,End-of-life
+Niobrara interests,Lower segment,ConocoPhillips,,End-of-life
+Australia -West assets and operations,Asia Pacific region,ConocoPhillips,,Sold
+Golden Pass LNG Terminal,Lower segment,ConocoPhillips,,Sold
+Golden Pass Pipeline,Lower segment,ConocoPhillips,,Sold
+ConocoPhillips U.K. subsidiaries,U.K.,ConocoPhillips,,Sold
+APLNG’s production and pipeline system,"Bowen and Surat basins in Queensland, Australia","ConocoPhillips, Origin Energy, Sinopec","CBM, natural gas",operational
+LNG facility,"Bowen and Surat basins in Queensland, Australia","ConocoPhillips, Origin Energy, Sinopec",LNG,operational
+Facilities,Qatar,QG3,Natural gas,Operational
+equipment,Qatar,QG3,Natural gas,Operational
+pipeline,"Sabine Pass, Texas",Golden Pass Pipeline,LNG,Operational
+suspended wells,Alaska,ConocoPhillips,,under construction
+suspended wells,Canada,ConocoPhillips,,operational
+suspended wells,Norway,ConocoPhillips,,end-of-life
+suspended wells,Malaysia,ConocoPhillips,,under construction
+suspended wells,Libya,ConocoPhillips,,operational
+suspended wells,Australia-West,ConocoPhillips,,end-of-life
+suspended wells,Colombia,ConocoPhillips,,under construction
+suspended wells,Central Louisiana,ConocoPhillips,,operational
+suspended wells,Wind River Basin,ConocoPhillips,natural gas,end-of-life
+suspended wells,Madden Field,ConocoPhillips,natural gas,operational
+suspended wells,Lost Cabin Gas Plant,ConocoPhillips,natural gas,end-of-life
+developed properties in our Niobrara asset,Niobrara asset,ConocoPhillips,oil and gas,operational
+wells,around the world,ConocoPhillips,oil and gas,operational
+offshore oil and gas platforms,around the world,ConocoPhillips,oil and gas,operational
+oil and gas production facilities,Alaska,ConocoPhillips,oil and gas,operational
+pipelines,Alaska,ConocoPhillips,oil and gas,operational
+"two offshore platforms located near Carpinteria, California","Carpinteria, California",ConocoPhillips,natural gas,under construction
+"two offshore platforms located near Carpinteria, California","Carpinteria, California",prior owners of Outer Continental Shelf (OCS) Lease P-,crude oil,under construction
+office buildings,,ConocoPhillips,oil and gas exploration and production,operational
+drilling equipment,,ConocoPhillips,oil and gas exploration and production,operational
+ocean transport vessels,,ConocoPhillips,oil and gas exploration and production,operational
+tugboats,,ConocoPhillips,oil and gas exploration and production,operational
+corporate aircraft,,ConocoPhillips,oil and gas exploration and production,operational
+other facilities and equipment,,ConocoPhillips,oil and gas exploration and production,operational
+"Properties, plants and equipment",N/A,ConocoPhillips,N/A,"operational, under construction, end-of-life"
+"Properties, Plants and Equipment",,ConocoPhillips,Crude oil,Operational
+"Properties, Plants and Equipment",,ConocoPhillips,Natural gas,Operational
+"Depreciation, Depletion, Amortization and Impairments",Alaska,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Lower 48,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Canada,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments","Europe, Middle East and North Africa",ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Asia Pacific,ConocoPhillips,,
+"Depreciation, Depletion, Amortization and Impairments",Other International,ConocoPhillips,,
+Reservoirs,Alaska,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Lower,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Europe,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Asia Pacific/Middle East,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Africa,ConocoPhillips,Crude Oil,Operational
+Reservoirs,U.S.,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Canada,ConocoPhillips,Crude Oil,Operational
+Reservoirs,Permian,ConocoPhillips (through Concho & Shell acquisitions),Crude Oil,Operational
+well locations,Lower,ConocoPhillips,"crude oil, natural gas, natural gas liquids",operational
+unconventional plays,Lower,ConocoPhillips,"crude oil, natural gas, natural gas liquids",operational
+Facilities,Alaska,ConocoPhillips,Natural Gas,Operational
+Equipment,Lower 48 States,ConocoPhillips,Natural Gas,Operational
+Infrastructure,Canada,ConocoPhillips,Natural Gas,Operational
+Facilities,Europe,ConocoPhillips,Natural Gas,Operational
+Equipment,Asia Pacific/Middle East,ConocoPhillips,Natural Gas,Operational
+Facilities,Asia Pacific/Middle East,ConocoPhillips,Bcf,
+Equipment,Alaska,ConocoPhillips,Bcf,
+Facilities,Lower 48,ConocoPhillips,Bcf,
+Equipment,Europe,ConocoPhillips,Bcf,
+Facilities,Canada,ConocoPhillips,Montney,
+Equipment,Permian,"Shell, Concho",Bcf,
+facilities,Asia Pacific/Alaska,ConocoPhillips,oil,operational
+equipment,U.S.,ConocoPhillips,natural gas,operational
+infrastructure,Canada,ConocoPhillips,oil,under construction
+facilities,Europe,ConocoPhillips,natural gas,end-of-life
+pipeline,,ConocoPhillips,crude oil,
+marine operations,,ConocoPhillips,crude oil,
+LNG operations,,ConocoPhillips,natural gas,
+crude oil and gas marketing activities,,ConocoPhillips,"crude oil, natural gas",
+transportation operations,,ConocoPhillips,"crude oil, natural gas",
+Facilities,Alaska,ConocoPhillips,Crude oil,Operational
+Equipment,Lower United States,ConocoPhillips,Natural Gas Liquids,Operational
+Infrastructure,Canada,Equity affiliates,Bitumen,Operational
+wells,Alaska,ConocoPhillips,crude oil,Productive
+wells,Lower,ConocoPhillips,natural gas,In Progress
+wells,United States,ConocoPhillips,crude oil,Dry
+wells,Canada,ConocoPhillips,natural gas,Exploratory
+wells,Europe,ConocoPhillips,crude oil,Development
+wells,Asia Pacific/Middle East,Equity affiliates,natural gas,Productive
+wells,Africa,ConocoPhillips,crude oil,In Progress
+wells,Other areas,ConocoPhillips,natural gas,Dry
+Proved property,Asia Pacific/ Other,ConocoPhillips -K,,
+Unproved property,Asia Pacific/ Other,ConocoPhillips -K,,
+Proved property,Alaska,ConocoPhillips -K,,
+Unproved property,Alaska,ConocoPhillips -K,,
+Proved property,U.S.,ConocoPhillips -K,,
+Unproved property,U.S.,ConocoPhillips -K,,
+Proved property,Canada,ConocoPhillips -K,,
+Unproved property,Canada,ConocoPhillips -K,,
+Proved property,Europe,ConocoPhillips -K,,
+Unproved property,Europe,ConocoPhillips -K,,
+Proved property,Middle East,ConocoPhillips -K,,
+Unproved property,Middle East,ConocoPhillips -K,,
+Proved property,Africa,ConocoPhillips -K,,
+Unproved property,Africa,ConocoPhillips -K,,
+Proved property,,Equity affiliates,,
+Unproved property,,Equity affiliates,,

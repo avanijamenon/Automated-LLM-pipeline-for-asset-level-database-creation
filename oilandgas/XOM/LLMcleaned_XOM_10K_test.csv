@@ -1,0 +1,119 @@
+physical asset,location,ownership,commodity,status,Countries
+Acreage Holdings,"USA, Canada, Other Americas, Europe, Africa, Asia, United Kingdom","ExxonMobil,Government","Oil,Natural Gas",Operational,"Canada, USA, United Kingdom"
+"Additions To Property, Plant And Equipment","USA, Canada, Singapore, United Kingdom, France, Italy, Belgium, Australia, Kazakhstan, Papua New Guinea, United Arab Emirates, Nigeria, Guyana, Brazil, Russia, Angola, Midland Basin","ExxonMobil,Pioneer Natural Resources Company","Crude oil, Natural Gas, Refinery Products","Operational, Under Construction, End-Of-Life","Angola, United Arab Emirates, Australia, Belgium, Brazil, Canada, France, United Kingdom, Guinea, Guyana, Italy, Kazakhstan, Niger, Nigeria, Papua New Guinea, Russia, Singapore, Usa"
+Bitumen ,Europe,"Equity Companies,Consolidated Subsidiaries,ExxonMobil","Bitumen,Synthetic oil","Operational, Undeveloped, Developed",
+Facilities,,ExxonMobil,"Oil, Natural Gas",Under Construction,
+Chemical Products ,,ExxonMobil,,,
+Coastal Refining And Petrochemical Plants,"Vulnerable Areas, Global",ExxonMobil,"Petrochemicals,Hydrocarbon-Based Energy Products",Operational,
+Commercial Transportation Fleets,,,"Liquid fuels, Biofuels 
+
+
+Let me know when you're ready for the next cell!  I'm here to help clean and standardize your data.",,
+Crude Oil,USA,"Equity Companies,Consolidated Subsidiaries,ExxonMobil","Crude oil,Oil",Operational,Usa
+Development Projects [N/A],"Guyana, Brazil",ExxonMobil,"Crude oil,Natural Gas",,"Brazil, Guyana"
+drilling equipment,"Implied by use for Oil and Gas Exploration and Production, USA, Canada, Europe, Various Oil and Gas Fields, Guyana, Brazil, Cold Lake, Middle East, Argentina, Asia, Permian Basin, United Kingdom","ExxonMobil, GOEB, Consolidated Subsidiaries, Equity Companies, State-Owned Companies, The Corporation","Oil, Natural Gas, Bitumen, Crude Oil, Petroleum Products, Petrochemicals, Specialty Products, Carbon Capture, Hydrogen, Biofuels","Operational,Developed,Undeveloped","Canada, USA, Argentina, Brazil, United Kingdom, Guyana"
+Energy Products,,ExxonMobil,,Operational,
+ExxonMobil's Equipment ,"Canada, Guyana, Brazil, USA, United Kingdom, Argentina, Europe, Asia, Middle East, Cold Lake, Permian Basin","ExxonMobil,Consolidated Subsidiaries,State-owned Companies,Equity Companies,The Corporation","Oil, Gas, Petrochemicals","Operational, Under Construction","Argentina, Brazil, Canada, United Kingdom, Guyana, USA"
+Facilities,"Europe, Asia, Canada, Kazakhstan, Romania, United Kingdom, Angola, Brazil, Guyana, Russia, United States","Equity Companies, ExxonMobil, Consolidated Subsidiaries, Expropriated","Crude oil, Oil, Natural Gas, Petroleum Products, Petrochemicals, Biofuels, Hydrogen","Producing, Operational, Under Construction, Idled","Angola, Brazil, Canada, United Kingdom, Guyana, Kazakhstan, Mexico, Romania, Russia, Singapore, Usa"
+Fields,Kazakhstan,"ExxonMobil,Tengizchevroil LLP (TCO)","Oil, Natural Gas",Operational,Kazakhstan
+FPSO Vessel,"Stabroek Block, Papua New Guinea",ExxonMobil,"Oil, Natural Gas","Operational, Under Construction","Guinea, Papua New Guinea"
+Idled Upstream Santa Ynez Unit Assets And Associated Facilities In California ,California,ExxonMobil,"Oil, Gas","End-Of-Life,Operational",
+Industrial Activity Equipment,,,"Electricity, Natural Gas",,
+infrastructure,"Australia, Asia, Europe, United States Of America, Gulf Of Mexico, Malaysia, Singapore","Equity Companies,ExxonMobil,Consolidated Subsidiaries","Bitumen, Oil, Natural Gas, Petrochemicals, Polymers, Petroleum Products, Olefins, Polyolefins, Intermediates, Clean Fuels","Under Construction, Operational","Australia, Mexico, Malaysia, Singapore, USA"
+Light-Duty Vehicles,,,Liquid fuels,,
+Long-Lived Assets,"Canada, Singapore, Australia, Kazakhstan, Papua New Guinea, Guyana, United Arab Emirates, Nigeria, Brazil, Angola, Russia, USA",ExxonMobil,,,"Angola, United Arab Emirates, Australia, Brazil, Canada, Guinea, Guyana, Kazakhstan, Niger, Nigeria, Papua New Guinea, Russia, Singapore, Usa"
+Natural Gas [Natural Gas],"Canada, Other Americas","Equity Companies,Consolidated Subsidiaries,ExxonMobil","Natural Gas, Natural Gas Liquids, Oil 
+
+
+Let me know if you have more cells to process!  I'm ready when you are.","Operational, Developed, Proven, Undeveloped",Canada
+Natural Gas Liquids,,"Equity Companies,Consolidated Subsidiaries 
+
+
+Let me know if you'd like me to process more cells!",Natural Gas Liquids,,
+Norway Assets ,Norway,ExxonMobil,"LNG 
+
+
+Let me know when you're ready for the next column!",Operational,Norway
+Oil And Gas Properties,,"ExxonMobil, Consolidated Subsidiaries, Equity Companies 
+
+
+Let me know when you'd like to process another cell!","Oil, Natural Gas, Crude Oil, Petroleum Products, Petrochemicals, Specialty Products, Carbon Capture, Hydrogen, Biofuels","Operational, Under Construction, End Of Life, Proved Developed Reserves, Proved Undeveloped Reserves, Plateau Rates, Declining Rates",
+Permian Basin,Permian Basin,ExxonMobil,"Crude oil, Natural Gas, Petroleum, Petrochemical products","Operational, Under Construction",
+Plant,"USA, Canada, Singapore, United Kingdom, France, Italy, Belgium, Australia, Kazakhstan, Papua New Guinea, United Arab Emirates, Nigeria, Guyana, Brazil, Russia, Angola, Golden Pass, Midland Basin","ExxonMobil,Pioneer Natural Resources Company","Crude oil, Natural Gas, Refined petroleum products","Operational, Under Construction, End-Of-Life","Angola, United Arab Emirates, Australia, Belgium, Brazil, Canada, France, United Kingdom, Guinea, Guyana, Italy, Kazakhstan, Niger, Nigeria, Papua New Guinea, Russia, Singapore, Usa"
+Mozambique Project,Mozambique,ExxonMobil,"Oil, Natural Gas",Under Construction,Mozambique
+Property,"USA, Canada, Europe, Africa, Asia, Australia, Singapore, United Kingdom, France, Italy, Belgium, Kazakhstan, Papua New Guinea, United Arab Emirates, Nigeria, Guyana, Brazil, Russia, Angola, Midland Basin of West Texas","ExxonMobil, Consolidated Subsidiaries, Equity Companies, Pioneer Natural Resources Company","Oil, Natural Gas, LNG","Producing,Incomplete Construction,Operational,End-Of-Life","Australia, Canada, Usa, Angola, United Arab Emirates, Belgium, Brazil, France, United Kingdom, Guinea, Guyana, Italy, Kazakhstan, Niger, Nigeria, Papua New Guinea, Russia, Singapore"
+railcars,Railways Networks,ExxonMobil,"Oil, Gas",Operational,
+"Refining Technology 
+
+
+
+Let me know when you're ready for the next cell!",,ExxonMobil,Clean Fuels,Operational,
+Research Laboratories,"Global, USA",ExxonMobil,"Technological Advancements, Energy, Petrochemicals, Carbon Capture And Storage, Hydrogen, Lower-Emission Fuels",Operational,Usa
+reservoirs,,ExxonMobil,Crude Oil,Under Development,
+"Two Manufacturing Sites in Pensacola, Florida and Newport, Wales","Pensacola, Florida; Newport, Wales",Celanese,,Operational ,
+Specialty Products,,ExxonMobil,,,
+Suspended Wells ,"USA, Canada, Europe, Africa, Asia, Australia","ExxonMobil,Equity Companies","Oil, Natural Gas, Crude Bitumen","Under Construction, Suspended, Operational","Australia, Brazil, Canada, Guyana, USA"
+Synthetic Oil,"Asia, Africa","Equity Companies, Consolidated Subsidiaries, ExxonMobil","Oil, Synthetic Oil",Operational,
+tankers,"Implied By Use For Transportation Of Oil And Gas Products, Various Shipping Routes",ExxonMobil,"Oil And Gas Products, Transportation Of Crude Oil And Refined Products",Operational,
+Upstream Assets In The United Kingdom Central And Northern North Sea  (Physical Asset),,"ExxonMobil, Neo Energy","Oil, Natural Gas","Operational, Under Construction",
+"Upstream Property, Plant And Equipment (PP&E)","USA, Canada, Singapore, United Kingdom, France, Italy, Belgium, Australia, Kazakhstan, Papua New Guinea, United Arab Emirates, Nigeria, Guyana, Brazil, Russia, Angola, Midland Basin  
+
+
+
+Let me know if you have more cells to process! I'm ready for the next one.","ExxonMobil, Pioneer Natural Resources Company","Oil, Natural Gas, LNG, Refinery Products, Crude Oil","Operational, Under Construction, End-Of-Life","Angola, United Arab Emirates, Australia, Belgium, Brazil, Canada, France, United Kingdom, Guinea, Guyana, Italy, Kazakhstan, Niger, Nigeria, Papua New Guinea, Russia, Singapore, Usa"
+Wellbores,,ExxonMobil,Natural Gas Liquids,"Operational 
+
+
+Let me know when you're ready for the next cell!",
+exploration equipment,"Global,Canada,Guyana,Brazil,Europe,Cold Lake,USA,Middle East,Argentina,Asia,Permian Basin,United Kingdom,Canada/Other Americas,Kearl","ExxonMobil,Consolidated Subsidiaries,State-Owned Companies,Equity Companies,The Corporation","Crude oil, Natural Gas, Natural Gas Liquids, Synthetic Oil, Petroleum Products, Petrochemicals, Fuels, Aromatics, Catalysts And Licensing, Olefins, Polyolefins, Intermediates, Finished Lubricants, Basestocks And Waxes, Synthetics, Elastomers And Resins","Operational, Under Construction","Argentina, Brazil, Canada, United Kingdom, Guyana, Usa"
+Refineries,Global,ExxonMobil,Crude Oil,Operational,
+Operations,Countries Where ExxonMobil Operates,ExxonMobil,"Oil, Gas",Operational,
+Exploration Concessions,"Europe, Germany",Government,,Operational,Germany
+Area,Mozambique,Government Of The Republic Of Mozambique Ministry Of Mineral Resources And Energy,Crude Oil,Operational,Mozambique
+"Block A5-B, Block Z5-C, Block Z5-D ",Mozambique,Government Of The Republic Of Mozambique Ministry Of Mineral Resources And Energy,Crude Oil,Operational,Mozambique
+Refinery Equipment,"Canada, Guyana, Brazil, Europe, Cold Lake, USA, Middle East, Argentina, Asia, Permian Basin, United Kingdom, Canada 
+
+
+Let me know when you're ready for the next cell!","ExxonMobil,Consolidated Subsidiaries,State-Owned Companies,Equity Companies,The Corporation,ExxonMobil Oil Corporation (EMOC)","Oil, Natural Gas, Natural Gas Liquids, Synthetic Oils, Hydrocarbon-based Energy Products, Crude Oil, Petroleum Products, Petrochemicals, Specialty Products, Carbon Capture, Hydrogen, Biofuels","Operational, Under Construction","Argentina, Brazil, Canada, United Kingdom, Guyana, USA"
+Chemical Process Equipment,,"Exxonmobil, The Corporation","Chemicals,Natural Gas,Oil",Operational,
+Lubricant Basestock Manufacturing Equipment,,ExxonMobil,"Oil, Natural Gas, Lubricants",Operational,
+Service Station Buildings,,ExxonMobil,"Gasoline, Diesel, Oil",Operational,
+Fixed Improvements,,ExxonMobil  Corporation,"Oil,Natural Gas",Operational,
+Platform ,Africa,ExxonMobil,"Crude Oil, Natural Gas",EndOfLife,
+Moveable Equipment,"Canada, Guyana, Brazil, Europe, Cold Lake, USA, Middle East, Argentina, Asia, Permian Basin, United Kingdom, Canada  
+
+
+
+Let me know if you'd like to process another cell value!","ExxonMobil,Consolidated Subsidiaries,State-Owned Companies,Equity Companies,The Corporation","Natural Gas, Natural Gas Liquids, Synthetic Oil, Oil, Hydrocarbon-Based Energy Products, Petroleum Products, Petrochemicals, Specialty Products, Carbon Capture, Hydrogen, Biofuels, Crude Oil","Operational, Under Construction","Argentina, Brazil, Canada, United Kingdom, Guyana, Usa"
+Manufacturing Plants,"USA, Global",ExxonMobil,"Petroleum Products, Petrochemicals, Specialty Products",Operational,Usa
+retail outlets,"USA, Most Other Countries Of The World",ExxonMobil,Petroleum Products,Operational,Usa
+Oil Reserves ,"USA, Africa","Exxonmobil, Subsidiaries, Equity Companies","Crude oil, Oil, Natural Gas, Petroleum Products, Petrochemicals, Specialty Products, Carbon Capture, Hydrogen, Biofuels","Developed,Operational,Proved",Usa
+Development Wells,"Kazakhstan, USA, Canada, Europe, Africa, Asia, Australia","ExxonMobil,Equity Companies","Crude oil, Natural Gas 
+
+
+Let me know if you'd like me to clean any more cells!",Operational,"Kazakhstan, Australia, Brazil, Canada, Guyana, USA"
+Qatar North Field East,Qatar,ExxonMobil,"Natural Gas, LNG",Operational,Qatar
+South Floating LNG ,Mozambique,ExxonMobil,"Natural Gas, LNG",Operational,Mozambique
+Papua New Guinea Expansion,Papua New Guinea,ExxonMobil,"Natural Gas, LNG",Under Construction,"Guinea, Papua New Guinea"
+Golden Pass LNG,USA Gulf Coast,ExxonMobil,"Natural Gas, LNG",Under Construction,USA
+Dry Gas Assets,Africa,ExxonMobil,"Natural Gas, LNG",Operational,
+"Refinery expansion in Beaumont, Texas","Beaumont, Texas",ExxonMobil,"Clean Fuels, Inputs To Atmospheric Distillation Units","Under Construction, Operational",
+"Chemical Complex 
+",China,ExxonMobil,Chemicals,Planned,China
+Productive Wells,"USA, Canada, Other Americas, Europe, Africa, Asia, Australia/Oceania, Guyana, Brazil, Kearl, Cold Lake","The Corporation, ExxonMobil, Equity Companies","Oil, Natural Gas, Crude Bitumen",Operational,"Australia, Brazil, Canada, Guyana, USA"
+Exploratory Wells,"Angola, USA, Canada, Europe, Africa, Asia, Australia 
+
+
+Let me know when you're ready for the next cell!","ExxonMobil, Equity Companies","Oil, Natural Gas, Crude Bitumen","Under Construction, Operational","Angola, Australia, Brazil, Canada, Guyana, Usa"
+Mobil Producing Nigeria Unlimited ,Nigeria,ExxonMobil,"Oil, Gas",Operational,"Niger, Nigeria"
+Exploration Permits,"Commonwealth Waters, Australia",Australian Government,"Oil, Gas",Operational,Australia
+Retention Leases ,"Commonwealth Waters, Australia",Australian Government,"Oil, Gas",Under Construction,Australia
+Petroleum Prospecting Licenses,Papua New Guinea,,"Oil,Gas","Operational,Under Construction","Guinea, Papua New Guinea"
+Laffan Refinery Process Unit,"Laffan Refinery, Qatar",ExxonMobil,,Operational,Qatar
+Atmospheric Distillation Units,Gravenchon,ExxonMobil,,Operational,
+Operated Assets,"Permian Basin, Africa",ExxonMobil,"Oil, Natural Gas, Petroleum, Petrochemical Products, LNG","Operational, Under Construction",
+"CO2 Pipelines
+","USA Gulf Coast, Kazakhstan and Russia to the Black Sea","Denbury Inc., Caspian Pipeline Consortium (CPC)","Carbon Capture And Storage, Oil",Operational,"USA, Kazakhstan, Russia"
+Industrial Complexes,USA Gulf Coast,Third-Party Customers,"Oil, Natural Gas, Petroleum, Petrochemical Products, Electricity",Operational,USA
+Petrochemical Complex,"Dayawan Petrochemical Industrial Park, Huizhou, Guangdong Province, China",ExxonMobil,"Polyethylene,Polypropylene",Under Construction,China
+Multiyear Projects,,ExxonMobil,"Oil, Natural Gas",Operational,

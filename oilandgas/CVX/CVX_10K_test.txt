@@ -1,0 +1,768 @@
+Chunk 1:
+(0, 'physical assets: []\nlocations: [Delaware, San Ramon, California]\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 2:
+(1, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 3:
+(2, 'physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: [crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture and offsets]\nstatus: []\n\n\nrelationships: [asset: facilities, location: , ownership: Chevron Corporation, commodity: crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture and offsets, status: ] \n[asset: equipment, location: , ownership: Chevron Corporation, commodity: crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture and offsets, status: ]  \n[asset: infrastructure, location: , ownership: Chevron Corporation, commodity: crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture and offsets, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 4:
+(3, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 5:
+(4, 'physical assets: [facilities, equipment, infrastructure] \nlocations:  [North America, South America, Europe, Africa, Asia and Australia]\nownerships: [Chevron]\ncommodities: [oil, natural gas]\nstatus: [] \n\n\nrelationships: [asset: facilities, location: North America, ownership: Chevron, commodity: oil, status: operational], [asset: equipment, location: South America, ownership: Chevron, commodity: natural gas, status: operational], [asset: infrastructure, location: Europe, ownership: Chevron, commodity: oil and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 6:
+(5, 'physical assets: [Facilities, Equipment, Infrastructure]\nownerships: [Chevron, Affiliates]\ncommodities: [Crude oil, Natural gas]\nstatus: [Operational, Under construction, End-of-life]\nrelationships: [asset: Facilities, location: United States, ownership: Chevron, commodity: Crude oil, status: Operational], [asset: Equipment, location: Other Americas, ownership: Affiliates, commodity: Natural gas, status: Operational], [asset: Infrastructure, location: Africa, ownership: Chevron, commodity: Crude oil, status: Under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 7:
+(6, "physical assets: [development wells, exploratory wells]\nlocations: [United States, Other Americas, Africa, Asia, Australia, Europe]\nownerships: [Chevron]\ncommodities: [crude oil, natural gas]\nstatus: [operational, under construction] \n\nrelationships: [asset: 'development well', location: 'United States', ownership: 'Chevron', commodity: 'crude oil', status: 'operational'],  [asset: 'development well', location: 'Other Americas', ownership: 'Chevron', commodity: 'natural gas', status: 'under construction'], [asset: 'exploratory well', location: 'Africa', ownership: 'Chevron', commodity: 'crude oil', status: 'operational'], [asset: 'exploratory well', location: 'Asia', ownership: 'Chevron', commodity: 'natural gas', status: 'under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 8:
+(7, 'ownerships: [Chevron, Jointly developed with another company]\ncommodities: [crude oil, natural gas, NGLs, carbon dioxide]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: facilities, location: California, ownership: Chevron, commodity: emissions reduction, status: operational], \n[asset: solar power plant, location: Lost Hills field, ownership: Chevron, commodity: electricity, status: under construction], \n[asset: battery, location: Lost Hills field, ownership: Chevron, commodity: electricity storage, status: under construction],\n[asset: drilling plans, location: Mustang and Wells Ranch areas (DJ Basin), ownership: Chevron, commodity: crude oil, natural gas, NGLs, status: operational],\n[asset: production host facility, location: Jack/St. Malo fields, ownership: Chevron, commodity: crude oil, natural gas, NGLs, status: operational], \n[asset: floating production unit, location: Jack/St. Malo fields, ownership: Chevron, commodity: crude oil, natural gas, NGLs, status: operational],\n[asset: subsea infrastructure, location: Jack/St. Malo fields, ownership: Chevron, commodity: crude oil, natural gas, NGLs, status: operational],\n[asset: semi-submersible floating production unit, location: Anchor Field, ownership: Chevron, commodity: crude oil, natural gas, NGLs, status: under construction],  \n[asset: well, location: various locations (DJ Basin, Gulf of Mexico), ownership: Chevron, commodity: crude oil, natural gas, NGLs, status: operational/under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 9:
+(8, 'physical assets: [Facilities, Equipment, Infrastructure]\nlocations: [Gulf of Mexico, Argentina, Brazil, Canada, Colombia, Mexico, Suriname, Venezuela]\nownerships: [Chevron]\ncommodities: [Oil, Bitumen, Natural Gas]\nstatus: [Operational, Under Construction, End-of-Life]\n\n\nrelationships: [asset: Facilities, location: Gulf of Mexico, ownership: Chevron, commodity: Oil, status: Operational], [asset: Equipment, location: Argentina, ownership: Chevron, commodity: Oil, status: Operational], [asset: Infrastructure, location: Canada, ownership: Chevron, commodity: Bitumen, status: Operational], [asset: Facilities, location: Colombia, ownership: Chevron, commodity: Natural Gas, status: Under Construction], [asset: Equipment, location: Mexico, ownership: Chevron, commodity: Oil, status: End-of-Life]')
+----------------------------------------------------------------------------------------------------
+Chunk 10:
+(9, 'locations: [Carabobo heavy oil project in Orinoco Belt, offshore Venezuela, Manatee Field in Trinidad and Tobago, Angola, Republic of Congo, Cameroon, Egypt, Equatorial Guinea, Nigeria, Douala Basin, Mediterranean Sea, Red Sea, Alen and Aseng oil fields,  Block EG-, OML , OML ]\nownerships: [Chevron]\ncommodities: [heavy oil, natural gas, crude oil]\nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 11:
+(10, 'ownerships: [Chevron, Chevron and joint venture partner]\ncommodities: [oil, natural gas, crude oil]\nstatus: [under construction, operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 12:
+(11, 'commodities: [ crude oil, natural gas, LNG]\nstatus: [under construction, operational, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 13:
+(12, 'commodities: [Crude oil and natural gas]\nstatus:  [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 14:
+(13, 'physical assets: [Refined Products Sales Volumes , service stations, terminals and service stations]\nlocations: [United States, Latin America, Asia-Pacific region, Middle East, South Korea, Australia, Ningbo, China, Old Ocean, Texas, Cedar Bayou facility in Baytown, Texas, Yeosu, South Korea, California]\nownerships: [Chevron, Texaco, Caltex, GSC, Chevron Phillips Chemical Company LLC (CPChem), USGC II, RLPP] \nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 15:
+(14, 'physical assets: [El Segundo Refinery, diesel hydrotreating unit, fluid catalytic cracking unit, pipelines, crude oil tankers, product carriers, LNG carriers]\nlocations: [California, United States, Canada, West Africa, Caspian Sea region]\nownerships: [Chevron, CPChem affiliate, Noble Midstream Partners LP]\ncommodities: [renewable diesel, sustainable aviation fuel, bio-feedstock, crude oil, natural gas, refined products, feedstock, LNG, motor oil, hydrogen, CCUS, carbon offsets]\nstatus: [operational, under construction (implied by "continue development")]\nrelationships: [asset: El Segundo Refinery, location: California, ownership: Chevron, commodity: renewable diesel, sustainable aviation fuel, status: operational], [asset: diesel hydrotreating unit, location: El Segundo Refinery, ownership: Chevron, commodity: renewable diesel, status: operational], [asset: fluid catalytic cracking unit, location: El Segundo Refinery, ownership: Chevron, commodity: sustainable aviation fuel, status: operational], [asset: pipelines, location: United States, ownership: Chevron, commodity: crude oil, natural gas, refined products, status: operational], [asset: crude oil tankers, location: global, ownership: Chevron, commodity: crude oil, status: operational], [asset: product carriers, location: global, ownership: Chevron, commodity: refined products, status: operational], [asset: LNG carriers, location: global, ownership: Chevron, commodity: LNG, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 16:
+(15, 'physical assets: [facilities, operations, Worldwide Emergency Response Team] \nlocations: []\nownerships: [Chevron]\ncommodities: [crude oil]\nstatus: []\n\n\nrelationships: [asset: facilities, location: , ownership: Chevron, commodity: crude oil, status: operational], [asset: operations, location: , ownership: Chevron, commodity: crude oil, status: operational], [asset: Worldwide Emergency Response Team, location: , ownership: Chevron, commodity: crude oil, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 17:
+(16, 'physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron]\ncommodities: [crude oil, natural gas, refined products]\nstatus: [] \n\n\nrelationships: [asset: facilities, location: urban areas and remote regions, ownership: Chevron, commodity: crude oil, status: operational],  [asset: equipment, location: urban areas and remote regions, ownership: Chevron, commodity: crude oil, status: operational], [asset: infrastructure, location: urban areas and remote regions, ownership: Chevron, commodity: crude oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 18:
+(17, "physical assets: [process control networks, critical systems, infrastructure, facilities]\nlocations: []\nownerships: [Chevron]\ncommodities: []\nstatus: []\nrelationships: [asset: 'process control networks', location: '', ownership: 'Chevron', commodity: '', status: ''], \n[asset: 'critical systems', location: '', ownership: 'Chevron', commodity: '', status: ''], \n[asset: 'infrastructure', location: '', ownership: 'Chevron', commodity: '', status: ''], \n[asset: 'facilities', location: '', ownership: 'Chevron', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 19:
+(18, 'physical assets:  []\nlocations:  [countries, jurisdictions, U.S., European Union, California]\nownerships:  [Chevron]\ncommodities: [hydrocarbons, oil, natural gas, refined hydrocarbon products, synthetic oil, alternative energy sources, lower-carbon technologies]\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 20:
+(19, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 21:
+(20, "physical assets:  crude oil and natural gas properties, refining, marketing, transportation, and chemicals facilities \nlocations:  Pasadena, Texas, Cymric Oil Field in Kern County, California, Weld County, Colorado\nownerships: Chevron\ncommodities: crude oil, natural gas\nstatus: operational\n\n\nrelationships: [asset: 'crude oil and natural gas properties', location: '', ownership: 'Chevron', commodity: 'crude oil, natural gas', status: 'operational'], [asset: 'refining', location: 'Pasadena, Texas', ownership: 'Chevron', commodity: '', status: 'operational'], [asset: 'marketing', location: '', ownership: 'Chevron', commodity: '', status: 'operational'], [asset: 'transportation', location: '', ownership: 'Chevron', commodity: '', status: 'operational'], [asset: 'chemicals facilities', location: '', ownership: 'Chevron', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 22:
+(21, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 23:
+(22, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 24:
+(23, 'physical assets: []\nlocations: [ ]\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 25:
+(24, "physical assets: [ ]\nlocations: [ ]\nownerships: [Chevron]\ncommodities: [crude oil, refined products, renewable fuels, hydrogen, carbon capture and offsets]\nstatus: [ ]\n\nrelationships: [asset: '', location: '', ownership: Chevron, commodity: crude oil, status:  ]")
+----------------------------------------------------------------------------------------------------
+Chunk 26:
+(25, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ Chevron ]\ncommodities: [ oil, gas, products from oil and gas ]\nstatus: [ ] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 27:
+(26, 'physical assets: [facilities] \nlocations: [Angola, Equatorial Guinea, Kazakhstan, Nigeria, Partitioned Zone between Saudi Arabia and Kuwait, Republic of Congo ]\nownerships: [Chevron]\ncommodities: [crude oil and natural gas]\nstatus: []\nrelationships: [asset: facilities, location: Angola, ownership: Chevron, commodity: crude oil and natural gas, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 28:
+(27, 'locations: [Angola, Australia, Brazil, Equatorial Guinea, Japan, United States]\nownerships: [Cabinda Gulf Oil Company Limited (CABGOC), Chevron]\ncommodities: [natural gas, crude oil]\nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 29:
+(28, "locations: [Deepwater Gulf of Mexico, Yeosu, Salt Lake City, El Segundo, California, United States, Mendota, California, New York, U.S. Midcontinent, Gulf Coast]\nownerships: [Neste Oyj, Chevron, GS Caltex, Brightmark RNG Holdings LLC, American Natural Gas LLC (Beyond6, LLC), Bunge North America, Inc., Noble Midstream Partners LP, Toyota Motors North America, Inc., Cummins Inc., Delta Air Lines, Inc., Google LLC, Progress Rail Locomotive Inc., Caterpillar company, BNSF Railway Company]\nstatus: [under construction, operational, in end-of-life]\n[refineries (Salt Lake City): Salt Lake City: Chevron: The world’s first commercial-scale ISOALKY™ process unit at the Salt Lake City Refinery: gasoline blending component: operational] ,\n[refinery (Yeosu): Yeosu: GS Caltex, a Chevron's percent owned affiliate:  olefins mixed-feed cracker and associated polyethylene unit: polyethylene: operational],\n[refinery (El Segundo): El Segundo, California: Chevron: renewable diesel production: renewable diesel: operational],\n[CNG stations: United States: Chevron: compressed natural gas: CNG: operational] ,\n[soybean processing facilities: U.S. Midcontinent and Gulf Coast: Chevron and Bunge North America, Inc.: soybean products: operational],\n[Marlex® Anew™ Circular Polyethylene production facility: Unknown: CPChem, a Chevron's percent owned affiliate: pyrolysis oil from difficult-to-recycle waste plastics: circular polyethylene: operational],\n[hydrogen demonstration projects: Transportation and stationary power applications: Chevron and Caterpillar Inc.: hydrogen:  operational] ,\n[low-temperature geothermal and heat power facilities: Unknown: Baseload Capital AB: low-temperature geothermal energy: operational],\n[carbon-free ammonia and carbon-free hydrogen facilities: Unknown: Starfire Energy: carbon-free ammonia and carbon-free hydrogen: operational],\n[floating offshore and wind turbine technology facilities: Unknown: Ocergy, Inc.: floating offshore and wind power: operational],\n[lower-carbon generators for electric grids: Unknown: Mainspring: lower-carbon electricity generation: operational],\n[solar-hydro plant with storage: Unknown: Raygen: solar and hydro power: operational],\n[soil carbon offset platform: Unknown: Boomitra: carbon offsets: operational],\n[hydro-power based technology: Unknown: Natel Energy: hydropower: operational],\n[modular waste-to-green hydrogen and renewable synthetic fuel facilities: Unknown: Raven SR Inc.: waste to green hydrogen and synthetic fuels: operational],\n[waste energy recovery systems: Unknown: Sapphire Technologies: waste heat and energy recovery: operational],\n[liquid organic hydrogen carriers: Unknown: Hydrogenious LOHC Technologies: hydrogen storage and transportation: operational],\n[plastics recycling technology: Unknown: gr3n SA: recycled plastics: operational],\n[thermal energy storage: Unknown: Malta Inc.: thermal energy storage: operational],")
+----------------------------------------------------------------------------------------------------
+Chunk 30:
+(29, 'physical assets: [Upstream facilities, Downstream facilities, Refinery infrastructure]\nlocations: [U.S., International, Indonesia]\nownerships: [Company, CPChem]\ncommodities: [Crude oil, Natural gas liquids, Refined products, Gasoline, Jet fuel, Diesel]\nstatus: []\nrelationships: [asset: Upstream facilities, location: U.S., ownership: Company, commodity: Crude oil, status: Operational], \n[asset: Downstream facilities, location: International, ownership: Company, commodity: Refined products, status: Operational],\n[asset: Refinery infrastructure, location: U.S., ownership: Company, commodity: Crude oil, status: Operational],  \n[asset: Refinery infrastructure, location: International, ownership: Company, commodity: Natural gas liquids, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 31:
+(30, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ] \nrelationships: [ ]')
+----------------------------------------------------------------------------------------------------
+Chunk 32:
+(31, 'physical assets: [Refinery] \nlocations: [Pasadena, Texas]\nownerships: [Company]\ncommodities: [Crude oil, Natural gas, Gasoline, Other refined products]\nstatus: [Operational]\n\nrelationships: [asset: Refinery, location: Pasadena, Texas, ownership: Company, commodity: Crude oil, Natural gas, Gasoline, Other refined products, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 33:
+(32, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 34:
+(33, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Permian Basin, Kazakhstan]\nownerships: [Chevron]\ncommodities: [Crude oil, renewable fuels and products]\nstatus: [operational, under construction]\n\nrelationships: [asset: facilities, location: Permian Basin, ownership: Chevron, commodity: Crude oil, status: operational], [asset: equipment, location: Kazakhstan, ownership: Chevron, commodity: Crude oil, status: operational], [asset: infrastructure, location: Permian Basin, ownership: Chevron, commodity: Crude oil, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 35:
+(34, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['crude oil', 'refined products', 'natural gas', 'natural gas liquids', 'liquefied natural gas', 'refinery feedstocks']\nstatus: [] \n\n\nrelationships:  []")
+----------------------------------------------------------------------------------------------------
+Chunk 36:
+(35, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 37:
+(36, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [jurisdictions where we operate]\nownerships: [Chevron, third-party-owned waste disposal sites]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: facilities, location: jurisdictions where we operate, ownership: Chevron, commodity: oil and gas, status: operational], [asset: equipment, location: jurisdictions where we operate, ownership: Chevron, commodity: oil and gas, status: operational], [asset: infrastructure, location: jurisdictions where we operate, ownership: Chevron, commodity: oil and gas, status: operational] ,[asset: facilities, location: previously owned facilities, ownership: third-party-owned waste disposal sites, commodity: oil and gas, status: end-of-life], [asset: equipment, location: previously owned facilities, ownership: third-party-owned waste disposal sites, commodity: oil and gas, status: end-of-life] ,[asset: infrastructure, location: previously owned facilities, ownership: third-party-owned waste disposal sites, commodity: oil and gas, status: end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 38:
+(37, "physical assets: [Oil and gas reserves]\nlocations: []\nownerships: [Chevron]\ncommodities: [Crude oil, natural gas]\nstatus: [ ]\n\n\nrelationships: [asset: 'Oil and gas reserves', location: '', ownership: 'Chevron', commodity: 'Crude oil, natural gas', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 39:
+(38, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 40:
+(39, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 41:
+(40, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 42:
+(41, 'physical assets: [upstream property, plant, and equipment]\nlocations: []\nownerships: [Company]\ncommodities: [crude oil, natural gas]\nstatus: [operational] \n\nrelationships: [asset: upstream property, plant, and equipment, location: [], ownership: Company, commodity: crude oil, natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 43:
+(42, "physical assets: [Properties, plant and equipment]\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: [Crude oil and petroleum products]\nstatus: [ ]\nrelationships: [asset: 'Properties, plant and equipment', location: '', ownership: 'Chevron Corporation', commodity: 'Crude oil and petroleum products', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 44:
+(43, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  [] \n\n\nThe provided text is a financial statement and focuses on stock, equity, cash flow, and debt information. It does not contain details about physical assets, locations, ownerships, commodities, or the status of any assets.')
+----------------------------------------------------------------------------------------------------
+Chunk 45:
+(44, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 46:
+(45, "physical assets:  [Properties, Plant and Equipment, proved crude oil and natural gas properties, development wells, related plant and equipment, proved mineral interests in crude oil and natural gas properties, related asset retirement obligation (ARO) assets, inventories (Crude oil, petroleum products and chemicals inventories), Inventories (Materials, supplies and other)]\nlocations: []\nownerships: [Chevron] \ncommodities: [Crude oil, petroleum products and chemicals, materials, supplies]\nstatus: [operational, under construction, end-of-life]\nrelationships: [Properties, Plant and Equipment: '', location: '', ownership: Chevron, commodity: Crude oil, petroleum products and chemicals, status: operational]")
+----------------------------------------------------------------------------------------------------
+Chunk 47:
+(46, 'physical assets: [properties, plant and equipment, facilities, right-of-use assets]\nlocations: []\nownerships: []\ncommodities: [crude oil, natural gas, petroleum, chemical products]\nstatus: [operational, under construction, end-of-life]\nrelationships: \n[asset: properties, plant and equipment, location: , ownership: company, commodity: crude oil, natural gas, petroleum, chemical products, status: operational], \n[asset: facilities, location: , ownership: company, commodity: crude oil, natural gas, petroleum, chemical products, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 48:
+(47, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 49:
+(48, "physical assets: ['properties', 'plant', 'equipment']\nlocations: []\nownerships: []\ncommodities: []\nstatus: ['operational', 'under construction', 'end-of-life'] \nrelationships: [asset: 'properties', location: '', ownership: 'company', commodity: '', status: 'operational'], [asset: 'plant', location: '', ownership: 'company', commodity: '', status: 'operational'], [asset: 'equipment', location: '', ownership: 'company', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 50:
+(49, 'physical assets:  [Facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron Corporation, Chevron U.S.A. Inc., Tengizchevroil LLP]\ncommodities: [Crude oil, natural gas, natural gas liquids, petroleum products]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 51:
+(50, 'physical assets: [ Properties, Plant and Equipment ]\nlocations: []\nownerships: [ Chevron Phillips Chemical Company LLC  ]\ncommodities: []\nstatus: [ operational, under construction, end-of-life ]\nrelationships: [asset: Properties, Plant and Equipment, location: , ownership: Chevron Phillips Chemical Company LLC, commodity: , status: operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 52:
+(51, "physical assets: [ $ ] \nlocations: [ ]\nownerships: [  ]\ncommodities: []\nstatus: [ ]\n\n\nrelationships: [asset: '$', location: '', ownership: '', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 53:
+(52, 'physical assets: []\nlocations: [ ]\nownerships: [Chevron Corporation]\ncommodities: [crude oil, natural gas, liquefied natural gas (LNG), petroleum products, renewable fuels, commodity petrochemicals, plastics for industrial uses, fuel and lubricant additives]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 54:
+(53, "physical assets: [Facilities, Equipment, Infrastructure]\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: [Crude oil, Natural gas, Petroleum products, Fuel and lubricant additives] \nstatus: []\n\n\nrelationships: [asset: 'Facilities', location: '', ownership: 'Chevron Corporation', commodity: 'Crude oil', status: ''], [asset: 'Equipment', location: '', ownership: 'Chevron Corporation', commodity: 'Natural gas', status: ''], [asset: 'Infrastructure', location: '', ownership: 'Chevron Corporation', commodity: 'Petroleum products', status: ''], [asset: ' ', location: '', ownership: 'Chevron Corporation', commodity: 'Fuel and lubricant additives', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 55:
+(54, "physical assets: [Tengiz and Korolev crude oil fields, Huyapari Field and upgrading project, Boscan Field]\nlocations: [Kazakhstan, Venezuela's Orinoco Belt, Venezuela]\ncommodities: [crude oil, natural gas]\nstatus: []")
+----------------------------------------------------------------------------------------------------
+Chunk 56:
+(55, 'physical assets: [ ]\nlocations: [Ecuador, Lago Agrio, United States]\nownerships: [Chevron, Texaco Inc., Petroecuador, Texpet, Chevron entities] \ncommodities: [oil]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 57:
+(56, "physical assets: [oil fields]\nlocations: [Louisiana's coastal zone]\nownerships: [Chevron entities, oil and gas companies]\ncommodities: [coastal erosion restoration] \nstatus: [operational]\n\nrelationships: [asset: 'oil fields', location: 'Louisiana\\'s coastal zone', ownership: 'Chevron entities, oil and gas companies', commodity: 'coastal erosion restoration', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 58:
+(57, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 59:
+(58, "physical assets: [Properties, Plant and Equipment]\nlocations: [United States, Australia]\nownerships:  [The Company]\ncommodities: []\nstatus: [Operational, Under Construction, End-of-Life]\n\n\nrelationships: [asset: 'Properties, Plant and Equipment', location: 'United States', ownership: 'The Company', commodity: '', status: 'Operational'], [asset: 'Properties, Plant and Equipment', location: 'Australia', ownership: 'The Company', commodity: '', status: 'Operational'],")
+----------------------------------------------------------------------------------------------------
+Chunk 60:
+(59, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ Chevron Corporation or CUSA ]\ncommodities: []\nstatus: [ ] \nrelationships: [] \n\n\nThe text focuses on financial data, particularly long-term debt held by Chevron. It does not mention physical assets, locations, commodities used, or the status of any assets.')
+----------------------------------------------------------------------------------------------------
+Chunk 61:
+(60, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Chevron]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 62:
+(61, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 63:
+(62, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 64:
+(63, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 65:
+(64, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 66:
+(65, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 67:
+(66, "physical assets: [federal Superfund sites, analogous sites under state laws, refineries, chemical plants, marketing facilities, crude oil fields, mining sites]\nlocations: []\nownerships: [Chevron] \ncommodities: [oil and natural gas]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: federal Superfund sites, location: ',  ownership: Chevron, commodity: oil and natural gas, status: operational/under construction/end-of-life], [asset: analogous sites under state laws, location: ', ownership: Chevron, commodity: oil and natural gas, status: operational/under construction/end-of-life], [asset: refineries, location: ', ownership: Chevron, commodity: oil and natural gas, status: operational/under construction/end-of-life], [asset: chemical plants, location: ', ownership: Chevron, commodity: chemicals, status: operational/under construction/end-of-life], [asset: marketing facilities, location: ', ownership: Chevron, commodity: oil and natural gas, status: operational/under construction/end-of-life], [asset: crude oil fields, location: ', ownership: Chevron, commodity: oil and natural gas, status: operational/under construction/end-of-life], [asset: mining sites, location: ', ownership: Chevron, commodity: minerals, status: operational/under construction/end-of-life]")
+----------------------------------------------------------------------------------------------------
+Chunk 68:
+(67, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 69:
+(68, 'physical assets: [Facilities, Equipment, Infrastructure]\nlocations: [United States, Eastern Mediterranean, West Africa]\nownerships: [Chevron, Noble Energy, Inc.]\ncommodities: [Oil, Gas]\nstatus: [Operational]\n\nrelationships: [asset: Facilities, location: United States, ownership: Chevron, commodity: Oil, status: Operational], [asset: Equipment, location: Eastern Mediterranean, ownership: Chevron, commodity: Gas, status: Operational], [asset: Infrastructure, location: West Africa, ownership: Noble Energy, Inc., commodity: Oil, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 70:
+(69, "physical assets: [Exploration Wells, Geological and geophysical, Property acquisitions, Development]\nlocations: [Americas, Africa, Asia, Australia/Oceania, Europe, United States]\nownerships: [Chevron]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life] \n\nrelationships: [asset: 'Exploration Wells', location: 'Americas', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Geological and geophysical', location: 'Americas', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Property acquisitions', location: 'Americas', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Development', location: 'Americas', ownership: 'Chevron', commodity: 'oil and gas', status: ''],  [asset: 'Exploration Wells', location: 'Africa', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Geological and geophysical', location: 'Africa', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Property acquisitions', location: 'Africa', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Development', location: 'Africa', ownership: 'Chevron', commodity: 'oil and gas', status: ''],  [asset: 'Exploration Wells', location: 'Asia', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Geological and geophysical', location: 'Asia', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Property acquisitions', location: 'Asia', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Development', location: 'Asia', ownership: 'Chevron', commodity: 'oil and gas', status: ''],  [asset: 'Exploration Wells', location: 'Australia/Oceania', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Geological and geophysical', location: 'Australia/Oceania', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Property acquisitions', location: 'Australia/Oceania', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Development', location: 'Australia/Oceania', ownership: 'Chevron', commodity: 'oil and gas', status: ''],  [asset: 'Exploration Wells', location: 'Europe', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Geological and geophysical', location: 'Europe', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Property acquisitions', location: 'Europe', ownership: 'Chevron', commodity: 'oil and gas', status: ''], [asset: 'Development', location: 'Europe', ownership: 'Chevron', commodity: 'oil and gas', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 71:
+(70, "physical assets: [Unproved properties, Proved properties and related producing assets, Support equipment, Deferred exploratory wells, Other uncompleted projects]\nlocations: []\nownerships: []\ncommodities: [Oil and gas]\nstatus: [Operational, Under construction, In end-of-life]\n\n\nrelationships: [asset: 'Unproved properties', location: '', ownership: '', commodity: 'Oil and gas', status: 'Under construction'], [asset: 'Proved properties and related producing assets', location: '', ownership: '', commodity: 'Oil and gas', status: 'Operational'], [asset: 'Support equipment', location: '', ownership: '', commodity: 'Oil and gas', status: 'Operational'], [asset: 'Deferred exploratory wells', location: '', ownership: '', commodity: 'Oil and gas', status: 'Under construction'], [asset: 'Other uncompleted projects', location: '', ownership: '', commodity: 'Oil and gas', status: 'Under construction']")
+----------------------------------------------------------------------------------------------------
+Chunk 72:
+(71, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [oil, natural gas]\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 73:
+(72, 'physical assets: [facilities, equipment] \nlocations: [Americas, Africa, Asia, Australia, Europe]\nownerships: [Chevron Corporation]\ncommodities: [hydrocarbons]\nstatus: [developed, undeveloped]\n\nrelationships: [asset: facilities, location: Americas, ownership: Chevron Corporation, commodity: hydrocarbons, status: developed], [asset: equipment, location: Africa, ownership: Chevron Corporation, commodity: hydrocarbons, status: undeveloped]')
+----------------------------------------------------------------------------------------------------
+Chunk 74:
+(73, 'physical assets: [Facilities, Equipment, Infrastructure]\nlocations: [Australia, United States, Bangladesh, Kazakhstan, Equatorial Guinea, Canada, Nigeria, Angola, Republic of Congo]\nownerships: [Chevron Corporation]\ncommodities: [Oil, Natural Gas]\nstatus: [Operational, Under Construction, End-of-Life]\nrelationships: [asset: Facilities, location: Australia, ownership: Chevron Corporation, commodity: Oil, status: Operational], [asset: Equipment, location: United States, ownership: Chevron Corporation, commodity: Natural Gas, status: Operational], [asset: Infrastructure, location: Bangladesh, ownership: Chevron Corporation, commodity: Oil, status: Under Construction], [asset: Facilities, location: Kazakhstan, ownership: Chevron Corporation, commodity: Natural Gas, status: End-of-Life]')
+----------------------------------------------------------------------------------------------------
+Chunk 75:
+(74, 'physical assets: [facilities, infrastructure, fields, upgrader]\nownerships: [affiliates, company]\ncommodities: [oil, gas, synthetic oil, crude oil, condensate]\nstatus: [undeveloped, operational, under construction, end-of-life]\n\n\nrelationships: [asset: facilities, location: Escravos gas projects in Nigeria, ownership: , commodity: gas, status: undeveloped],  [asset: infrastructure, location: Escravos gas projects in Nigeria, ownership: , commodity: gas, status: undeveloped], [asset: fields, location: various fields in the Midland and Delaware basins, ownership: company, commodity: oil, status: operational], [asset: fields, location: Appalachian basin, ownership: company, commodity: oil, status: under construction], [asset: upgrader, location: Venezuela, ownership: , commodity: synthetic oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 76:
+(75, 'physical assets: [facilities, equipment, infrastructure]\nownerships: [Consolidated Companies, Affiliated Companies]\ncommodities: [oil, natural gas liquids]\nstatus: []\n\nrelationships: [asset: facilities, location: Midland basin, ownership: Consolidated Companies, commodity: oil, status: operational], [asset: equipment, location: Delaware basin, ownership: Affiliated Companies, commodity: natural gas liquids, status: operational], [asset: infrastructure, location: Gulf of Mexico, ownership: Consolidated Companies, commodity: oil, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 77:
+(76, 'physical assets: [Facilities, Equipment]\nlocations: [Americas, Africa, Asia, Australia, Europe, United States (Midland and Delaware basins), Appalachian basin, Israel, DJ basin, Equatorial Guinea, United Kingdom, Denmark, Azerbaijan, Kazakhstan, Wheatstone, Gorgon, TCO]\nownerships: [Other Companies, Consolidated Companies, Affiliated Companies] \ncommodities: [Natural Gas]\nstatus: [Operational, Under Construction, End-of-Life]\n\nrelationships: [asset: Facilities, location: Americas, ownership: Other Companies, commodity: Natural Gas, status: Operational], [asset: Equipment, location: Africa, ownership: Consolidated Companies, commodity: Natural Gas, status: Operational],  [asset: Facilities, location: Asia, ownership: Affiliated Companies, commodity: Natural Gas, status: Under Construction], [asset: Equipment, location: Australia, ownership: Other Companies, commodity: Natural Gas, status: End-of-Life]')
+----------------------------------------------------------------------------------------------------
+Chunk 78:
+(77, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [North America, South America, Africa, Asia, Australia, Europe]\nownerships: [Consolidated Companies, Affiliated Companies]\ncommodities: [oil and gas]\nstatus: [operational, under construction, end-of-life] \n\n\nrelationships: [asset: facilities, location: North America, ownership: Consolidated Companies, commodity: oil and gas, status: operational],  [asset: equipment, location: South America, ownership: Affiliated Companies, commodity: oil and gas, status: under construction], [asset: infrastructure, location: Africa, ownership: Consolidated Companies, commodity: oil and gas, status: end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 79:
+(78, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [oil and gas] \nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 80:
+(79, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 81:
+(80, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 82:
+(81, 'physical assets: []\nlocations: []\nownerships:  Chevron Corporation\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 83:
+(0, 'physical assets: []\nlocations: [Delaware, San Ramon, California]\nownerships: [Chevron Corp oration]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 84:
+(1, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 85:
+(2, 'physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: [crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture, offsets]\nstatus: []\nrelationships: [asset: facilities, location: , ownership: Chevron Corporation, commodity: crude oil, natural gas, petroleum products, petrochemicals, renewable fuels, hydrogen, carbon capture, offsets, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 86:
+(3, 'physical assets:  []\nlocations:  [ ]\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 87:
+(4, 'physical assets:  [facilities, equipment, infrastructure]\nlocations:  [North America, South America, Europe, Africa, Asia, Australia]\nownerships: [Chevron]\ncommodities: [oil, natural gas]\nstatus: []\nrelationships: [asset: facilities, location: North America, ownership: Chevron, commodity: oil, status: operational], [asset: equipment, location: South America, ownership: Chevron, commodity: natural gas, status: operational], [asset: infrastructure, location: Europe, ownership: Chevron, commodity: oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 88:
+(5, "physical assets: [Wells, Acreage]\nlocations: [United States, Other Americas, Africa, Asia, Australia, Europe]\nownerships: [Chevron, Affiliates]\ncommodities: [Crude oil, Natural gas liquids, Natural gas]\nstatus: [Operational, Undeveloped, Developed, Ending concessions]\n\n\nrelationships: [asset: 'Wells', location: 'United States', ownership: 'Chevron', commodity: 'Crude oil', status: 'Operational'], [asset: 'Wells', location: 'Other Americas', ownership: 'Chevron', commodity: 'Natural gas liquids', status: 'Undeveloped'], [asset: 'Acreage', location: 'Africa', ownership: 'Affiliates', commodity: 'Natural gas', status: 'Developed'],  [asset: 'Wells', location: 'Asia', ownership: 'Chevron', commodity: 'Crude oil', status: 'Ending concessions']")
+----------------------------------------------------------------------------------------------------
+Chunk 89:
+(6, 'physical assets: [wells]\nlocations: [United States, Other Americas, Africa, Asia, Australia, Israel, Europe, Gulf of Mexico, Texas, New Mexico, Colorado, California]\nownerships: [Chevron] \ncommodities: [crude oil, natural gas]\nstatus: [operational, under construction, dry]\n\nrelationships: [asset: wells, location: United States, ownership: Chevron, commodity: crude oil, status: operational], [asset: wells, location: Other Americas, ownership: Chevron, commodity: natural gas, status: under construction], [asset: wells, location: Africa, ownership: Chevron, commodity: crude oil, status: dry], [asset: wells, location: Asia, ownership: Chevron, commodity: natural gas, status: operational], [asset: wells, location: Australia, ownership: Chevron, commodity: crude oil, status: under construction], [asset: wells, location: Israel, ownership: Chevron, commodity: natural gas, status: dry], [asset: wells, location: Europe, ownership: Chevron, commodity: crude oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 90:
+(7, 'physical assets: [facilities, infrastructure, multi-well pads, horizontal wells, hydraulic fracture stimulation equipment, oilfield operations, renewable energy project (solar power), production host facility, subsea pumps,  deepwater Jack and St. Malo fields, single well tieback, topsides water injection equipment, production wells, injector wells]\nownerships: [Chevron]\ncommodities: [oil, natural gas, NGLs, renewable energy]\nstatus: [operational, under construction, end-of-life (implied for divested assets)] \n\nrelationships: [asset: facilities, location: Permian Basin, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: infrastructure, location: Permian Basin, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: multi-well pads, location: Permian Basin, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: horizontal wells, location: Permian Basin, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: hydraulic fracture stimulation equipment, location: Permian Basin, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: oilfield operations, location: Permian Basin, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: renewable energy project (solar power), location: New Mexico, ownership: Chevron, commodity: renewable energy, status: operational], [asset: production host facility, location: Gulf of Mexico, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: subsea pumps, location: Gulf of Mexico, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: deepwater Jack and St. Malo fields, location: Gulf of Mexico, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: single well tieback, location: Gulf of Mexico, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: topsides water injection equipment, location: Gulf of Mexico, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: production wells, location: multiple locations, ownership: Chevron, commodity: oil and natural gas, status: operational], [asset: injector wells, location: multiple locations, ownership: Chevron, commodity: oil and natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 91:
+(8, 'ownerships: [Chevron, Joint venture]\ncommodities: [Oil and Natural gas] \nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 92:
+(9, 'locations: [Suriname, Venezuela (western Venezuela, Orinoco Belt, offshore Venezuela), Angola, Republic of Congo, Cameroon, Equatorial Guinea, Namibia, Nigeria]\nownerships: [Chevron, Petroboscan, Petropiar, Petroindependiente, Petroindependencia]\ncommodities: [oil, gas]\nstatus: [operational, under construction, in end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 93:
+(10, 'physical assets:  [North Sidi Barrani (Block ), North El Dabaa (Block ), Nargis block, North Marina (Block ), North Cleopatra (Block ), Block , Aseng oil field, Yolanda natural gas field, Alen natural gas and condensate field, Block EG-, Douala Basin, Block 2813B in the Orange Basin, six concessions, five operated and one nonoperated in the onshore and near-offshore regions of the Niger Delta, three operated and six nonoperated deepwater blocks, Escravos Gas Plant (EGP), ,-barrel-per-day Escravos Gas to Liquids facility, West African Gas Pipeline Company Limited affiliate, Agbami field, Usan field in OML, Nsiko discoveries in OML, Aparo field in OML and OML, Bonga SW field in OML, Block (Bibiyana field), Blocks and (Jalalabad and Moulavi Bazar fields)]\nownerships: [Chevron]\ncommodities: [gas, oil, natural gas, condensate, LPG, crude oil]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 94:
+(11, 'ownerships: [China Chevron, Chevron, government of Cyprus, Chevron, Chevron, Chevron, Chevron, Chevron, Chevron, Tengizchevroil (TCO) affiliate, Chevron, Chevron, Chevron, Chevron, Chevron, Chevron, Chevron]\ncommodities: [natural gas, crude oil, natural gas, natural gas, crude oil, crude oil, crude oil, crude oil]\nstatus: [operational, operational, operational, operational, operational, operational, operational, operational, operational, under construction, operational, operational, operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 95:
+(12, 'physical assets: [Facilities, equipment, infrastructure]\ncommodities: [Natural gas liquids (NGLs), Natural gas, Crude oil]\nstatus: [Operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 96:
+(13, 'physical assets: [Refineries,  Service stations]\nownerships: [Chevron,  Affiliate refineries, Chevron Oronite Company, Singapore Refining Company (SRC), GS Caltex (GSC) Yeosu Refinery, percent-owned joint venture, percent-owned, . percent-owned]\ncommodities: [Crude oil, Natural gas liquids, Natural gas, Petroleum products, Lubricants, Coolant products, Gasoline, Jet Fuel, Diesel/Gas Oil, Fuel Oil, Other Petroleum Products]\nstatus: [Operational, Under construction, End-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 97:
+(14, 'ownerships: [Chevron, Chevron Phillips Chemical Company LLC (CPChem), Brightmark Fund Holdings LLC (Brightmark), California Bioenergy, LLC. (CalBio), Bunge Chevron Ag Renewables LLC, Renewable Energy Group, Inc. (REG), Neste Oyj ]\nstatus: [operational, under construction, planned]\n\n[asset: research and development centers, location: around the world, ownership: CPChem, commodity: N/A, status: operational], \n[asset: Ethylene Plant Debottleneck Project, location: Cedar Bayou, Texas, ownership: Chevron Phillips Chemical Company LLC (CPChem), commodity: ethylene, status: under construction], \n[asset: C3 Splitter Project, location: Cedar Bayou, Texas, ownership: Chevron Phillips Chemical Company LLC (CPChem), commodity: N/A, status: under construction],\n [asset: - Hexene plant, location: Old Ocean, Texas, ownership: Chevron Phillips Chemical Company LLC (CPChem), commodity:  - Hexene, status: under construction], \n[asset: CNG stations, location: Nationwide, ownership: Chevron, commodity: compressed natural gas (CNG), status: operational], \n[asset: biofuel refineries, location: U.S. and Germany, ownership: Renewable Energy Group, Inc. (REG), commodity: biodiesel, renewable diesel, status: operational],')
+----------------------------------------------------------------------------------------------------
+Chunk 98:
+(15, 'physical assets: [Transportation Pipelines, marine fleet]\nlocations: [United States, Nigeria, Kazakhstan/Russia]\nownerships: [Chevron]\ncommodities: [crude oil, natural gas, product, LNG, refined products, feedstock]\nstatus: [ ] \n\nrelationships: [asset: Transportation Pipelines, location: United States, ownership: Chevron, commodity: crude oil, natural gas, product, ownership: Chevron, status:  ], [asset: marine fleet, location: U.S., foreign flagged, ownership: Chevron, commodity: crude oil, LNG, refined products, feedstock, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 99:
+(16, "physical assets:  [Facilities, Equipment] \nlocations: []\nownerships: [Chevron]\ncommodities: [Crude oil, Natural gas, Refined products]\nstatus: []\n\nrelationships: [asset: 'Facilities', location: '', ownership: 'Chevron', commodity: 'Crude oil, Natural gas', status: ''], [asset: 'Equipment', location: '', ownership: 'Chevron', commodity: 'Crude oil, Natural gas', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 100:
+(17, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 101:
+(18, 'physical assets: [facilities, equipment]\nlocations: []\nownerships: [Chevron]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 102:
+(19, 'physical assets: []\nlocations: [ ]\nownerships: [ Chevron]\ncommodities: [hydrocarbon and other products]\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 103:
+(20, 'physical assets:  [facilities, equipment]\nlocations:  [ ]\nownerships:  [Chevron]\ncommodities:  [hydrocarbons, lower carbon products, alternative energy sources]\nstatus:  [ ]\n\nrelationships: [asset: facilities, location:  various jurisdictions, ownership: Chevron, commodity: hydrocarbons, status: operational or under construction], [asset: equipment, location: various jurisdictions, ownership: Chevron, commodity: hydrocarbons, status: operational or under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 104:
+(21, "physical assets:  [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron]\ncommodities: [Crude oil and natural gas] \nstatus: []\nrelationships: [asset: 'facilities', location: '', ownership: 'Chevron', commodity: 'Crude oil and natural gas', status: ''].\nrelationships: [asset: 'equipment', location: '', ownership: 'Chevron', commodity: 'Crude oil and natural gas', status: '']. \nrelationships: [asset: 'infrastructure', location: '', ownership: 'Chevron', commodity: 'Crude oil and natural gas', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 105:
+(22, 'physical assets: [ ]\nlocations: [Kern County, California]\nownerships: [Chevron]\ncommodities: []\nstatus: [] \n\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 106:
+(23, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 107:
+(24, 'physical assets: []\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 108:
+(25, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [ crude oil, refined products, renewable fuels] \nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 109:
+(26, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 110:
+(27, "physical assets: [ facilities, equipment, infrastructure]\nlocations: [Venezuela, Permian Basin]\nownerships: [ Chevron]\ncommodities: [ crude oil and natural gas]\nstatus: [] \n\nrelationships: [asset: 'facilities', location: 'Permian Basin', ownership: 'Chevron', commodity: 'crude oil and natural gas', status: ''], [asset: 'equipment', location: 'Venezuela', ownership: 'Chevron', commodity: 'crude oil and natural gas', status: ''], [asset: 'infrastructure', location: '', ownership: 'Chevron', commodity: 'crude oil and natural gas', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 111:
+(28, 'physical assets: ["-mile crude oil export pipeline", "three single point mooring facilities"]\nlocations: ["Tengiz Field in Kazakhstan", "Novorossiysk on the Russian coast of the Black Sea"]\nownerships: ["Caspian Pipeline Consortium (CPC)"]\ncommodities: ["crude oil"]\nstatus: ["operational", "under construction"] \n\nrelationships: [asset: " -mile crude oil export pipeline", location: "Tengiz Field in Kazakhstan to tanker-loading facilities at Novorossiysk on the Russian coast of the Black Sea", ownership: "Caspian Pipeline Consortium (CPC)", commodity: "crude oil", status: "operational"], [asset: "three single point mooring facilities", location: "Novorossiysk on the Russian coast of the Black Sea", ownership: "Caspian Pipeline Consortium (CPC)", commodity: "crude oil", status: "under construction"]')
+----------------------------------------------------------------------------------------------------
+Chunk 112:
+(29, 'physical assets: [Refineries,  facilities]\nownerships: [Chevron, Chevron Phillips Chemical Company LLC (CPChem), joint ventures]\ncommodities: [refined products, gasoline, diesel, jet fuel, lubricants, fuel oil, fuel and lubricant additives, petrochemicals, renewable fuels, crude oil, natural gas, hydrogen, unconventional hydrocarbon resources, base oils]\nstatus: [operational, under construction, extended]')
+----------------------------------------------------------------------------------------------------
+Chunk 113:
+(30, 'physical assets: [Facilities (e.g., refineries, CCS hub),  joint venture solar energy project, compressed natural gas stations, oil and gas operations, polymer project]\nlocations: [Permian Basin, DJ basins, Bayou Bend (offshore U.S.), Gulf of Mexico, Pasadena, Texas, U.S. Gulf Coast, California, Sabine Pass]\nownerships: [Chevron, joint ventures with Bunge North America, Inc., California Bioenergy LLC, Baseload Capital, Raven SR Inc., Hyzon Motors, Iwatani Corporation, Carbon Clean Solutions Limited, TAE Technologies, Svante Technology Inc.]\nstatus: [Operational, under construction (e.g., joint venture projects)]\nrelationships: [asset: Facilities, location: Permian Basin, ownership: Chevron, commodity: Natural gas, status: Operational], [asset: CCS hub, location: Bayou Bend (offshore U.S.), ownership: Joint venture with Chevron and unspecified partner, commodity: Carbon capture, status: Under construction],  [asset: Joint venture solar energy project, location: Permian Basin, ownership: Joint venture with Chevron and unspecified partner, commodity: Renewable energy, status: Completed]')
+----------------------------------------------------------------------------------------------------
+Chunk 114:
+(31, 'physical assets: [facilities, equipment]\nownerships: [Chevron, CPChem, Tengizchevroil, Angola LNG, GS Caltex]\ncommodities: [crude oil, natural gas, refined products, renewable fuels, jet fuel] \nstatus: [operational, under construction (implied), end-of-life (implied)]')
+----------------------------------------------------------------------------------------------------
+Chunk 115:
+(32, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 116:
+(33, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 117:
+(34, 'physical assets: [Upstream facilities, Downstream facilities]\nlocations: [Permian Basin, Gulf of Mexico, Kazakhstan]\nownerships: [Chevron, Bunge North America, Inc., Beyond6, LLC, Tengizchevroil, CPChem]\ncommodities: [Oil and Gas, Renewable Fuels]\nstatus: [Operational, Under Construction] \n\nrelationships: [asset: Upstream facilities, location: Permian Basin, ownership: Chevron, commodity: Oil and Gas, status: Operational], [asset: Downstream facilities, location: Gulf of Mexico, ownership: Chevron, commodity: Oil and Gas, status: Operational], [asset: Upstream facilities, location: Kazakhstan, ownership: Tengizchevroil, commodity: Oil and Gas, status: Under Construction], [asset: Downstream facilities, location: Permian Basin, ownership: Bunge North America, Inc., commodity: Renewable Fuels, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 118:
+(35, "physical assets: [Capital expenditures, Assets acquired through finance leases and other obligations, Payments for other assets and liabilities]\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  [asset: 'Capital expenditures', location: '', ownership: 'Chevron', commodity: '', status: ''], [asset: 'Assets acquired through finance leases and other obligations', location: '', ownership: 'Chevron', commodity: '', status: ''], [asset: 'Payments for other assets and liabilities', location: '', ownership: 'Chevron', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 119:
+(36, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['crude oil', 'refined products', 'natural gas liquids', 'natural gas', 'liquefied natural gas', 'refinery feedstocks']\nstatus: []\n\nrelationships:  []")
+----------------------------------------------------------------------------------------------------
+Chunk 120:
+(37, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 121:
+(38, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Chevron]\ncommodities: [oil, natural gas]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 122:
+(39, "physical assets: [oil reserves, natural gas reserves]\nlocations: []\nownerships: [Chevron]\ncommodities: [crude oil, natural gas liquids, natural gas]\nstatus: [proved developed, proved undeveloped]\n\n\nrelationships: [asset: 'oil reserves', location: '', ownership: 'Chevron', commodity: 'crude oil', status: 'proved developed'], [asset: 'natural gas reserves', location: '', ownership: 'Chevron', commodity: 'natural gas', status: 'proved developed']")
+----------------------------------------------------------------------------------------------------
+Chunk 123:
+(40, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 124:
+(41, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 125:
+(42, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: [ ]\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 126:
+(43, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 127:
+(44, 'physical assets: ["upstream property, plant and equipment"]\nlocations: []\nownerships: ["Chevron Corporation"] \ncommodities: ["crude oil", "natural gas"]\nstatus: ["operational"]\n\nrelationships: [asset: \'upstream property, plant and equipment\', location: \'\', ownership: \'Chevron Corporation\', commodity: \'crude oil\', status: \'operational\'], [asset: \'upstream property, plant and equipment\', location: \'\', ownership: \'Chevron Corporation\', commodity: \'natural gas\', status: \'operational\']')
+----------------------------------------------------------------------------------------------------
+Chunk 128:
+(45, "physical assets: ['Properties, plant and equipment']\nlocations: []\nownerships: ['Chevron Corporation', 'Noncontrolling interests']\ncommodities: []\nstatus: []\nrelationships: [asset: 'Properties, plant and equipment', location: '', ownership: 'Chevron Corporation', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 129:
+(46, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 130:
+(47, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Chevron]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 131:
+(48, 'physical assets: [Properties, Plant and Equipment,  proved crude oil and natural gas properties,  exploratory wells, plant and equipment, related asset retirement obligation (ARO) assets, Inventories (Crude oil, products and chemicals inventories), Materials, supplies and other inventories] \nlocations: []\nownerships: [Chevron]\ncommodities: [Crude oil, natural gas, products, chemicals]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: Properties, Plant and Equipment, location: , ownership: Chevron, commodity: Crude oil, natural gas, products, chemicals, status: operational], \n[asset: proved crude oil and natural gas properties, location: , ownership: Chevron, commodity: Crude oil, natural gas, products, chemicals, status: operational], [asset: exploratory wells, location: , ownership: Chevron, commodity: Crude oil, natural gas, products, chemicals, status: under construction],  [asset: plant and equipment, location: , ownership: Chevron, commodity: Crude oil, natural gas, products, chemicals, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 132:
+(49, "physical assets:  [properties, plant and equipment]\nlocations: []\nownerships: []\ncommodities: []\nstatus:  [operational, under construction, end-of-life] \n\nrelationships: [asset: 'properties, plant and equipment', location: '', ownership: '', commodity: '', status: 'operational'], \nrelationships: [asset: 'properties, plant and equipment', location: '', ownership: '', commodity: '', status: 'under construction'],\nrelationships: [asset: 'properties, plant and equipment', location: '', ownership: '', commodity: '', status: 'end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 133:
+(50, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 134:
+(51, "physical assets: [Properties, plant and equipment, Investments]\nlocations: []\nownerships: [Chevron]\ncommodities: []\nstatus: [Operational, Under construction, End-of-life]\nrelationships: [asset: 'Properties, plant and equipment', location: '', ownership: 'Chevron', commodity: '', status: 'Operational'],  [asset: 'Investments', location: '', ownership: 'Chevron', commodity: '', status: ''],  [asset: 'Other assets and liabilities', location: '', ownership: 'Chevron', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 135:
+(52, 'locations: []\nownerships: [Chevron Corporation, Chevron U.S.A. Inc., subsidiaries of Chevron Corporation]\ncommodities: [crude oil, natural gas liquids, natural gas, petroleum products, ]\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 136:
+(53, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 137:
+(54, "physical assets: [Properties, plant and equipment]\nlocations: []\nownerships: []\ncommodities: [Crude oil]\nstatus: [Operational]\n\nrelationships: [asset: 'Properties, plant and equipment', location: '', ownership: 'Company', commodity: 'Crude oil', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 138:
+(55, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 139:
+(56, "physical assets:  [Properties, Plant and Equipment]\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: []\n\nrelationships: [asset: 'Properties, Plant and Equipment', location: '', ownership: 'Chevron Corporation', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 140:
+(57, "physical assets: [Tengiz and Korolev crude oil fields, Huyapari Field and upgrading project, Boscan Field]\nlocations: [Kazakhstan, Venezuela's Orinoco Belt, Venezuela]\ncommodities: [crude oil, heavy oil, natural gas, petroleum products, petrochemicals and lubricants]\nstatus: []")
+----------------------------------------------------------------------------------------------------
+Chunk 141:
+(58, 'physical assets: [ ]\nlocations: [ Ecuador ]\nownerships: [ Chevron, Texaco subsidiary ]\ncommodities: [ oil ]\nstatus: [ ]\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 142:
+(59, "physical assets:  [oil fields]\nlocations: [Louisiana’s coastal zone]\nownerships: [Chevron entities, oil and gas companies]\ncommodities: [oil field operations] \nstatus: []\nrelationships: [asset: 'oil fields', location: 'Louisiana’s coastal zone', ownership: 'Chevron entities, oil and gas companies', commodity: 'oil field operations', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 143:
+(60, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 144:
+(61, "physical assets: [Properties, Plant and Equipment]\nlocations: [United States, Australia]\nownerships:  [Company]\ncommodities: []\nstatus: [Operational, Under Construction, End-of-Life]\n\nrelationships: [asset: 'Properties, Plant and Equipment', location: 'United States', ownership: 'Company', commodity: '', status: 'Operational'], [asset: 'Properties, Plant and Equipment', location: 'Australia', ownership: 'Company', commodity: '', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 145:
+(62, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 146:
+(63, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 147:
+(64, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 148:
+(65, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 149:
+(66, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 150:
+(67, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 151:
+(68, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 152:
+(69, "physical assets:  [crude oil and natural gas producing assets, wells, equipment and facilities]\nlocations: []\nownerships: [Chevron]\ncommodities: [Crude oil and natural gas]\nstatus: [operational (implied), under construction (implied) ] \n\nrelationships: [asset: 'crude oil and natural gas producing assets', location: '', ownership: 'Chevron', commodity: 'Crude oil and natural gas', status: 'operational (implied)'],  [asset: 'wells', location: '', ownership: 'Chevron', commodity: 'Crude oil and natural gas', status: 'operational (implied)'], [asset: 'equipment', location: '', ownership: 'Chevron', commodity: 'Crude oil and natural gas', status: 'operational (implied)'], [asset: 'facilities', location: '', ownership: 'Chevron', commodity: 'Crude oil and natural gas', status: 'operational (implied)']")
+----------------------------------------------------------------------------------------------------
+Chunk 153:
+(70, "physical assets:  [properties]\nlocations: [ ]\nownerships: [Chevron]\ncommodities: []\nstatus:  []\nrelationships: [asset: 'properties', location: '', ownership: 'Chevron', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 154:
+(71, "physical assets: [Properties, plant and equipment]\nlocations: []\nownerships: [Company]\ncommodities: []\nstatus: []\nrelationships: [asset: 'Properties, plant and equipment', location: '', ownership: 'Company', commodity: '', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 155:
+(72, "physical assets: [Unproved properties, Proved properties and related producing assets, Support equipment, Deferred exploratory wells, Other uncompleted projects]\nlocations: []\nownerships: [ ]\ncommodities: [Oil and Gas]\nstatus: [Operational, Under Construction, End-of-Life] \n\nrelationships: [asset: 'Unproved properties', location: '', ownership: '', commodity: 'Oil and Gas', status: ''], [asset: 'Proved properties and related producing assets', location: '', ownership: '', commodity: 'Oil and Gas', status: ''], [asset: 'Support equipment', location: '', ownership: '', commodity: 'Oil and Gas', status: ''], [asset: 'Deferred exploratory wells', location: '', ownership: '', commodity: 'Oil and Gas', status: ''], [asset: 'Other uncompleted projects', location: '', ownership: '', commodity: 'Oil and Gas', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 156:
+(73, "physical assets: [Production facilities, Equipment] \nlocations: [Americas, Africa, Asia, Australia, Europe]\nownerships: [Consolidated Companies, Affiliated Companies]\ncommodities: [Crude oil, Natural gas liquids, Natural gas]\nstatus: []\nrelationships: [asset: 'Production facilities', location: 'Americas', ownership: 'Consolidated Companies', commodity: 'Crude oil', status: ''], \n[asset: 'Equipment', location: 'Africa', ownership: 'Affiliated Companies', commodity: 'Natural gas liquids', status: ''], \n[asset: 'Production facilities', location: 'Asia', ownership: 'Consolidated Companies', commodity: 'Natural gas', status: ''],  \n[asset: 'Equipment', location: 'Australia', ownership: 'Affiliated Companies', commodity: 'Crude oil', status: ''], \n[asset: 'Production facilities', location: 'Europe', ownership: 'Consolidated Companies', commodity: 'Natural gas liquids', status: ''].")
+----------------------------------------------------------------------------------------------------
+Chunk 157:
+(74, 'physical assets: [Facilities, Equipment]\nlocations: [U.S., Other Americas, Africa, Asia, Australia, Europe]\nownerships: [Consolidated Companies, Affiliated Companies]\ncommodities: [Crude Oil, Natural Gas Liquids, Natural Gas]\nstatus: [Developed, Undeveloped]\nrelationships: [asset: Facilities, location: U.S., ownership: Consolidated Companies, commodity: Crude Oil, status: Developed], [asset: Equipment, location: Other Americas, ownership: Affiliated Companies, commodity: Natural Gas Liquids, status: Undeveloped]')
+----------------------------------------------------------------------------------------------------
+Chunk 158:
+(75, 'physical assets: [Facilities (implied), Equipment (implied)]\nlocations: [Israel, United States, Kazakhstan, Nigeria, Argentina, Canada]\nownerships: [Chevron Corporation]\ncommodities: [Oil, Natural Gas]\nstatus: [Operational, Under Construction (Implied)]\n\nrelationships: [asset: Facilities, location: Israel, ownership: Chevron Corporation, commodity: Oil, status: Operational], [asset: Equipment, location: United States, ownership: Chevron Corporation, commodity: Oil, status: Operational],  [asset: Facilities, location: Kazakhstan, ownership: Chevron Corporation, commodity: Natural Gas, status: Operational], [asset: Equipment, location: Nigeria, ownership: Chevron Corporation, commodity: Natural Gas, status: Operational], [asset: Facilities, location: Argentina, ownership: Chevron Corporation, commodity: Oil, status: Operational], [asset: Equipment, location: Canada, ownership: Chevron Corporation, commodity: Oil, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 159:
+(76, 'physical assets: [facilities, wells]\nownerships: [company, affiliates]\ncommodities: [oil, gas]\nstatus: [under construction, operational]\nrelationships: [asset: facilities, location: Midland basin, ownership: company, commodity: oil and gas, status: under construction], [asset: wells, location: Delaware basin, ownership: company, commodity: oil and gas, status: operational], [asset: facilities, location: Gulf of Mexico, ownership: company, commodity: oil and gas, status: operational], [asset: facilities, location: TCO in Kazakhstan, ownership: company, commodity: oil and gas, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 160:
+(77, 'ownerships: [Company, Noble assets] \ncommodities: [oil, synthetic oil]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 161:
+(78, 'locations: [Midland and Delaware basins, United States, Australia, Africa, Asia, Israel, Bangladesh, Equatorial Guinea, Appalachian basin, Azerbaijan]\nownerships: [Noble assets] \ncommodities: []\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 162:
+(79, 'physical assets: [Reserves]\nlocations: []\nownerships: [Consolidated Companies, Affiliated Companies] \ncommodities: [Oil and Gas]\nstatus: [Operational, Under construction, End-of-life]\n\nrelationships: [asset: Reserves, location: North America, ownership: Consolidated Companies, commodity: Oil and Gas, status: Operational], [asset: Reserves, location: South America, ownership: Affiliated Companies, commodity: Oil and Gas, status: Operational],  [asset: Reserves, location: Africa, ownership: Other Companies, commodity: Oil and Gas, status: Under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 163:
+(80, "physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [Oil and Gas]\nstatus: [ ]\nrelationships: [] \n\n\nThe text focuses on financial data related to oil and gas production, including future cash flows, costs, and taxes. It doesn't explicitly list physical assets, locations, ownerships, or their operational status.")
+----------------------------------------------------------------------------------------------------
+Chunk 164:
+(81, 'physical assets: []\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 165:
+(82, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 166:
+(83, 'physical assets: []\nlocations: []\nownerships: Chevron Corporation\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 167:
+(0, 'physical assets: []\nlocations: [San Ramon , California] \nownerships: [Chevron Corporation]\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 168:
+(1, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 169:
+(2, 'physical assets: []\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 170:
+(3, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 171:
+(4, 'physical assets:  [ ]\nlocations: [North America, South America, Europe, Africa, Asia, Australia]\nownerships: [Chevron]\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 172:
+(5, "physical assets: [facilities (e.g., oil rigs, pipelines), equipment (e.g., drilling equipment)] \nlocations: [United States, Australia, Kazakhstan, Other Americas, Africa, Asia, Europe]\nownerships: [Chevron, Affiliates]\ncommodities: [crude oil, condensate, synthetic oil, natural gas liquids, natural gas]\nstatus: []\n\nrelationships: [asset: 'facilities', location: 'United States', ownership: 'Chevron', commodity: 'crude oil', status: ''], [asset: 'equipment', location: 'Australia', ownership: 'Affiliates', commodity: 'natural gas', status: ''],  [asset: 'pipelines', location: 'Kazakhstan', ownership: 'Chevron', commodity: 'synthetic oil', status: ''], ...")
+----------------------------------------------------------------------------------------------------
+Chunk 173:
+(6, 'physical assets: [Components of Oil-Equivalent]\nlocations: [United States, Other Americas, Africa, Asia, Australia, Europe]\nownerships: [Chevron]\ncommodities: [Crude Oil, Natural Gas Liquids, Natural Gas]\nstatus: [Operational] \n\nrelationships: [asset: Components of Oil-Equivalent, location: United States, ownership: Chevron, commodity: Crude Oil, status: Operational], [asset: Components of Oil-Equivalent, location: Other Americas, ownership: Chevron, commodity: Natural Gas Liquids, status: Operational], [asset: Components of Oil-Equivalent, location: Africa, ownership: Chevron, commodity: Natural Gas, status: Operational], [asset: Components of Oil-Equivalent, location: Asia, ownership: Chevron, commodity: Crude Oil, status: Operational], [asset: Components of Oil-Equivalent, location: Australia, ownership: Chevron, commodity: Natural Gas Liquids, status: Operational], [asset: Components of Oil-Equivalent, location: Europe, ownership: Chevron, commodity: Natural Gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 174:
+(7, 'physical assets: [Wells, multi-well pads, horizontal wells, hydraulic fracture stimulation, facilities, infrastructure, acreage,  solar power project]\nownerships: [Chevron, PDC, joint ventures, royalty positions]\ncommodities: [Crude oil, Natural Gas Liquids (NGLs), natural gas, renewable energy]\nstatus: [operational, under construction, in end-of-life]\n\n\nrelationships: [asset: Wells, location: United States, ownership: Chevron, commodity: Crude oil, NGLs, natural gas, status: operational], \n[asset: multi-well pads, location: United States, ownership: Chevron, commodity: Crude oil, NGLs, natural gas, status: operational], \n[asset: horizontal wells, location: United States, ownership: Chevron, commodity: Crude oil, NGLs, natural gas, status: operational], \n[asset: hydraulic fracture stimulation, location: United States, ownership: Chevron, commodity: Crude oil, NGLs, natural gas, status: operational], \n[asset: facilities, location: United States, ownership: Chevron, commodity: Crude oil, NGLs, natural gas, status: operational], \n[asset: infrastructure, location: United States, ownership: Chevron, commodity: Crude oil, NGLs, natural gas, status: operational], \n[asset: solar power project, location: New Mexico, ownership: Chevron, commodity: renewable energy, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 175:
+(8, 'ownerships: [Chevron, ACES Delta, LLC, joint venture]\ncommodities: [oil, water, hydrogen]\nstatus: [operational, under construction, end-of-life]')
+----------------------------------------------------------------------------------------------------
+Chunk 176:
+(9, 'ownerships: [Chevron, Petroboscan, Petroindependiente, Petropiar, Petroindependencia,  Angola LNG Limited] \ncommodities: [oil, bitumen, synthetic oil, natural gas, heavy oil, liquefied natural gas (LNG)] \nstatus: [operational, under construction, expiring]')
+----------------------------------------------------------------------------------------------------
+Chunk 177:
+(10, 'physical assets: [two wellhead platforms, an onshore gas treatment plant, connections to the Angola LNG plant, Oil Mining Leases (OML) and Petroleum Prospecting Licenses under the Petroleum Industry Act , six concessions, five operated and one nonoperated in the onshore and near-offshore regions of the Niger Delta, four operated and six nonoperated deepwater blocks,  the Agbami field, located in deepwater Oil Mining Lease (OML) and OML, the Usan field in OML, the Owowo field, which straddles OML and OML, the Aparo field in OML and OML , a common geologic structure and would be developed jointly, the Bonga South West field in OML]\nownerships: [Chevron, Chevron and the Angola and DRC governments, Chevron and the ROC governments ]\ncommodities: [gas]\nstatus: [under construction, operational, end-of-life]\n\n\nrelationships: [asset: two wellhead platforms, location: Q&M fields, ownership: Chevron, commodity: gas, status: under construction], [asset: an onshore gas treatment plant, location: Q&M fields, ownership: Chevron, commodity: gas, status: under construction], [asset: connections to the Angola LNG plant, location: Q&M fields, ownership: Chevron, commodity: gas, status: operational], [asset: Oil Mining Leases (OML) and Petroleum Prospecting Licenses under the Petroleum Industry Act , location: Nigeria, ownership: Chevron, commodity: oil, status: operational], [asset: six concessions, location: Nigeria, ownership: Chevron, commodity: oil, status: operational], [asset: four operated and six nonoperated deepwater blocks, location: Nigeria, ownership: Chevron, commodity: oil, status: operational], [asset: the Agbami field, location: deepwater Oil Mining Lease (OML) and OML , ownership: Chevron, commodity: oil, status: operational], [asset: the Usan field in OML, location: Nigeria, ownership: Chevron, commodity: oil, status: operational], [asset: the Owowo field, location: OML and OML, ownership: Chevron, commodity: oil, status: under construction], [asset: the Aparo field in OML and OML, location: Nigeria, ownership: Chevron, commodity: oil, status: under construction], [asset: the Bonga South West field in OML, location: Nigeria, ownership: third-party, commodity: oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 178:
+(11, 'physical assets: [Escravos Gas Plant, Escravos Gas to Liquids facility]\nownerships: [Chevron]\ncommodities: [natural gas, liquefied petroleum gas, condensate, oil, crude oil]\nstatus: [operational, under construction]\n\nrelationships: [asset: Escravos Gas Plant, location: Escravos, ownership: Chevron, commodity: natural gas and liquefied petroleum gas, status: operational], [asset: Escravos Gas to Liquids facility, location: Escravos, ownership: Chevron, commodity: oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 179:
+(12, 'ownerships: [Chevron, Chevron and Kazakhstan/Russia partnership]\ncommodities: [Crude oil, natural gas]\nstatus: [Operational, under construction]\nrelationships: \n[asset: CPC pipeline, location: Kazakhstan/Russia, ownership: Chevron and Kazakhstan/Russia partnership, commodity: Crude oil, status: Operational],\n[asset: Sarita PSC, location: Kurdistan Region of Iraq, ownership: Chevron, commodity: Oil, status: End-of-life],\n[asset: Qara Dagh PSC, location: Kurdistan Region of Iraq, ownership: Chevron, commodity: Oil, status: End-of-life],\n[asset: Yadana field, location: Myanmar, ownership: Chevron, commodity: Natural gas, status: Operational],\n[asset: Badamyar field, location: Myanmar, ownership: Chevron, commodity: Natural gas, status: Operational],\n[asset: Sein fields, location: Myanmar, ownership: Chevron, commodity: Natural gas, status: Operational],\n[asset: Partitioned Zone hydrocarbon resources, location: Partitioned Zone, ownership: Chevron, commodity: Oil and Gas, status: Operational],\n[asset: Wheatstone project, location: Ashburton North, Western Australia, ownership: Chevron, commodity: Natural gas, status: Operational],')
+----------------------------------------------------------------------------------------------------
+Chunk 180:
+(13, "physical assets: [Refineries, diesel hydrotreater]\nownerships: [Chevron, Chevron's equity affiliates, Singapore Refining Company (SRC), GS Caltex (GSC)]\ncommodities: [Crude oil, natural gas, petroleum products, renewable diesel, renewable gasoline, biodiesel, sustainable aviation fuel, renewable natural gas (RNG)]\nstatus: [operational, under construction]")
+----------------------------------------------------------------------------------------------------
+Chunk 181:
+(14, 'physical assets: [ biofuel refineries, Fluid Catalytic Cracker, renewable diesel plant, processing facilities, anaerobic digestion dairy farm projects, compressed natural gas stations, manufacturing facilities, research and development centers]\nownerships: [ Chevron Renewable Energy Group, Inc.,  Chevron, Brightmark Fund Holdings LLC (Brightmark), California Bioenergy, LLC (CalBio), Bunge Chevron Ag Renewables LLC, Beyond6, LLC, Chevron Phillips Chemical Company LLC (CPChem), GSC]\nstatus: [ operational, under construction,  in end-of-life ]')
+----------------------------------------------------------------------------------------------------
+Chunk 182:
+(15, 'physical assets: [Ethylene Plant Project, C3 Splitter Project, - Hexene plant, Transportation Pipelines, marine fleet]\nlocations: [Cedar Bayou, Texas, Old Ocean, Texas, United States, South Korea]\nownerships: [CPChem, Chevron, GSC, Chevron’s percent-owned CPChem affiliate, Chevron Technical Center]\ncommodities: [Aromatics, plastics, textile fibers, adhesives, automotive and home appliance parts, food packaging, laboratory equipment, building materials, paint, ethylene, polyethylene, polypropylene, crude oil, natural gas, product pipelines, LNG] \nstatus: []\n\nrelationships: [asset: Ethylene Plant Project, location: Cedar Bayou, Texas, ownership: CPChem, commodity: , status: ], \n[asset: C3 Splitter Project, location: Cedar Bayou, Texas, ownership: CPChem, commodity: , status: ],\n[asset: - Hexene plant, location: Old Ocean, Texas, ownership: CPChem, commodity: , status: ],\n[asset: Transportation Pipelines, location: United States, ownership: Chevron, commodity: crude oil, natural gas, product pipelines, LNG, status: ],\n[asset: marine fleet, location: U.S., foreign flagged, ownership: Chevron, commodity: crude oil, LNG, refined products, feedstock, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 183:
+(16, "physical assets: [facilities,  equipment] \nlocations: []\nownerships: [Chevron]\ncommodities: [hydrogen, carbon capture and storage, carbon offsets, geothermal]\nstatus: []\n\nrelationships: [asset: 'facilities', location: '', ownership: 'Chevron', commodity: 'hydrogen', status: ''], [asset: 'equipment', location: '', ownership: 'Chevron', commodity: 'carbon capture and storage', status: ''], [asset:  'equipment', location: '', ownership: 'Chevron', commodity: 'carbon offsets', status: ''], [asset: 'facilities', location: '', ownership: 'Chevron', commodity: 'geothermal', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 184:
+(17, 'physical assets: [facilities, equipment] \nlocations: [urban areas, remote and sometimes inhospitable regions]\nownerships: [Chevron]\ncommodities: [crude oil, natural gas]\nstatus: []\nrelationships: [asset: facilities, location: urban areas, ownership: Chevron, commodity: crude oil, status: operational], [asset: equipment, location: remote and sometimes inhospitable regions, ownership: Chevron, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 185:
+(18, "physical assets:  [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron] \ncommodities: []\nstatus: []\nrelationships: \n[asset: 'facilities', location: '', ownership: 'Chevron', commodity: '', status: ''],\n[asset: 'equipment', location: '', ownership: 'Chevron', commodity: '', status: ''],\n[asset: 'infrastructure', location: '', ownership: 'Chevron', commodity: '', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 186:
+(19, 'physical assets:  [facilities, equipment]\nlocations:  [Various countries]\nownerships:  [Partially or wholly owned businesses]\ncommodities: [Oil and gas] \nstatus: []\n\nrelationships: [asset: facilities, location: Various countries, ownership: Partially or wholly owned businesses, commodity: Oil and gas, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 187:
+(20, 'physical assets: [ ]\nlocations: [ ]\nownerships: [Chevron]\ncommodities: [hydrocarbons, synthetic oil, refined hydrocarbon products, natural gas, biofeedstocks]\nstatus: [ ]\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 188:
+(21, 'physical assets: [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: [ ]\nrelationships: [  ]')
+----------------------------------------------------------------------------------------------------
+Chunk 189:
+(22, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 190:
+(23, "physical assets: Cyber Intelligence Centers \nlocations:  around the world, some co-located with critical assets\nownerships: Chevron\ncommodities: []\nstatus: operational\n\n\nrelationships: [asset: 'Cyber Intelligence Centers', location: 'around the world, some co-located with critical assets', ownership: 'Chevron', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 191:
+(24, 'physical assets: [crude oil and natural gas properties, refining facilities, marketing facilities, transportation facilities, chemicals facilities]\nlocations: [Richmond, California, Kern County, California, Pasadena, Texas]\nownerships: [Chevron]\ncommodities: [crude oil, natural gas]\nstatus: [] \n\nrelationships: [asset: crude oil and natural gas properties, location:  Kern County, California, ownership: Chevron, commodity: crude oil, natural gas, status: ]\n[asset: refining facilities, location: Richmond, California, ownership: Chevron, commodity: crude oil, natural gas, status: ]\n[asset: marketing facilities, location: Not specified, ownership: Chevron, commodity: crude oil, natural gas, status: ]\n[asset: transportation facilities, location: Not specified, ownership: Chevron, commodity: crude oil, natural gas, status: ]\n[asset: chemicals facilities, location: Not specified, ownership: Chevron, commodity: crude oil byproducts, natural gas byproducts, status: ]')
+----------------------------------------------------------------------------------------------------
+Chunk 192:
+(25, 'physical assets: []\nlocations: []\nownerships: [Chevron, PDC Energy, Inc.]\ncommodities: []\nstatus: [] \n\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 193:
+(26, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 194:
+(27, 'physical assets:  [ ]\nownerships: [ Chevron Corporation]\ncommodities: []\nstatus: [] \n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 195:
+(28, "physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ['crude oil', 'refined products', 'renewable fuels']\nstatus: [ ]\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 196:
+(29, 'physical assets:  [oil production facilities, gas production facilities, carbon capture and storage infrastructure, renewable fuels production facilities, hydrogen production facilities]\nlocations: []\nownerships: [Chevron]\ncommodities: [oil, gas, renewable fuels, hydrogen, carbon offsets]\nstatus: [operational, under construction, end-of-life] \nrelationships: [asset: oil production facilities, location: unspecified, ownership: Chevron, commodity: oil, status: operational], [asset: gas production facilities, location: unspecified, ownership: Chevron, commodity: gas, status: operational], [asset: carbon capture and storage infrastructure, location: unspecified, ownership: Chevron, commodity: carbon dioxide, status: under construction], [asset: renewable fuels production facilities, location: unspecified, ownership: Chevron, commodity: renewable fuels, status: under construction], [asset: hydrogen production facilities, location: unspecified, ownership: Chevron, commodity: hydrogen, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 197:
+(30, "physical assets:  [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron]\ncommodities: [crude oil and natural gas]\nstatus: []\n\n\nrelationships: [asset: 'facilities', location: '', ownership: 'Chevron', commodity: 'crude oil and natural gas', status: ''], \n[asset: 'equipment', location: '', ownership: 'Chevron', commodity: 'crude oil and natural gas', status: ''], \n[asset: 'infrastructure', location: '', ownership: 'Chevron', commodity: 'crude oil and natural gas', status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 198:
+(31, 'locations: [U.S., California, Venezuela, Israel]\nownerships: [Chevron]\ncommodities: [ crude oil and natural gas]\nstatus: [operational, impaired]')
+----------------------------------------------------------------------------------------------------
+Chunk 199:
+(32, 'locations: [Angola, Australia, Israel, Japan, West Coast of the United States, Gulf Coast of the United States, Asia Pacific]\nownerships: [Chevron]\ncommodities: [natural gas]\nstatus: [operational, under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 200:
+(33, 'physical assets: [facilities, equipment, infrastructure]\nlocations: [Japan, Kazakhstan, United States (Gulf Coast, New Mexico, El Segundo, California, Permian Basin, Denver-Julesburg (DJ) Basin, Utah), Gulf of Mexico, Venezuela]\nownerships: [Chevron, Tengizchevroil, Hess Corporation, PetroBoscan, S.A., PetroIndependiente, S.A.]\ncommodities: [geothermal energy, crude oil, natural gas, LNG, renewable feedstocks, solar power, hydrogen]\nstatus: [operational, under construction, in end-of-life]\n\nrelationships: [asset: facilities, location: Japan, ownership: Chevron, commodity: geothermal energy, status: operational], [asset: equipment, location: Kazakhstan, ownership: Tengizchevroil, commodity: crude oil, status: operational], [asset: infrastructure, location: United States (Gulf Coast), ownership: Chevron, commodity: carbon capture and sequestration, status: expanded], [asset: LNG vessels, location: United States, ownership: Chevron, commodity: LNG, status: upgraded], [asset: exploration blocks, location: Gulf of Mexico, ownership: Chevron, commodity: crude oil, status: acquired], [asset: Mad Dog project, location: Gulf of Mexico, ownership: Chevron, commodity: crude oil, status: operational], [asset: solar power project, location: New Mexico, ownership: Chevron joint venture partner, commodity: solar energy, status: operational], [asset: refinery, location: El Segundo, California, ownership: Chevron, commodity: petroleum products, status: converted], [asset: acres in Denver-Julesburg (DJ) Basin and Permian Basin, location: United States, ownership: Chevron, commodity: crude oil, status: acquired], [asset: green hydrogen production and storage hub, location: Utah, ownership: Chevron, commodity: hydrogen, status: developing], [asset: Hess Corporation assets, location: Global, ownership: Chevron, commodity: various, status: acquired] , [asset: licenses, location: Venezuela, ownership: PetroBoscan, S.A. and PetroIndependiente, S.A., commodity: crude oil, status: extended]')
+----------------------------------------------------------------------------------------------------
+Chunk 201:
+(34, 'physical assets: [Refineries, Facilities]\nownerships: [Chevron]\ncommodities: [Crude oil, Refined products, Natural gas, Jet fuel, Gasoline]\nstatus: [Operational, Under construction, Planned turnaround activity]')
+----------------------------------------------------------------------------------------------------
+Chunk 202:
+(35, 'physical assets: [ facilities, equipment, infrastructure ]\nlocations: [Sabine Pass]\ncommodities: [Crude Oil and Natural Gas Liquids (NGLs),Natural Gas ]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 203:
+(36, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: [Oil and Natural Gas]\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 204:
+(37, "physical assets: [Additions to fixed asset or investment accounts,  PDC assets post-acquisition, Permian Basin development]\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: []\nstatus: [operational, under construction] \n\nrelationships: [asset: 'Additions to fixed asset or investment accounts', location: '', ownership: 'Chevron Corporation', commodity: '', status: 'operational'], [asset: 'PDC assets post-acquisition', location: '', ownership: 'Chevron Corporation', commodity: '', status: 'operational'], [asset: 'Permian Basin development', location: '', ownership: 'Chevron Corporation', commodity: '', status: 'under construction']]")
+----------------------------------------------------------------------------------------------------
+Chunk 205:
+(38, "locations: ['U.S.', 'Gulf of Mexico', 'Kazakhstan']\nownerships: ['Chevron']\ncommodities: ['energy'] \nstatus: []")
+----------------------------------------------------------------------------------------------------
+Chunk 206:
+(39, 'physical assets:  []\nlocations: []\nownerships: []\ncommodities: ["crude oil", "refined products", "NGLs", "natural gas", "liquefied natural gas", "refinery feedstocks"]\nstatus: [] \nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 207:
+(40, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: ["derivative commodity instruments"] \nstatus: [ ]\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 208:
+(41, 'physical assets: [facilities, equipment]\nlocations: []\nownerships: [Chevron] \ncommodities: [oil, natural gas]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: facilities, location: , ownership: Chevron, commodity: oil, status: operational], [asset: equipment, location: , ownership: Chevron, commodity: natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 209:
+(42, 'physical assets: [oil and gas properties, proved developed reserves, unproved resources, properties, plant and equipment (PP&E)]\nlocations: []\nownerships: [Chevron]\ncommodities: [crude oil, NGLs, natural gas, commodity chemicals, refined products]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: oil and gas properties, location: , ownership: Chevron, commodity: crude oil, NGLs, natural gas, commodity chemicals, refined products, status: operational] \nrelationships: [asset: proved developed reserves, location: , ownership: Chevron, commodity: crude oil, NGLs, natural gas, commodity chemicals, refined products, status: operational]\nrelationships: [asset: unproved resources, location: , ownership: Chevron, commodity: crude oil, NGLs, natural gas, commodity chemicals, refined products, status: ]\nrelationships: [asset: properties, plant and equipment (PP&E), location: , ownership: Chevron, commodity: crude oil, NGLs, natural gas, commodity chemicals, refined products, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 210:
+(43, 'physical assets:  [ ]\nlocations: [ ]\nownerships: [ ]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 211:
+(44, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 212:
+(45, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 213:
+(46, "physical assets:  [upstream property, plant and equipment]\nlocations: []\nownerships: []\ncommodities: [crude oil, natural gas]\nstatus: [operational] \n\nrelationships: [asset: 'upstream property, plant and equipment', location: '', ownership: '', commodity: 'crude oil', status: 'operational'],  [asset: 'upstream property, plant and equipment', location: '', ownership: '', commodity: 'natural gas', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 214:
+(47, "physical assets:  [ upstream property, plant, and equipment] \nlocations: []\nownerships: [ Chevron Corporation]\ncommodities: [ crude oil and natural gas]\nstatus: [proved developed]\n\n\nrelationships: [asset: 'upstream property, plant, and equipment', location: '', ownership: 'Chevron Corporation', commodity: 'crude oil and natural gas', status: 'proved developed']")
+----------------------------------------------------------------------------------------------------
+Chunk 215:
+(48, "physical assets: ['Properties, plant and equipment']\nlocations: []\nownerships: ['Chevron Corporation']\ncommodities: []\nstatus: ['operational', 'under construction', 'in end-of-life'] \n\n\nrelationships: [asset: 'Properties, plant and equipment', location: '', ownership: 'Chevron Corporation', commodity: '', status: 'operational'],  \n[asset: 'Properties, plant and equipment', location: '', ownership: 'Chevron Corporation', commodity: '', status: 'under construction'], \n[asset: 'Properties, plant and equipment', location: '', ownership: 'Chevron Corporation', commodity: '', status: 'in end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 216:
+(49, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 217:
+(50, 'physical assets:  [Properties, Plant and Equipment, proved mineral interests in crude oil and natural gas properties, related asset retirement obligation (ARO) assets]\nlocations: []\nownerships: [Noncontrolling Interests, parent]\ncommodities: [Crude oil, natural gas]\nstatus: [operational, under construction, end-of-life]\nrelationships: [asset: Properties, Plant and Equipment, location:  , ownership: parent, commodity: Crude oil, natural gas, status: operational], [asset: proved mineral interests in crude oil and natural gas properties, location: , ownership: parent, commodity: Crude oil, natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 218:
+(51, 'physical assets: [proved crude oil and natural gas producing properties, mineral interests, plant and equipment]\nlocations: []\nownerships: []\ncommodities: [crude oil, natural gas]\nstatus: [operational, under construction, end-of-life] \n\n\nrelationships: [asset: proved crude oil and natural gas producing properties, location: , ownership:  company, commodity: crude oil, natural gas, status: operational], [asset: mineral interests, location: , ownership: company, commodity: , status: operational], [asset: plant and equipment, location: , ownership: company, commodity: , status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 219:
+(52, "physical assets: []\nlocations: []\nownerships: []\ncommodities: ['crude oil', 'NGLs', 'natural gas', 'petroleum', 'chemical products']\nstatus: []\nrelationships:")
+----------------------------------------------------------------------------------------------------
+Chunk 220:
+(53, "physical assets: [Properties, plant and equipment, Investments and advances]\nlocations: []\nownerships: []\ncommodities: []\nstatus: [operational, under construction, end-of-life]\n\n\nrelationships: [asset: 'Properties, plant and equipment', location: '', ownership: '', commodity: '', status: 'operational'], [asset: 'Investments and advances', location: '', ownership: '', commodity: '', status: 'end-of-life']")
+----------------------------------------------------------------------------------------------------
+Chunk 221:
+(54, 'physical assets: [facilities, equipment, infrastructure]\nlocations: []\nownerships: [Chevron Corporation, Chevron U.S.A. Inc., Chevron Phillips Chemical Company LLC]\ncommodities: [crude oil, natural gas liquids, natural gas, petroleum products]\nstatus: [operational]\n\nrelationships: [asset: facilities, location:  U.S., ownership: Chevron Corporation, commodity: crude oil, status: operational], [asset: equipment, location: U.S., ownership: Chevron Corporation, commodity: natural gas liquids, status: operational], [asset: infrastructure, location: U.S., ownership: Chevron U.S.A. Inc., commodity: petroleum products, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 222:
+(55, 'physical assets: [Properties, Plant and Equipment]\nlocations: []\nownerships: [Chevron]\ncommodities: []\nstatus: [operational, under construction, end-of-life] \nrelationships: [asset: Properties, Plant and Equipment, location: U.S., ownership: Chevron, commodity: , status: operational], [asset: Properties, Plant and Equipment, location: California, ownership: Chevron, commodity: , status: impaired]')
+----------------------------------------------------------------------------------------------------
+Chunk 223:
+(56, "physical assets:  []\nlocations: []\nownerships: []\ncommodities: ['crude oil', 'natural gas', 'liquefied natural gas', 'refined products']\nstatus: []\nrelationships: []")
+----------------------------------------------------------------------------------------------------
+Chunk 224:
+(57, "physical assets: [properties, plant and equipment]\nlocations: []\nownerships: [Chevron Corporation]\ncommodities: [crude oil, natural gas, liquefied natural gas (LNG)]\nstatus: [operational] \n\n\nrelationships: [asset: 'properties, plant and equipment', location: '', ownership: 'Chevron Corporation', commodity: 'crude oil, natural gas, liquefied natural gas (LNG)', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 225:
+(58, 'physical assets: [facilities, equipment, infrastructure] \nlocations: [United States, International]\nownerships: [Chevron Corporation]\ncommodities: [crude oil, petroleum products, renewable fuels, petrochemicals, plastics, fuel and lubricant additives]\nstatus: []\nrelationships: [asset: facilities, location: United States, ownership: Chevron Corporation, commodity: crude oil, status: operational], [asset: equipment, location: International, ownership: Chevron Corporation, commodity: petroleum products, status: operational], [asset: infrastructure, location: United States, ownership: Chevron Corporation, commodity: renewable fuels, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 226:
+(59, 'physical assets: [Tengiz and Korolev crude oil fields, Caspian Pipeline Consortium, Angola LNG Limited, Golden Triangle Polymers Project]\nlocations: [Kazakhstan, Angola, Orange, Texas, South Korea]\ncommodities: [crude oil, natural gas, petroleum products, petrochemicals and lubricants]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 227:
+(60, 'physical assets: [ ]\nownerships: [ Chevron, Texaco subsidiary, Ecuadorian plaintiffs]\ncommodities: []\nstatus: [ ]\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 228:
+(61, 'physical assets:  []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 229:
+(62, "physical assets: [ oil fields ]\nlocations: [ Louisiana’s coastal zone ] \nownerships: [Chevron entities, numerous oil and gas companies, Jefferson Parish, Plaquemines Parish]\ncommodities: [oil production, coastal resources management]\nstatus: []\n\n\nrelationships: [asset: 'oil fields', location: 'Louisiana’s coastal zone', ownership: 'Chevron entities, numerous oil and gas companies', commodity: 'oil production, coastal resources management', status: '' ]")
+----------------------------------------------------------------------------------------------------
+Chunk 230:
+(63, 'physical assets:  []\nlocations:  [25th Jud. Dist. Ct., Plaquemines Par., 38th Jud. Dist. Ct., Cameron Par., 15th Jud. Dist. Ct., Vermilion Par., 34th Jud. Dist. Ct. St., Bernard Par., E.D. La.]\nownerships: [Plaquemines Parish, Cameron Parish, Stutes, St. Bernard Parish, City of New Orleans]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 231:
+(64, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 232:
+(65, "physical assets: [ Properties, Plant and Equipment]\nlocations: [ United States, International, Australia ]\nownerships: [  Company and its subsidiaries]\ncommodities: []\nstatus: [ operational, under construction, end-of-life]\n\nrelationships: [asset: 'Properties, Plant and Equipment', location: 'United States', ownership: 'Company and its subsidiaries', commodity: '', status: 'operational'], [asset: 'Properties, Plant and Equipment', location: 'International', ownership: 'Company and its subsidiaries', commodity: '', status: 'operational'], [asset: 'Properties, Plant and Equipment', location: 'Australia', ownership: 'Company and its subsidiaries', commodity: '', status: 'operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 233:
+(66, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\n\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 234:
+(67, "physical assets: [suspended exploratory well costs]\nlocations: [ ]\nownerships: [Chevron]\ncommodities: []\nstatus: [suspended] \n\nrelationships: [asset: 'suspended exploratory well costs', location: '', ownership: 'Chevron', commodity: '', status: 'suspended']")
+----------------------------------------------------------------------------------------------------
+Chunk 235:
+(68, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 236:
+(69, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 237:
+(70, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 238:
+(71, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 239:
+(72, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: [] \nrelationships:  []')
+----------------------------------------------------------------------------------------------------
+Chunk 240:
+(73, 'physical assets: [oil and gas production assets, refineries, chemical plants, marketing facilities, crude oil fields, mining sites, U.S. federal Superfund sites, analogous sites under state laws]\nlocations: [U.S., international]\nownerships: [Chevron] \ncommodities: [ petroleum substances, chemicals] \nstatus: [operational, under construction, in end-of-life]\nrelationships: [asset: oil and gas production assets, location: U.S. Gulf of Mexico, ownership: Chevron, commodity: petroleum substances, status: decommissioned], [asset: refineries, location: US, ownership: Chevron, commodity: chemicals, status: operational], [asset: chemical plants, location: international, ownership: Chevron, commodity: chemicals, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 241:
+(74, 'physical assets: [crude oil and natural gas producing assets, downstream long-lived assets, wells, equipment, facilities]\nlocations: [ ]\nownerships: [ ]\ncommodities: [ crude oil, natural gas]\nstatus: [operational, under construction, end-of-life] \nrelationships: [asset: crude oil and natural gas producing assets, location: , ownership: , commodity: crude oil, natural gas, status: operational], [asset: downstream long-lived assets, location: , ownership: , commodity: , status: operational], [asset: wells, location: , ownership: , commodity: crude oil, natural gas, status: operational], [asset: equipment, location: , ownership: , commodity: crude oil, natural gas, status: operational], [asset: facilities, location: , ownership: , commodity: crude oil, natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 242:
+(75, 'physical assets: [Properties, plant and equipment]\nlocations: [Denver-Julesburg Basin in Colorado, Delaware Basin in west Texas]\nownerships: [Chevron Corporation, Hess Corporation]\ncommodities: [] \nstatus:  [operational, under construction, end-of-life]\nrelationships: [asset: Properties, plant and equipment, location: Denver-Julesburg Basin in Colorado, ownership: Chevron Corporation, commodity: , status: operational], [asset: Properties, plant and equipment, location: Delaware Basin in west Texas, ownership: Chevron Corporation, commodity: , status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 243:
+(76, 'physical assets: [facilities, equipment, wells]\nlocations: [United States, Other Americas, Africa, Asia, Australia/Oceania, Europe, Republic of Kazakhstan, Angola]\nownerships: [Chevron, Tengizchevroil (TCO), other affiliates]\ncommodities: [oil, gas]\nstatus: []\nrelationships: [asset: facilities, location: United States, ownership: Chevron, commodity: oil, status: operational], [asset: equipment, location: Other Americas, ownership: Chevron, commodity: gas, status: operational], [asset: wells, location: Africa, ownership: Chevron, commodity: oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 244:
+(77, "physical assets: [Unproved properties, Proved properties and related producing assets, Support equipment, Deferred exploratory wells, Other uncompleted projects]\nlocations: []\nownerships: []\ncommodities: [oil and gas] \nstatus: [operational, under construction, in end-of-life] \n\n\nrelationships: [asset: Unproved properties, location: '', ownership: '', commodity: oil and gas, status: ''], [asset: Proved properties and related producing assets, location: '', ownership: '', commodity: oil and gas, status: ''], [asset: Support equipment, location: '', ownership: '', commodity: oil and gas, status: ''], [asset: Deferred exploratory wells, location: '', ownership: '', commodity: oil and gas, status: ''], [asset: Other uncompleted projects, location: '', ownership: '', commodity: oil and gas, status: '']")
+----------------------------------------------------------------------------------------------------
+Chunk 245:
+(78, "physical assets: [Proved producing properties, Unproved properties]\nlocations: [Americas, Africa, Asia, Australia, Europe, U.S.]\nownerships: [Consolidated Companies, Affiliated Companies]\ncommodities: [Crude, Natural gas liquids, Natural gas]\nstatus: [Operational] \n\nrelationships: [asset: 'Proved producing properties', location: 'Americas', ownership: 'Consolidated Companies', commodity: 'Crude', status: 'Operational'], [asset: 'Unproved properties', location: 'Africa', ownership: 'Affiliated Companies', commodity: 'Natural gas liquids', status: 'Operational'] ,  [asset: 'Proved producing properties', location: 'Asia', ownership: 'Consolidated Companies', commodity: 'Natural gas', status: 'Operational'], [asset: 'Unproved properties', location: 'Australia', ownership: 'Affiliated Companies', commodity: 'Crude', status: 'Operational'] , [asset: 'Proved producing properties', location: 'Europe', ownership: 'Consolidated Companies', commodity: 'Natural gas liquids', status: 'Operational']")
+----------------------------------------------------------------------------------------------------
+Chunk 246:
+(79, 'physical assets: [facilities (implied by production and consumption)]\nlocations: [U.S., Other Americas, Africa, Asia, Australia, Europe]\nownerships: [Consolidated Companies, Affiliated Companies]\ncommodities: [Crude Oil, Natural Gas Liquids, Natural Gas]\nstatus: [Operational (implied by production), Developed, Undeveloped]\n\nrelationships: [asset: facilities, location: U.S., ownership: Consolidated Companies, commodity: Crude Oil, status: Operational], [asset: facilities, location: Other Americas, ownership: Consolidated Companies, commodity: Natural Gas Liquids, status: Operational], [asset: facilities, location: Africa, ownership: Affiliated Companies, commodity: Natural Gas, status: Developed], [asset: facilities, location: Asia, ownership: Consolidated Companies, commodity: Crude Oil, status: Undeveloped]')
+----------------------------------------------------------------------------------------------------
+Chunk 247:
+(80, 'physical assets: [Facilities, Equipment, Infrastructure]\nlocations: [United States, Midland and Delaware basins, East Texas, California, Kazakhstan (TCO), Israel, Argentina, Gulf of Mexico, DJ basin]\nownerships: [Chevron Corporation]\ncommodities: [Oil and Gas]\nstatus: [Operational, Under Construction]\n\nrelationships: [asset: Facilities, location: United States, ownership: Chevron Corporation, commodity: Oil and Gas, status: Operational], [asset: Equipment, location: Midland and Delaware basins, ownership: Chevron Corporation, commodity: Oil and Gas, status: Operational], [asset: Infrastructure, location: California, ownership: Chevron Corporation, commodity: Oil and Gas, status: Operational], [asset: Facilities, location: Kazakhstan (TCO), ownership: Chevron Corporation, commodity: Oil and Gas, status: Operational] ,[asset: Equipment, location: Israel, ownership: Chevron Corporation, commodity: Oil and Gas, status: Operational],  [asset: Infrastructure, location: Argentina, ownership: Chevron Corporation, commodity: Oil and Gas, status: Operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 248:
+(81, 'physical assets: [facilities, wells]\nlocations: [United States, Midland basin, Delaware basin, DJ basin, Gulf of Mexico, Israel, Bangladesh, Argentina, Canada, Kazakhstan, Australia, Nigeria, Angola, Republic of Congo]\nownerships: [company, affiliates]\ncommodities: [oil, gas]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: facilities, location: United States, ownership: company, commodity: oil, status: operational], \n[asset: wells, location: Midland basin, ownership: company, commodity: oil, status: operational], \n[asset: facilities, location: Delaware basin, ownership: company, commodity: oil, status: operational], \n[asset: wells, location: DJ basin, ownership: company, commodity: oil, status: operational], \n[asset: facilities, location: Gulf of Mexico, ownership: company, commodity: oil, status: operational], \n[asset: facilities, location: Israel, ownership: company, commodity: oil, status: operational], \n[asset: wells, location: Bangladesh, ownership: affiliates, commodity: gas, status: under construction], \n[asset: facilities, location: Argentina, ownership: company, commodity: oil, status: end-of-life], \n[asset: wells, location: Canada, ownership: company, commodity: gas, status: operational], \n[asset: facilities, location: Kazakhstan, ownership: affiliates, commodity: oil, status: operational], \n[asset: wells, location: Australia, ownership: company, commodity: oil, status: operational], \n[asset: facilities, location: Nigeria, ownership: company, commodity: gas, status: operational], \n[asset: wells, location: Angola, ownership: company, commodity: oil, status: operational], \n[asset: facilities, location: Republic of Congo, ownership: company, commodity: gas, status: under construction]')
+----------------------------------------------------------------------------------------------------
+Chunk 249:
+(82, 'locations: [United States, Gulf of Mexico, Midland and Delaware basins, Kazakhstan, Canada, Argentina, Africa, Asia, Australia, Europe, TCO]\nownerships: []\ncommodities: [crude oil, condensate, synthetic oil]\nstatus: []')
+----------------------------------------------------------------------------------------------------
+Chunk 250:
+(83, 'physical assets: [facilities] \nownerships: [ ]\ncommodities: [oil, natural gas, NGLs]\nstatus: [operational, under construction, end-of-life]\n\nrelationships: [asset: facilities, location: Midland, Delaware basins, ownership:  , commodity: oil, status: operational], [asset: facilities, location: Australia, ownership:  , commodity: natural gas, status: operational], [asset: facilities, location: United States, ownership:  , commodity: oil, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 251:
+(84, 'physical assets: [ facilities, equipment, infrastructure ]\nownerships:  [ TCF, PDC] \ncommodities: [Natural gas]\nstatus: []\n\nrelationships: [asset: facilities, location: Midland basin, ownership: TCF, commodity: Natural gas, status: operational], [asset: equipment, location: Delaware basin, ownership: TCF, commodity: Natural gas, status: operational], [asset: infrastructure, location: DJ basin, ownership: PDC, commodity: Natural gas, status: operational]')
+----------------------------------------------------------------------------------------------------
+Chunk 252:
+(85, "physical assets: []\nlocations: [ ]\nownerships: [ ]\ncommodities: ['Oil and Gas'] \nstatus: [ ]\nrelationships:  []")
+----------------------------------------------------------------------------------------------------
+Chunk 253:
+(86, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 254:
+(87, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:')
+----------------------------------------------------------------------------------------------------
+Chunk 255:
+(88, 'physical assets: []\nlocations: []\nownerships:  [Chevron Corporation]\ncommodities: []\nstatus: []\nrelationships: []')
+----------------------------------------------------------------------------------------------------
+Chunk 256:
+(89, 'physical assets: []\nlocations: []\nownerships: []\ncommodities: []\nstatus: []\nrelationships:  \n\n\nLet me explain why. The text you provided is a list of executives and directors within a company, along with their titles and signatures. It does not mention any physical assets, locations, ownerships, commodities or the status of any assets.')
+----------------------------------------------------------------------------------------------------

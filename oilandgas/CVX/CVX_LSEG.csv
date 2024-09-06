@@ -1,0 +1,9 @@
+﻿Name,Asset Type,Location,Commodity,Operating Company,Status,Capacity (Barrels),Region PADD,Primary Shareholders
+Pascagoula (Chevron Corporation),Oil Refinery,Mississippi,Oil / Oil Products,Chevron Corporation,Normal Operation,"375,000.00",Gulf Coast (PADD III),Chevron Corp
+Richmond (Chevron Corporation),Oil Refinery,California,Oil / Oil Products,Chevron Corporation,Normal Operation,"340,000.00",West Coast (PADD V),Chevron Corp
+El Segundo (Chevron Corporation),Oil Refinery,California,Oil / Oil Products,Chevron Corporation,Normal Operation,"260,000.00",West Coast (PADD V),Chevron Corp
+Pasadena (Chevron Corporation),Oil Refinery,Texas,Oil / Oil Products,Chevron Corporation,Normal Operation,"200,000.00",Gulf Coast (PADD III),Petrobras
+Perth Amboy (Chevron Corporation),Oil Refinery,New Jersey,Oil / Oil Products,Chevron Corporation,Closed,"80,000.00",East Coast (PADD I),Chevron Corp
+Batangas (Chevron Philippines Incorporated),Oil Refinery,Philippines,Oil / Oil Products,Chevron Philippines Incorporated,Closed,"66,000.00",,Chevron Corp
+Salt Lake City (Chevron Corporation),Oil Refinery,Utah,Oil / Oil Products,Chevron Corporation,Normal Operation,"54,500.00",Rockies (PADD IV),Chevron Corp
+Barbers Point Refinery (Island Energy Services LLC) - Crude,Distillation Unit,Hawaii,Oil / Oil Products,Chevron Corp,Unknown,--,,Chevron Corp
