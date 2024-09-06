@@ -1,0 +1,139 @@
+physical asset,location,ownership,commodity,status,Countries
+160 pit,Casa Berardi,"Hecla Mining Company, Keno Hill,",gold,"end-of-life, operational",
+30 vein,,,"silver, lead, zinc",operational,
+330 fire creek,"18, 19, Fire Creek, Fire Creek (16, 17), USA, Nevada, USA Nevada, 24, 22), Nevada Operations, northern Nevada",", 100.0 %, Hecla Mining Company, Alexco, 100% owned by the company","Silver, Gold, Lead, Zinc, Au, Ag, Copper, metals, gold ore","Exploration, Measured and Indicated, Inferred, operational, suspended, end-of-life",USA
+\'equipment\,"Rock Creek, USA, Lucky Friday, Alaska, Yukon, Canada, Casa Berardi, Nevada Operations, Nevada, Greens Creek, Keno Hill, Hollister mine, not specified, Montana, USA, Mexico, San Sebastian, remote locations, Lucky Friday mine, Casa Berardi mines, Vancouver, British Columbia, Various locations, Properties, plants, equipment and mineral interests, East Mine areas, Lucky Friday Mine, Idaho, USAA., unspecified","our subsidiaries, Hecla, Hecla Mining Company, Greens Creek Dollars, Not specified, company itself, Company owns, Company (implied), Company,",", Gold, Silver, Lead, Zinc, metals, silver and zinc concentrates, mineral resources, concentrates production, Minerals, metals (base and precious), metals ore, various, silver, lead, zinc",", Operational, under construction, Operational (partially), end-of-life, operational/under construction, operational","USA, Canada, Mexico"
+\'facilities\,"Montanore, Mexico, Alaska, Quebec, Mexico, Greens Creek, Nevada Operations, San Sebastian, Lucky Friday, Keno Hill, Casa Berardi, Canada, Nevada, Casa Berardi Underground, Casa Berardi Open Pit, not specified, USA, Yukon, Casa Berardi unit, Greens Creek unit, remote locations, Greens Creek (island), Lucky Friday mine, Casa Berardi mines, Coeur d’Alene, Idaho, Silver Valley, Fire Creek, Yukon Territory, Hollister, Admiralty Island near Juneau in southeast Alaska","Hecla, our subsidiaries, Hecla Mining Company, Greens Creek Dollars, Not specified, Company (acquired Alexco in 2022),",", Silver, Other Products, Gold, Lead, Zinc, metals (base and precious), metals, various, mineral resources, concentrates production, Minerals, ore metals, gold and lead",", Operational, Under Construction, End-of-Life, discontinued, Under Construction (implied by suspension of production), Operational (partially), Planned expansion, operational/under construction/end-of-life","Mexico, Canada, USA"
+accounts receivable,,,metals,,
+all other sites,USA,Hecla Mining Company,metals concentrates,operational,USA
+aurora mill,"Nevada, Nevada Operations, Lucky Friday Mine, Idaho, USAA., Yukon Territory, Canada","Hecla Mining Company, Alexco, Company","gold, Silver, gold ore, silver, lead, zinc, Silver and Gold","operational, suspended, operational, Under Construction","USA, Canada"
+ball mill,"Casa Berardi, Casa Berardi Mine, Lucky Friday Mine, Idaho, USAA., Yukon Territory, Canada","Hecla Quebec Inc., Company, Hecla Mining Company","gold, silver, lead, zinc, Silver and Gold","operational, operational, Under Construction","USA, Canada"
+bridges,"Canada, Mexico",Government/Company,transportation,operational,"Canada, Mexico"
+buildings,,,,,
+capital expenditures,,Hecla Mining Company,,,
+casa berardi mine,"Casa Berardi, Abitibi region of northwestern Quebec, Canada, Quebec, , Mexico, Canada; 49°340.72”N Latitude, 79°1556.05”W Longitude (WGS84), Canada Quebec, Ontario, Northwestern Québec, USA, Casa Berardi Open Pit, Casa Berardi Underground, Remote location","Company name not specified, Hecla Mining Company, 100.0 %, , wholly owned and operated by the company, Not specified, 100% owned, subsidiaries of the company","gold, silver, Au, metals concentrates, unrefined gold and silver bullion bars (doré), loaded carbon and precipitates, ore metals, lead, zinc, unrefined bullion bars (doré), Mining, metals, Copper, Minerals","operational, Production, impacted, Measured and Indicated","Canada, Mexico, USA"
+cemented rock fill,"Yukon, Canada",Hecla Mining Company,silver and zinc concentrates,operational,Canada
+concentrate parcels,Nevada,"Hecla Mining Company, company selling concentrates, Private or USFS administered land","Concentrates, metals, Ag, Zn, Pb","Operational, Exploration Underground/Open Pit",
+concentrate sales,,,"Silver, Gold, Zinc, Lead",,
+concentrate shipments,,,"silver, gold, zinc, lead",,
+construction in progress,"Various locations, Casa Berardi","Hecla Mining Company, Company owns","Metals, Minerals",Under construction,
+cyanide leach train,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+deferred tax assets,,,metals,,
+development costs,"Various locations, Greens Creek, Casa Berardi, Keno Hill","Hecla Mining Company, Company owns,","Metals, Minerals, silver, lead, zinc","Under construction, Operational",
+environmental remediation services,"Yukon, Canada",Hecla Mining Company,,,Canada
+exploration and pre-development projects,"Nevada, Montana, Mexico, North America, Coeur dAlene Mining District","Hecla Mining Company, affiliates","Silver and Gold, silver, gold, lead, zinc, minerals","Exploration, exploration projects, under construction",Mexico
+exploration properties,"Montana, Alaska, the Yukon, Quebec, Canada, Nevada, British Columbia, Mexico, Coeur d’Alene, Idaho, Various locations, Lucky Friday, Idaho; Vancouver, British Columbia; Juneau, Alaska; Wallace, Idaho; Val dOr, Quebec; Durango, Mexico and Whitehorse, Yukon, Casa Berardi, Not specified, Various locations as shown in the map, Greens Creek, Nevada Operations, Keno Hill, Libby Exploration site, Rock Creek","Hecla Mining Company, subsidiaries or predecessors, Company owns, Acquired by company","minerals, mineral resources, Silver, Gold, Lead, Zinc, zinc and lead, metals, mining","under construction, operational, Under Construction (implied), under construction or in end-of-life, end-of-life, Suspended production, Under exploration and development","Canada, Mexico"
+exploration targets,,,lead and zinc,,
+finance leases,"Canada, Mexico","Hecla Mining Company,",,"operational, under construction, end-of-life","Canada, Mexico"
+furnace,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+greens creek,"Greens Creek, Alaskas Admiralty Island, Admiralty Island, near Juneau, Alaska, USA, USA Alaska, Admiralty Island near Juneau in southeast Alaska, Idaho, unspecified",", commodity: , status: ], [asset: Fire Creek, location: , ownership: , [asset: Hollister, ownership:, Company name not specified, Hecla Mining Company, 100%, 100.0 %, 100% owned, Not specified, Hecla Mining Company and subsidiaries, Hecla Mining Company and certain of its subsidiaries, subsidiaries of the company","gold, silver, Lead, Zinc, Concentrates, Ag, Au, Pb, Zn, Copper, metals concentrates, Silver and Gold, metal concentrates and carbon material, Mining, lead concentrates and silver concentrates, gold and lead, unspecified","operational, Production, Measured and Indicated, Inferred, in production since 1989",USA
+heva,"22, Heva, Heva (20), Canada, Quebec, Canada Quebec, Abitibi region of northwestern Quebec",", 100.0 %","Silver, Gold, Lead, Zinc, Copper, Au, metals","Measured and Indicated, operational, Exploration, under construction",Canada
+hollister mine,"18, 20, Hollister, Hollister (16, 18), USA, Nevada, USA Nevada, Nevada Operations, northern Nevada","100.0 %, Alexco, 100% owned by the company, Hecla Mining Company","Silver, Gold, Au, Ag, Lead, Zinc, Copper, gold ore","Exploration, Measured and Indicated, operational, suspended, under construction, end-of-life",USA
+hosco mine,"22, Hosco, Hosco (20), Canada, Quebec, Canada Quebec, Abitibi region of northwestern Quebec",", 100.0 %","Silver, Gold, Lead, Zinc, Copper, Au, metals","Measured and Indicated, operational, Exploration, under construction",Canada
+idle properties,"Yukon, Canada, Greens Creek, Lucky Friday, Casa Berardi, Nevada Operations, Keno Hill, Libby Exploration site, Rock Creek",Hecla Mining Company,"metals, silver, minerals, mineral resources","idle, Operational",Canada
+infrastructure,"Casa Berardi, San Sebastian, Yukon, Canada, Nevada, Corporate and other, Midas mine, Greens Creek, not specified, USA, Montana, Lucky Friday, Mexico, Keno Hill, Canada","Hecla Mining Company, Greens Creek Dollars, Not specified, company itself, , Third parties, Hecla","Silver, Gold, zinc, silver and zinc concentrates, metals, Minerals, Lead,","operational, end-of-life, Under Construction,","Canada, Mexico, USA"
+intermediate veins,,,"silver, lead, zinc",operational,
+internet access,"Canada, Mexico",Government/Company,communication,operational,"Canada, Mexico"
+jaw crusher,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+johnny m,"Johnny M, New Mexico, Johnny M Mine Area near San Mateo, McKinley County and San Mateo Creek Basin","Hecla Mining Company, Company name not specified","Mining, unknown, Minerals","End-of-life (implied by reclamation costs), operational, end-of-life",Mexico
+keno hill,"Keno Hill, Nevada, Yukon Territory, Canada, Yukon, Keno Hill Silver District in Canadas Yukon Territory","Company name not specified, Alexco, Hecla Mining Company, 100.0 %, 100% owned, Not specified, Acquired by company","silver, gold, lead, zinc, unknown, Ag, Au, Pb, Zn, Copper, metals concentrates, ore metals, Silver and Gold, silver and zinc concentrates, metals, Minerals","operational, Under Construction, Under development, Development, Measured and Indicated, Inferred, in ramp-up and producing since June 2023",Canada
+knelson concentrators,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+land,"Various locations, Nevada Operations, Keno Hill, Republic, Washington","Hecla Mining Company, Company owns, Private or BLM administered land","Metals, Minerals, Au, Ag Vein, Ag Vein Silver Valley","Operational, permit work in progress, Exploration Underground/Open Pit",
+lifts,"Yukon, Canada",Hecla Mining Company,silver and zinc concentrates,under construction,Canada
+lucky Friday mine,"Lucky Friday, North Idahos Silver Valley, northern Idaho, USA, Idaho, , Canada, USA Idaho, Coeur d’Alene Mining District in northern Idaho, Unknown, Coeur d’Alene Mining District, 47°2815.70”N Latitude, 115°470.44”W Longitude (WGS84), one-quarter mile east of Mullan, adjacent to USA Interstate 90, Remote location","Company name not specified, Hecla Mining Company, 100%, 100.0 %, , 100% owned, Not specified, wholly owned since 1964, Wholly-owned and operated by the company","silver, lead, zinc, Concentrates, gold, Ag, Pb, Zn, Copper, metals concentrates, ore metals, metal concentrates and carbon material, Mining, and zinc, Metals, lead concentrates and silver concentrates, lead and zinc, Minerals","operational, Suspended, under construction, Production, Measured and Indicated, Inferred, producing mine for us since 1958, under repair (temporarily shut down), Under construction (during the strike)","Canada, USA"
+midas mine,"18, 21, Midas, Midas (16, 19), USA, Nevada, USA Nevada, Nevada Operations, northern Nevada","100.0 %, Hecla Mining Company, Alexco, 100% owned by the company","silver, Gold, Au, Ag, Lead, Zinc, Copper, gold ore","Exploration, Measured and Indicated, operational, suspended",USA
+mine,"USA, Yukon, Casa Berardi, Keno Hill, Lucky Friday mine, San Sebastian, Greens Creek, Lucky Friday, Nevada Operations, Fire Creek, Yukon Territory, Canada, northern Nevada, Nevada, Hollister, China, Mexico, New Mexico, Troy mine, Lucky Friday Mine, Idaho, USAA., Casa Berardi Mine, Johnny M Mine Area near San Mateo, McKinley County and San Mateo Creek Basin","Hecla Mining Company, Lucky Friday, Company (acquired Alexco in 2022), Alexco, 100% owned by the company, , Company name not specified, Company, Hecla Quebec Inc.","Minerals, Silver, Lead, Zinc, mining, gold, Metals, gold ore, fuel, steel, cement, lead concentrates, silver concentrates, unknown, silver, lead, zinc, ore","Operational, Under Construction (during ramp-up), planned, suspended, Under construction, Operational (partially), Planned expansion, end-of-life, End-of-life (implied by reclamation costs), operational","USA, Canada, China, Mexico"
+mine in yukon,Yukon,Hecla Mining Company,"Silver, gold, lead, zinc",Under construction,
+mineral concession titles,Mexico,Hecla Mining Company,,,Mexico
+mineral interest,,Hecla Mining Company,"metals (base and precious), metals",,
+mineral interests,"Various locations, Lucky Friday, Casa Berardi, Nevada Operations, Greens Creek, Keno Hill, Alaskas Admiralty Island, San Sebastian, Lucky Friday","Hecla Mining Company, Company owns, Parent Guarantors Non-Guarantors Subsidiaries, Hecla Mining Company and Subsidiaries, Guarantors, , The company","metals, silver, gold, zinc, lead, Minerals, silver, gold","Operational, exploration projects, net, under construction, development, production, end-of-life, operational",
+mineral processing plants,"Greens Creek, Lucky Friday, Casa Berardi Underground, Casa Berardi Open Pit, Keno Hill, Casa Berardi, Nevada Operations, Montanore",", Hecla Mining Company, Not specified","Silver, Gold, Lead, Zinc, metals, mineral resources, minerals, ore metals",operational,
+mineral reserves,unspecified,"Hecla Mining Company,","silver, Metals (Silver, Gold, Lead, Zinc), metals concentrates","Operational, in-situ, depleted (partially)",
+mineral resource assets,,,"silver, gold",,
+mineral rights,"Washington, Republic",Private or BLM administered land,"Au, Ag, Ag Vein",,
+mines,"Nevada, British Columbia, Lucky Friday mine, Canada, Mexico, Alaska, Greens Creek, Keno Hill, Casa Berardi, Nevada Operations, Rock Creek, Montanore, USA, Quebec, Greens Creek (Island), Casa Berardi (Remote location accessed by gravel road), Lucky Friday, Yukon Territory, Casa Berardi mines, Montana, Remote location, North Idahos Silver Valley, Greens Creek","Hecla Mining Company, company itself, , The company","minerals, mineral resources, silver, gold, lead, zinc, metals, metals (silver and gold), ore, silver, zinc","Operational, Under construction, Closed, end-of-life, Operational (partially), operational","Canada, Mexico, USA"
+mines in alaska,"Alaska, Idaho, Quebec",Hecla Mining Company,"Silver, gold, lead, zinc",Operational,
+mining claims,"Canada, Carpenter Snow Creek Superfund site located in Cascade County, Montana, Cascade County, USA, Admiralty Island near Juneau in southeast Alaska, central Yukon Territory","Hecla Mining Company, Hecla F-38 Limited","mining, silver, zinc, gold and lead, lead","in end-of-life, Operational","Canada, USA"
+mining companies or properties,"Nevada Operations, Fire Creek, Coeur d’Alene, Idaho, Various locations, Lucky Friday, Idaho; Vancouver, British Columbia; Juneau, Alaska; Wallace, Idaho; Val dOr, Quebec; Durango, Mexico and Whitehorse, Yukon, Nevada, Casa Berardi, Not specified, Various locations as shown in the map, USA","Hecla Mining Company, subsidiaries or predecessors, Company owns, Acquired by company","Metals, Silver, Gold, Lead, Zinc, zinc and lead, Minerals, mining","Operational, under construction, Under Construction (implied), under construction or in end-of-life, end-of-life, Suspended production, Under exploration and development","Mexico, USA"
+mining operations,"not specified, USA, internationally, foreign countries, Casa Berardi, Judith Basin and Cascade Counties, Montana, Nevada, Yukon Territory, Fire Creek, Hollister, Midas, Sinter Zone, Heva, Hosco, Star property, Bulldog, Equity, North Amethyst veins, Monte Cristo, Rock Creek, Libby Exploration project, Rackla-Tiger project","Hecla Mining Company, Lucky Friday, , Keno Hill","Silver, Gold, Zinc, Lead, metals, minerals, Mining, copper","Operational, under construction, end-of-life (implied), Under development, end-of-life, operational/under construction/end-of-life, under construction (closed)",USA
+montanore mine,"12, 28, Montanore (26), USA Montana, Montanore","100.0 %, Hecla Mining Company","Ag, Cu, Unknown","Exploration, Under Construction",USA
+monte cristo mine,"26, Monte Cristo (24), USA, Nevada, Monte Cristo, USA Nevada",100.00%,"Au, Ag, Gold",Exploration,USA
+nevada,"Nevada, Nevada Operations, USA, northern Nevada",", Company name not specified, Hecla Mining Company, Not specified, 100% owned by the company, subsidiaries of the company, 100% owned","gold, Concentrates, Silver, lead, zinc, metals concentrates, unrefined bullion bars (doré), Mining","end-of-life, care-and-maintenance, operational, under construction",USA
+open pits (principal and west mine crown pillar),Casa Berardi,Hecla Mining Company,gold,under construction,
+operating leases,"Canada, Mexico, North Idahos Silver Valley",Hecla Mining Company,"silver, gold, lead, zinc",operational,"Canada, Mexico"
+ore milled,Lucky Friday,,"Silver, Lead, Zinc",Operational,
+ore processing facilities,"Greens Creek, not specified",Hecla Mining Company,"Silver, Gold, Zinc, Lead, metals","Operational, operational/under construction/end-of-life",
+orebodies,Not specified,"Hecla Mining Company,","metals (silver and gold), Metals","under construction, operational, end-of-life, Not specified, operational/under construction/end-of-life",
+osiris open pit,"Osiris Open Pit, Osiris, Casa Berardi, Ontario, Casa Berardi Open Pit, 24, Fire Creek (16, 22), Fire Creek, Osiris Underground, Tiger Open Pit, Tiger",", Keno Hill","Silver, Copper, gold, Lead, Zinc, mining","Measured and Indicated, operational, planned",
+patented claims,"Republic, Washington, Montana, Admiralty Island near Juneau in southeast Alaska","Private or BLM administered land, Private or USFS administered land, Hecla Mining Company","Au, Ag Vein, Ag, Cu, Cu Sediment Hosted - Stratabound, silver, zinc, gold and lead","permit work in progress, Exploration Underground, operational",
+plant,"Yukon, Canada, Lucky Friday Mine, Idaho, USAA., Casa Berardi","Hecla Mining Company, Company, Keno Hill","silver and zinc concentrates, gold, metals (base and precious), silver, lead, zinc, silver, zinc, lead","operational, operational","Canada, USA"
+ports,"Canada, Mexico",Government/Company,shipping,operational,"Canada, Mexico"
+power sources,"Canada, Mexico",Government/Company,energy,operational,"Canada, Mexico"
+quartz mineral claims,"Canada Yukon, central Yukon Territory, Canada",", Hecla Mining Company","Au, Au Carbonate hosted/replacement, silver, lead, zinc","Exploration Open Pit/Undergournd, operational",Canada
+resources,,,gold,,
+roads,"Canada, Mexico, not specified","Government/Company, Hecla Mining Company","transportation, metals",operational,"Canada, Mexico"
+roaster and autoclave facility,Nevada,Hecla Mining Company,"refractory ore, gold ore",operational,
+rock creek,"12, 27, Rock Creek (25), USA, Montana, Rock Creek, USA Montana","100.0 %, Hecla Mining Company, Hecla Montana, Inc.","Au, Ag, Silver, Cu, Gold","Exploration, Operational",USA
+royalty interests and land at our operations,"Lucky Friday, Casa Berardi, Nevada, Greens Creek, San Sebastian",Hecla Mining Company,"Silver, gold, lead, zinc",,
+sag mill,"Casa Berardi, Casa Berardi Mine, Lucky Friday Mine, Idaho, USAA., Yukon Territory, Canada","Hecla Quebec Inc., Company, Hecla Mining Company","gold, silver, lead, zinc, Silver and Gold","operational, operational, Under Construction","USA, Canada"
+san juan silver,"12, 25, San Juan Silver (23), USA, Colorado, San Juan Silver, USA Colorado",100.00%,"Ag, Pb, Zn, Silver",Exploration,USA
+san sebastian mine,"San Sebastian, Mexico, Durango, , Mexico Durango, USA","Company name not specified, Hecla Mining Company, 100.0 %,","unknown, Ag, Au, Cu, Pb, Zn, silver, gold, Mining, Lead, Zinc, Copper","operational, end-of-life, Exploration, care-and-maintenance, End-of-life (implied by reclamation costs), Measured and Indicated, Inferred","Mexico, USA"
+smelters,USA,Hecla Mining Company,"concentrates, metals",operational,USA
+star,"12, 23, Star, Star (21), USA, Idaho, USA Idaho",100.00%,"Ag, Zn, Pb, Silver, Gold, Lead, Zinc, Copper","Exploration, Measured and Indicated, operational",USA
+tailings impoundment areas,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+tailings storage facilities,"Casa Berardi, not specified, Greens Creek, Lucky Friday, Admiralty Island near Juneau in southeast Alaska","Hecla Mining Company,","gold, metals, silver, lead, zinc, Minerals, mineral resources, mining, gold and lead","under construction, operational, Planned expansion",
+tiger underground,"Tiger Underground, Tiger, Tiger Open Pit, Casa Berardi",", Hecla Mining Company","Silver, Gold","Measured and Indicated, operational",
+unpatented lode claims,"Nevada, Aurora, Montana, USA, Admiralty Island near Juneau in southeast Alaska","Private or USFS administered land, Hecla Mining Company","Ag, Zn, Pb, Au, Ag Vein, Cu, Cu Sediment Hosted - Stratabound, silver, zinc, gold and lead","Exploration Underground/Open Pit, Exploration Underground, operational",USA
+water supply,"Canada, Mexico",Government/Company,resource,operational,"Canada, Mexico"
+val-d’or trade school,Val-d’Or,not specified,training,operational,
+stormwater management infrastructure,not specified,Hecla Mining Company,metals,operational,
+refiners,,,concentrates,,
+concentrates production,,", Hecla Mining Company","concentrates, silver, gold, lead, zinc",operational,
+mineralization,San Sebastian,,mining,planned,
+waste rock and mine water management,Hollister in Nevada,,mining,planned,
+historical mining area,Keno Hill,,mining,planned,
+claim holdings,Idaho,Private or USFS administered land,"Au, Ag Vein Silver Valley",Exploration Underground,
+ore concentrating mill,Admiralty Island near Juneau in southeast Alaska,Hecla Mining Company,"silver, zinc, gold and lead",operational,
+ship-loading facility,Admiralty Island near Juneau in southeast Alaska,Hecla Mining Company,"silver, zinc, gold and lead",operational,
+ferry dock,Admiralty Island near Juneau in southeast Alaska,Hecla Mining Company,"silver, zinc, gold and lead",operational,
+other related infrastructure,"Admiralty Island near Juneau in southeast Alaska, USA",Hecla Mining Company,"silver, zinc, gold and lead, metals concentrates",operational,USA
+58 unpatented millsite claims,"Admiralty Island near Juneau in southeast Alaska, USA",Hecla Mining Company,"silver, zinc, gold and lead",operational,USA
+road right-of-way,Admiralty Island near Juneau in southeast Alaska,Leased from the USFS,"silver, zinc, gold and lead",operational,
+mine waste area and tailings storage facility,"Admiralty Island near Juneau in southeast Alaska, Greens Creek, Lucky Friday","Leased from the USFS, , Hecla Mining Company","silver, zinc, gold and lead, Minerals, mineral resources, mining","operational, Planned expansion, under construction",
+"7,301 acres of federal land",Admiralty Island near Juneau in southeast Alaska,Owned by the company,"silver, zinc, gold and lead",exploring,
+drill rigs,Greens Creek,Not specified,"Silver, Gold, Lead, Zinc",Operational,
+mine and mill complex,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+support facilities and infrastructure,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+high intensity leaching and electrowinning,"Casa Berardi, Casa Berardi Mine",Hecla Quebec Inc.,gold,operational,
+surface drilling equipment,"East Mine areas, not specified, Casa Berardi, unspecified","Company (implied), Hecla Mining Company,","gold, various, silver, lead, zinc, minerals","operational, operational/under construction",
+mineral deposits,,Hecla Mining Company,minerals,"operational, under construction, end-of-life",
+carbon material,Nevada Operations,"Hecla Mining Company, The company","silver, gold, silver, gold","operational, operational",
+doré,,Hecla Mining Company,"silver, gold",operational,
+concentrate storage building,Greens Creek mine,Hecla Mining Company,lead processing,operational,
+on-site laboratories,Greens Creek mine,Hecla Mining Company,laboratory testing,operational,
+facilities at various locations within the historical keno hill site,historical Keno Hill site,ERDC (as a paid contractor for Yukon Government),environmental remediation,under construction,
+the former troy mine in montana,"Montana, New Mexico, Troy mine","Hecla Mining Company, Company name not specified","mining, unknown","end-of-life, operational, End-of-life (implied by reclamation costs)",Mexico
+transportation infrastructure (marine),"Greens Creek, Keno Hill, Casa Berardi",Third parties,Minerals,operational,
+mining facility,Alaska,Hecla Limited or Hecla Mining Company,metals,operational,
+libby exploration site,"Montana, Libby Exploration","Hecla Montana, Inc.,",Silver,under construction,
+it systems,Not specified,Hecla Mining Company,,Vulnerable,
+corporate offices,"Coeur d’Alene, Idaho; Vancouver, British Columbia; Juneau, Alaska; Wallace, Idaho; Val dOr, Quebec; Durango, Mexico and Whitehorse, Yukon",Hecla Mining Company,,operational,Mexico
+"""ramp""","Lucky Friday Mine, Idaho, USAA., central Yukon Territory, Canada","Company, Hecla Mining Company","ore, silver, lead, zinc","under construction, operational","USA, Canada"
+"""manway raise""","Lucky Friday Mine, Idaho, USAA.",Company,ore,under construction,USA
+"""ventilation raise""","Lucky Friday Mine, Idaho, USAA.",Company,ore,under construction,USA
+quartz mining leases,"central Yukon Territory, Canada, Mexico",Hecla Mining Company,"silver, lead, zinc",operational,"Canada, Mexico"
+crown grants,"central Yukon Territory, Canada",Hecla Mining Company,"silver, lead, zinc",operational,Canada
+intersection,"central Yukon Territory, Canada",Hecla Mining Company,"silver, lead, zinc",operational,Canada
+lift,"central Yukon Territory, Canada",Hecla Mining Company,"silver, lead, zinc",operational,Canada
+cyanidation processing mill,Casa Berardi Mine,Hecla Quebec Inc.,gold,operational,
+secondary crushing circuit,Casa Berardi,Keno Hill,"silver, zinc, lead, gold",operational,
+crusher modifications,Keno Hill,,"silver, lead, zinc",operational,
+camp upgrades,"Keno Hill, Admiralty Island near Juneau in southeast Alaska",", Hecla Mining Company","silver, lead, zinc, gold and lead",operational,
+secondary egress,Lucky Friday,,"silver, lead, zinc",under construction,
+la choya mine,Mexico,Hecla Mining Company,mining,operational,Mexico
+equipment at operations,unspecified,Hecla Mining Company and certain of its subsidiaries,unspecified,operational,
+"trucks, shovels, tires","unspecified, not specified",Hecla Mining Company,"various (including mining and transportation), various","operational, operational/under construction",
+tailings and waste disposal areas,Alaska,Hecla Mining Company,mining wastes,operational,
+deposit,Casa Berardi,Hecla Mining Company,gold,operational,
+"\'concentrates (containing silver, gold, lead, zinc)\","Casa Berardi, San Sebastian",The company,"silver, gold, lead, zinc, gold","operational, end-of-life",
+republic,Republic,Hecla Mining Company,Mining,End-of-life (implied by reclamation costs),

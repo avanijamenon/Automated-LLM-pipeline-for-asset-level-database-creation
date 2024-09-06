@@ -1,0 +1,341 @@
+physical asset,location,ownership,commodity,status,Countries
+"""facilities""","Zacatecas, Mexico, Mexico, Chile, Peru, Cajamarca region, Cuajone, IMMSA, Mexican, Taxco mine, San Martin mine, Toquepala, existing production property, Toquepala Mine, Italy, Other European countries, China, Japan, Asia, La Caridad, Buenavista, Cananea mining district in the north-central part of the State of Sonora, unspecified, La Caridad operations, Moquegua region","Southern Copper Corporation, Mexican IMMSA, SPCC Peru Branch, Mitsui, Molymet Group, Molymex S.A., Marcobre, Industrial Minera Mexico, S.A. de C.V., Mexicana de Cobre, Grupo Mexico, Asarco LLC (subsidiary of Grupo Mexico), Minera Mexico, , Golder Associates USA Inc., Tierra Group International","extractive activities, emissions of certain gases to the atmosphere, emissions of polluting substances to the soil or water, waste storage, Copper, zinc, lead, silver, gold, molybdenum, copper cathodes, molybdenum concentrates, sulfuric acid, Mining, production, minerals, copper concentrates and rod, zinc and other metals, metals, copper and molybdenum, mineral extraction, processing, manufacturing, transportation, transportation of goods, Shipping of copper and by-products, copper concentrate","operational, Operational, Exploration Stage, end-of-life, not specified,","Mexico, Chile, China, Italy, Japan, Peru"
+18 mining concessions,"Michiquillay Rural Community and the Encañada Rural Community, Michiquillay Rural Community, Encañada Rural Community, Peru, Mexico, Chile, Argentina, Ecuador","Southern Copper Corporation, The Mexican government, Ministry of Energy and Mines (“MINEM”), Ministry of Economy, government of Peru, government of Mexico, Peru Mining Exploration & Development Company (subsidiary of Grupo Mexico), Concession from Peruvian government, Concession from Mexican government, Peru Mining Exploration & Development Company","copper, molybdenum, gold, Metallic and non-metallic minerals, Mineral resources, mineral reserves, mining","exploration stage, In full force and effect, operational, not specified","Argentina, Chile, Ecuador, Mexico, Peru"
+\'concentrator\,", Cuajone, Toquepala, La Caridad (Mexico), Santa Eulalia, La Caridad, La Caridad mine, La Caridad 91 Table of Contents copper concentrator, Peru, Andes Range in southern Peru, Buenavista, Baja California, Apurimac, Cajamarca, Cuajone, La Caridad complex, Not specified, various open-pit and underground mine sites, Buenavista-Zinc Concentrator, Mexican projects, Cananea mining district in the north-central part of the State of Sonora, Mexico","Minera Mexico, SPCC Peru Branch, Southern Copper Corporation, Minera Mexico, private ownership, Buenavista unit, Buenavista, private ownership and agreements with local ejidos, Not specified,","copper, Copper, copper-molybdenum, molybdenum, lead, zinc, iron sulfides, gold, silver, copper and molybdenum concentrates, ore, mineral processing","operational, production stage, operational, suspended, operational, under construction","Mexico, Peru"
+\'cuajone\,"Peru, Cuajone, Peru, Andes Mountains (Peru), Cuajone (Peru), Moquegua region, Cuajone area",", Southern Copper Corporation, IMMSA, , SPCC Peru Branch","Copper, Molybdenum, copper, Molybdenum, Copper ore, Silver, minerals",", operational, production stage",Peru
+\'el arco mill\,"Mexico, Mexico, Peru, El Arco Mill, Santa Barbara, El Pilar, Pilares Mill, Cuajone, Toquepala, Buenavista Mill, La Caridad Mill, El Pilar Property",", , Recursos Stingray de Cobre S.A de C.V.","Copper, Molybdenum, Silver, Copper, Gold, Molybdenum, Copper and Molybdenum",", operational","Mexico, Peru"
+"\'facilities (mining, smelting, refining)\","Peru, Mexico, Peru, Mexico, Cananea mining district in the north-central part of the State of Sonora, unspecified","Grupo Mexico through its wholly-owned subsidiary Americas Mining Corporation (“AMC”) , Southern Copper Corporation, , Minera Mexico, Grupo Mexico through its wholly-owned subsidiary Americas Mining Corporation (“AMC”)","copper and other minerals, Copper, Molybdenum, Zinc, Silver, mineral extraction, minerals, copper and other metals, gold, lead, copper and other minerals",", operational","Mexico, Peru"
+\'toquepala\,"Peru, Peru, Andes Mountains (Peru), Toquepala, Toquepala mine, Toquepala (Peru)",", , Southern Copper Corporation, SX - EW, IMMSA, Tierra Group International","Copper, Molybdenum, Copper, Silver, Molybdenum, copper refined, Mining",", Operational",Peru
+a water storage dam and reservoir,El Arco,"Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners","copper, copper and molybdenum",under construction,
+a zinc refinery,"Peru, not specified, La Caridad, La Caridad complex, San Luis Potosi, Ilo (Peru), Peru and Mexico, Buenavista zinc plant, Mexico, Cananea mining district, Sonora Basin and Range Province of northern Mexico","Industrial Minera Mexico, S.A. de C.V., Grupo Mexico S.A.B. de C.V., IMMSA unit, private ownership, private ownership and agreements with local ejidos, Southern Copper Corporation, Minera Mexico, Buenavista del Cobre, not specified","zinc, copper, molybdenum, silver, gold, lead, zinc concentrate, refined zinc, sulfuric acid, refined silver, refined gold, refined cadmium","operational, Measured, Indicated, Inferred, under construction","Peru, Mexico"
+acid plant,"San Luis Potosi, San Luis Potosi zinc refinery, La Caridad, Ilo smelter plant, La Caridad complex, La Caridad metallurgical complex, Peruvian projects","Southern Copper Corporation, , private ownership, OMIMSA I, OMIMSA II, IMMSA, , SPCC Peru Branch","zinc concentrate, refined zinc, zinc-based alloys with aluminum, lead, copper or magnesium, refined silver, gold, zinc, sulfuric acid, none, sulfur, copper concentrate, Copper","operational,",Peru
+administration building,El Arco,"Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners","copper, copper and molybdenum",under construction,
+andesites,"Sonora Basin and Range Province of northern Mexico, Sierra Cobriza area",,"copper, molybdenum",,Mexico
+anode furnace,"smelter, Ilo, Ilo smelter plant, La Caridad, La Caridad complex","unspecified, our facilities, Southern Copper Corporation, OMIMSA I, OMIMSA II, IMMSA,","copper, blister copper, copper concentrate, anodic slimes",operational,
+anode washing machine,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA","none, copper",operational,
+apartments,"townsites in Peru, Toquepala townsite, Cuajone townsite, Nacozari and Cananea",Southern Copper Corporation,"residential, housing",operational,Peru
+ball mills,"Buenavista, Toquepala, Toquepala mine","Buenavista unit, Buenavista, Southern Copper Corporation, The company operating Toquepala mine,",Copper,operational,
+banks,"Toquepala townsite, Cuajone townsite",Southern Copper Corporation,financial services,operational,
+berms,"Toquepala, Toquepala mine","Southern Copper Corporation, The company operating Toquepala mine",Copper,Operational,
+blister ilo,"Peru, Ilo smelter plant",", Southern Copper Corporation","silver, Copper",operational,Peru
+boilers,"mining sites and processing plants, Coahuila, Mexico, outskirts of the city of Nueva Rosita near the Texas border, Unspecified",Southern Copper Corporation,"energy generation, steam for by-product plant, energy, power generation, steam","operational, closed since 2017, closed since September 2017",Mexico
+buena tierra mine,Santa Eulalia,Southern Copper Corporation,"lead, zinc, copper, iron sulfides, gold, silver",operational,
+buenavista,"Buenavista, Mexico, Peru, Mexico, Buenavista-Zinc Concentrator, Mexican projects, Sonora","Southern Copper Corporation, SX-EW, , SX - EW, , Buenavista del Cobre S.A. de C.V (BVC)","copper, Silver, Zinc, Copper, Molybdenum, copper sulfate solution","operational, , under litigation","Mexico, Peru"
+buenavista cu plant,Mexico,,Copper,operational,Mexico
+buenavista new tailings dam,"Mexico, Toquepala and Cuajone, Buenavista mine, Mexican projects","Southern Copper Corporation, SCC’s Peruvian Branch, Buenavista del Cobre S.A. de C.V.","tailings, copper sulfate solution, Copper","Operational, operational?, under construction",Mexico
+by-product plant,"Coahuila, Mexico, outskirts of the city of Nueva Rosita near the Texas border",Southern Copper Corporation,"by-products (tar, ammonium sulfate, light crude oil), tar, light crude oil","closed since 2017, closed since September 2017",Mexico
+calcine processing area,"San Luis Potosi, San Luis Potosi zinc refinery",Southern Copper Corporation,"zinc concentrate, refined zinc, zinc-based alloys with aluminum, lead, copper or magnesium, refined silver, gold",operational,
+callazas dam,"Candarave province, unspecified, Quebrada Honda, Sonora River basin","Southern Copper Corporation, BVC","irrigation, water management, water, water storage and management","under construction, in planning stages, in progress",
+capital expenditures,,,,,
+capital investments,"Mexican, Peruvian, Mexican operations, Peruvian operations","Company’s Mexican subsidiary, Company’s Peruvian subsidiary",,"Under Construction, Operational",Peru
+casting wheels,"smelter, Ilo smelter plant, Unspecified","our facilities, Southern Copper Corporation","copper anode, Copper, metallurgical processes",operational,
+cathode stripping machines,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA","none, copper",operational,
+cells,"Buenavista mine, Plant II, Plant III, La Caridad, La Caridad complex, Buenavista, Plant I, Toquepala, Toquepala mine, Cuajone pit","not specified, , OMIMSA I, OMIMSA II, IMMSA, Buenavista unit, Southern Copper Corporation, The company operating Toquepala mine, Buenavista","copper cathodes, zinc, silver, copper, copper and molybdenum minerals, copper-molybdenum",operational,
+chemical and water solution,,Southern Copper Corporation,copper-molybdenum,,
+churches,"townsites in Peru, Toquepala townsite, Cuajone townsite",Southern Copper Corporation,religious services,operational,Peru
+coal washing plant,"Coahuila, Mexico, outskirts of the city of Nueva Rosita near the Texas border",Southern Copper Corporation,coal,suspended,Mexico
+concentrators,"Toquepala, Toquepala mine, Buenavista mining unit in the Cananea mining district, Toquepala operations area, Cananea mining district in the north-central part of the State of Sonora, Mexico, Southern Peru, 150 km by road from the city of Tacna, 30 kilometers from Cuajone, 17° 3.130’S latitude and 70° 44.499’W longitude, Buenavista, Peru and Mexico","Southern Copper Corporation, The company operating Toquepala mine, SPCC Peru Branch, Minera Mexico, Grupo Mexico S.A.B. de C.V., S.A. de C.V.","Copper, Molybdenum, gold, mining, zinc, silver, lead",Operational,"Mexico, Peru"
+converter,,,copper,operational,
+converters,"smelter, Ilo, Ilo smelter plant","our facilities, unspecified, Southern Copper Corporation","copper matte, copper concentrate, copper",operational,
+copper,"Mexico, USA, Peru, Buenavista mine, refinery, Asia, Chile, Argentina, La Caridad, La Caridad complex, smelter, Ilo smelter plant, La Caridad complex","Mexican IMMSA, Peruvian Corporate, unspecified, Mitsui, Southern Copper Corporation, Buenavista del Cobre, private ownership, private ownership and agreements with local ejidos, OMIMSA I, OMIMSA II, IMMSA, Grupo Mexico, Owned by OMIMSA I and OMIMSA II concentrators, , Private ownership, Asarco LLC","Copper, molybdenum, zinc, copper rods, Copper products, Copper concentrates, copper, Copper production","operational, Under construction, operational","Mexico, Peru, USA, Argentina, Chile"
+copper leaching process equipment,not specified,Southern Copper Corporation,copper,operational,
+crushing circuit,"Toquepala, La Caridad mine, Buenavista","Southern Copper Corporation, Buenavista unit, Buenavista,","Copper, copper ore, molybdenum",Operational,
+cularjahuira dam,"Candarave province, unspecified, Quebrada Honda, Sonora River basin","Southern Copper Corporation, joint investment between the Company, government authorities and the highland community of Camilaca, BVC","irrigation, water management, water, water storage and management","operational, completed, in progress, under construction",
+dams,"Buenavista, Buenavista mine, Peru, area used by the Peruvian Branch, Mexico and Peru, Tacna","Buenavista unit, not specified, Southern Copper Corporation, SCC’s Peruvian Branch","copper, copper cathodes, minerals, tailings from the Toquepala and Cuajone operations, tailings from Toquepala and Cuajone operations, water","operational, under construction","Mexico, Peru"
+database for geotechnical drillholes,Not specified,Not specified,geotechnical data storage,operational,
+derivative instruments,,Southern Copper Corporation,natural gas,operational,
+diamond drilling program,"Atacama Region, Province of Huasco, Cuenca city, Neuquen province, Salta, Rio Negro and Neuquen provinces, San Juan and Rio Negro provinces, Catamarca province, Rio Negro province",,"copper porphyry, copper-molybdenum porphyry system, copper porphyry with precious metals epithermal systems, silver-gold epithermal systems, low sulfidation epithermal deposit",operational,
+diamond exploration tools,,,copper,operational,
+digital inclinometer,,,copper and molybdenum,operational,
+dore casting system,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA","gold and silver alloy, silver, silver ingots",operational,
+drilling equipment,"Peru, Mexico, Argentina, Chile, Ecuador, Buenavista mine, existing production property, USA, Spain, Sonora, Peruvian, mining sites, central and northern Mexico, La Caridad, Toquepala, Buenavista, Peru and Mexico, Cananea mining district in the north-central part of the State of Sonora, La Caridad Mine, Singapore, Other Asian countries, Michiquillay Rural Community, Encañada Rural Community, Cuajone operations, Toquepala Mine and Quebrada Honda","Southern Copper Corporation, Golder Associates USA Inc., Peruvian Corporate, Industrial Minera Mexico, S.A. de C.V., Mexicana de Cobre, MEXICAN IMMSA UNIT, Grupo Mexico, S.A. de C.V. (IMMSA), Minera Mexico, SPCC Peru Branch, Inersia company","copper, molybdenum, silver, zinc, lead, Mining, and other metals, critical parts, -, copper and molybdenum, power, other metals, metals, gold, mining","operational, satisfactory operating condition, exploration stage, operational, Under construction","Argentina, Chile, Ecuador, Mexico, Peru, Spain, Singapore, USA"
+effluent and dust treatment plant,"La Caridad complex, La Caridad, La Caridad complex","Southern Copper Corporation, Owned by OMIMSA I and OMIMSA II concentrators, OMIMSA I, OMIMSA II, IMMSA, Private ownership","waste products, Copper concentrates, waste water and dust, smelter dusts, smelter dust","operational, operational",
+eight digital extensometers,,,Waste rock deposits,,
+el pilar,"Mexico, El Pilar, Peru, 45 kilometers from Buenavista mine, Sonora, Peru","Southern Copper Corporation,","Molybdenum, copper, copper oxide mineralization, Molybdenum","under construction,","Mexico, Peru"
+electrical substations,different areas of mining operation,,electricity,operational,
+electricity,"Peru, Mexico","Electroperu S.A., Kallpa Generacion S.A., Grupo Mexico",power generation,operational,"Mexico, Peru"
+electrolytic copper refinery,"La Caridad complex, La Caridad, Ilo refinery, San Luis Potosi, Ilo (Peru), Peru and Mexico, Peru","OMIMSA I, OMIMSA II, IMMSA, Southern Copper Corporation, Owned by OMIMSA I and OMIMSA II concentrators, private ownership, private ownership and agreements with local ejidos, our facilities, Minera Mexico, S.A. de C.V.","copper anodes, copper concentrates, copper, zinc, molybdenum, silver, gold, lead",operational,"Mexico, Peru"
+electrolytic extraction tanks,"Buenavista, Plant I, Buenavista mine, surface",", Buenavista unit, not specified","copper, zinc, copper cathodes, fuel",operational,
+engineering studies,Peru,Southern Copper Corporation,Copper,Under construction,Peru
+environmental impact study (eis),Peru,Southern Copper Corporation,Copper,Under construction,Peru
+exploration and exploitation of copper and other metal reserves,,Southern Copper Corporation,"copper and other metals, copper, molybdenum, zinc, silver",operational,
+exploration sites,"Chile, Argentina, Ecuador",Southern Copper Corporation,copper,"operational, under construction","Argentina, Chile, Ecuador"
+"facilities (implied - leaching pads, waste disposal areas, offices, warehouses)","Sonora, Mexico",Recursos Stingray de Cobre S.A de C.V.,"Copper, Molybdenum",Under construction (implied - project development),Mexico
+filter,,Southern Copper Corporation,copper-molybdenum,,
+five underground mines,"Peru, Mexico, not specified, southern part of Peru","IMMSA unit, commodity: [zinc, lead, copper, silver, gold], status: operational], [asset: a zinc refinery, location: Peru, ownership: IMMSA unit, Industrial Minera Mexico, S.A. de C.V., Southern Copper Corporation, Grupo Mexico S.A.B. de C.V., IMMSA unit, Minera Mexico","zinc, lead, copper, silver, gold, molybdenum, zinc, lead, copper, silver, gold, poly-metallic",operational,"Mexico, Peru"
+flotation plant,"municipality of Sombrerete in the northwestern part of the state of Zacatecas, Mexico, Santa Barbara mining complex, Taxco, Sombrerete municipality, Sombrerete municipality in the northwestern part of the state of Zacatecas, Toquepala, Toquepala mine, Cuajone pit, Buenavista, La Caridad mine, concentrator plant, various open-pit and underground mine sites, La Caridad metallurgical complex","IMMSA, Southern Copper Corporation, not specified, The company operating Toquepala mine, Buenavista, Buenavista unit, unspecified, Minera Mexico, ,","lead, copper and zinc concentrates, with significant amounts of silver, zinc, gold, silver, copper, copper and molybdenum minerals, copper-molybdenum, copper ore, molybdenum, copper concentrate","operational, on strike,",Mexico
+flotation separator (molybdenum),concentrator plant,", Southern Copper Corporation, unspecified","molybdenum, copper, copper-molybdenum, copper ore",operational,
+four open-pit copper mines,"Peru, Mexico, Chile, Argentina, Andes Range in southern Peru, El Arco, Buenavista, Toquepala, Southern Peru, 150 km by road from the city of Tacna, 30 kilometers from Cuajone, 17° 3.130’S latitude and 70° 44.499’W longitude, southern part of Peru, La Caridad, La Caridad mine, Coahuila, outskirts of the city of Nueva Rosita near the Texas border, Baja California, Apurimac, Cajamarca, La Caridad complex, Andes Mountains","Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, Minera Mexico, Grupo Mexico S.A.B. de C.V., SPCC Peru Branch, private ownership, private ownership and agreements with local ejidos","copper, copper and molybdenum, copper ore, copper and molybdenum ore, coal, molybdenum, gold, silver, zinc, lead, minerals","operational, Under construction, suspended","Peru, Argentina, Chile, Mexico"
+fuel,"Peru, Mexico, surface","Valero Peru, PEMEX,","metallurgical processes, fuel",operational,"Mexico, Peru"
+generators,"mining sites and processing plants, Mexico, Unspecified",Southern Copper Corporation,"energy generation, energy, power generation",operational,Mexico
+gold mine,Mexico,Southern Copper Corporation,Gold,,Mexico
+heap leach dumps,"Toquepala, El Arco, Buenavista",", Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, Not specified, Buenavista unit, Buenavista","Copper, copper and molybdenum","Under Construction, operational",
+high voltage power line,"El Pilar Property, from the site to connect with the high voltage power lines accessible in Nogales, which is 28 km northwest of the property, 3 km to the south, in the village of Miguel Hidalgo","Recursos Stingray de Cobre S.A de C.V., unknown, Southern Copper Corporation","Copper, Molybdenum, mining and processing operations","Under construction (implied - project development), under construction, operational",
+houses,"townsites in Peru, Toquepala townsite, Cuajone townsite, Ilo, Nacozari and Cananea",Southern Copper Corporation,"residential, housing",operational,Peru
+hydrogeological study,Toquepala mine,", Not specified",hydrogeological investigation,completed,
+hydrothermal breccias,"Sonora Basin and Range Province of northern Mexico, Sierra Cobriza area",,"copper, molybdenum",,Mexico
+ibis arcsar radar,"Toquepala Pit, Toquepala mine",Not specified,"pit slope monitoring, slope stability monitoring",operational,
+ilo refinery,"coastal city of Ilo (Peru), Ilo, Ilo (Peru), Peru and Mexico, southern part of Peru","Southern Copper Corporation, Minera Mexico, S.A. de C.V., ours","copper, molybdenum, zinc, silver, gold, lead, copper","operational, operational","Peru, Mexico"
+immsa,"IMMSA, Mexico","Southern Copper Corporation, IMMSA, Not specified","copper, zinc",operational,Mexico
+indicated mineral resources,Santa Eulalia,", La Caridad, Southern Copper Corporation","Copper, Molybdenum, Silver, Zinc, Lead, iron sulfides, gold","Indicated, Inferred, Measured, Operational, Measured mineral resources, Indicated mineral resources, Inferred mineral resources, reported",
+induction furnace,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA,","silver, fine silver, copper",operational,
+industrial railroad,"Peru, Ilo, between Toquepala and Cuajone to Ilo smelter plant, 3 km south of the deposit, Buenavista,","Southern Copper Corporation, Grupo Mexico, our facilities, unknown, Buenavista unit, ours","copper, transportation, transportation of goods, Transportation of copper and by-products, copper concentrate, mining and processing operations, copper","operational, operational",Peru
+infrastructure,"Peru, Mexico, Mexican, Open-pit Unit, Buenavista, Oaxaca, Buenavista Mine, between La Caridad complex and mines, Tacna region","Southern Copper Corporation, Grupo Mexico, Grupo Mexico Servicios de Ingenieria, S.A. de C.V.","Copper, Mining, molybdenum, power, zinc, copper concentrates, infrastructure development","operational, under construction, completed","Mexico, Peru"
+intangible assets,,Southern Copper Corporation,,,
+inventory,,Southern Copper Corporation,"Metals at average cost (Finished goods, Work-in-process), Metals",Operational,
+irrigation systems,"Buenavista, Buenavista mine, Tacna region, Sonora, Mexico","Buenavista unit, not specified, Southern Copper Corporation","copper, copper cathodes, water management, mining","operational, completed, under construction",Mexico
+isasmelt furnace,"smelter, Ilo","our facilities,","copper concentrate, copper",operational,
+kaldo furnace,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA,","gold and silver alloy, copper",operational,
+la caridad,"La Caridad, Mexico, Mexico, Peru, Sonora","Southern Copper Corporation, IMMSA, , Minera Mexico, SX - EW, , held by company","copper, Silver, Zinc, mining operations, Copper, Molybdenum, Molybdenum","operational,","Mexico, Peru"
+la tapada deposit,"Peru, Peru, La Tapada","IMMSA, , not specified","copper, Copper","undefined, , inferred, measured, indicated",Peru
+leach material,"Peruvian and Mexican operations, Peru and Mexico, Cuajone","Southern Copper Corporation,",copper,operational,"Mexico, Peru"
+leach pads,"main mining operations, Toquepala, La Caridad, Buenavista, Mexico, Peru, Mexican operations, Mexican mining operations, Pilares project","Southern Copper Corporation, Southern Copper Corporation and Subsidiaries,","copper, Metals at average cost, Metals, copper concentrate","operational, Under construction,","Mexico, Peru"
+leach plant,"San Martin, El Arco Leach, Pilares Leach, Toquepala, Mexico, Peru, Mexico, La Caridad metallurgical complex","Buenavista del Cobre, Southern Copper Corporation, ,","copper, Molybdenum, zinc, Copper, copper concentrate","operational, Measured, Indicated, Inferred, Under construction,","Mexico, Peru"
+leaching dumps,"La Caridad mine, Peruvian and Mexican operations, Peru and Mexico, mine pit, Buenavista, Toquepala","Southern Copper Corporation, unspecified, Not specified, Buenavista unit, Buenavista","low-grade copper ore, copper, leaching ore",operational,"Mexico, Peru"
+leaching tanks,surface,,"copper, zinc, fuel",operational,
+lease right-of-use assets,,,,,
+leased assets,"Peru, Mexico",Southern Copper Corporation,Mining,Operational,"Mexico, Peru"
+lima office complex,Lima,Southern Copper Corporation,,operational,
+lime plant,"La Caridad, La Caridad mine, Sonora, Mexico, La Caridad complex, La Caridad metallurgical complex, Mexican projects","private ownership, Southern Copper Corporation, private ownership and agreements with local ejidos,","lime, copper, fuels, copper concentrate","operational, under construction,",Mexico
+limestone plant,Mexico,Southern Copper Corporation,copper production,operational,Mexico
+long-lived assets,,", Southern Copper Corporation","copper, molybdenum",operational,
+machinery and equipment,"Peru and Mexico, Peru, Mexico, USA, Spain, Sonora, Peruvian, mining sites, central and northern Mexico, La Caridad, Toquepala, Buenavista, Cananea mining district in the north-central part of the State of Sonora, La Caridad Mine, Singapore, Other Asian countries, Cuajone operations","Southern Copper Corporation, Company and Minera Mexico subsidiary, Peruvian Corporate, Industrial Minera Mexico, S.A. de C.V., Mexicana de Cobre, MEXICAN IMMSA UNIT, Grupo Mexico, S.A. de C.V. (IMMSA), Minera Mexico, SPCC Peru Branch","copper, molybdenum, zinc, silver, Mining, and other metals, critical parts, -, copper and molybdenum, power, other metals, metals, mining","operational, satisfactory operating condition, operational","Mexico, Peru, Spain, Singapore, USA"
+main 230 kv electrical substation,"El Arco, Central Mesa of Mexico, Sombrerete municipality in the northwestern part of the state of Zacatecas, Mexico","Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, IMMSA","copper, copper and molybdenum, mining, lead, copper and zinc concentrates, with significant amounts of silver","under construction, operational",Mexico
+maptek xr3 scanner,"La Caridad mine, La Caridad","Southern Copper Corporation, Not specified","Mining, mining","being used, operational",
+marine terminal,"Guaymas, Sonora, Mexico, Guaymas, Sonora","Southern Copper Corporation, The Company","sulfuric acid, sulfuric acid","Operational, under temporary shutdown, operational",Mexico
+marine trestle,"Ilo smelter plant, Ilo","our facilities, Southern Copper Corporation",sulfuric acid,operational,
+medical facilities,"townsites in Peru, Toquepala townsite, Cuajone townsite",Southern Copper Corporation,healthcare,operational,Peru
+metallurgic plants,"Sonora, Mexico, Peru, central and northern Mexico","Southern Copper Corporation, MEXICAN IMMSA UNIT","fuels, copper, -, Electricity","operational, satisfactory operating condition","Mexico, Peru"
+mexican operations,Mexico,"Southern Copper Corporation, Not specified","operations, copper",operational,Mexico
+michiquillay copper project,"Cajamarca, Peru, Cajamarca region",Southern Copper Corporation,"copper, molybdenum, gold, silver","under construction, preoperational",Peru
+mill complex and oxide fine crushing facilities,El Arco,"Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners","copper, copper and molybdenum",under construction,
+mill plant,"Mexico, Peru, Santa Barbara, El Arco Mill, El Pilar, Pilares Mill, Cuajone, Toquepala, Buenavista Mill, La Caridad Mill, El Pilar Property, Mexico, La Caridad metallurgical complex",", Recursos Stingray de Cobre S.A de C.V.,","Copper, Molybdenum, Gold, Silver, Copper and Molybdenum, Copper, copper concentrate","operational,","Mexico, Peru"
+mill section,"concentrator plant, Santa Barbara, El Arco Mill, El Pilar, Pilares Mill, Cuajone, Toquepala, Buenavista Mill, La Caridad Mill, El Pilar Property","unspecified, Recursos Stingray de Cobre S.A de C.V.","copper ore, copper, Molybdenum, Copper and Molybdenum",operational,
+mill sections,"various open-pit and underground mine sites, Santa Barbara, El Arco Mill, El Pilar, Pilares Mill, Cuajone, Toquepala, Buenavista Mill, La Caridad Mill, El Pilar Property","Minera Mexico, Recursos Stingray de Cobre S.A de C.V.","copper, zinc, lead, Molybdenum, Copper and Molybdenum",operational,
+minas,Mexico,,"Copper, Molybdenum, Silver, Gold, Zinc",Operational,Mexico
+mine,"Toquepala, La Caridad district, eastern section of the Sonora Basin and Range Province, northern Mexico, Sierra Cobriza area, west of the town of Nacozari, El Pilar - Sonora, Cuajone, Peru, Andes Mountains (Peru), Mexico, La Caridad, Buenavista, Sonora, Mexican projects, municipality of Sombrerete in the northwestern part of the state of Zacatecas, Sombrerete municipality, Moquegua region, Toquepala Mine","Southern Copper Corporation, Not specified, Minera Mexico, The Mexican government (concessions), IMMSA, Buenavista del Cobre S.A. de C.V (BVC), Tierra Group International","Copper, Molybdenum, copper oxide mineralization, mining operations, Mineral reserves, Silver, lead, copper and zinc concentrates, with significant amounts of silver, zinc, copper sulfate solution, minerals, Mining","operational, operational, in full force and effect, under construction, under litigation","Mexico, Peru"
+mine locations,"Peru, Mexico",Southern Copper Corporation,Copper,Operational,"Mexico, Peru"
+mineral reserves,"Cuajone, Andes Range in southern Peru",,"Copper, Molybdenum","Proven, Probable, under construction",Peru
+mines,"Peru, Mexico, Toquepala, Cananea mining district in the north-central part of the State of Sonora, Peru and Mexico, Chile, Argentina, La Caridad, Buenavista, Andes Mountains (Peru), southern part of Peru, Andes Mountains","Southern Copper Corporation, Minera Mexico, Grupo Mexico, Compagnie Minera Coimolache S.A., Apu Coropuna S.R.L., commodity: copper, gold, silver, molybdenum, zinc, status: operational], n[asset: smelting and refining plants, location: Peru and Mexico, ownership: Grupo Mexico","copper, molybdenum, minerals, gold, silver, zinc, copper and molybdenum, lead","operational, Under construction","Mexico, Peru, Argentina, Chile"
+mining,"central and northern Mexico, Mexico, Peru, Chile, Argentina, Ecuador, Toquepala, mining sites, Unspecified, Cuajone, Mexico (open-pit), Mexico (underground), Peru and Mexico, open-pit mines, underground mines, ownership: The Company, commodity: copper, zinc, and other metals, status: operational], [asset: tailings impoundments, location: mining sites, Pilares project, Cuajone area, Sombrerete municipality, Sonora, 30°19’ and 30°20’ N, and between 109°38’ and 109°37’47’’ W","Southern Copper Corporation, IMMSA unit, The Mexican government, Ministry of Energy and Mines (“MINEM”), Ministry of Economy, government of Peru, government of Mexico, Peru Mining Exploration & Development Company (subsidiary of Grupo Mexico), Concession from Peruvian government, Concession from Mexican government, Peru Mining Exploration & Development Company, Grupo Mexico, combination of private ownership and agreements with the local ejido “Pilares”, SPCC Peru Branch, Not specified, IMMSA, a combination of private ownership and agreements with the local ejido “Pilares”","copper and other metals, copper, molybdenum, zinc, silver, lead, gold, fuel, gas, electricity, water, Metallic and non-metallic minerals, Mineral resources, mineral reserves, mining, metallurgical processes, mining operations, mineral extraction, minerals, waste rock and tailings, other metals, zinc and other metals, , copper","operational, In full force and effect, not specified, , production stage, under construction","Mexico, Argentina, Chile, Ecuador, Peru"
+molybdenum concentrates,"Peru, Buenavista","SPCC Peru Branch, Southern Copper Corporation, , Buenavista unit, Asarco LLC","molybdenum, copper, Copper production",operational,Peru
+molybdenum recovery plant,"La Caridad mine, Buenavista","Southern Copper Corporation, , Buenavista unit","molybdenum concentrate, molybdenum, copper",operational,
+monitoring wells,"downstream from the curtain of the contingency dam, Proaño area, Buenavista","BVC, IMMSA, Southern Copper Corporation","water, water quality monitoring, water for industrial use and domestic consumption","operational, under construction",
+nine refineries,"Peru, not specified, Mexico, unspecified","Southern Copper Corporation, Minera Mexico","copper, silver, gold, molybdenum",operational,"Peru, Mexico"
+open pits,"La Tapada, Tia Maria, Toquepala mine, Toquepala",", Not specified","copper, dump stability assessment","operational, completed",
+open-pit units,"Mexico, USA, Peru, Brazil, Chile, Cuajone (Peru), Andes Range in southern Peru, El Arco, Buenavista, Toquepala, Southern Peru, 150 km by road from the city of Tacna, 30 kilometers from Cuajone, 17° 3.130’S latitude and 70° 44.499’W longitude, southern part of Peru, La Caridad, La Caridad mine, Coahuila, outskirts of the city of Nueva Rosita near the Texas border, Baja California, Apurimac, Cajamarca, La Caridad complex, Andes Mountains","Mexican IMMSA, Peruvian Corporate, Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, Minera Mexico, Grupo Mexico S.A.B. de C.V., SPCC Peru Branch, private ownership, private ownership and agreements with local ejidos","Copper, Copper ore, copper and molybdenum, copper and molybdenum ore, coal, molybdenum, gold, silver, zinc, lead, minerals","Operational, under construction, suspended","Brazil, Chile, Mexico, Peru, USA"
+ore,"Peruvian and Mexican operations, Peru and Mexico, main mining operations, Mexico, Cuajone","Southern Copper Corporation, Minera Mexico, S.A. de C.V.,","copper, molybdenum, zinc, silver, gold, lead",operational,"Mexico, Peru"
+other permits and studies,Peru,Southern Copper Corporation,Copper,Under construction,Peru
+other projects,"Peruvian projects, Mexican projects, unspecified, Tacna region","Southern Copper Corporation, Minera Mexico","Copper, unspecified, infrastructure development","under construction, unspecified, completed",Peru
+overland conveyor belt,Toquepala mine,,Copper,operational,
+oxygen plants,"La Caridad, Ilo smelter plant, La Caridad complex, Peru, central and northern Mexico, Mexico","OMIMSA I, OMIMSA II, IMMSA, Southern Copper Corporation, MEXICAN IMMSA UNIT","none, Oxygen, copper, -, Electricity","operational, satisfactory operating condition","Mexico, Peru"
+"oxygen plants (plant no. 1, plant no.2)",smelter,our facilities,oxygen,operational,
+parts,Peru,Southern Copper Corporation,critical parts,operational,Peru
+paved road,San Martín property to Highway 45,IMMSA,"lead, copper and zinc concentrates, with significant amounts of silver",operational,
+peruvian mines and facilities,"Peru, Toquepala, La Caridad, Buenavista",Southern Copper Corporation,"copper and molybdenum, processing, manufacturing, minerals",operational,Peru
+pilares,"Pilares, Sonora, Mexico, Mexican projects, La Caridad mining district, Sonora Basin and Range Province in Northern Mexico","Southern Copper Corporation, , Recursos Stingray de Cobre S.A de C.V.","copper, copper mineral oxides, Silver","under construction, operating, operational",Mexico
+plant iii,Buenavista mine,,"copper, copper cathodes",operational,
+poly-metallic mines,Peru,Southern Copper Corporation,"molybdenum, poly-metallic",operational,Peru
+power generating facilities,"Peru, , Mexico","Southern Copper Corporation, MGE (subsidiary of Grupo Mexico), MGE","electricity generation, energy, Power",operational,"Peru, Mexico"
+power supply transformers,"electrical substations, mining operation",,electricity,operational,
+power turbine,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA","none, electricity",operational,
+precious metal plant,"Ilo refinery, La Caridad complex, La Caridad (Mexico), Peru and Mexico, Peru, Mexico, La Caridad complex","our facilities, Southern Copper Corporation, Owned by OMIMSA I and OMIMSA II concentrators, Minera Mexico, S.A. de C.V., Mexicana de Cobre, Grupo Mexico, Private ownership","anodic slimes, Precious metals, Copper concentrates, Silver, Gold, other materials, copper, precious metals (gold and silver)","operational, operational","Mexico, Peru"
+precious metals refinery,"La Caridad, La Caridad complex, La Caridad (Mexico), Peru and Mexico, Peru, Mexico, La Caridad complex","private ownership, private ownership and agreements with local ejidos, Southern Copper Corporation, Owned by OMIMSA I and OMIMSA II concentrators, Minera Mexico, S.A. de C.V., Mexicana de Cobre, Grupo Mexico, OMIMSA I, OMIMSA II, IMMSA, Private ownership","precious metals, copper, gold and silver, anodic slimes, Copper concentrates, Silver, Gold, other materials, precious metals (gold and silver)","operational, operational","Mexico, Peru"
+primary crushers,"various open-pit and underground mine sites, concentrator plant, Toquepala mine,","Minera Mexico, unspecified, The company operating Toquepala mine, Minera Mexico","copper, zinc, lead, copper ore,","operational, operational",
+processing facility,"Toquepala, Peru, Mexico, Cananea mining district in the north-central part of the State of Sonora, processing sites, La Caridad operations",", Southern Copper Corporation, Minera Mexico, Minera Mexico subsidiary,","Copper, silver, gold, molybdenum, zinc, mineral processing, fuel, gas, electricity, water, copper concentrate","Operational,","Mexico, Peru"
+properties,", Peru",Southern Copper Corporation,"office space/storage, office space, storage, office space/manufacturing",operational,Peru
+property,"Buenavista, Peru","Anaconda Company, Southern Copper Corporation, Minera Mexico","copper ore, Copper","operational, Under construction",Peru
+quartz-monzonite porphyry,"Sonora Basin and Range Province of northern Mexico, Sierra Cobriza area, Western Cordillera of the Andes in northwest Peru",", Michiquillay Rural Community and Encañada Rural Community","copper, molybdenum",operational,"Mexico, Peru"
+quebrada honda,"Peru, Quebrada Honda, Toquepala mine, Tacna, Peruvian projects","Southern Copper Corporation, Tierra Group International","Copper, Copper tailings, Water, Mining","Operational, completed, under construction",Peru
+quebrada honda radar system (which consists of two ibis m units and one ibis fm unit),Quebrada Honda Tailings Dam,Not specified,geotechnical monitoring of the Quebrada Honda Tailings Dam,operational,
+radars,"Quebrada Honda Tailings Dam, Toquepala mine, La Caridad","Not specified, SSR-OMNI and SSR-FX","geotechnical monitoring of the Quebrada Honda Tailings Dam, slope stability monitoring, mining","operational, operational",
+reactors,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA","gold, gold and silver solutions",operational,
+recreational facilities,"townsites in Peru, Toquepala townsite, Cuajone townsite",Southern Copper Corporation,recreation,operational,Peru
+refinery and metallurgical plants,Mexico,"Southern Copper Corporation, Golder Associates USA Inc.","metallurgical plants and smelters, silver, zinc, lead, copper, mining",operational,Mexico
+reforestation programs,Peru,Southern Copper Corporation,environmental conservation,operational,Peru
+reverberatory furnaces,smelter,unspecified,"copper, copper matte",operational,
+reverse circulation rigs,,,copper,operational,
+roaster,San Luis Potosi,Southern Copper Corporation,"zinc concentrate, refined zinc, zinc-based alloys with aluminum, lead, copper or magnesium, refined silver, gold, zinc",operational,
+roasting ovens,,,zinc,operational,
+rod plant,"La Caridad (Mexico), Mexico, La Caridad, La Caridad complex, La Caridad metallurgical complex, La Caridad complex","Minera Mexico, Mexicana de Cobre, S.A. de C.V., private ownership, private ownership and agreements with local ejidos, Southern Copper Corporation, OMIMSA I, OMIMSA II, IMMSA, Grupo Mexico, Owned by OMIMSA I and OMIMSA II concentrators, , Private ownership","Copper, molybdenum, zinc, silver, gold, lead, copper rods, Copper products, Copper concentrates, copper concentrate, copper","Operational, , operational",Mexico
+rotary holding furnaces,"smelter, Ilo",our facilities,"copper matte and slag, copper concentrate",operational,
+rotating crushers,Toquepala mine,", The company operating Toquepala mine",Copper,operational,
+san antonio mine,"Santa Eulalia, Atacama region",Southern Copper Corporation,"lead, zinc, copper, iron sulfides, gold, silver",operational,
+san diego,Santa Barbara mining complex,IMMSA,"lead, copper and zinc concentrates",operational,
+san luis potosi electrolytic zinc refinery,"San Luis Potosi, Peru",Southern Copper Corporation,"zinc concentrate, refined zinc, zinc-based alloys with aluminum, lead, copper or magnesium, refined silver, gold, zinc, sulfuric acid, refined gold, refined cadmium",operational,Peru
+san martin,"Mexico, Peru, Mexican projects, Central Mesa of Mexico, Sombrerete municipality in the northwestern part of the state of Zacatecas, San Martin",", Southern Copper Corporation, , IMMSA","Silver, Copper, minerals, mining, lead, copper and zinc concentrates, with significant amounts of silver","operational, suspended, operational","Mexico, Peru"
+santa barbara,Mexico,", Southern Copper Corporation","Silver, Copper",operational,Mexico
+schools,"townsites in Peru, Toquepala townsite, Cuajone townsite",Southern Copper Corporation,education,operational,Peru
+scrubbing technology,Mexico,Southern Copper Corporation,mineral extraction,operational,Mexico
+segovedad,Santa Barbara mining complex,IMMSA,"lead, copper and zinc concentrates",operational,
+seismic refraction equipment,,,copper and molybdenum,operational,
+several industrial processing facilities,"Mexico, Peru, Cananea mining district in the north-central part of the State of Sonora, La Caridad operations, central and northern Mexico","Southern Copper Corporation, Minera Mexico, , IMMSA unit","molybdenum, zinc, silver, Copper, gold, copper concentrate, lead","operational,","Mexico, Peru"
+shops,"Toquepala townsite, Cuajone townsite, Mexico, Toquepala, Cuajone, Ilo",Southern Copper Corporation,"retail, mining",operational,Mexico
+slag cleaning furnaces,"smelter, Ilo smelter plant","our facilities, Southern Copper Corporation",slag,operational,
+slime treatment plant,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA","anodic slimes, copper",operational,
+smelter,"Ilo smelter plant, La Caridad complex, Ilo (Peru), coastal city of Ilo, Peru, Ilo, La Caridad, Unspecified, southern part of Peru, coastal city of Ilo (Peru), Mexico","our facilities, Southern Copper Corporation, not specified, private ownership, OMIMSA I, OMIMSA II, IMMSA, private ownership and agreements with local ejidos, Owned by OMIMSA I and OMIMSA II concentrators, ours, Minera Mexico","copper, copper concentrate, copper concentrates, Molybdenum, zinc, silver, gold, lead, metallurgical processes, copper, mining","operational, operational","Peru, Mexico"
+smelters,"not specified, Peru, Mexico",Southern Copper Corporation,"copper, zinc, lead, molybdenum",operational,"Mexico, Peru"
+social clubs,"townsites in Peru, Toquepala townsite, Cuajone townsite",Southern Copper Corporation,recreation,operational,Peru
+solution purifying stages,San Luis Potosi zinc refinery,,zinc concentrate,operational,
+ssr-fx radar,La Caridad mine,Southern Copper Corporation,Mining,operational,
+steam dryer,"La Caridad, La Caridad complex","OMIMSA I, OMIMSA II, IMMSA",anodic slimes,operational,
+steam recovery boiler,San Luis Potosi,Southern Copper Corporation,"zinc concentrate, refined zinc, zinc-based alloys with aluminum, lead, copper or magnesium, refined silver, gold, zinc",operational,
+sub- horizontal drains,"Toquepala Pit, Toquepala mine, Toquepala","Not specified, Southern Copper Corporation","pit slope depressurization, Copper",operational,
+sulfur dioxide emissions treatment facilities,Mexican plants,Southern Copper Corporation,sulfur dioxide emissions,operational,
+support facilities,"Mexico, Cananea mining district in the north-central part of the State of Sonora","Southern Copper Corporation, Minera Mexico","copper, support, Mining and processing support",operational,Mexico
+sx-ew copper buenavista,"Mexico, Peru, Toquepala, Toquepala mine, La Caridad mine, Toquepala operations area, Southern Peru, 150 km by road from the city of Tacna, 30 kilometers from Cuajone, 17° 3.130’S latitude and 70° 44.499’W longitude, Baja California, Apurimac, Cajamarca, Andes Mountains (Peru), La Caridad, La Caridad complex, Peru and Mexico, Buenavista mining unit in the Cananea mining district, Cananea mining district in the north-central part of the State of Sonora, Andes Range in southern Peru, Toquepala (Peru), , El Pilar - Sonora, Not specified",", SX - EW, Southern Copper Corporation, SPCC Peru Branch, The company operating Toquepala mine, private ownership, private ownership and agreements with local ejidos, Minera Mexico, S.A. de C.V., Minera Mexico, Not specified","Copper, copper cathodes, molybdenum, gold, silver, zinc, lead, copper refined, copper","operational, under construction, operational, operational","Mexico, Peru"
+tailings storage facility,"Quebrada Honda dam, La Caridad mine, El Arco, Quebrada Honda","not specified, The company operating Toquepala mine, Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, SPCC Peru Branch","waste materials, copper, tailings, copper and molybdenum, copper waste","operational, under construction, operational",
+tantahuatay mine,Peru,44.2% interest,minerals,operational,Peru
+taxco mine,"Taxco, Mexico",Southern Copper Corporation,"copper, minerals","suspended, on strike",Mexico
+tecolotes,Santa Barbara mining complex,IMMSA,"lead, copper and zinc concentrates",operational,
+temporary ore stockpile,El Arco,"Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners","copper, copper and molybdenum",under construction,
+thickener,Toquepala,Southern Copper Corporation,"molybdenum, copper-molybdenum, Copper",operational,
+three deep wells,"Proaño area, Buenavista","IMMSA, Southern Copper Corporation","lead, copper and zinc concentrates, with significant amounts of silver, water, water for industrial use and domestic consumption",operational,
+tia maria,"Islay province, Tia Maria, Peru, Arequipa, Peru, Pampa Cachendo area, Tia Maria Project","Southern Copper Corporation, not specified, IMMSA,","copper, Copper, copper cathodes","under construction, inferred, measured, indicated, undefined, , under development",Peru
+toquepala open - pit mine (concentrator i+ii),"Toquepala (Peru), Cuajone (Peru), Andes Range in southern Peru, El Arco, Buenavista, Toquepala, Southern Peru, 150 km by road from the city of Tacna, 30 kilometers from Cuajone, 17° 3.130’S latitude and 70° 44.499’W longitude, La Caridad, La Caridad mine, Coahuila, Mexico, outskirts of the city of Nueva Rosita near the Texas border, Baja California, Apurimac, Cajamarca, La Caridad complex, Toquepala mine","Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, Minera Mexico, Grupo Mexico S.A.B. de C.V., SPCC Peru Branch, private ownership, private ownership and agreements with local ejidos,","Copper ore, copper, copper and molybdenum, copper and molybdenum ore, coal, molybdenum, gold, silver","Operational, under construction, suspended","Peru, Mexico"
+trains of solvent extraction,"Buenavista mine, Plant II, Plant III, Buenavista, Plant I","not specified, Buenavista unit,","copper, copper cathodes",operational,
+transportation infrastructures,"Peru and Mexico, Peru",,key inputs and raw materials or sold products,,"Mexico, Peru"
+truck shop and warehouse,El Arco,"Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners","copper, copper and molybdenum",under construction,
+trucks,"Buenavista, between La Caridad complex and mines, mine pit","Buenavista unit, Southern Copper Corporation, unspecified","copper, copper concentrates, copper ore",operational,
+two operating sx-ew plants,"Buenavista, Peru and Mexico, Buenavista mining unit in the Cananea mining district, Cananea mining district in the north-central part of the State of Sonora, Mexico","Minera Mexico, Grupo Mexico S.A.B. de C.V., Southern Copper Corporation, S.A. de C.V.","copper, molybdenum, zinc, silver, gold, lead",operational,"Mexico, Peru"
+two waste rock storage facilities,"El Arco, mine pit","Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, unspecified","copper, copper and molybdenum, waste rock","under construction, operational",
+underground coal mine,"Coahuila, Mexico, outskirts of the city of Nueva Rosita near the Texas border, municipality of Sombrerete in the northwestern part of the state of Zacatecas, Sombrerete municipality","Southern Copper Corporation, then Mexican government, IMMSA","coal, lead, copper and zinc concentrates, with significant amounts of silver, copper, zinc, silver","closed since 2006, returned to the Mexican government, operational",Mexico
+vehicles,,Southern Copper Corporation,transportation,operational,
+viña blanca water reservoir facilities,Peru,Southern Copper Corporation,"production of goods and services, water supply for mining operations","operational, damaged",Peru
+water recovery systems,Peru,Southern Copper Corporation,environmental conservation,operational,Peru
+water sources,"Toquepala and Cuajone, Cuajone, Peru",Southern Copper Corporation,"water for industrial use and domestic consumption, Make-up water, metallurgical processes",operational,Peru
+employees,Peru,"Industrial Minera Mexico, S.A. de C.V.",,employed,Peru
+shopping centers,townsites in Peru,Southern Copper Corporation,retail,operational,Peru
+banking institutions,townsites in Peru,Southern Copper Corporation,financial services,operational,Peru
+full monitoring software (fms360),Toquepala mine,Not specified,slope stability monitoring,operational,
+mining consulting group study,Toquepala mine,Not specified,dump stability assessment,completed,
+geophysical test,Toquepala mine,Not specified,dump stability assessment,completed,
+sonic perforations,Toquepala mine,Not specified,dump stability assessment,pending,
+complementary geophysical tests,Toquepala mine,Not specified,dump stability assessment,pending,
+vibrating wire piezometers,Toquepala mine,Not specified,hydrogeological monitoring,operational,
+diamond drill holes,Toquepala mine,Not specified,geotechnical and hydrogeological investigation,completed,
+geotechnical drills,Toquepala mine,Not specified,"geotechnical and hydrogeological investigation, hydrogeological investigation",completed,
+"""port facility in ilo""","city of Ilo, Peru","ours, Southern Copper Corporation, Grupo Mexico","copper, copper, transportation, transportation of goods, Shipping of copper and by-products","operational, operational",Peru
+roads linking areas where drilling is planned,"Michiquillay Rural Community, Encañada Rural Community",Southern Copper Corporation,"copper, molybdenum, gold",exploration stage,
+\'bvc pit area\,,Minera Mexico,copper,operational,
+\'buenavista zinc (“bvz”) pit area\,,Minera Mexico,"zinc, copper",operational,
+\'molybdenum plants\,", Peru, central and northern Mexico, Mexico, Buenavista, Cananea mining district in the north-central part of the State of Sonora","Minera Mexico, Southern Copper Corporation, MEXICAN IMMSA UNIT, , Minera Mexico, Buenavista unit","molybdenum, Molybdenum, copper, -, Electricity","operational, operational, satisfactory operating condition","Peru, Mexico"
+\'power pipelines\,,Minera Mexico,,operational,
+\'mine access roads\,", project area, connecting San Martín to the rest of the country","Minera Mexico, Southern Copper, not specified",", access","operational, operational",
+\'drainage\,,Minera Mexico,,operational,
+\'water controls\,", Peru","Minera Mexico, Southern Copper Corporation",", metallurgical processes","operational, operational",Peru
+\'municipal airport\,,,,operational,
+electrowinning cells (plant ii),"Buenavista, Plant I, Buenavista mine",", Buenavista unit, not specified","copper, copper cathodes",operational,
+sulfide mill,"central and northern Mexico, Santa Barbara, El Arco Mill, El Pilar, Pilares Mill, Cuajone, Toquepala, Buenavista Mill, La Caridad Mill, El Pilar Property, Western Cordillera of the Andes in northwest Peru","MEXICAN IMMSA UNIT, Recursos Stingray de Cobre S.A de C.V.,","copper, molybdenum, Copper and Molybdenum",operational,"Mexico, Peru"
+oxide leach,central and northern Mexico,MEXICAN IMMSA UNIT,copper,operational,Mexico
+45 kilometer extension,San Martin property to national grid,IMMSA,"lead, copper and zinc concentrates, with significant amounts of silver",operational,
+coke facility,"Coahuila, Mexico, outskirts of the city of Nueva Rosita near the Texas border",Southern Copper Corporation,coke,closed since 2017,Mexico
+exploration concessions,"Peru, Mexico, Chile, Argentina, Ecuador","Golder Associates USA Inc., The Mexican government (concessions), The Mexican government, Ministry of Energy and Mines (“MINEM”), Ministry of Economy, government of Peru, government of Mexico, Peru Mining Exploration & Development Company (subsidiary of Grupo Mexico), Concession from Peruvian government, Concession from Mexican government, Peru Mining Exploration & Development Company","copper, molybdenum, silver, zinc, lead, Mineral reserves, Metallic and non-metallic minerals, Mineral resources, mining","operational, in full force and effect, not specified","Peru, Mexico, Argentina, Chile, Ecuador"
+molecular laboratory,"Cananea, Sonora, Ilo refinery","Minera Mexico, Southern Copper Corporation","COVID-19 tests, copper",operational,
+toquepala expansion project,Peruvian projects,Southern Copper Corporation,Copper,under construction,Peru
+relocation of facilities at toquepala,Peruvian projects,Southern Copper Corporation,Copper,operational,Peru
+toquepala mine truck acquisition,"Peruvian projects, Peru, Andes Mountains (Peru)",Southern Copper Corporation,Copper,operational,Peru
+fresh water pipeline replacement at suches,Peruvian projects,Southern Copper Corporation,Copper,operational,Peru
+building of the containment dike n°4 at quebrada santallana,Peruvian projects,Southern Copper Corporation,Copper,operational,Peru
+maintenance and replacement,Peruvian projects,Southern Copper Corporation,Copper,operational,Peru
+expansion of mine pit at buenavista,Mexican projects,Southern Copper Corporation,Copper,operational,
+solutions system improvements of tinajas,Mexican projects,Southern Copper Corporation,Copper,operational,
+quebalix iv,Mexican projects,Southern Copper Corporation,Copper,operational,
+new tailing disposal deposit at buenavista mine,Mexican projects,Southern Copper Corporation,Copper,under construction,
+over elevation of tailings deposit n° 7 at la caridad mine,Mexican projects,Southern Copper Corporation,Copper,operational,
+sonora river water restitution system in moritas basin,"Mexican projects, Sonora River Basin","Southern Copper Corporation, not specified","Copper, water","operational, under construction",
+off-road facility,La Caridad 91 Table of Contents copper concentrator,Southern Copper Corporation,ore,operational,
+peruvian open-pit operations,"Peru, Andes Range in southern Peru, El Arco, Buenavista, La Caridad, La Caridad mine, Coahuila, Mexico, outskirts of the city of Nueva Rosita near the Texas border, Baja California, Apurimac, Cajamarca, La Caridad complex, Andes Mountains","Not specified, Southern Copper Corporation, agrarian cooperatives (ejidos) and private owners, Minera Mexico, private ownership, private ownership and agreements with local ejidos","copper, copper and molybdenum, copper ore, copper and molybdenum ore, coal, molybdenum, gold, silver, zinc, lead, minerals","operational, under construction, suspended","Peru, Mexico"
+buildings,Peru and Mexico,Southern Copper Corporation,,operational,"Mexico, Peru"
+land rights,Peru and Mexico,Southern Copper Corporation,copper,operational,"Mexico, Peru"
+mine development areas,Peru and Mexico,Southern Copper Corporation,copper,under construction,"Mexico, Peru"
+boutique bowling de mexico s.a. de c.v.,Mexico,Larrea family,entertainment services,operational,Mexico
+mextransport,Mexico,Larrea family,aviation services,operational,Mexico
+compañia minera coimolache s.a.,Peru,Southern Copper (44.2% participation),gold mining,operational,Peru
+apu coropuna s.r.l.,Peru,Southern Copper (30% participation),exploration activities,operational,Peru
+offices,"Peru, Mexico",Southern Copper Corporation,,operational,"Mexico, Peru"
+camps,"Peru, Mexico",Southern Copper Corporation,,operational,"Mexico, Peru"
+railway from cuajone to ilo,"Cuajone to Ilo, Peru",Southern Copper Corporation,"mining, transport of minerals",operational,Peru
+"3,700 houses and apartments at the townsites in peru","Peru, Nacozari and Cananea",Southern Copper Corporation,"housing for employees, housing",operational,Peru
+90 houses in ilo for staff personnel in peru,Ilo,Southern Copper Corporation,housing for employees,operational,
+"1,800 houses and apartments in nacozari and cananea, mexico","Nacozari and Cananea, IMMSA unit",Southern Copper Corporation,"housing for employees, housing",operational,
+tailings impoundments,,Southern Copper Corporation,"copper, zinc, other metals",operational,
+electric shovels,mine pit,unspecified,copper ore,operational,
+underground crusher station,underground mine,unspecified,"copper, zinc and lead ore",operational,
+gyratory crushers,"concentrator plant, Toquepala mine","unspecified, The company operating Toquepala mine","copper ore, copper",operational,
+blister copper cakes,"smelter, Ilo smelter plant","unspecified, Southern Copper Corporation",copper,operational,
+casting machine,copper rod plant,unspecified,copper,operational,
+rolling mill,"copper rod plant, Santa Barbara, El Arco Mill, El Pilar, Pilares Mill, Cuajone, Toquepala, Buenavista Mill, La Caridad Mill, El Pilar Property, Ilo","unspecified, Recursos Stingray de Cobre S.A de C.V., Southern Copper Corporation","copper, Molybdenum, Copper and Molybdenum",operational,
+\'transmission lines\,"Cuajone area, Peru, Cuajone","Southern Copper, Southern Copper Corporation","power, electricity distribution, Electricity for processing","operational, operational",Peru
+\'spur railway\,Toquepala to Cuajone,Southern Copper,ore transport,operational,
+sea water intake,Ilo smelter plant,Southern Copper Corporation,Seawater,Operational,
+desalinization plants,"Ilo smelter plant, Peru, central and northern Mexico, Mexico, Ilo refinery","Southern Copper Corporation, MEXICAN IMMSA UNIT","Desalinated water, copper, -, Electricity","Operational, satisfactory operating condition","Mexico, Peru"
+monzonite intrusion,Western Cordillera of the Andes in northwest Peru,Michiquillay Rural Community and Encañada Rural Community,copper,operational,Peru
+quartzite,Western Cordillera of the Andes in northwest Peru,Michiquillay Rural Community and Encañada Rural Community,copper,operational,Peru
+siltstone,Western Cordillera of the Andes in northwest Peru,Michiquillay Rural Community and Encañada Rural Community,copper,operational,Peru
+radar system,Buenavista mine,,,operational,
+leach pad or concentrator,"La Caridad mine, El Pilar Property","Southern Copper Corporation, Recursos Stingray de Cobre S.A de C.V.","ore, Copper",operational,
+faults,Santa Barbara,,Mineral extraction,Operational,
+power grid extension,45 kilometer extension,national grid,electricity,operational,
+re-engineered and modernized 21 ovens coke facility,"Coahuila, Mexico",Southern Copper Corporation,coke,closed since September 2017,Mexico
+santa eulalia mine,Atacama region,,sulfides,,
+campo medio area,Atacama region,,,,
+el salado (montonero) prospect,Atacama region,,copper and molybdenum porphyry,,
+taruca prospect,"Atacama Region, Province of Huasco",,copper porphyry,,
+pajonal prospect,Atacama region,,,,
+ruta del cobre (“copper road”) project,"west of Cuenca city, south of Guayaquil",,copper-molybdenum porphyry,,
+cerro la mina prospect,Rio Negro province,,low sulfidation epithermal deposit with high longitude seams,,
+tanque negro prospect,Rio Negro province,,,,
+la hoyada prospect,Catamarca,,,,
+la chilena prospect,Catamarca,,,,
+sx-ew facilities of the caridad operation,"Sonora, Mexico","Southern Copper Corporation, SX - EW","copper mineral oxides, copper","operating, operational",Mexico
+maritime terminal of guaymas,Guaymas,Southern Copper Corporation,Copper,operational,
+metallurgical plant complex in sonora,"Sonora, Peru",Southern Copper Corporation,Copper,operational,Peru
+central workshop,Peru,Southern Copper Corporation,,operational,Peru
+wastewater treatment plant,Ilo province,Southern Copper Corporation,wastewater treatment,under construction,
+high-performance school of moquegua,Moquegua region,"Southern Copper Corporation, Ministry of Education (MINEDU)",education,under construction,
+curtain of the contingency dam,Sonora River Basin,BVC,water,operational,
+windfarm,"Oaxaca, Mexico","Mexico Generadora de Energia Eolica, S. de R.L. de C.V. (indirect subsidiary of Grupo Mexico)",energy,operational,Mexico
+office space,Mexico,Grupo Mexico,business operations,operational,Mexico
+on-site hospital,Buenavista unit,Southern Copper Corporation,healthcare,operational,
+metallurgical processes,"Mexico, Andes Range in southern Peru","Southern Copper Corporation, Golder Associates USA Inc.","metal extraction, copper, silver, zinc, lead","operational, under construction","Mexico, Peru"
+power generation capacity from two small hydro-generating facilities,Cuajone,Southern Copper Corporation,electricity,operational,
+desalination plants,"Ilo, Peru, central and northern Mexico, Mexico","Southern Copper Corporation, MEXICAN IMMSA UNIT","water for industrial use and domestic consumption, copper, -, Electricity","operational, satisfactory operating condition","Mexico, Peru"
+locumba river surface water permit,Locumba Ite,Southern Copper Corporation,conservation and maintenance of wetlands,operational,
+la angostura dam,"near the mine and plants, Quebrada Honda, Sonora River basin","Unspecified, Southern Copper Corporation, BVC","water for industrial use and domestic consumption, water, water storage and management","operational, in progress, under construction",
+power plants,"Mexico, Peru, central and northern Mexico","MGE (Grupo Mexico subsidiary), Southern Copper Corporation, MEXICAN IMMSA UNIT","electricity generation, copper, -, Electricity","operational, satisfactory operating condition","Mexico, Peru"
+"pipeline (between douglas, arizona and nacozari, sonora)","between Douglas, Arizona and Nacozari, Sonora",Southern Copper Corporation,natural gas transportation,operational,
+equipment (geotechnical instrumentation),Toquepala Mine and Quebrada Honda,Inersia company,Mining,Under construction,
+production control section,Ilo refinery,Southern Copper Corporation,copper,operational,
+maintenance department,Ilo refinery,Southern Copper Corporation,copper,operational,
+locomotives,Ilo,Southern Copper Corporation,copper,operational,
+track system,Ilo,Southern Copper Corporation,copper,operational,
+car repair shop,Ilo,Southern Copper Corporation,copper,operational,
+pit shell,"Andes Range in southern Peru, Toquepala",", Southern Copper Corporation",copper,"under construction, Operational",Peru
+quartz veins,Western Cordillera of the Andes in northwest Peru,,Copper,operational,Peru
+intrusive and sedimentary rocks,Western Cordillera of the Andes in northwest Peru,,Copper,operational,Peru
+thickeners,Buenavista,Buenavista,copper-molybdenum,operational,
+homogenizer tanks,"Buenavista, surface","Buenavista,","copper-molybdenum, fuel",operational,
+holo-flite dryer,Buenavista,Buenavista,copper-molybdenum,operational,
+two sulfuric acid plants,"La Caridad complex, La Caridad, Ilo smelter plant, Peruvian projects","private ownership and agreements with local ejidos, private ownership, OMIMSA I, OMIMSA II, IMMSA, Southern Copper Corporation, SPCC Peru Branch","copper, sulfuric acid, none, sulfur",operational,Peru
+ ,El Pilar,Southern Copper Corporation,copper,,
+pool adjacent to the wells,Proaño area,IMMSA,"lead, copper and zinc concentrates, with significant amounts of silver",operational,
+san marcial vein,Central Mesa of Mexico,,Copper,operational,Mexico
+ibarra vein,Central Mesa of Mexico,,Zinc,operational,Mexico
+gallo-gallina vein,Central Mesa of Mexico,,Lead,operational,Mexico
+cerro de la gloria granodiorite intrusion,Central Mesa of Mexico,,Silver,operational,Mexico
+tailings filtering plant,"Quebrada Honda, Peru",Southern Copper Corporation,mining,operational,Peru
+\'exploration activities\,"Argentina, Chile, Ecuador, Mexico and Peru","Southern Copper Corporation (SCC, Southern Copper or the “Company”)",copper and other minerals,,"Argentina, Chile, Ecuador, Mexico, Peru"
+leaching pond,Mexico,Buenavista del Cobre S.A. de C.V.,copper sulfate solution,under construction,Mexico
+school,Tacna region,Southern Copper Corporation,education,"completed, under construction",
+drinking water project,unspecified,Southern Copper Corporation,water management,under construction,
+residual water treatment plant,Ilo (Moquegua region),Southern Copper Corporation,water management,under construction,
+educational project,Moquegua region,Southern Copper Corporation,education,almost completed,
+feasibility studies,unspecified,Southern Copper Corporation,various,completed,
+starter sheets,,Asarco LLC,Copper production,,
+cathodes,"Buenavista mine, refinery, Asia","Asarco LLC, unspecified, Mitsui","Copper production, copper",operational,
+bars,,Asarco LLC,Copper production,,
+fixed asset,,Asarco LLC,,,
+eolica el retiro windfarm with 37 wind turbines,"Oaxaca, Mexico",Grupo Mexico indirectly through de C.V.,electricity,operational,Mexico
+"tantahuatay, a gold mine located in northern peru",northern Peru,Compañia Minera Coimolache S.A.,gold,operational,Peru
+pucay prospect,"Arequipa, Peru",Apu Coropuna S.R.L.,,,Peru

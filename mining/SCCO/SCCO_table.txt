@@ -1,0 +1,33 @@
+|Facility Name|Location|Stage|Process|Nominal Capacity(1)|Production|Use(4)|
+|---|---|---|---|---|---|---|
+|Cuajone open-pit mine|Cuajone (Peru)|Production|Copper ore milling and recovery, copper and molybdenum concentrate production|90.0 ktpd—ore milled|82.2|91.3 %|
+|Toquepala open-pit mine; Concentrator I|Toquepala (Peru)|Production|Copper ore milling and recovery, copper and molybdenum concentrate production|60.0 ktpd—ore milled|62.5|104.2 %|
+|Concentrator II|Toquepala (Peru)| | |60.0 ktpd—ore milled|61.2|102.1 %|
+|Toquepala SX-EW plant|Toquepala (Peru)|Production|Leaching, solvent extraction and cathode electrowinning|56.3 ktpy—refined|25.8|45.7 %|
+|Ilo copper smelter|Ilo (Peru)|Production|Copper smelting, blister, anodes production|1,200.0 ktpy—concentrate feed|1,089.2|90.8 %|
+|Ilo copper refinery|Ilo (Peru)|Production|Copper refining|294.8 ktpy—refined cathodes|260.2|88.3 %|
+|Ilo acid plants|Ilo (Peru)|Production|Sulfuric acid|1,354.93 ktpy—sulfuric acid|1,066.5|78.7 %|
+|Ilo precious metals refinery|Ilo (Peru)|Production|Slime recovery & processing, gold & silver refining|460 tpy|342.0|74.4 %|
+|Buenavista open-pit mine; Concentrator I|Sonora (Mexico)|Production|Copper ore milling & recovery, copper concentrate production|82.0 ktpd—milling|85.6|104.4 %|
+|Concentrator II|Sonora (Mexico)| | |115.0 ktpd—milling|117.9|102.5 %|
+|Buenavista: SX-EW plant I|Sonora (Mexico)|Production|Leaching, solvent extraction & refined cathode electrowinning|11.0 ktpy—refined|—|— %|
+|SX-EW plant II| | | |43.8 ktpy—refined|11.8|26.9 %|
+|SX-EW plant III| | | |120.0 ktpy—refined|70.1|58.4 %|
+|La Caridad open-pit mine|Sonora (Mexico)|Production|Copper ore milling & recovery, copper & molybdenum concentrate production|94.5 ktpd—milling|95.7|101.3 %|
+|La Caridad SX-EW plant|Sonora (Mexico)|Production|Leaching, solvent extraction & cathode electrowinning|21.9 ktpy—refined|25.4|115.9 %|
+|La Caridad copper smelter|Sonora (Mexico)|Production|Concentrate smelting, anode production|1,000 ktpy—concentrate feed|1,047.3|104.7 %|
+|La Caridad copper refinery|Sonora (Mexico)|Production|Copper refining|300 ktpy copper cathode|242.7|80.9 %|
+|La Caridad copper rod plant|Sonora (Mexico)|Production|Copper rod production|150 ktpy copper rod|150.1|100.1 %|
+|La Caridad precious metals refinery|Sonora (Mexico)|Production|Slime recovery & processing, gold & silver refining|1.8 ktpy—slime|0.9|52.5 %|
+|La Caridad sulfuric acid plant|Sonora (Mexico)|Production|Sulfuric acid|1,565.5 ktpy—sulfuric acid|990.0|63.2 %|
+|Charcas|San Luis Potosi (Mexico)|Production|Copper, zinc, lead milling, recovery & concentrate production|1,460 ktpy—ore milled|1,232.1|84.4 %|
+|San Martin|Zacatecas (Mexico)|Production|Lead, zinc, copper & silver mining, milling recovery & concentrate production|1,606 ktpy—ore milled|1,217.3|75.8 %|
+|Santa Barbara|Chihuahua (Mexico)|Production|Lead, copper and zinc mining & concentrates production|2,190 ktpy—ore milled|1,516.0|69.2 %|
+|Santa Eulalia|Chihuahua (Mexico)|Suspended|Lead & zinc mining and milling recovery & concentrate production|547.5 ktpy—ore milled| | |
+|Taxco(2)|Guerrero (Mexico)|Suspended|Lead, zinc silver & gold mining recovery & concentrate production|730 ktpy—ore milled| | |
+|San Luis Potosi zinc refinery|San Luis Potosi (Mexico)|Production|Zinc concentrates refining|105.0 ktpy zinc cathode|92.7|88.3 %|
+|San Luis Potosi sulfuric acid plant|San Luis Potosi (Mexico)|Production|Sulfuric acid|180.0 ktpy sulfuric acid|172.4|95.8 %|
+---
+
+
+---

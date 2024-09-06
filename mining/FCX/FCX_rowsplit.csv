@@ -1,0 +1,159 @@
+physical asset,location,ownership,commodity,Countries,USA states
+Copper Smelter and Refinery,"Borough Of Carteret,New Jersey,Arthur Kill,Huelva,Spain,Gresik,Indonesia,El Paso,Texas,Greenlee County,Arizona,North America,Morenci,Miami","USA Metals Refining Company,PT Freeport Indonesia,Freeport-McMoran,Mitsubishi Materials Corporation","Copper,Gold,Silver,Molybdenum","Spain,Indonesia,USA","Arizona,New Jersey,Texas"
+Grasberg Minerals District,"Indonesia,Grasberg","PT Freeport Indonesia,Freeport-McMoran,MIND ID","Minerals,Copper,Gold,Molybdenum,Silver",Indonesia,
+Greenfield Smelter,"Indonesia,Gresik,Central Papua,Grasberg Minerals District,Morenci,Arizona,Miami,USA,El Paso,Texas,Carteret County,New Jersey","PT Freeport Indonesia,Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Smelting,USA Metals Refining Company","Copper,Gold,Lead,Silver,Molybdenum","Indonesia,USA","Arizona,New Jersey,Texas"
+Mining Operations,"Indonesia,Cerro Verde,Grasberg Minerals District,Peru,Chile,USA","PT Freeport Indonesia,Freeport-McMoran,PT Smelting,PT Inalum,PTI","Copper,Gold,Silver,Molybdenum","Indonesia,Peru,Chile,USA",
+70-Mile Main Service Road,Grasberg Mining District,PT Freeport Indonesia,,Indonesia,
+Facilities,"Indonesia,North America,Offshore California,Gulf of Mexico,Grasberg Minerals District,South America,Peru,Chile,PT Freeport Indonesia's Remote Operating Site,New Mexico,Arizona,Colorado,El Paso,Texas,Miami,Lowlands Tailings Management Area,Indonesia Mining Operation,El Abra Operation in Chile,USA,Spain,Mimika Regency,Morenci,Gila River System,Sierrita,Grasberg Block Cave and DMLZ Underground Mines,Greenlee County,Cerro Verde","Freeport-McMoran,PT Freeport Indonesia,Freeport-McMoran Oil & Gas,Cerro Verde,Freeport Cobalt,Jervois Global Limited,Atlantic Copper,SMM Morenci","Copper,Gold,Lead,Zinc,Molybdenum,Cobalt","Indonesia,Peru,Chile,USA,Spain","Arizona,California,Colorado,New Mexico,Texas"
+Leach Stockpiles,"North America,South America,Cerro Verde,Peru,Morenci,Arizona,El Abra","PT Freeport Indonesia,Atlantic Copper,Freeport-McMoran,Cerro Verde","Copper,Molybdenum,Minerals","USA,Peru,Chile",Arizona
+Mines,"South America,Indonesia,North America,Arizona,Peru,Chile,Grasberg,Morenci Mine,Bagdad Mine,Safford Mine,Sierrita Mine,Miami Mine,Chino Mine,Tyrone Mine,Cerro Verde Mine,El Abra",Freeport-McMoran,"Copper,Gold,Molybdenum","Peru,Chile,Indonesia,USA",Arizona
+Ore Bodies,"North America,South America,Indonesia,Grasberg Minerals District","PT Freeport Indonesia,Freeport-McMoran","Copper,Gold,Molybdenum","USA,Canada,Mexico,Peru,Indonesia",
+Ajo Mine,"North America,Ajo,Arizona",Freeport-McMoran,Copper,USA,Arizona
+Atlantic Copper Facility,"Spain,Huelva",Freeport-McMoran,"Copper,Gold,Lead,Zinc",Spain,
+Bagdad Mine,"Arizona,North America",Freeport-McMoran,"Copper,Gold,Molybdenum,Silver",USA,Arizona
+Big Gossan Mine,"Grasberg Minerals District,Papua","PT Freeport Indonesia,Freeport-McMoran","Copper,Gold,Silver,Copper Concentrate,Molybdenum",Indonesia,
+Buildings And Facilities,South Louisiana,Freeport-McMoran,,USA,Louisiana
+Buildings And Infrastructure,"Morenci Mine,Indonesia,Peru,Chile,Colorado,North America,El Abra Operation,Highlands,Spain,Grasberg Minerals District,Safford/Lone Star,Morenci,Arizona","Freeport-McMoran,PT Freeport Indonesia,Cerro Verde,PT Smelting","Copper,Gold,Molybdenum","Indonesia,Peru,Chile,Spain,USA","Arizona,Colorado"
+Cathode,"El Paso,Texas; Morenci; Bagdad; Safford; Sierrita; Miami; Chino; Tyrone; Cerro Verde; El Abra","Freeport-McMoran,PT Freeport Indonesia,Sumitomo Metal Mining,SMM Morenci",Copper,"USA,Chile,Peru",Texas
+Cerro Verde Mine,"Peru,Cerro Verde,Arequipa","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Copper Concentrate,Silver",Peru,
+Chino Mine,"North America,New Mexico,Chino,Grant County",Freeport-McMoran,"Copper,Gold,Silver,Molybdenum",USA,New Mexico
+tyrone mine,New Mexico,Freeport-McMoran,Copper,USA,New Mexico
+Coal-Fired Power Plant,"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,"Electricity,Energy,Coal",Indonesia,
+Concentrating Facilities,"Bagdad (Arizona),Cerro Verde,North America",Freeport-McMoran,Copper,"USA,Peru",Arizona
+Concentrator,"Cerro Verde,Peru; Bagdad Operation,Arizona,USA; Morenci,Arizona,USA","Cerro Verde,Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci","Minerals,Copper,Molybdenum,Silver","Peru,USA",Arizona
+Continuous Cast Copper Rod,"El Paso,Texas; Miami; Arizona; North America",Freeport-McMoran,Copper,USA,"Arizona,Texas"
+Conversion Plants,"USA,Europe,El Paso,Texas,United Kingdom,South America",Freeport-McMoran,"Molybdenum,Copper,Ferromolybdenum","USA,United Kingdom",Texas
+Copper Refining Circuit,Grasberg Minerals District,PT Freeport Indonesia,"Copper,Gold",Indonesia,
+Copper Concentrate,"North America,Indonesia,South America,Morenci,Bagdad,Sierrita,Chino,Cerro Verde,Grasberg","PT Freeport Indonesia,Freeport-McMoran,Atlantic Copper","Copper,Gold,Molybdenum","USA,Indonesia,Peru",
+Crushed Leach Pad,"Morenci,Safford,Cerro Verde,El Abra","Freeport-McMoran,Cerro Verde,Corporacion Nacional del Cobre de Chile,Cerro Verde","Copper,Gold,Molybdenum,Silver","Mexico,Chile,USA,Peru",
+Deep Mill Level Zone,"Indonesia,Grasberg Minerals District,Papua","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver",Indonesia,
+Deep Ore Zone Underground Mine,"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,"Copper,Gold",Indonesia,
+Diesel Generators,"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,Electricity,Indonesia,
+DMLZ Mine,"Grasberg Minerals District,Papua,Indonesia","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Copper Concentrate,Silver,Molybdenum",Indonesia,
+Dual-Fuel Power Plant,"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,Electricity,Indonesia,
+El Abra Mine,"Chile,South America","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver",Chile,
+El Paso Refinery,"Texas,El Paso,Greenlee County,Arizona,North America","Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Freeport Indonesia,USA Metals Refining Company (USMR)","Copper,Gold,Lead,Zinc",USA,"Arizona,Texas"
+Electric Shovels,"Morenci Mine Site,Cerro Verde,El Abra","Freeport-McMoran,Cerro Verde,Corporacion Nacional del Cobre de Chile","Copper,Molybdenum","Chile,USA",
+Electrolytic Refinery,"El Paso,Texas; Greenlee County,Arizona; North America","PT Freeport Indonesia,Freeport-McMoran,Sumitomo Metal Mining","Copper,Molybdenum",USA,"Arizona,Texas"
+Embankments,"USA,Peru",,"Minerals,Copper,Gold","USA,Peru",
+Equipment,"Grasberg Minerals District,Indonesia; Cerro Verde; El Abra; Morenci; Safford/Lone Star; Central Papua; Offshore California; Gulf Of Mexico",PT Freeport Indonesia,"Minerals,Copper,Molybdenum,Gold,Cobalt","Indonesia,USA,Chile,Peru",California
+Flow Lines,Arizona,Freeport-McMoran,"Oil,Gas",USA,Arizona
+Freeport Cobalt Mine,"Kokkola,Finland","Freeport-McMoran,Koboltti Chemicals Holdings Limited (KCHL),Jervois Global Limited",Cobalt,Finland,
+Gas-Fired Combined Cycle Facility,"Grasberg Minerals District,Indonesia",PT Freeport Indonesia,Electricity,Indonesia,
+Grasberg Mine,"Grasberg Minerals District,Indonesia","PT Freeport Indonesia,Freeport-McMoran","Copper,Gold,Lead,Zinc",Indonesia,
+Henderson Mine,"North America,Colorado,Henderson",Freeport-McMoran,"Copper,Gold,Molybdenum,Silver",USA,Colorado
+historical smelter sites,"Arizona,Indiana,Kansas,Missouri,New Jersey,Oklahoma,Pennsylvania,USA",Freeport-McMoran,"Copper,Lead,Zinc",USA,"Arizona,Indiana,Kansas,Missouri,New Jersey,Oklahoma,Pennsylvania"
+Indonesia Smelter,"Indonesia,Morenci,Arizona,Gresik,Miami,USA,El Paso,Texas,Carteret,New Jersey","Freeport-McMoran,PT Freeport Indonesia,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Smelting,USA Metals Refining Company","Copper,Gold,Lead,Molybdenum,Silver","Indonesia,USA","Arizona,New Jersey,Texas"
+Industrial Facilities,"USA,California","Atlantic Copper,Freeport-McMoran","Copper,Molybdenum",USA,California
+Inventories: Materials And Supplies,,Freeport-McMoran,Metals,,
+Kucing Liar mine,"Indonesia,Grasberg Minerals District,Sudirman Mountain Range,Papua","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver",Indonesia,
+Leach Pads,"USA,Peru",Freeport-McMoran,"Minerals,Copper,Gold","USA,Peru",
+Leaching Facility,"Morenci,Bagdad,Safford,Chino,Tyrone,Cochise,Bisbee,Sanchez,Tohono",Freeport-McMoran,"Copper,Gold,Molybdenum,Silver",USA,
+Levees,Lowlands,PT Freeport Indonesia,"Minerals,Ore",,
+Lone Star Copper Leach Project,"Safford Mine,Safford Operation,North America",Freeport-McMoran,Copper,USA,
+Facilities,,Freeport-McMoran,"Copper,Gold,Molybdenum",,
+Machines,,Freeport-McMoran,Metals,,
+Manyar Smelter,"Gresik,Indonesia; Morenci,Greenlee County,Arizona; Miami,USA; El Paso,Texas; Carteret Borough,New Jersey","PT Freeport Indonesia,Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Smelting,USA Metals Refining Company","Copper,Molybdenum,Gold,Silver","Indonesia,USA","Arizona,New Jersey,Texas"
+Metals Inventory,,Freeport-McMoran,"Metals,Silver,Gold,Lead,Zinc",,
+Mill,"Indonesia,Morenci,El Abra,Bagdad,Safford,Sierrita,Chino,Tyrone,Henderson,Climax,Grasberg","Atlantic Copper,Freeport-McMoran,PT Freeport Indonesia","Copper,Silver,Gold,Molybdenum","Indonesia,USA",
+Mill Recovery Project,Grasberg Mining District,PT Freeport Indonesia,"Copper,Gold",Indonesia,
+Milling,"Morenci,Bagdad,Safford,Sierrita,Chino,Henderson,Climax,Ajo,Tohono,Twin Buttes,North America,Grasberg Minerals District,Central Papua,Indonesia,El Abra,South America","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver","USA,Indonesia,Chile",
+Milling Facility,"Cerro Verde,Morenci,Arizona",Cerro Verde,"Copper,Molybdenum","USA,Peru",Arizona
+Mine,"Cerro Verde,Peru; Arizona,USA; Grant County,New Mexico,USA; Climax,Colorado,USA; Gila County,Arizona,USA; Morenci,Greenlee County,Arizona,USA; Safford,Arizona,USA; Sierrita,Pima County,Arizona,USA","Freeport-McMoran,Cerro Verde,El Abra,PT Freeport Indonesia,Sumitomo,SMM Morenci,Sumitomo Metal Mining Arizona Inc.","Minerals,Copper,Molybdenum","Peru,USA","Arizona,Colorado,New Mexico"
+Mine Development and Other,"Morenci Mine,North America",Freeport-McMoran,"Copper,Molybdenum,Metals",USA,
+Mine Features,"USA,New Mexico,Arizona,Colorado","BLM and U.S. Forest Service,Freeport-McMoran",Mining,USA,"Arizona,Colorado,New Mexico"
+Mining Area,Indonesia Lowlands,"Freeport-McMoran,PT Freeport Indonesia","Minerals,Mineral Ore",Indonesia,
+Mining Machinery,Morenci Mine,Freeport-McMoran,"Copper,Metals,Molybdenum",USA,
+Mining Properties,"USA,Peru,Chile,Indonesia,North America","FMC,Freeport-McMoran","Minerals,Molybdenum","USA,Peru,Chile,Indonesia",
+Molybdenum Pressure-Leach Plant,"Bagdad,Arizona","Freeport-McMoran,PT Freeport Indonesia","Molybdenum,Molybdenum Concentrate",USA,Arizona
+Molybdenum Roasters,"Greenlee County,Arizona; Sierrita,Arizona; Fort Madison,Iowa; Rotterdam,Netherlands","Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Freeport Indonesia","Copper,Molybdenum","USA,Netherlands","Arizona,Iowa"
+Morenci Mine,"Morenci,Arizona,USA","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver",USA,Arizona
+Newtown Creek Site,"New York City,Arizona,Newtown Creek","Phelps Dodge Refining Corporation,Freeport-McMoran Miami Inc.,PDRC",,USA,"Arizona,New York"
+North America Copper Mines,"North America,South America,Arizona,New Mexico,Grasberg Minerals District,Peru,Chile",Freeport-McMoran,"Copper,Gold,Molybdenum,Silver","USA,Peru,Chile","Arizona,New Mexico"
+"Property,Plant,and Equipment",,Freeport-McMoran,"Copper,Gold,Molybdenum",,
+PT Freeport Indonesia's Operations  facility,"Indonesia,PT Freeport Indonesia's Remote Operating Site",PT Freeport Indonesia,"Copper,Gold,Silver",Indonesia,
+Refineries,"El Paso,Texas",Atlantic Copper,"Copper,Refined Copper",USA,Texas
+Refinery,"North America,Indonesia","Freeport-McMoran,PT Freeport Indonesia,Atlantic Copper","Copper,Molybdenum","USA,Mexico,Indonesia",
+Remediation Projects,USA,Freeport-McMoran,,USA,
+Rod & Smelting Facility,"North America,Arizona",Freeport-McMoran,"Copper,Molybdenum",USA,Arizona
+Rod Mills,"Greenlee County,Arizona  North America","Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Freeport Indonesia","Copper,Molybdenum",USA,Arizona
+Mining Facility,"Morenci,Bagdad,Chino,Tyrone,Cerro Verde","Freeport-McMoran,Cerro Verde","Copper,Gold,Molybdenum,Silver","USA,Peru",
+Safford Mine,"North America,Arizona,Safford,Gila River System",Freeport-McMoran,"Copper,Gold,Silver,Molybdenum",USA,Arizona
+Sanchez Mine,"USA,Arizona",Freeport-McMoran,Copper,USA,Arizona
+Sierrita Mining Complex,"North America,Arizona,Sierrita,Gila River System,Pima County","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver",USA,Arizona
+Sierrita And Miami Facilities In Arizona,"Arizona,El Paso,Texas,Miami",Freeport-McMoran,"Copper,Copper Concentrate",USA,"Arizona,Texas"
+Smelter Projects,"Indonesia,Grasberg Minerals District,Morenci,Arizona,Gresik,Miami,USA,El Paso,Texas,Carteret Borough,New Jersey","PT Freeport Indonesia,Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Smelting,USA Metals Refining Company","Minerals,Copper,Gold,Molybdenum","Indonesia,USA","Arizona,New Jersey,Texas"
+Smelters,"North America,South America,Indonesia",Freeport-McMoran,"Copper,Sulphur","USA,Mexico,Indonesia",
+Sulfide Processing Plant,"El Abra,Chile","Freeport-McMoran,El Abra mining operation",Minerals,Chile,
+Sulphur Burners,Safford Mine,Freeport-McMoran,"Sulphur,Acid",USA,
+SX/EW Facilities,"Greenlee County,Arizona,Cerro Verde,El Abra","Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,Cerro Verde,Corporacion Nacional Del Cobre De Chile,SMM Morenci","Copper,Molybdenum","USA,Peru,Chile",Arizona
+Tailings Impoundments,"Grasberg Minerals District,Indonesia; Greenlee County,Arizona,USA; Peru",Freeport-McMoran,"Copper,Gold,Silver","Indonesia,USA,Peru",Arizona
+Tailings Infrastructure,"North America,Arizona,Peru,Chile,Colorado,Spain,Indonesia",Freeport-McMoran,"Copper,Gold,Molybdenum","USA,Peru,Chile,Spain,Indonesia","Arizona,Colorado"
+Tailings Storage Facilities,"Indonesia,Cerro Verde,El Abra,Greenlee County,Arizona,Peru","Freeport-McMoran,Cerro Verde,PT Freeport Indonesia","Minerals,Copper,Copper Concentrate","Indonesia,Peru,Chile,USA",Arizona
+Tanks,New Mexico,Freeport-McMoran,"Oil,Gas",USA,New Mexico
+Tohono Mine,"North America,Arizona",Freeport-McMoran,Copper,USA,Arizona
+Transportation,,,"Silver,Gold,Lead,Zinc",,
+Twin Buttes Mine,"North America,Arizona,Twin Buttes",Freeport-McMoran,Copper,USA,Arizona
+Tyrone Mine,"North America,New Mexico,Tyrone,Grant County",Freeport-McMoran,"Copper,Gold,Molybdenum,Silver",USA,New Mexico
+Underground Development Activities,Grasberg Minerals District,"PT Freeport Indonesia,Freeport-McMoran,PT Mineral Industri Indonesia","Minerals,Copper,Copper Concentrate,Gold,Molybdenum",Indonesia,
+Uranium Mining Sites,"Western USA,Four Corners Region,Tribal Lands,Federal Lands","Freeport-McMoran,Navajo Nation,US Government",Uranium,USA,
+Wastewater Treatment Plant,Arequipa,Cerro Verde,Potable Water,Peru,
+Wellbores,"Offshore California,Gulf Of Mexico",Freeport-McMoran,"Oil,Gas",USA,California
+Wells,"San Pedro River Basin,Verde River Watershed,Gila River,Arizona,Federal Lands Throughout Arizona,Gulf of Mexico","Freeport-McMoran,Freeport-McMoran Oil & Gas","Oil,Gas",USA,Arizona
+Hydraulic Shovels,Cerro Verde,Cerro Verde,Copper,Peru,
+rail facilities,Indonesia,PT Freeport Indonesia,Minerals,Indonesia,
+Storage Reservoirs,Cerro Verde,Freeport-McMoran,Water,Peru,
+Salar De Atacama Aquifer,El Abra,Freeport-McMoran,"Groundwater,Water",Chile,
+Mine Trucks,"North America,South America",Freeport-McMoran,,,
+Drawbells,Grasberg Block Cave and DMLZ Underground Mines,PT Freeport Indonesia,Copper,Indonesia,
+Copper Conversion Facilities,"North America,United Kingdom",Freeport-McMoran,"Copper,Molybdenum","USA,United Kingdom",
+Leaching System,"Morenci,Arizona",Freeport-McMoran,Copper,USA,Arizona
+SX Plants,"Morenci,Arizona,El Paso,Texas,Miami",Freeport-McMoran,Copper,USA,"Arizona,Texas"
+New Tank Houses,"Morenci,Arizona",Freeport-McMoran,Copper,USA,Arizona
+Additional Domestic Smelting Capacity,Indonesia,"PT Freeport Indonesia,PT Smelting","Copper,Gold,Molybdenum,Concentrate",Indonesia,
+Power Generation,Indonesia,PT Freeport Indonesia,Electricity,Indonesia,
+Transmission Lines,"Indonesia,El Abra",PT Freeport Indonesia,Electricity,"Indonesia,Chile",
+Coal Units,Indonesia,PT Freeport Indonesia,Coal,Indonesia,
+Potable Water Treatment Plant,"Arequipa,Colorado,USA",Cerro Verde,Water,USA,Colorado
+Precious Metal Refinery,"Indonesia,Gresik",PT Freeport Indonesia,"Gold,Silver",Indonesia,
+Solution Extraction/Electrowinning (SX/EW) Operations,North America,Freeport-McMoran,Copper,"USA,Mexico",
+Refining Segment Facilities,North America,Freeport-McMoran,"Copper,Molybdenum","USA,Mexico",
+Inventories,,Freeport-McMoran,"Copper,Molybdenum",,
+Wellsites,New Mexico,Freeport-McMoran,"Oil,Gas",USA,New Mexico
+Molybdenum Conversion Facilities,"USA,Europe",Freeport-McMoran,Molybdenum,USA,
+Sulfide Ore,North America,Freeport-McMoran,Copper,"USA,Mexico",
+Ore Deposit,El Abra,PT Freeport Indonesia,Minerals,Chile,
+Water Wellfield And Pipeline,El Abra,PT Freeport Indonesia,Water,Chile,
+Conveyor Systems,Morenci,Freeport-McMoran,"Chemicals,Explosives",USA,
+Smelting and Refinery Facilities,"Indonesia,Gresik,El Paso,Texas,Greenlee County,Arizona,North America,USA",Freeport-McMoran,"Copper,Gold,Molybdenum","Indonesia,USA","Arizona,Texas"
+Tailings Containment Structures (Levees Or Protection Structures),"Southern Portion Of Tailings Management Area,Central Papua,Indonesia",PT Freeport Indonesia,"Minerals,Mineral Ore",Indonesia,
+"Equipment,Reliability Tools",Operational Sites,Freeport-McMoran,,,
+Mineral Extraction Equipment,Operational Sites,Freeport-McMoran,"Copper,Gold,Lead,Zinc",,
+Remote/Autonomous Operation Systems,Operational Sites,Freeport-McMoran,,,
+Manyar Smelter And Precious Metals Refinery (PMR),"Indonesia,Grasberg Minerals District","PT Freeport Indonesia,Freeport-McMoran","Copper,Gold,Molybdenum",Indonesia,
+Freeport-McMoran Mineral Assets,North America,Freeport-McMoran,Copper,"USA,Canada,Mexico",
+"Copper Smelter Facility in Gresik,Indonesia","Gresik,Indonesia","PT Freeport Indonesia,MMC",Copper Concentrate,Indonesia,
+Freeport-McMoran's Operating and Non-Operating Sites,Arizona,Freeport-McMoran,,USA,Arizona
+"Indonesia,Gresik,Central Papua,Grasberg Minerals District,Morenci,Arizona,Miami,USA,El Paso,Texas,Carteret County,New Jersey","Indonesia,Gresik,Central Papua,Grasberg Minerals District,Morenci,Arizona,Miami,USA,El Paso,Texas,Carteret County,New Jersey","PT Freeport Indonesia,Freeport-McMoran,Sumitomo Metal Mining Arizona Inc.,SMM Morenci,PT Smelting,USA Metals Refining Company","Copper,Gold,Lead,Silver,Molybdenum","Indonesia,USA","Arizona,New Jersey,Texas"
+"Indonesia,Cerro Verde,Grasberg Minerals District,Peru,Chile,USA","Indonesia,Cerro Verde,Grasberg Minerals District,Peru,Chile,USA","PT Freeport Indonesia,Freeport-McMoran,PT Smelting,PT Inalum,PTI","Copper,Gold,Silver,Molybdenum","Indonesia,Peru,Chile,USA",
+"Indonesia,North America,Offshore California,Gulf of Mexico,Grasberg Minerals District,South America,Peru,Chile,PT Freeport Indonesia's Remote Operating Site,New Mexico,Arizona,Colorado,El Paso,Texas,Miami,Lowlands Tailings Management Area,Indonesia Mining Operation,El Abra Operation in Chile,USA,Spain,Mimika Regency,Morenci,Gila River System,Sierrita,Grasberg Block Cave and DMLZ Underground Mines,Greenlee County,Cerro Verde","Indonesia,North America,Offshore California,Gulf of Mexico,Grasberg Minerals District,South America,Peru,Chile,PT Freeport Indonesia's Remote Operating Site,New Mexico,Arizona,Colorado,El Paso,Texas,Miami,Lowlands Tailings Management Area,Indonesia Mining Operation,El Abra Operation in Chile,USA,Spain,Mimika Regency,Morenci,Gila River System,Sierrita,Grasberg Block Cave and DMLZ Underground Mines,Greenlee County,Cerro Verde","Freeport-McMoran,PT Freeport Indonesia,Freeport-McMoran Oil & Gas,Cerro Verde,Freeport Cobalt,Jervois Global Limited,Atlantic Copper,SMM Morenci","Copper,Gold,Lead,Zinc,Molybdenum,Cobalt","Indonesia,Peru,Chile,USA,Spain","Arizona,California,Colorado,New Mexico,Texas"
+"South America,Indonesia,North America,Arizona,Peru,Chile,Grasberg,Morenci Mine,Bagdad Mine,Safford Mine,Sierrita Mine,Miami Mine,Chino Mine,Tyrone Mine,Cerro Verde Mine,El Abra","South America,Indonesia,North America,Arizona,Peru,Chile,Grasberg,Morenci Mine,Bagdad Mine,Safford Mine,Sierrita Mine,Miami Mine,Chino Mine,Tyrone Mine,Cerro Verde Mine,El Abra",Freeport-McMoran,"Copper,Gold,Molybdenum","Peru,Chile,Indonesia,USA",Arizona
+"North America,South America,Indonesia,Grasberg Minerals District","North America,South America,Indonesia,Grasberg Minerals District","PT Freeport Indonesia,Freeport-McMoran","Copper,Gold,Molybdenum","USA,Canada,Mexico,Peru,Indonesia",
+"Grasberg Minerals District,Papua","Grasberg Minerals District,Papua","PT Freeport Indonesia,Freeport-McMoran","Copper,Gold,Silver,Copper Concentrate,Molybdenum",Indonesia,
+"Morenci Mine,Indonesia,Peru,Chile,Colorado,North America,El Abra Operation,Highlands,Spain,Grasberg Minerals District,Safford/Lone Star,Morenci,Arizona","Morenci Mine,Indonesia,Peru,Chile,Colorado,North America,El Abra Operation,Highlands,Spain,Grasberg Minerals District,Safford/Lone Star,Morenci,Arizona","Freeport-McMoran,PT Freeport Indonesia,Cerro Verde,PT Smelting","Copper,Gold,Molybdenum","Indonesia,Peru,Chile,Spain,USA","Arizona,Colorado"
+"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia","Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,"Electricity,Energy,Coal",Indonesia,
+Grasberg Minerals District,Grasberg Minerals District,PT Freeport Indonesia,"Copper,Gold",Indonesia,
+"Indonesia,Grasberg Minerals District,Papua","Indonesia,Grasberg Minerals District,Papua","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver",Indonesia,
+"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia","Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,"Copper,Gold",Indonesia,
+"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia","Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,Electricity,Indonesia,
+"Grasberg Minerals District,Papua,Indonesia","Grasberg Minerals District,Papua,Indonesia","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Copper Concentrate,Silver,Molybdenum",Indonesia,
+"Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia","Grasberg Minerals District,Sudirman Mountain Range,Papua,Indonesia",PT Freeport Indonesia,Electricity,Indonesia,
+"Morenci Mine Site,Cerro Verde,El Abra","Morenci Mine Site,Cerro Verde,El Abra","Freeport-McMoran,Cerro Verde,Corporacion Nacional del Cobre de Chile","Copper,Molybdenum","Chile,USA",
+"Grasberg Minerals District,Indonesia; Cerro Verde; El Abra; Morenci; Safford/Lone Star; Central Papua; Offshore California; Gulf Of Mexico","Grasberg Minerals District,Indonesia; Cerro Verde; El Abra; Morenci; Safford/Lone Star; Central Papua; Offshore California; Gulf Of Mexico",PT Freeport Indonesia,"Minerals,Copper,Molybdenum,Gold,Cobalt","Indonesia,USA,Chile,Peru",California
+"Grasberg Minerals District,Papua","Grasberg Minerals District,Papua","PT Freeport Indonesia,Freeport-McMoran","Copper,Gold,Silver,Molybdenum",Indonesia,
+"Indonesia,Grasberg Minerals District,Sudirman Mountain Range,Papua","Indonesia,Grasberg Minerals District,Sudirman Mountain Range,Papua","Freeport-McMoran,PT Freeport Indonesia","Copper,Gold,Molybdenum,Silver",Indonesia,
+"Safford Mine,Safford Operation,North America","Safford Mine,Safford Operation,North America",Freeport-McMoran,Copper,USA,
+"Morenci Mine,North America","Morenci Mine,North America",Freeport-McMoran,"Copper,Molybdenum,Metals",USA,
+Safford Mine,Safford Mine,Freeport-McMoran,"Sulphur,Acid",USA,
+Grasberg Minerals District,Grasberg Minerals District,"PT Freeport Indonesia,Freeport-McMoran,PT Mineral Industri Indonesia","Minerals,Copper,Copper Concentrate,Gold,Molybdenum",Indonesia,
+Grasberg Block Cave and DMLZ Underground Mines,Grasberg Block Cave and DMLZ Underground Mines,PT Freeport Indonesia,Copper,Indonesia,

@@ -1,0 +1,1234 @@
+physical asset,location,ownership,commodity,status
+Properties,,,,
+Mining operations,,Company,"gold, silver, copper, zinc, lead",operational
+Ore stockpiles,,Company,"gold, silver, copper, zinc, lead",operational
+Leach pads,,Company,"gold, silver, copper, zinc, lead",operational
+Development projects,,Company,"gold, silver, copper, zinc, lead",under construction
+mining properties,,,gold,
+mining properties,,,silver,
+mining properties,,,copper,
+mining properties,,,zinc,
+mining properties,,,lead,
+Facilities,,Company,Ore,Operational
+Equipment,,Company,Ore,Operational
+Infrastructure,,Company,Ore,Operational
+mines,,,,
+Mine operations,,Newmont,"gold, silver, copper, zinc and lead",Operational
+mining equipment,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+milling equipment,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+conveyor systems,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+mining operations,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+production facilities,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+mineral properties,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+oxide mill,Cortez,NGM,gold,operational
+crushing and grinding circuit,Cortez,NGM,gold,operational
+carbon-in-leach circuit,Cortez,NGM,gold,operational
+heap leach pads,Cortez,NGM,gold,operational
+autoclave,Carlin,NGM,gold,operational
+roasters,Carlin,NGM,gold,operational
+oxide mill/flotation circuit,Carlin,NGM,gold,operational
+heap leach pads,Carlin,NGM,gold,operational
+Sage autoclave,Turquoise Ridge,NGM,gold,operational
+oxide mill,Turquoise Ridge,NGM,gold,operational
+heap leach pads,Turquoise Ridge,NGM,gold,operational
+flotation mill,Phoenix,NGM,gold,operational
+carbon-in-leach plant,Phoenix,NGM,gold,operational
+copper leach pad,Phoenix,NGM,gold,operational
+solvent extraction electrowinning (“SX/EW”) plant,Phoenix,NGM,gold,operational
+heap leach pad,Long Canyon,NGM,gold,operational
+open pit mining fleet,,NGM,gold,operational
+underground mining fleet,,NGM,gold,operational
+Open pit,North America,Consolidated,Gold,
+Underground,North America,Consolidated,Gold,
+Mill,North America,Consolidated,Gold,
+Leach,North America,Consolidated,Gold,
+Open pit,South America,Consolidated,Gold,
+Underground,South America,Consolidated,Gold,
+Mill,South America,Consolidated,Gold,
+Leach,South America,Consolidated,Gold,
+Open pit,Australia,Consolidated,Gold,
+Underground,Australia,Consolidated,Gold,
+Mill,Australia,Consolidated,Gold,
+Leach,Australia,Consolidated,Gold,
+Open pit,Africa,Consolidated,Gold,
+Underground,Africa,Consolidated,Gold,
+Mill,Africa,Consolidated,Gold,
+Leach,Africa,Consolidated,Gold,
+Open pit,Nevada,Consolidated,Gold,
+Underground,Nevada,Consolidated,Gold,
+Mill,Nevada,Consolidated,Gold,
+Leach,Nevada,Consolidated,Gold,
+Mill,,Company,gold,operational
+Development,,Company,gold,under construction
+Mining operations,,Newmont,"Gold, copper, silver, lead, zinc, molybdenum",Operational
+Open Pits,Peñasquito,Newmont,Lead,Operational
+Stockpiles,Peñasquito,Newmont,Lead,Operational
+Open Pits,North America,Newmont,Zinc,Operational
+Stockpiles,North America,Newmont,Zinc,Operational
+CC&V,"Colorado, North America",Newmont,gold,operational
+Musselwhite,Canada,Newmont,gold,operational
+Porcupine Underground,,Newmont,gold,operational
+Porcupine Open Pit,,Newmont,gold,operational
+Deposits/Districts,"Peñasquito, Mexico",Newmont,Lead,
+Molybdenum Deposits,"NuevaUnión, Chile",50% Newmont,Molybdenum,undeveloped
+Molybdenum Deposits,"Agua Rica, Argentina",18.75% Newmont,Molybdenum,undeveloped
+Merian mine,Suriname,Newmont and the Republic of Suriname,,
+Facilities,,Newmont Stockholders,Gold,
+Equipment,,Newmont Stockholders,Gold,
+Infrastructure,,Newmont Stockholders,Gold,
+Conga mill assets,,Newmont,,held for sale
+ore on leach pads,,Company,"gold, copper, silver",operational
+Mining operations,,The Company,"Gold, other metals",Operational
+stockpiles,,,metals,
+leach pads,,,metals,
+product inventory,,,metals,
+Mineral Reserves,,Joint Venture,Gold,
+Mineral Resources,,Joint Venture,Gold,
+Facilities,,Joint Venture,Gold,
+"property, plant and mine development",Nevada Gold Mines,Newmont Corporation,,operational
+"property, plant and mine development",,Newmont Corporation,,under construction
+Stockpiles and ore on leach pads,,Newmont Corporation,Gold,
+"Property, plant and mine development",,Newmont Corporation,Gold,
+Conga project,,Newmont Corporation,Gold,care and maintenance
+Stockpiles,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Ore on leach pads,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+leach pads,,Company,ore,operational
+mill,,Company,ore,operational
+flotation,,Company,ore,operational
+leach and carbon-in-leach processing facilities,,Company,ore,operational
+open pits,,NEWMONT CORPORATION,minerals,under construction
+processing facilities,,NEWMONT CORPORATION,minerals,operational
+Facilities,,Newmont Corporation,Gold,
+Equipment,,Newmont Corporation,Gold,
+"Property, plant & mine development",,Newmont Corporation,Gold,
+Cash and cash equivalents,,Newmont Corporation,N/A,
+Trade receivables,,Newmont Corporation,N/A,
+Investments,,Newmont Corporation,N/A,
+Equity method investments,,Newmont Corporation,N/A,
+Inventories,,Newmont Corporation,N/A,
+Stockpiles and ore on leach pads,,Newmont Corporation,Gold,
+Mining operations,North America,Newmont Corporation,"Gold, Copper, Silver, Lead, Zinc",
+Lone Tree,NGM,Newmont Corporation,,
+South Arturo properties,NGM,Newmont Corporation,,
+"Continental Gold, Inc.",,Newmont Corporation,,
+"TMAC Resources, Inc.",,Newmont Corporation,,
+Red Lake complex,"Ontario, Canada",Evolution Mining Limited,,
+Alumbrera mine,Argentina,Minera Agua Rica Alumbrera Limited,,
+Agua Rica project,Argentina,Minera Agua Rica Alumbrera Limited,,
+"Property, plant and mine development",,NEWMONT CORPORATION,,
+Conga mill assets,,Newmont Corporation,,end-of-life
+Land,,NEWMONT CORPORATION,,
+Facilities and equipment,,NEWMONT CORPORATION,,
+Mine development,,NEWMONT CORPORATION,,
+Mineral interests,,NEWMONT CORPORATION,,
+Construction-in-progress,,NEWMONT CORPORATION,,Under construction
+corporate offices,,Newmont Corporation,gold and silver,
+processing facilities,,Newmont Corporation,gold and silver,
+mining equipment,,Newmont Corporation,gold and silver,
+water treatment plants,Peru,Newmont Corporation,mining,"operational, under construction"
+Autoclaves,Not specified,Newmont,gold sulfide ores,
+flotation plants,"Peñasquito, Boddington",Newmont,"gold sulfide ores, copper and gold ore",
+crushing and grinding plants,"Peñasquito, Boddington",Newmont,copper and gold ore,
+process plants,Boddington,Newmont,copper and gold ore,
+reserves of gold,,Newmont,gold,
+reserves of silver,,Newmont,silver,
+reserves of copper,,Newmont,copper,
+reserves of zinc,,Newmont,zinc,
+reserves of lead,,Newmont,lead,
+Mining operations,,Newmont,"Gold, silver, copper, zinc, lead","Operational, under development, end-of-life (implied)"
+mines,,Company,minerals,operational
+facilities,,Company,minerals,operational
+mines,,,mining operations,operational
+operating and control systems,,,mining operations,operational
+networks,,,mining operations,operational
+IT systems,,,mining operations,operational
+operational technology,,,mining operations,operational
+Nevada operations,Nevada,"Newmont (38.5%), Barrick (61.5%)",,
+mines,operating regions,Newmont,gold,operational
+mines,operating regions,Newmont,gold,under construction
+mines,operating regions,Newmont,gold,end-of-life
+Mining operations (open pit),North America,,Gold,operational
+Mining operations (open pit),South America,,Gold,operational
+Mining operations (open pit),Australia,,Gold,operational
+Mining operations (open pit),Africa,,Gold,operational
+Mining operations (open pit),Nevada,,Gold,operational
+Mining operations (underground),North America,,Gold,operational
+Mining operations (underground),South America,,Gold,operational
+Mining operations (underground),Australia,,Gold,operational
+Mining operations (underground),Africa,,Gold,operational
+mills,North America,,Gold,operational
+mills,South America,,Gold,operational
+mills,Australia,,Gold,operational
+mills,Africa,,Gold,operational
+mills,Nevada,,Gold,operational
+leach facilities,North America,,Gold,operational
+leach facilities,South America,,Gold,operational
+leach facilities,Australia,,Gold,operational
+leach facilities,Africa,,Gold,operational
+leach facilities,Nevada,,Gold,operational
+CC&V Open Pits,North America,Newmont,Gold,Operational
+CC&V Leach Pads,North America,Newmont,Gold,Operational
+600,Colorado,,,
+820,Colorado,,,
+"49,300",Colorado,,,
+620,Colorado,,,
+"3,400",Argentina,,,
+590,Argentina,,,
+"7,000",Argentina,,,
+"1,320",Argentina,,,
+"10,400",Argentina,,,
+"1,920",Australia,,,
+"1,800",Australia,,,
+500,Australia,,,
+700,Australia,,,
+190,Australia,,,
+"2,500",Australia,,,
+690,Australia,,,
+"2,600",Argentina,,,
+130,Argentina,,,
+"31,900",Argentina,,,
+"1,480",Argentina,,,
+"34,500",Argentina,,,
+"1,610",Argentina,,,
+"1,900",Australia,,,
+310,Australia,,,
+"7,400",Australia,,,
+"1,260",Australia,,,
+"9,400",Australia,,,
+"1,570",Australia,,,
+Open Pits and Underground,Peru,100%,copper,operational
+Metallurgical Recovery,,,copper,
+Stockpiles,,,copper,operational
+Boddington Open Pit,Western Australia,Newmont,copper,operational
+Boddington Stockpiles,Western Australia,Newmont,copper,operational
+Nevada NGM,Nevada,Newmont,copper,operational
+facilities,Nevada,Newmont,Silver,operational
+facilities,Pueblo Viejo,Barrick,Silver,operational
+facilities,Norte Abierto,NuevaUnión joint venture,Silver,under construction
+facilities,NuevaUnión,NuevaUnión joint venture,Silver,under construction
+Molybdenum Reserves,"South America, NuevaUnión, Chile",Newmont,Molybdenum,undeveloped
+Cerro Negro Underground,Argentina,100%,Silver,
+Cerro Negro Open Pit,Argentina,100%,Silver,
+Total Cerro Negro,Argentina,,Silver,
+Pueblo Viejo,Dominican Republic,40%,Silver,
+NuevaUnión,Chile,50%,Silver,
+Norte Abierto,Chile,50%,Silver,
+Agua Rica,,18.75%,Silver,
+Nevada NGM,Nevada,38.5%,Silver,
+Mine,U.S.,Newmont (majority),,Operational
+Nevada mines,Nevada,Joint Venture with Barrick (38.5% Newmont interest),,Operational
+Facilities,,,Gold,
+Equipment,,,Copper,
+Facilities,,,Silver,
+Equipment,,,Lead,
+Facilities,,,Zinc,
+Peñasquito mine,North America,,"silver, lead, zinc, gold",operational
+Boddington mine,Australia,,"copper, gold",operational
+Mine,"Porcupine, Canada",Newmont,Gold,Operational
+Mill,"Éléonore, Canada",Newmont,Gold,Operational
+Equipment,"Peñasquito, Mexico",Newmont,Gold,Operational
+Mill,Merian,Newmont,Gold,Operational
+Mine,Cerro Negro,Newmont,Gold,Operational
+trucks,,,,disposal
+Conga mill,,,,held for sale
+"Additions to property, plant and mine development",,,,operational
+,,Newmont,Gold,
+mining facilities (including open pit and underground mines),,the company,"gold, copper",operational
+leaching facilities,,the company,copper,operational
+tailing facilities,,the company,copper,operational
+mills,,the company,"gold, copper",operational
+infrastructure,,the company,"gold, copper",operational
+ore on leach pads,,Company,"gold, copper, silver",operational
+mine,,,,
+stockpiles,,Company,"gold, copper, silver, lead, zinc",operational
+leach pads,,Company,"gold, copper, silver, lead, zinc",operational
+product inventory,,Company,"gold, copper, silver, lead, zinc",operational
+"Property, plant and mine development",,NEWMONT CORPORATION,,
+Stockpiles and ore on leach pads,,NEWMONT CORPORATION,,
+plant,,NEWMONT CORPORATION,,
+mine,,NEWMONT CORPORATION,,
+Stockpiles,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Ore on leach pads,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Inventories,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+open pits,,NEWMONT CORPORATION,minerals,operational
+processing facilities,,NEWMONT CORPORATION,minerals,operational
+Mining operations,,NEWMONT CORPORATION,metals,"operational, under construction"
+Doré production facilities,,Newmont Corporation,gold,operational
+Concentrate production vessels,,Newmont Corporation,"concentrate (gold, copper, silver, lead, zinc)",operational
+mine sites,,The Company,,"operating, under construction, end-of-life"
+Alumbrera mine,Argentina,"Newmont Corporation (formerly), Glencore International AG (currently)",Gold,Operational
+Agua Rica project,Argentina,"Newmont Corporation (formerly), Glencore International AG (currently)",Gold,Under construction
+La Zanja,,Sold to Newmont Corporation,Gold,Sold
+Long-lived assets,,Newmont Corporation,,"operational, under construction, end-of-life"
+Stockpiles,Chile,Newmont,,operational
+Ore on Leach Pads,Chile,Newmont,,operational
+ore on leach pads,CC&V,Newmont Corporation,,
+stockpiles,NGM,Newmont Corporation,,
+infrastructure,NGM,Newmont Corporation,,operational
+corporate and regional offices,,Newmont Corporation,gold and silver,
+processing facilities,,Newmont Corporation,gold and silver,
+mining equipment,,Newmont Corporation,gold and silver,
+Galore Creek project,,"Newmont Corporation, NovaGold Resources Inc.",mining,under construction
+Production and Development Properties,,,,Operational
+Operating Statistics,,,,Operational
+Water Treatment Plant,,Newmont Corporation,Water,
+facilities,,,gold,
+equipment,,,copper,
+infrastructure,,,silver,
+,,,lead,
+,,,zinc,
+mining operations,,Newmont,"gold, copper, silver, lead, zinc",operational
+mining properties,,Company,"gold, copper, silver, lead, zinc, molybdenum","under construction, operational"
+mining facilities,,,ore,operational
+equipment,,,ore,operational
+infrastructure,,,ore,operational
+mines,,,,operational
+systems,,,,operational
+operations,nearby communities,Newmont,,care and maintenance
+operations,Argentina,Newmont,,operational
+operations,Papua New Guinea,Newmont,,operational
+Tailings storage facilities (TSFs),Boddington,Company,Minerals,operational
+Residue Disposal Area (RDA),Boddington,Company,Minerals,operational
+F1/F3 RDA,Boddington,Company,Minerals,under construction
+RDA2,Boddington,Company,Minerals,under construction
+Pit TSF (PTSF),Cadia,Company,Minerals,operational
+South Tailings Storage Facility (STSF),Cadia,Company,Minerals,operational
+STSFX,Cadia,Company,Minerals,under construction
+Facilities,Peru,Company,Minerals,
+Equipment,Mexico,Company,Minerals,
+Facilities,Australia,Indigenous peoples,Minerals,
+Equipment,Canada,Ejido communities,Minerals,
+Milled Ore,Red Chris,Newcrest Mining,Copper,Operational
+Milled Ore,Boddington,Newcrest Mining,Silver,Operational
+Milled Ore,Cadia,Newcrest Mining,Lead,Operational
+Milled Ore,Telfer,Newcrest Mining,Zinc,Operational
+Milled Ore,Peñasquito,Newcrest Mining,Silver,Operational
+Boddington Stockpiles,"Boddington, Australia",Newmont,Copper,operational
+NGM,United States,Barrick (operator of the NGM joint venture),Copper,operational
+Total Boddington,"Boddington, Australia",Newmont,Copper,operational
+Total Copper,N/A,Newmont,Copper,operational
+Brucejack,Canada,Newmont,Copper,operational
+Stockpiles,"Peñasquito, Mexico",Newmont,Zinc,Operational
+Open Pits,"Peñasquito, Mexico",Newmont,Zinc,Operational
+Molybdenum Reserves,"NuevaUnión, Chile",Newmont (50%) and NuevaUnión joint venture,Molybdenum,
+Molybdenum Reserves,"Cadia, Australia",Newmont (100%),Molybdenum,
+Namosi Underground,Fiji,Newmont,Copper,Operational
+Wafi-Golpu,Papua New Guinea,Newmont,Copper,Operational
+NGM,United States,Newmont,Copper,Operational
+Galore Creek,Canada,Newmont,Copper,Operational
+Conga,Peru,Newmont,Copper,Operational
+NuevaUnión,Chile,Newmont,Copper,Operational
+Norte Abierto,Chile,Newmont,Copper,Operational
+Boddington,Australia,Newmont,Copper,Operational
+Telfer Projects,Australia,100%,Tungsten,operational
+Gold,,,Gold,
+Copper,,,Copper,
+Silver,,,Silver,
+Lead,,,Lead,
+Zinc,,,Zinc,
+facilities,,,gold,
+equipment,,,copper,
+facilities,,,silver,
+equipment,,,lead,
+facilities,,,zinc,
+Telfer,,Newmont,gold,operational
+Akyem,,Newmont,gold,operational
+NGM,,Newmont,gold,operational
+Red Chris,,Newmont,copper,operational
+Peñasquito,,Newmont,"silver, lead, zinc",operational
+Boddington,,Newmont,copper,operational
+Cadia,,Newmont,gold,operational
+Brucejack,,Newmont,,operational
+Conga mill,,Newmont,,held for sale
+"Additions to property, plant and mine development",,,,operational
+"Additions to property, plant and mine development",,,,under construction
+"Advanced projects, research and development and Exploration",CC&V,Newmont,"gold, copper, silver, lead, zinc",under construction
+facilities,Porcupine,Newmont,"gold, copper, silver, lead, zinc",operational
+equipment,Peñasquito,Newmont,"gold, copper, silver, lead, zinc",operational
+infrastructure,Merian,Newmont,"gold, copper, silver, lead, zinc",operational
+facilities,,,metals,
+equipment,,,metals,
+mine development,,,metals,
+Conga project,,,,
+plant,,Newmont Corporation,gold,operational
+mine,,Newmont Corporation,copper,under construction
+mineral interests,Peru,Newmont Corporation,,
+Stockpiles,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Ore on Leach Pads,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Inventories,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Facilities,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+equipment,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+Mine development facilities,,Company,"Gold, Silver, Lead, Zinc, Copper",Under construction
+Open pit mines,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+Underground mines,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+Ore body,,Company,"Gold, Silver, Lead, Zinc, Copper",Under construction
+Mineral interests,,The Company,Minerals,Exploration stage
+Mineral interests,,The Company,Minerals,Development stage
+Mineral interests,,The Company,Minerals,Production stage
+water treatment plant,Midnite mine,NEWMONT CORPORATION,,under construction
+Musselwhite,Musselwhite,Newmont Corporation,,operational
+Éléonore,Éléonore,Newmont Corporation,,operational
+Peñasquito,Peñasquito,Newmont Corporation,,operational
+NGM,NGM,Newmont Corporation,,operational
+Long Canyon,Long Canyon,Newmont Corporation (proportionate interest),,long-term care and maintenance
+Kalgoorlie Consolidated Gold Mines power business,,Northern Star Resources Limited,gold,
+South Arturo property,,NGM,gold,
+Lone Tree and Buffalo mountain properties,,i-80 Gold Corp,,
+TMAC Resources,,Agnico Eagle Mines Ltd,gold,
+"Property, plant and mine development",Nevada,NEWMONT CORPORATION,"Gold, other metals",
+Inventory,Nevada,NEWMONT CORPORATION,"Gold, other metals",
+Reclamation and remediation,Peru,NEWMONT CORPORATION,"Gold, other metals",
+Long-lived assets,,NEWMONT CORPORATION,,"operational, under construction, end-of-life"
+Loan Facility,,Newmont Corporation and Barrick,"Gold, Silver",operational
+Revolving Facility,,Newmont Corporation and Barrick,"Gold, Silver",operational
+stockpiles,,Newmont Corporation,mining,operational
+ore on leach pads,,Newmont Corporation,mining,operational
+Facilities and equipment,,Newmont Corporation,mining,operational
+Mine development,,Newmont Corporation,mining,operational
+Mineral interests,,Newmont Corporation,mining,operational
+Construction-in-progress,,Newmont Corporation,mining,under construction
+Conga mill,,Newmont Corporation,,held for sale
+corporate and regional offices,,,,
+processing facilities,,,,
+mining equipment,,,,
+power generation,,,,
+transportation,,,,
+Properties,,,,
+Pueblo Viejo mine,,40% owned by Newmont,gold,operational
+Peñasquito,North America,,"gold, copper, silver, lead, zinc",operational
+Boddington,Australia,,"gold, copper",operational
+facilities,Boddington,Newmont,copper,operational
+equipment,Phoenix,Newmont,copper,operational
+facilities,Australia,Newmont,copper,operational
+facilities,North America,Newmont,"silver, lead, zinc",operational
+facilities,Peñasquito,Newmont,"lead, zinc, gold",operational
+facilities,United States,Newmont,gold,operational
+equipment,Canada,Newmont,copper,operational
+facilities,Mexico,Newmont,gold,operational
+facilities,Cripple Creek mine in Colorado,Newmont,gold,operational
+equipment,Cripple Creek mine in Colorado,Newmont,gold,operational
+infrastructure,"Tanami mine in Northern Territory, Australia",Newmont,gold,operational
+infrastructure,Cripple Creek mine in Colorado,Newmont,gold,under construction (implied)
+mining operations,"four continents including tropical, desert and arctic climates",Newmont Corporation and its subsidiaries,minerals,operational
+exploration activities,"four continents including tropical, desert and arctic climates",Newmont Corporation and its subsidiaries,minerals,operational
+tailing storage facilities,"four continents including tropical, desert and arctic climates",Newmont Corporation and its subsidiaries,mining byproducts,operational
+water treatment facilities,"four continents including tropical, desert and arctic climates",Newmont Corporation and its subsidiaries,water,operational
+mines,jurisdictions in which we operate,Newmont,,"operational, under construction, care and maintenance"
+projects,jurisdictions in which we operate,Newmont,,under construction
+exploration activities,jurisdictions in which we operate,Newmont,,
+Mining operations,,Company,"gold, silver, copper, zinc, lead",operational
+Ore stockpiles,,Company,"gold, silver, copper, zinc, lead",operational
+Leach pads,,Company,"gold, silver, copper, zinc, lead",operational
+Development projects,,Company,"gold, silver, copper, zinc, lead",under construction
+mining properties,,,gold,
+mining properties,,,silver,
+mining properties,,,copper,
+mining properties,,,zinc,
+mining properties,,,lead,
+Facilities,,Company,Ore,Operational
+Equipment,,Company,Ore,Operational
+Infrastructure,,Company,Ore,Operational
+mines,Argentina,Newmont,"gold, silver, copper, zinc, lead",operational
+processing operations,Suriname,Newmont,"gold, silver, copper, zinc, lead",operational
+mines,U.S.,Newmont,uranium,end-of-life
+mine,Peru,Newmont,"gold, silver",under construction
+mines,,,,
+mines,Nevada,Newmont and Barrick Gold Corporation,gold,operational
+Mine operations,,Newmont,"gold, silver, copper, zinc and lead",Operational
+mining equipment,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+milling equipment,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+conveyor systems,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+mining operations,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+production facilities,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+mineral properties,,Company,"gold, silver, copper, zinc, lead and other minerals",operational
+Equipment,Peru,Newmont,,
+Infrastructure,Mexico,Newmont,,
+mining operations,various countries,Newmont,gold,operational
+exploration operations,various countries,Newmont,gold,operational
+development operations,various countries,Newmont,gold,operational
+processing operations,various countries,Newmont,gold,operational
+closed facilities,various countries,Newmont,gold,end-of-life
+Tanami mine,Australia,Newmont,metals,operational
+unspecified mines,Suriname,Newmont,metals,operational
+unspecified mines,Peru,Newmont,metals,under construction
+facilities,remote locations,Newmont,energy,operational
+equipment,Mexico,Newmont,water,operational
+infrastructure,Colorado,Newmont,energy,under construction
+water supply,Peñasquito,,,operational
+tailings storage facilities,Boddington,,"gold, silver, copper, zinc and/or lead",operational
+mine pits,Boddington,,"gold, silver, copper, zinc and/or lead",operational
+maintenance and storage facilities,Boddington,,"gold, silver, copper, zinc and/or lead",operational
+water wells,Peñasquito,,,end-of-life
+,Nevada,NGM,gold,
+,Argentina,NGM,minerals,
+,Santa Cruz (Argentina),local providers,,
+,Zacatecas (Mexico),NGM,minerals,
+,United States,NGM,"gold, silver, minerals",
+Cripple Creek & Victor,"Vancouver, Canada",Newmont,gold,operational
+Musselwhite,"Vancouver, Canada",Newmont,gold,operational
+Porcupine,"Vancouver, Canada",Newmont,gold,operational
+Éléonore,"Vancouver, Canada",Newmont,gold,operational
+Peñasquito,"Vancouver, Canada",Newmont,gold,operational
+Red Lake complex,"Ontario, Canada",Evolution Mining Limited,Gold,
+Cripple Creek & Victor,"Colorado, USA",100% owned by the Company,Gold,operational
+Musselwhite mine,"Ontario, Canada",100% owned by the Company,Gold,operational
+Porcupine operation,"Ontario, Canada",100% owned by the Company,Gold,operational
+Éléonore mine,Eeyou Istchee/James Bay in Northern Quebec,100% owned by the Company,Gold,operational
+Peñasco open pit mine,"Zacatecas State, Mexico",Newmont,"gold, silver, lead, zinc",operational
+Chile Colorado open pit mine,"Zacatecas State, Mexico",Newmont,"gold, silver, lead, zinc",operational
+processing plant,"Zacatecas State, Mexico",Newmont,"gold, silver, lead, zinc",operational
+crushing plant,Cerro Negro,Newmont,gold/silver,operational
+grinding circuit,Cerro Negro,Newmont,gold/silver,operational
+agitated leaching,Cerro Negro,Newmont,gold/silver,operational
+counter-current decantation,Cerro Negro,Newmont,gold/silver,operational
+solution clarification,Cerro Negro,Newmont,gold/silver,operational
+Merril Crowe zinc precipitation and smelting,Cerro Negro,Newmont,gold/silver,operational
+conventional mill,Pueblo Viejo,Barrick (joint venture with Newmont),gold/silver,operational
+crushing and grinding circuit,Pueblo Viejo,Barrick (joint venture with Newmont),gold/silver,operational
+autoclave,Pueblo Viejo,Barrick (joint venture with Newmont),gold/silver,operational
+carbon-in-leach circuit,Pueblo Viejo,Barrick (joint venture with Newmont),gold/silver,operational
+crushing plant,Boddington,Newmont,gold/copper,operational
+grinding circuit,Boddington,Newmont,gold/copper,operational
+oxide mill,Cortez,NGM,gold,operational
+crushing and grinding circuit,Cortez,NGM,gold,operational
+carbon-in-leach circuit,Cortez,NGM,gold,operational
+heap leach pads,Cortez,NGM,gold,operational
+autoclave,Carlin,NGM,gold,operational
+roasters,Carlin,NGM,gold,operational
+oxide mill/flotation circuit,Carlin,NGM,gold,operational
+heap leach pads,Carlin,NGM,gold,operational
+Sage autoclave,Turquoise Ridge,NGM,gold,operational
+oxide mill,Turquoise Ridge,NGM,gold,operational
+heap leach pads,Turquoise Ridge,NGM,gold,operational
+flotation mill,Phoenix,NGM,gold,operational
+carbon-in-leach plant,Phoenix,NGM,gold,operational
+copper leach pad,Phoenix,NGM,gold,operational
+solvent extraction electrowinning (“SX/EW”) plant,Phoenix,NGM,gold,operational
+heap leach pad,Long Canyon,NGM,gold,operational
+open pit mining fleet,,NGM,gold,operational
+underground mining fleet,,NGM,gold,operational
+Open pit,North America,Consolidated,Gold,
+Underground,North America,Consolidated,Gold,
+Mill,North America,Consolidated,Gold,
+Leach,North America,Consolidated,Gold,
+Open pit,South America,Consolidated,Gold,
+Underground,South America,Consolidated,Gold,
+Mill,South America,Consolidated,Gold,
+Leach,South America,Consolidated,Gold,
+Open pit,Australia,Consolidated,Gold,
+Underground,Australia,Consolidated,Gold,
+Mill,Australia,Consolidated,Gold,
+Leach,Australia,Consolidated,Gold,
+Open pit,Africa,Consolidated,Gold,
+Underground,Africa,Consolidated,Gold,
+Mill,Africa,Consolidated,Gold,
+Leach,Africa,Consolidated,Gold,
+Open pit,Nevada,Consolidated,Gold,
+Underground,Nevada,Consolidated,Gold,
+Mill,Nevada,Consolidated,Gold,
+Leach,Nevada,Consolidated,Gold,
+Mill,,Company,gold,operational
+Development,,Company,gold,under construction
+Boddington Mine,Australia,Company,Copper,operational
+Peñasquito Mine,North America,Company,"Silver, Lead, Zinc",operational
+facilities,North America,Newmont,gold,operational
+equipment,Australia,Newmont,gold,operational
+facilities,Nevada,Newmont,gold,operational
+Mining operations,,Newmont,"Gold, copper, silver, lead, zinc, molybdenum",Operational
+Boddington Stockpiles,Western Australia,Newmont,Copper,operational
+Nevada NGM,Nevada,Barrick,Copper,operational
+Open Pits,Peñasquito,Newmont,Lead,Operational
+Stockpiles,Peñasquito,Newmont,Lead,Operational
+Open Pits,North America,Newmont,Zinc,Operational
+Stockpiles,North America,Newmont,Zinc,Operational
+Molybdenum Reserves,"South America, NuevaUnión, Chile",Newmont (50%),Molybdenum,undeveloped
+CC&V,"Colorado, North America",Newmont,gold,operational
+Musselwhite,Canada,Newmont,gold,operational
+Porcupine Underground,,Newmont,gold,operational
+Porcupine Open Pit,,Newmont,gold,operational
+Deposits/Districts,"Peñasquito, Mexico",Newmont,Lead,
+Molybdenum Deposits,"NuevaUnión, Chile",50% Newmont,Molybdenum,undeveloped
+Molybdenum Deposits,"Agua Rica, Argentina",18.75% Newmont,Molybdenum,undeveloped
+Mine,U.S.,Newmont and Barrick (joint venture),,Operational
+Facilities,United States,Newmont Corporation,Gold,operational
+Equipment,Canada,Newmont Corporation,Copper,operational
+Infrastructure,Mexico,Buenaventura,Silver,under construction
+Carlin mines,Nevada,"Newmont (38.5%), Barrick (61.5%)",Gold,Operational
+Phoenix mines,Nevada,"Newmont (38.5%), Barrick (61.5%)",Gold,Operational
+Twin Creeks mines,Nevada,"Newmont (38.5%), Barrick (61.5%)",Gold,Operational
+Long Canyon mines,Nevada,"Newmont (38.5%), Barrick (61.5%)",Gold,Operational
+Peñasquito,,,zinc,care and maintenance
+Facilities,North America,Newmont,Gold,Operational
+Equipment,South America,Newmont,Gold,Operational
+Infrastructure,Australia,Newmont,Gold,Operational
+Mining Operations,Africa,Newmont,Gold,Operational
+Processing Plant,Nevada,Newmont,Gold,Operational
+Mine,Pueblo Viejo,Newmont (40%),"Gold, Silver, Lead, Zinc",Operational
+Peñasquito mine,North America,Newmont Goldcorp,"silver, lead, zinc",operational
+Boddington mine,Australia,Newmont Goldcorp,copper,operational
+Phoenix mine,Nevada,Newmont Goldcorp,copper,operational
+Musselwhite,Canada,,gold,operational
+Porcupine,Canada,,gold,operational
+Éléonore,Canada,,gold,operational
+Peñasquito,Mexico,,gold,operational
+Cerro Negro mine,Argentina,,gold,operational
+Pueblo Viejo mine,Dominican Republic,,gold,operational
+Boddington mine,Australia,,"gold, copper",operational
+Tanami mine,Australia,,gold,operational
+Kalgoorlie mine,Australia,,gold,sold
+Nevada Operations,Nevada,NGM,Gold,Operational
+Goldstrike mill,Carlin,NGM,Gold,Operational
+ore blending,Carlin,NGM,Gold,Operational
+Merian mine,Suriname,Newmont and the Republic of Suriname,,
+"""Quecher Main project""","""South America""","""Newmont""","""""","""operational"""
+"""South Arturo""","""Nevada""","""Newmont""","""""","""operational"""
+Facilities,,Newmont Stockholders,Gold,
+Equipment,,Newmont Stockholders,Gold,
+Infrastructure,,Newmont Stockholders,Gold,
+Conga mill assets,,Newmont,,held for sale
+"Property, plant and mine development",,,Gold and other metals,"Operational, Under construction"
+Facilities,North America,Company,Gold,Operational
+Equipment,South America,Company,Copper,Operational
+Infrastructure,Australia,Company,Silver,Under Construction
+Facilities,Africa,Company,Lead,End-of-Life
+ore on leach pads,,Company,"gold, copper, silver",operational
+Mining operations,,The Company,"Gold, other metals",Operational
+mining properties,Conga project,Company,metals,operational
+facilities (Conga development project),Conga project,Company,metals,under construction
+stockpiles,,,metals,
+leach pads,,,metals,
+product inventory,,,metals,
+Mineral Reserves,,Joint Venture,Gold,
+Mineral Resources,,Joint Venture,Gold,
+Facilities,,Joint Venture,Gold,
+"property, plant and mine development",Nevada Gold Mines,Newmont Corporation,,operational
+"property, plant and mine development",,Newmont Corporation,,under construction
+Stockpiles and ore on leach pads,,Newmont Corporation,Gold,
+"Property, plant and mine development",,Newmont Corporation,Gold,
+\'Cerro Negro mine\,\'Argentina\,\'Company\,\'gold\,\'\
+\'Batu Hijau\,\'\,\' \,\' \,\'\
+\'Holt-McDermott property\,\'\,"\'Kirkland Lake Gold Ltd (""Kirkland"")\",\'gold\,\'\
+Conga project,,Newmont Corporation,Gold,care and maintenance
+Stockpiles,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Ore on leach pads,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+leach pads,,Company,ore,operational
+mill,,Company,ore,operational
+flotation,,Company,ore,operational
+leach and carbon-in-leach processing facilities,,Company,ore,operational
+open pits,,NEWMONT CORPORATION,minerals,under construction
+processing facilities,,NEWMONT CORPORATION,minerals,operational
+mining operations,not specified,NEWMONT CORPORATION,metals,"operational, under construction, end-of-life"
+Facilities,,Newmont Corporation,Gold,
+Equipment,,Newmont Corporation,Gold,
+"Property, plant & mine development",,Newmont Corporation,Gold,
+Cash and cash equivalents,,Newmont Corporation,N/A,
+Trade receivables,,Newmont Corporation,N/A,
+Investments,,Newmont Corporation,N/A,
+Equity method investments,,Newmont Corporation,N/A,
+Inventories,,Newmont Corporation,N/A,
+Stockpiles and ore on leach pads,,Newmont Corporation,Gold,
+Gold doré,NGM,Newmont Corporation,Gold,
+Concentrate,Various,Newmont Corporation,"Gold, Silver, Lead, Zinc",
+Mining operations,North America,Newmont Corporation,"Gold, Copper, Silver, Lead, Zinc",
+\'Reclamation and remediation\,\'Various\,\'Newmont Corporation\,\'\,\'Operational\
+\'non-current restricted cash\,\'Various\,\'Newmont Corporation\,\'\,\'Restricted\
+\'non-current restricted investments\,\'Various\,\'Newmont Corporation\,\'\,\'Restricted\
+\'Conga mill assets\,"\'Peru, South America\",\'Newmont Corporation\,\'\,\'Held for sale\
+Conga mill,Conga,Newmont Corporation,gold,under construction
+Kalgoorlie power business,Kalgoorlie,Northern Star Resources Limited,electricity (derived from gold mining),operational
+Lone Tree,Lone Tree,Newmont Corporation,gold,operational
+TMAC,TMAC,Newmont Corporation,gold,end-of-life
+Continental,Continental,Northern Star Resources Limited,gold,operational
+Red Lake,Red Lake,Northern Star Resources Limited,gold,operational
+Lone Tree,NGM,Newmont Corporation,,
+South Arturo properties,NGM,Newmont Corporation,,
+"Continental Gold, Inc.",,Newmont Corporation,,
+"TMAC Resources, Inc.",,Newmont Corporation,,
+Red Lake complex,"Ontario, Canada",Evolution Mining Limited,,
+Alumbrera mine,Argentina,Minera Agua Rica Alumbrera Limited,,
+Agua Rica project,Argentina,Minera Agua Rica Alumbrera Limited,,
+"Property, plant and mine development",,NEWMONT CORPORATION,,
+Conga mill assets,,Newmont Corporation,,end-of-life
+Land,,NEWMONT CORPORATION,,
+Facilities and equipment,,NEWMONT CORPORATION,,
+Mine development,,NEWMONT CORPORATION,,
+Mineral interests,,NEWMONT CORPORATION,,
+Construction-in-progress,,NEWMONT CORPORATION,,Under construction
+corporate offices,,Newmont Corporation,gold and silver,
+processing facilities,,Newmont Corporation,gold and silver,
+mining equipment,,Newmont Corporation,gold and silver,
+water treatment plants,Peru,Newmont Corporation,mining,"operational, under construction"
+Midnite mine site,Midnite mine site,"Newmont, Dawn, EPA",Mining,Operational
+Dawn mill site,Dawn mill site,"Newmont, Dawn, EPA",Mining,End-of-life
+Tailing Disposal Area 1-4,Midnite mine site,"Newmont, Dawn, EPA",Mining,Completed
+water treatment plant (WTP),Midnite mine site,Newmont,Water Treatment,Under Construction
+facilities,Cerro Negro,Newmont,gold,operational
+equipment,Porcupine,Newmont,gold,operational
+facilities,CC&V,Newmont,gold,operational
+mine,Pueblo Viejo,Newmont (40%),gold,operational
+Boddington,Australia,Newmont,Gold,
+Tanami,Australia,Newmont,Gold,
+Nevada Gold Mines (NGM),U.S.,Newmont (38.5%),Gold,
+Pueblo Viejo,,40% owned by Newmont,Gold,
+Peñasquito,North America,Newmont,Gold,
+mills,,Newmont,gold,operational
+heap leaching pads,,Newmont,gold,operational
+process facilities,,Newmont,gold,operational
+ore,,Newmont,gold,operational
+Autoclaves,Not specified,Newmont,gold sulfide ores,
+flotation plants,"Peñasquito, Boddington",Newmont,"gold sulfide ores, copper and gold ore",
+crushing and grinding plants,"Peñasquito, Boddington",Newmont,copper and gold ore,
+process plants,Boddington,Newmont,copper and gold ore,
+mining systems (all-electric autonomous),"Cripple Creek & Victor mine in Colorado, U.S.",Newmont and Caterpillar Inc.,minerals,under development
+surface and underground mining equipment,"Tanami mine in Northern Territory, Australia",Newmont and Caterpillar Inc.,minerals,operational
+reserves of gold,,Newmont,gold,
+reserves of silver,,Newmont,silver,
+reserves of copper,,Newmont,copper,
+reserves of zinc,,Newmont,zinc,
+reserves of lead,,Newmont,lead,
+Mining operations,,Newmont,"Gold, silver, copper, zinc, lead","Operational, under development, end-of-life (implied)"
+mining properties,,third parties,gold,under development
+mining properties,,Company,silver,operational
+mining properties,,third parties,copper,under development
+mining properties,,Company,zinc,operational
+mining properties,,third parties,lead,under development
+mines,,Company,minerals,operational
+facilities,,Company,minerals,operational
+operations,jurisdictions,Company,,operational
+sites,operating sites,Newmont,,operational/care and maintenance
+mines,,,mining operations,operational
+operating and control systems,,,mining operations,operational
+networks,,,mining operations,operational
+IT systems,,,mining operations,operational
+operational technology,,,mining operations,operational
+Nevada operations,Nevada,"Newmont (38.5%), Barrick (61.5%)",,
+Cerro Negro,Argentina,Company,gold,
+tailings storage facilities,Boddington,Newmont,metals,under construction
+mines,operating regions,Newmont,gold,operational
+mines,operating regions,Newmont,gold,under construction
+mines,operating regions,Newmont,gold,end-of-life
+mines,Australia,Newmont,minerals,operational
+Tanami mine,Australia,Newmont,gold,operational
+facilities,Suriname,Newmont,unspecified,operational
+pipeline,"Tanami, Australia",Newmont,natural gas,operational
+mines,Peru,Newmont,minerals,operational
+Tailings storage facilities (TSFs),Éléonore mine,Newmont,milled rock slurry,operational
+Tailings storage facilities (TSFs),Brazil,unaffiliated mine,tailings,closed
+Mine sites,Éléonore mine,Newmont,milled rock slurry,operational
+Pit slopes,Éléonore mine,Newmont,milled rock slurry,operational
+mine pits,mine site property,,"gold, silver, copper, zinc, lead",operational
+maintenance and storage facilities,mine site property,,"gold, silver, copper, zinc, lead",operational
+"infrastructure (tailings, waste rock)",mine site property,,"gold, silver, copper, zinc, lead",operational
+water wells,Peñasquito operation,,water,operational
+pump back systems,multiple sites,,water,under construction
+treatment systems,multiple sites,,water,operational
+Cripple Creek & Victor (“CC&V”),"Victor and the city of Cripple Creek, Colorado",100% owned,gold,operational
+Musselwhite,"approximately 265 miles (430 kilometers) north of Thunder Bay, Ontario",100% owned,gold,operational
+Pueblo Viejo Mine,Peru,Barrick,gold,operational
+La Quinua Complex,Peru,Barrick,gold,in end-of-life
+Maqui Maqui,Peru,Barrick,gold,in end-of-life
+one limestone processing facility (China Linda),Peru,Barrick,gold,operational
+Merian 2 open pit,Suriname,Newmont Suriname and Staatsolie,gold,operational
+Merian 1 open pit,Suriname,Newmont Suriname and Staatsolie,gold,operational
+the Maraba open pit,Suriname,Newmont Suriname and Staatsolie,gold,operational
+Kupari open pit,Suriname,Newmont Suriname and Staatsolie,gold,under construction
+facilities,Carlin,NGM,Gold,operational
+equipment,Turquoise Ridge,NGM,Gold,operational
+infrastructure,Long Canyon,NGM,Gold,operational
+heap leach pad,Cortez,NGM,Gold,operational
+autoclave,Carlin,NGM,Gold,operational
+Mining operations (open pit),North America,,Gold,operational
+Mining operations (open pit),South America,,Gold,operational
+Mining operations (open pit),Australia,,Gold,operational
+Mining operations (open pit),Africa,,Gold,operational
+Mining operations (open pit),Nevada,,Gold,operational
+Mining operations (underground),North America,,Gold,operational
+Mining operations (underground),South America,,Gold,operational
+Mining operations (underground),Australia,,Gold,operational
+Mining operations (underground),Africa,,Gold,operational
+mills,North America,,Gold,operational
+mills,South America,,Gold,operational
+mills,Australia,,Gold,operational
+mills,Africa,,Gold,operational
+mills,Nevada,,Gold,operational
+leach facilities,North America,,Gold,operational
+leach facilities,South America,,Gold,operational
+leach facilities,Australia,,Gold,operational
+leach facilities,Africa,,Gold,operational
+leach facilities,Nevada,,Gold,operational
+\'Mill\,\'\,\'\,\'Ore\,\'operational\
+\'Leach\,\'\,\'\,\'Ore\,\'operational\
+Boddington Mine,Australia,,Copper,operational
+Peñasquito Mine,North America,,"Silver, Lead, Zinc",operational
+Mining Operations,North America,Company owns or controls land,"Gold, Copper, Silver, Lead, Zinc",Operational
+Mining Operations,Australia,Joint ventures with other entities,"Gold, Copper, Silver, Lead, Zinc",Operational
+CC&V Open Pits,North America,Newmont,Gold,Operational
+CC&V Leach Pads,North America,Newmont,Gold,Operational
+600,Colorado,,,
+820,Colorado,,,
+"49,300",Colorado,,,
+620,Colorado,,,
+"3,400",Argentina,,,
+590,Argentina,,,
+"7,000",Argentina,,,
+"1,320",Argentina,,,
+"10,400",Argentina,,,
+"1,920",Australia,,,
+"1,800",Australia,,,
+500,Australia,,,
+700,Australia,,,
+190,Australia,,,
+"2,500",Australia,,,
+690,Australia,,,
+"2,600",Argentina,,,
+130,Argentina,,,
+"31,900",Argentina,,,
+"1,480",Argentina,,,
+"34,500",Argentina,,,
+"1,610",Argentina,,,
+"1,900",Australia,,,
+310,Australia,,,
+"7,400",Australia,,,
+"1,260",Australia,,,
+"9,400",Australia,,,
+"1,570",Australia,,,
+Open Pits and Underground,Peru,100%,copper,operational
+Metallurgical Recovery,,,copper,
+Stockpiles,,,copper,operational
+Boddington Open Pit,Western Australia,Newmont,copper,operational
+Boddington Stockpiles,Western Australia,Newmont,copper,operational
+Nevada NGM,Nevada,Newmont,copper,operational
+Open Pits,Mexico,Newmont,"Copper, Gold, Silver",operational
+Stockpiles,Mexico,Newmont,"Copper, Gold, Silver",operational
+Leach Pads,Peru,Newmont,"Copper, Gold, Silver",operational
+Open Pits,Peru,Newmont,"Copper, Gold, Silver",operational
+Open Pits,Argentina,Newmont,"Copper, Gold, Silver",operational
+Open Pits,Dominican Republic,Newmont (40%),"Copper, Gold, Silver",operational
+facilities,Nevada,Newmont,Silver,operational
+facilities,Pueblo Viejo,Barrick,Silver,operational
+facilities,Norte Abierto,NuevaUnión joint venture,Silver,under construction
+facilities,NuevaUnión,NuevaUnión joint venture,Silver,under construction
+Open Pits,Mexico,Newmont,Lead,operational
+Stockpiles,Mexico,Newmont,Lead,operational
+"""Open Pits""","""Peñasquito, Mexico""","""Newmont""","""Zinc""","""Operational"""
+"""Stockpiles""","""Peñasquito, Mexico""","""Newmont""","""Zinc""","""Operational"""
+Molybdenum Reserves,"South America, NuevaUnión, Chile",Newmont,Molybdenum,undeveloped
+CC&V,North America,Newmont's ownership or economic interest,gold,operational
+Musselwhite,Canada,Newmont's ownership or economic interest,gold,operational
+Porcupine Underground,Canada,Newmont's ownership or economic interest,gold,operational
+Porcupine Open Pit,Canada,Newmont's ownership or economic interest,gold,operational
+Éléonore,Canada,Newmont's ownership or economic interest,gold,operational
+Peñasquito,Mexico,Newmont's ownership or economic interest,gold,operational
+Noche Buena,Mexico,Newmont's ownership or economic interest,gold,operational
+Cerro Negro Underground,Argentina,100%,Silver,
+Cerro Negro Open Pit,Argentina,100%,Silver,
+Total Cerro Negro,Argentina,,Silver,
+Pueblo Viejo,Dominican Republic,40%,Silver,
+NuevaUnión,Chile,50%,Silver,
+Norte Abierto,Chile,50%,Silver,
+Agua Rica,,18.75%,Silver,
+Nevada NGM,Nevada,38.5%,Silver,
+Peñasquito,Mexico,Newmont,lead,operational
+NuevaUnión,"South America, Chile",NuevaUnión joint venture,Molybdenum,undeveloped
+Agua Rica,Argentina,Yamana,Molybdenum,undeveloped
+Mine,U.S.,Newmont (majority),,Operational
+Nevada mines,Nevada,Joint Venture with Barrick (38.5% Newmont interest),,Operational
+Facilities,,,Gold,
+Equipment,,,Copper,
+Facilities,,,Silver,
+Equipment,,,Lead,
+Facilities,,,Zinc,
+Peñasquito mine,North America,,"silver, lead, zinc, gold",operational
+Boddington mine,Australia,,"copper, gold",operational
+CC&V,CC&V,,Gold,operational
+Red Lake,Red Lake,,Gold,end-of-life
+Musselwhite,Musselwhite,,Gold,operational
+Porcupine,Porcupine,,Gold,operational
+Éléonore,Éléonore,,Gold,operational
+Peñasquito,Peñasquito,,Gold,operational
+Mine,"Porcupine, Canada",Newmont,Gold,Operational
+Mill,"Éléonore, Canada",Newmont,Gold,Operational
+Equipment,"Peñasquito, Mexico",Newmont,Gold,Operational
+Mill,Merian,Newmont,Gold,Operational
+Mine,Cerro Negro,Newmont,Gold,Operational
+Gold mines,Nevada,Company,Gold,Operational
+Leach pads,Long Canyon,Company,Gold,Operational
+Mill throughput,Turquoise Ridge and Cortez,Company,Gold,Operational
+Merian mine,Suriname,Newmont and the Republic of Suriname,metals,operational
+mine sites,,Newmont stockholders,,temporarily placed into care and maintenance
+trucks,,,,disposal
+Conga mill,,,,held for sale
+Tanami site,Tanami,Newmont,,temporarily placed into care and maintenance
+"Additions to property, plant and mine development",,,,operational
+ , ,Newmont,Gold, 
+Gold CC&V,Red Lake,,Gold,
+Gold at Musselwhite,Musselwhite,,Gold,
+Gold at Porcupine,Porcupine,,Gold,
+Gold at Éléonore,Éléonore,,Gold,
+Gold at Peñasquito,Peñasquito,,Gold,
+Other North America,Other North America,,Gold,
+Musselwhite,North America,,,temporarily placed into care and maintenance
+Éléonore,North America,,,operating at reduced levels
+Peñasquito,North America,,,temporarily placed into care and maintenance
+Cerro Negro,South America,,,temporarily placed into care and maintenance
+mining facilities (including open pit and underground mines),,the company,"gold, copper",operational
+leaching facilities,,the company,copper,operational
+tailing facilities,,the company,copper,operational
+mills,,the company,"gold, copper",operational
+infrastructure,,the company,"gold, copper",operational
+ore on leach pads,,Company,"gold, copper, silver",operational
+mine,"implied by ""mine site""",Company,"gold, other metals",operational
+mine,,,,
+stockpiles,,Company,"gold, copper, silver, lead, zinc",operational
+leach pads,,Company,"gold, copper, silver, lead, zinc",operational
+product inventory,,Company,"gold, copper, silver, lead, zinc",operational
+"Property, plant and mine development",,NEWMONT CORPORATION,,
+Stockpiles and ore on leach pads,,NEWMONT CORPORATION,,
+plant,,NEWMONT CORPORATION,,
+mine,,NEWMONT CORPORATION,,
+Conga mill assets,Peru,Newmont Corporation,gold,held for sale
+mineral interests,N/A,Newmont Corporation,gold,operational
+facilities,Peru,Company,gold and other metals,operational
+equipment,Argentina,Company,gold and other metals,operational
+infrastructure,Europe,Company,commodities,end-of-life
+Stockpiles,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Ore on leach pads,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Inventories,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+leach pads,,The Company,ore,operational
+mill in-circuit,,The Company,ore,operational
+flotation,,The Company,ore,operational
+leach and carbon-in-leach processing plants,,The Company,ore,operational
+facilities and equipment,,The Company,ore,operational
+open pits,,NEWMONT CORPORATION,minerals,operational
+processing facilities,,NEWMONT CORPORATION,minerals,operational
+Mining operations,,NEWMONT CORPORATION,metals,"operational, under construction"
+facilities,,Newmont Corporation,gold,
+equipment,,Newmont Corporation,copper,
+infrastructure,,Newmont Corporation,silver,
+Doré production facilities,,Newmont Corporation,gold,operational
+Concentrate production vessels,,Newmont Corporation,"concentrate (gold, copper, silver, lead, zinc)",operational
+mine sites,,The Company,,"operating, under construction, end-of-life"
+"Property, plant and mine development",United States,NEWMONT CORPORATION,Gold,
+\'CC&V mill\,\'North America\,\'Company\,\'Gold\,\'long-term care and maintenance\
+\'Porcupine reporting unit\,\'North America\,\'Company\,\'Gold\,\'operational\
+\'Cerro Negro reporting unit\,\'South America\,\'Company\,\'Gold\,\'operational\
+Alumbrera mine,Argentina,"Newmont Corporation (formerly), Glencore International AG (currently)",Gold,Operational
+Agua Rica project,Argentina,"Newmont Corporation (formerly), Glencore International AG (currently)",Gold,Under construction
+La Zanja,,Sold to Newmont Corporation,Gold,Sold
+Kalgoorlie Consolidated Gold Mines,Australia,"Newmont Corporation (formerly), Northern Star Resources Limited",Gold,
+Lone Tree property,,"i-80 Gold Corp (formerly), NGM",Gold,
+Buffalo mountain properties,,"i-80 Gold Corp (formerly), NGM",Gold,
+South Arturo property,,NGM,Gold,
+Rodeo Creek exploration property,,NGM,Gold,
+"Continental Gold, Inc.",,"Newmont Corporation (formerly), Zijin Mining Group",Gold,
+"TMAC Resources, Inc.",,"Newmont Corporation (formerly), Agnico Eagle Mines Ltd",Gold,
+Red Lake complex,"Ontario, Canada","Newmont Corporation (formerly), Evolution Mining Limited",Gold,
+Long-lived assets,,Newmont Corporation,,"operational, under construction, end-of-life"
+Pueblo Viejo mine,Dominican Republic,"Newmont (40%), Barrick (60%)","Gold, Silver",Operational
+Stockpiles,Chile,Newmont,,operational
+Ore on Leach Pads,Chile,Newmont,,operational
+ore on leach pads,CC&V,Newmont Corporation,,
+stockpiles,NGM,Newmont Corporation,,
+infrastructure,NGM,Newmont Corporation,,operational
+corporate and regional offices,,Newmont Corporation,gold and silver,
+processing facilities,,Newmont Corporation,gold and silver,
+mining equipment,,Newmont Corporation,gold and silver,
+Water treatment plants,Peru,100% owned by Newmont,Gold,"Operational, Under construction"
+Midnite mine site,,Newmont Corporation,mining and mineral rights,
+Dawn mill site,,Newmont Corporation,mining and mineral rights,
+Holt-McDermott property,"northeastern Ontario, Canada","Newmont Corporation (partially), Kirkland Lake Gold Inc. (partially), Royal Gold, Inc.",mining and mineral rights,suspended operations
+Galore Creek project,,"Newmont Corporation, NovaGold Resources Inc.",mining,under construction
+Production and Development Properties,,,,Operational
+Operating Statistics,,,,Operational
+Water Treatment Plant,,Newmont Corporation,Water,
+Facilities,Australia,Newmont Corporation,Gold,Operational
+Equipment,Papua New Guinea,Newmont Corporation,Copper,Operational
+mills,"Red Chris, Peñasquito, Boddington, Cadia, Telfer and other Newmont sites",Newmont,gold,operational
+heap leaching pads,"Red Chris, Peñasquito, Boddington, Cadia, Telfer and other Newmont sites",Newmont,gold,operational
+process facilities,"Red Chris, Peñasquito, Boddington, Cadia, Telfer and other Newmont sites",Newmont,gold,operational
+crushing and grinding plants,"Red Chris, Peñasquito, Boddington, Cadia, Telfer and other Newmont sites",Newmont,gold,operational
+flotation cells,"Red Chris, Peñasquito, Boddington, Cadia, Telfer and other Newmont sites",Newmont,gold,operational
+roasters,"Red Chris, Peñasquito, Boddington, Cadia, Telfer and other Newmont sites",Newmont,gold,operational
+autoclaves,"Red Chris, Peñasquito, Boddington, Cadia, Telfer and other Newmont sites",Newmont,gold,operational
+"""electric equipment""","""""","""Jointly owned by Newmont and CAT""","""surface and underground mining""","""under development"""
+facilities,,,gold,
+equipment,,,copper,
+infrastructure,,,silver,
+ ,,,lead,
+ ,,,zinc,
+mining operations,,Newmont,"gold, copper, silver, lead, zinc",operational
+Mining operations,,Company,"Gold, Copper, Silver, Lead, Zinc",Operational
+Ore stockpiles,,Company,"Gold, Copper, Silver, Lead, Zinc",Operational
+Leach pads,,Company,"Gold, Copper, Silver, Lead, Zinc",Operational
+mining properties,,Company,"gold, copper, silver, lead, zinc, molybdenum","under construction, operational"
+mining facilities,,,ore,operational
+equipment,,,ore,operational
+infrastructure,,,ore,operational
+mines,,,,operational
+systems,,,,operational
+mines,Nevada,Newmont and Barrick Gold Corporation,gold,operational
+mines,Ecuador,Lundin Gold,gold,operational
+operations,nearby communities,Newmont,,care and maintenance
+operations,Argentina,Newmont,,operational
+operations,Papua New Guinea,Newmont,,operational
+"""mining properties""","""Peru""","""Newmont""","""metal prices""","""operational"""
+"""Conga project""","""Peru""","""Newmont""","""metal prices""","""operational"""
+"""facilities""","""""","""Newmont""",""" """,""" """
+Mining operations,Peñasquito,The Company,Minerals,Operational
+Mining operations,Cerro Negro,The Company,Minerals,Operational
+Mining operations,Merian,The Company,Minerals,Operational
+Mining operations,Akyem,The Company,Minerals,Operational
+Mining operations,Lihir,The Company,Minerals,Operational
+Equipment,Peñasquito,The Company,Minerals,Operational
+Equipment,Cerro Negro,The Company,Minerals,Operational
+Equipment,Merian,The Company,Minerals,Operational
+Equipment,Akyem,The Company,Minerals,Operational
+Equipment,Lihir,The Company,Minerals,Operational
+Mineral properties,Peñasquito,The Company,Minerals,Operational
+Mineral properties,Cerro Negro,The Company,Minerals,Operational
+Mineral properties,Merian,The Company,Minerals,Operational
+Mineral properties,Akyem,The Company,Minerals,Operational
+Mineral properties,Lihir,The Company,Minerals,Operational
+Production facilities,Peñasquito,The Company,Minerals,Operational
+Production facilities,Cerro Negro,The Company,Minerals,Operational
+Production facilities,Merian,The Company,Minerals,Operational
+Production facilities,Akyem,The Company,Minerals,Operational
+Production facilities,Lihir,The Company,Minerals,Operational
+Tailings storage facilities (TSFs),Boddington,Company,Minerals,operational
+Residue Disposal Area (RDA),Boddington,Company,Minerals,operational
+F1/F3 RDA,Boddington,Company,Minerals,under construction
+RDA2,Boddington,Company,Minerals,under construction
+Pit TSF (PTSF),Cadia,Company,Minerals,operational
+South Tailings Storage Facility (STSF),Cadia,Company,Minerals,operational
+STSFX,Cadia,Company,Minerals,under construction
+mining facilities,Peru,Newmont,minerals,operational
+mining rights,Peru,Newmont,minerals,in end-of-life
+exploration activities,Peru,Newmont,minerals,under construction
+Tailings storage facilities,Cadia,Cadia Holdings,"Gold, silver, lead and zinc mining",Operational
+vent rises,Cadia,Cadia Holdings,"Gold, silver, lead and zinc mining",Operational
+NTSF,Cadia,Cadia Holdings,"Gold, silver, lead and zinc mining",Operational
+STSF,Cadia,Cadia Holdings,"Gold, silver, lead and zinc mining",Operational
+Mines,Australia,Newmont,Gold,Operational
+Mines,Canada,Newmont,Gold,Operational
+Mines,Mexico,Newmont,Gold,Operational
+Mines,U.S.,Newmont,Gold,Operational
+Mines,Australia,Newmont,Gold,Under Construction
+Mines,Canada,Newmont,Gold,Under Construction
+Mines,Mexico,Newmont,Gold,Under Construction
+Mines,U.S.,Newmont,Gold,Under Construction
+Tanami mine,Australia,Newmont,Gold,Operational
+Cadia mine,Australia,Newmont,Gold,Operational
+Éléonore mine,Quebec Canada,Newmont,Gold,Operational
+Lihir mine,Papua New Guinea,Newmont,Gold,Operational
+Red Chris,Canada,Newmont,Gold,Operational
+tailings dams (TSFs),Brazil,Newmont,mining,operational
+embankments,Telfer in Western Australia,Newmont,mining,potential failure
+pit slopes,N/A,Newmont,mining,potential failure
+tailings,Red Chris,Newmont,,operational
+waste rock and ore stockpiles,Red Chris,Newmont,,operational
+infrastructure,Red Chris,Newmont,,operational
+water wells,Peñasquito,Newmont,groundwater,under construction
+Mining operations,Western Australia,Newmont,Gold,
+Ailaya Rock,Near Lihir mining operations,N/A,Cultural significance,
+Lihir operation (open pit mine),"Aniolam, PNG",Newcrest,gold doré,operational
+Wafi-Golpu exploration project,"Morobe province, PNG",50% interest in joint venture by Newcrest,gold doré,under exploration
+Peñasquito mine,Mexico,Newmont,minerals,operational
+Cerro Negro mine,Central and Latin America,Newmont,minerals,operational
+Merian mine,Suriname,Newmont,minerals,operational
+Porcupine mine,"Timmins, Ontario",Newmont,minerals,operational
+Red Chris mine,Red Chris,Newmont,minerals,operational
+Peñasquito mine,"Mexico, State of Zacatecas",Newmont,minerals or metals,"operational (before June 2023), suspended (June 2023 - October 2023)"
+Facilities,Peru,Company,Minerals,
+Equipment,Mexico,Company,Minerals,
+Facilities,Australia,Indigenous peoples,Minerals,
+Equipment,Canada,Ejido communities,Minerals,
+"""pre-feasibility study""","""""","""Newmont""","""mineral resources""","""under construction"""
+"""mining and business operations""","""""","""Newmont""","""mineral resources""","""operational"""
+Cripple Creek & Victor (CC&V) operation,"Victor and the city of Cripple Creek, Colorado, U.S.",100% owned by Newmont,gold,operational
+Musselwhite operation,"approximately 265 miles (430 kilometers) north of Thunder Bay, Ontario, Canada",100% owned by Newmont,gold,operational
+Process facilities,Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Operational
+Crusher,Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Under construction
+SAG mill,Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Under construction
+Carbon-in-leach circuit,Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Operational
+Flotation circuit,Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Under construction
+Tailings storage facility,Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Operational
+Power plant,San Pedro de Macoris,Company,"Gold, Silver, Copper, Zinc",Operational
+Transmission line,Between San Pedro de Macoris and Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Operational
+Mining fleet,Pueblo Viejo mine site,Company,"Gold, Silver, Copper, Zinc",Operational
+Lihir mine,Lihir Island,Newmont,gold,operational
+\'open pit mining fleet\,\'\,\'NGM\,\'gold\,\'operational\
+\'underground mining fleet\,\'\,\'NGM\,\'gold\,\'operational\
+\'power plants\,\'\,\'NGM\,\'\,\'operational\
+Mining facilities,Musselwhite,,Gold,Operational
+processing plants,Porcupine,,Gold,Operational
+equipment,Éléonore,,Gold,Operational
+Milled Ore,Red Chris,Newcrest Mining,Copper,Operational
+Milled Ore,Boddington,Newcrest Mining,Silver,Operational
+Milled Ore,Cadia,Newcrest Mining,Lead,Operational
+Milled Ore,Telfer,Newcrest Mining,Zinc,Operational
+Milled Ore,Peñasquito,Newcrest Mining,Silver,Operational
+Reserves,Pueblo Viejo,Newmont,Gold,operational
+Reserves,Lihir,Newmont,Gold,operational
+Reserves,,NuevaUnión joint venture,Gold,under construction
+Reserves,,Norte Abierto joint venture,Gold,under construction
+Boddington Stockpiles,"Boddington, Australia",Newmont,Copper,operational
+NGM,United States,Barrick (operator of the NGM joint venture),Copper,operational
+Total Boddington,"Boddington, Australia",Newmont,Copper,operational
+Total Copper,N/A,Newmont,Copper,operational
+Brucejack,Canada,Newmont,Copper,operational
+Peñasquito Open Pits,Mexico,Newmont,lead,operational
+Peñasquito Stockpiles,Mexico,Newmont,lead,operational
+Stockpiles,"Peñasquito, Mexico",Newmont,Zinc,Operational
+Open Pits,"Peñasquito, Mexico",Newmont,Zinc,Operational
+Molybdenum Reserves,"NuevaUnión, Chile",Newmont (50%) and NuevaUnión joint venture,Molybdenum,
+Molybdenum Reserves,"Cadia, Australia",Newmont (100%),Molybdenum,
+CC&V,United States,100% by Newmont,gold,
+Musselwhite,Canada,100% by Newmont,gold,
+Porcupine Underground,Canada,100% by Newmont,gold,
+Porcupine Open Pit,Canada,100% by Newmont,gold,
+Namosi Underground,Fiji,Newmont,Copper,Operational
+Wafi-Golpu,Papua New Guinea,Newmont,Copper,Operational
+NGM,United States,Newmont,Copper,Operational
+Galore Creek,Canada,Newmont,Copper,Operational
+Conga,Peru,Newmont,Copper,Operational
+NuevaUnión,Chile,Newmont,Copper,Operational
+Norte Abierto,Chile,Newmont,Copper,Operational
+Boddington,Australia,Newmont,Copper,Operational
+Peñasquito,"Peñasquito, Mexico",100%,lead,
+Telfer Projects,"Telfer Projects, Australia",100%,lead,
+Peñasquito mine,Mexico,100%,Zinc,Operational
+Telfer Projects,Australia,100%,Zinc,Operational
+Telfer Projects,Australia,100%,Tungsten,operational
+Gold,,,Gold,
+Copper,,,Copper,
+Silver,,,Silver,
+Lead,,,Lead,
+Zinc,,,Zinc,
+facilities,,,gold,
+equipment,,,copper,
+facilities,,,silver,
+equipment,,,lead,
+facilities,,,zinc,
+Telfer,,Newmont,gold,operational
+Akyem,,Newmont,gold,operational
+NGM,,Newmont,gold,operational
+Red Chris,,Newmont,copper,operational
+Peñasquito,,Newmont,"silver, lead, zinc",operational
+Boddington,,Newmont,copper,operational
+Cadia,,Newmont,gold,operational
+Brucejack,,Newmont,,operational
+Fruta del Norte,Fruta del Norte,wholly owned and operated by Lundin Gold,copper,operational
+Telfer,Telfer,,copper,operational
+"CC&V, U.S.",U.S.,,gold,operational
+Musselwhite,Canada,,gold,operational
+Porcupine,Canada,,gold,operational
+Éléonore,Canada,,gold,operational
+Peñasquito,Mexico,,gold,operational
+Merian,Suriname,,gold,operational
+trucks,Boddington,Company,,disposal
+royalty interests,NGM,Company,,sale
+Conga mill,,Newmont,,held for sale
+"Additions to property, plant and mine development",,,,operational
+"Additions to property, plant and mine development",,,,under construction
+mine sites,,Newmont,"gold, other metals",temporarily placed into care and maintenance
+"Advanced projects, research and development and Exploration",CC&V,Newmont,"gold, copper, silver, lead, zinc",under construction
+facilities,Porcupine,Newmont,"gold, copper, silver, lead, zinc",operational
+equipment,Peñasquito,Newmont,"gold, copper, silver, lead, zinc",operational
+infrastructure,Merian,Newmont,"gold, copper, silver, lead, zinc",operational
+Midnite mine,Midnite,Company,minerals,operational
+Dawn mill sites,Dawn,Company,minerals,operational
+Porcupine site operations,Porcupine,Company,minerals,operational
+facilities,,,metals,
+equipment,,,metals,
+mine development,,,metals,
+Stockpiles,Mine site,Company,"Gold, Copper, Silver",Operational
+Ore on leach pads,Mine site,Company,"Gold, Copper, Silver",Operational
+leach pads,,the Company,gold,"operational, under construction, end-of-life"
+Conga project,,,,
+"\'Mineral interests (included in property, plant and mine development, net)\",\'\,\'Company\,\'Metals\,\'Under construction\
+\'Acquired assets\,\'\,\'Company\,\'Metals\,\'Acquired\
+"\'Property, plant and mine development\",\'\,\'NEWMONT CORPORATION\,\'\,"\'\'"""
+\'Stockpiles and ore on leach pads\,\'\,\'NEWMONT CORPORATION\,\'\,"\'\'"""
+plant,,Newmont Corporation,gold,operational
+mine,,Newmont Corporation,copper,under construction
+Conga mill assets,Peru,Newmont,gold,held for sale
+mineral interests,Peru,Newmont Corporation,,
+Conga project,Peru,Company,Gold,care and maintenance
+Peñasquito mine,Mexico,Company,Gold,suspended
+Cerro Negro mine,Argentina,Company,Gold,operational
+Stockpiles,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Ore on Leach Pads,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Inventories,,NEWMONT CORPORATION,"Gold, Silver, Copper",Operational
+Facilities,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+equipment,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+Mine development facilities,,Company,"Gold, Silver, Lead, Zinc, Copper",Under construction
+Open pit mines,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+Underground mines,,Company,"Gold, Silver, Lead, Zinc, Copper",Operational
+Ore body,,Company,"Gold, Silver, Lead, Zinc, Copper",Under construction
+Mineral interests,,The Company,Minerals,Exploration stage
+Mineral interests,,The Company,Minerals,Development stage
+Mineral interests,,The Company,Minerals,Production stage
+facilities,,Newmont Corporation,gold,
+equipment,,Newmont Corporation,gold,
+"Property, plant and mine development","Red Chris, Brucejack, Cadia, and Lihir",Newmont Corporation,gold and copper mining,operational
+\'mining operations\,\'\,\'Newmont\,\'\,\'\
+\'Nevada Gold Mines\,\'\,"\'38.5 % proportionate interest in Nevada Gold Mines (""NGM"")\",\'\,\'\
+CC&V,,NEWMONT CORPORATION,Gold,
+Musselwhite,,NEWMONT CORPORATION,Gold,
+Porcupine,,NEWMONT CORPORATION,Gold,
+Éléonore,,NEWMONT CORPORATION,Gold,
+Peñasquito,,NEWMONT CORPORATION,"Gold, Silver, Lead, Zinc",
+Merian,,NEWMONT CORPORATION,Gold,
+Cerro Negro,,NEWMONT CORPORATION,Gold,
+Boddington,,NEWMONT CORPORATION,"Gold, Copper",
+Tanami,,NEWMONT CORPORATION,Gold,
+Akyem,,NEWMONT CORPORATION,Gold,
+NGM,,NEWMONT CORPORATION,Gold,
+water treatment plant,Midnite mine,NEWMONT CORPORATION,,under construction
+Musselwhite,Musselwhite,Newmont Corporation,,operational
+Éléonore,Éléonore,Newmont Corporation,,operational
+Peñasquito,Peñasquito,Newmont Corporation,,operational
+NGM,NGM,Newmont Corporation,,operational
+Long Canyon,Long Canyon,Newmont Corporation (proportionate interest),,long-term care and maintenance
+\'facilities\,\'Porcupine\,\'Company\,\'gold\,\'operational\
+\'equipment\,\'Cerro Negro\,\'Company\,\'gold\,\'operational\
+\'tailings storage facility\,\'Porcupine\,\'Company\,\'gold\,\'under construction\
+\'facilities\,\'Long Canyon\,\'NGM\,\'mineral resources\,\'long-term care and maintenance\
+\'facilities\,\'CC&V\,\'CC&V\,\'gold\,\'operational\
+pyrite leach plant,Peñasquito,Newmont Corporation,,end-of-life
+"Maverix Metals, Inc.",,Newmont Corporation,,
+Triple Flag Precious Metals Corporation,,Newmont Corporation,,
+ownership interest in Minera Agua Rica Alumbrera Limited,,Newmont Corporation,,
+ownership interest in La Zanja,,Newmont Corporation,,
+Kalgoorlie Consolidated Gold Mines power business,,Northern Star Resources Limited,gold,
+South Arturo property,,NGM,gold,
+Lone Tree and Buffalo mountain properties,,i-80 Gold Corp,,
+TMAC Resources,,Agnico Eagle Mines Ltd,gold,
+"Property, plant and mine development",Nevada,NEWMONT CORPORATION,"Gold, other metals",
+Inventory,Nevada,NEWMONT CORPORATION,"Gold, other metals",
+Reclamation and remediation,Peru,NEWMONT CORPORATION,"Gold, other metals",
+Long-lived assets,,NEWMONT CORPORATION,,"operational, under construction, end-of-life"
+Stream Credit Facility Agreement,Fruta del Norte mine,Lundin Gold Inc.,,
+Pueblo Viejo mine,Dominican Republic,Newmont and Barrick,gold,operational
+Loan Facility,,Newmont Corporation and Barrick,"Gold, Silver",operational
+Revolving Facility,,Newmont Corporation and Barrick,"Gold, Silver",operational
+stockpiles,,Newmont Corporation,mining,operational
+ore on leach pads,,Newmont Corporation,mining,operational
+Facilities and equipment,,Newmont Corporation,mining,operational
+Mine development,,Newmont Corporation,mining,operational
+Mineral interests,,Newmont Corporation,mining,operational
+Construction-in-progress,,Newmont Corporation,mining,under construction
+Conga mill,,Newmont Corporation,,held for sale
+corporate and regional offices,,,,
+processing facilities,,,,
+mining equipment,,,,
+power generation,,,,
+transportation,,,,
+Water treatment plants,Peru,Newmont Corporation,Gold mining,Operational
+Carlton Tunnel,Colorado,CC&V (a wholly-owned subsidiary of Newmont Corporation),Gold mining,Under construction
+Midnite mine site,Spokane Indian Reservation in the State of Washington,Newmont and Dawn,uranium,inactive
+Dawn mill site,Spokane Indian Reservation in the State of Washington,Newmont and Dawn,uranium,under construction
+effluent pipeline,not specified,Newmont and Dawn,not specified,under construction
+new WTP,not specified,Newmont and Dawn,not specified,under construction
+Tailing Disposal Area 1-4,Spokane Indian Reservation in the State of Washington,Newmont and Dawn,uranium,completed
+"Uranium exploration project in Labrador, Canada","Labrador, Canada",NWG Investments Inc. (“NWG”) owned approximately 86 % of NewWest Gold and an individual named Jacob Safra owned or controlled 100 % of NWG,Uranium,Operational?

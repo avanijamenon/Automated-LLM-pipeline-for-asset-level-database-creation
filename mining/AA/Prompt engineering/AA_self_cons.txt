@@ -1,0 +1,210 @@
+Chunk 1:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 2:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 3:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 4:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 5:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 6:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 7:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 8:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 9:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 10:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 11:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 12:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 13:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 14:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 15:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 16:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 17:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 18:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 19:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 20:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 21:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 22:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 23:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 24:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 25:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 26:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 27:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 28:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 29:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------
+Chunk 30:
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships: []
+----------------------------------------------------------------------------------------------------

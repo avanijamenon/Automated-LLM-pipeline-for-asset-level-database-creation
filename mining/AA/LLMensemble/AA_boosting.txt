@@ -1,0 +1,227 @@
+Chunk ID: 0
+physical assets:  []
+locations: [ "Pittsburgh , Pennsylvania" ]
+ownerships: []
+commodities: []
+relationships:  []
+
+Chunk ID: 1
+physical assets:  [bauxite mines, alumina refineries, aluminum smelters, casting facilities]
+locations: [across nine countries on six continents]
+ownerships: [Alcoa Corporation directly and indirectly owns 27 locations]
+commodities: [aluminum, alumina]
+
+relationships: 
+[asset: bauxite mines, location: across nine countries on six continents, ownership: Alcoa Corporation, commodity: aluminum]
+[asset: alumina refineries, location: across nine countries on six continents, ownership: Alcoa Corporation, commodity: alumina]
+[asset: aluminum smelters, location: across nine countries on six continents, ownership: Alcoa Corporation, commodity: aluminum]
+[asset: casting facilities, location: across nine countries on six continents, ownership: Alcoa Corporation, commodity: aluminum]
+
+Chunk ID: 2
+physical assets: [mining operations, refining capacity, smelting capacity, bauxite mines, alumina refineries, aluminum smelter]
+locations: [seven countries]
+ownerships: [Alcoa Corporation, Alumina Limited]
+commodities: [bauxite, alumina, aluminum]
+
+relationships: [asset: mining operations, location: seven countries, ownership: Alcoa Corporation and Alumina Limited, commodity: bauxite], [asset: refining capacity, location: seven countries, ownership: Alcoa Corporation and Alumina Limited, commodity: bauxite], [asset: smelting capacity, location: seven countries, ownership: Alcoa Corporation and Alumina Limited, commodity: alumina], [asset: bauxite mines, location: seven countries, ownership: Alcoa Corporation and Alumina Limited, commodity: bauxite], [asset: alumina refineries, location: seven countries, ownership: Alcoa Corporation and Alumina Limited, commodity: alumina], [asset: aluminum smelter, location: seven countries, ownership: Alcoa Corporation and Alumina Limited, commodity: alumina]
+
+Chunk ID: 3
+locations: [Brazil, Guinea, Australia, Saudi Arabia, Spain, United States, Suriname]
+ownerships: [Alcoa Corporation owns 60%, Alumina Limited owns 40% of AWAC. Alcoa’s affiliate, Alcoa of Australia Limited (AofA) owns the assets mentioned above.]
+commodities: [bauxite, alumina, aluminum]
+
+Chunk ID: 4
+physical assets: [bauxite mine, alumina refinery, aluminum smelter]
+ownerships: [Ma’aden owns a 74.9% interest in the MBAC and MAC joint venture, Alcoa owns a 25.1% interest in MAC, AWAC holds a 25.1% interest in MBAC, Alcoa owns 74.95% of ABI through its 50% equity investment in Pechiney Reynolds Quebec, Inc., Rio Tinto owns the remaining 25.05% interest in ABI, Boké Investment Company (51%) and the Government of Guinea (49%) for the operation of a bauxite mine]
+commodities: [bauxite, alumina, aluminum]
+
+Chunk ID: 5
+locations: ['southern Brazil', 'northern Brazil', 'Province of Québec, Canada', 'central Brazil'] 
+commodities: ['aluminum', 'calcined coke', 'electricity', 'bauxite', 'alumina']
+
+Chunk ID: 6
+physical assets: [bauxite mines, alumina refineries, facilities]
+locations: [Australia, Brazil, Spain, Saudi Arabia]
+ownerships: [Alcoa Corporation, AWAC (joint venture)] 
+commodities: [bauxite, alumina]
+
+relationships: [asset: bauxite mines, location: Australia, ownership: Alcoa Corporation, commodity: bauxite], 
+[asset: alumina refineries, location: Australia, ownership: Alcoa Corporation, commodity: alumina],
+[asset: alumina refineries, location: Brazil, ownership: Alcoa Corporation, commodity: alumina], 
+[asset: alumina refineries, location: Spain, ownership: Alcoa Corporation, commodity: alumina],
+[asset: bauxite mines, location: Saudi Arabia, ownership: MBAC (joint venture), commodity: bauxite]
+
+Chunk ID: 7
+locations: ['Brazil', 'Canada', 'United States', 'Baie-Comeau (Canada)', 'Warrick (Indiana)', 'Brazilian refineries', 'Saudi Arabia', 'Australia', 'Portland', 'Poços de Caldas', 'São Luís', 'Quebéc', 'Iceland', 'Fjarðaál', 'Norway', 'Lista', 'Mosjøen', 'Spain', 'San Ciprián', 'Massena West, NY', 'Evansville, IN']
+ownerships: ['Alcoa Corporation', 'MAC (joint venture company in Saudi Arabia)']
+commodities: ['primary aluminum', 'molten primary aluminum', 'electricity']
+
+relationships: ['asset: worldwide smelting and casthouse system, location: global, ownership: Alcoa Corporation, commodity: primary aluminum'], 
+['asset: portfolio of energy assets in Brazil, Canada, and the United States, location: Brazil, Canada, and the United States, ownership: Alcoa Corporation, commodity: electricity'], 
+['asset: smelting operations, location: global, ownership: Alcoa Corporation, commodity: molten primary aluminum'], 
+['asset: casting operations, location: global, ownership: Alcoa Corporation, commodity: t-bar, sow, standard ingot, foundry, billet, rod, and slab'], 
+['asset: primary aluminum facilities, location: global, ownership: Alcoa Corporation, commodity: primary aluminum'], 
+['asset: global smelting capacity, location: global, ownership: Alcoa Corporation, commodity: primary aluminum']
+
+Chunk ID: 8
+locations: [Portland, Intalco, San Ciprián, Brazil, Canada, United States]
+ownerships: [Alcoa Corporation]
+commodities: [aluminum, electricity]
+
+Chunk ID: 9
+physical assets: [smelters, power grids, refineries, calcination furnaces]
+locations: [Québec, Massena (New York), Australia (Portland), Western Australia (Kwinana, Pinjarra, Wagerup), Europe (San Ciprián, Spain), Norway (Lista, Mosjøen)]
+ownerships: [Alcoa, Hydro-Québec, New York Power Authority (NYPA), National Electricity Market (NEM), AGL Hydro Partnership, Origin Energy Electricity Limited, Alinta Energy CEA Trading Pty Ltd, workers’ representatives] 
+commodities: [electricity, natural gas, renewable energy]
+
+
+relationships: [asset: smelters, location: Québec, ownership: Alcoa, commodity: electricity], [asset: smelters, location: Massena (New York), ownership: Alcoa, commodity: electricity], [asset: smelters, location: Australia (Portland), ownership: Alcoa, commodity: electricity], [asset: refineries, location: Western Australia (Kwinana, Pinjarra, Wagerup), ownership: AofA, commodity: natural gas], [asset: calcination furnaces, location: Western Australia (Kwinana, Pinjarra, Wagerup), ownership: AofA, commodity: natural gas], [asset: smelters, location: Europe (San Ciprián, Spain), ownership: Alcoa, commodity: electricity], [asset: smelters, location: Norway (Lista, Mosjøen), ownership: Alcoa, commodity: electricity]
+
+Chunk ID: 10
+physical assets: [hydroelectric facility, smelter, refinery]
+locations: [Iceland, Spain]
+ownerships: [Iceland Landsvirkjun, Alcoa]
+commodities: [electricity, power, natural gas]
+
+
+relationships: [asset: hydroelectric facility, location: Iceland, ownership: Iceland Landsvirkjun, commodity: electricity], [asset: smelter, location: Iceland, ownership: Alcoa, commodity: power], [asset: refinery, location: Spain, ownership: Alcoa, commodity: natural gas]
+
+Chunk ID: 11
+physical assets: [refineries, bauxite mines, casthouses]
+locations: [Australia, Brazil, China, Europe, Guinea, Indonesia, North America, South America, the Middle East]
+commodities: [bauxite, alumina, aluminum]
+
+relationships: [asset: refineries, location:  Australia, Brazil, China, Europe, Guinea, Indonesia, North America, South America, the Middle East, commodity: alumina], [asset: bauxite mines, location: Australia, Brazil, Guinea, commodity: bauxite], [asset: casthouses, location: not specified, commodity: aluminum]
+
+Chunk ID: 12
+physical assets:  [patents, trademarks]
+locations: []
+ownerships: [Alcoa]
+commodities: [] 
+
+relationships: [patent: '', location: '', ownership: Alcoa, commodity: ''], [trademark: '', location: '', ownership: Alcoa, commodity: '']
+
+Chunk ID: 13
+physical assets:  []
+locations:  [ ]
+ownerships:  [Alcoa Corporation] 
+commodities: []
+relationships:  []
+
+Chunk ID: 14
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships:  []
+
+Chunk ID: 15
+physical assets: [bauxite, alumina, aluminum assets]
+locations: [Australia, South Australia]
+ownerships: [Alcoa Corporation] 
+commodities: [aluminum, bauxite, alumina]
+
+relationships: [asset: 'bauxite', location: 'Australia', ownership: 'Alcoa Corporation', commodity: 'aluminum'], [asset: 'alumina', location: 'Australia', ownership: 'Alcoa Corporation', commodity: 'aluminum'], [asset: 'aluminum assets', location: 'global', ownership: 'Alcoa Corporation', commodity: 'aluminum']
+
+Chunk ID: 16
+physical assets: [facilities, equipment, infrastructure] 
+locations:  []
+ownerships: []
+commodities: [aluminum, alumina, bauxite]
+
+relationships: [asset: facilities, location:  '', ownership:  '', commodity: aluminum], [asset: equipment, location:  '', ownership:  '', commodity: aluminum], [asset: infrastructure, location:  '', ownership:  '', commodity: aluminum]
+
+Chunk ID: 17
+physical assets:  [mining operations]
+locations:  [Australia, Brazil, Canada, Europe, Guinea, and Saudi Arabia]
+ownerships: [Company]
+commodities: [aluminum, bauxite] 
+relationships: [asset: mining operations, location: Australia, ownership: Company, commodity: aluminum], [asset: mining operations, location: Brazil, ownership: Company, commodity: aluminum], [asset: mining operations, location: Canada, ownership: Company, commodity: aluminum], [asset: mining operations, location: Europe, ownership: Company, commodity: aluminum], [asset: mining operations, location: Guinea, ownership: Company, commodity: bauxite], [asset: mining operations, location: Saudi Arabia, ownership: Company, commodity: aluminum]
+
+Chunk ID: 18
+physical assets: ["mining operations", "refining operations", "smelting operations", "sites", "Huntly mine", "Willowdale bauxite mines", "San Ciprián refinery and smelter operations"]
+locations: ["Western Australia", "Spain"]
+ownerships:  ["Company"]
+commodities: ["bauxite", "alumina", "aluminum", "electricity", "natural gas", "hydroelectricity"]
+
+
+relationships: [asset: "mining operations", location: "Western Australia", ownership: "Company", commodity: "bauxite"], [asset: "refining operations", location: "", ownership: "Company", commodity: "bauxite"], [asset: "smelting operations", location: "", ownership: "Company", commodity: "aluminum"], [asset: "sites", location: "near mining areas", ownership: "Company", commodity: ""], [asset: "Huntly mine", location: "Western Australia", ownership: "Company", commodity: "bauxite"], [asset: "Willowdale bauxite mines", location: "Western Australia", ownership: "Company", commodity: "bauxite"], [asset: "San Ciprián refinery and smelter operations", location: "Spain", ownership: "Company", commodity: "aluminum"],
+
+Chunk ID: 19
+physical assets: ['facilities', 'equipment', 'refining locations', 'smelting locations', 'mining operations']
+ownerships:  ['Company', 'suppliers', 'vendors', 'customers']
+commodities: ['bauxite', 'alumina', 'aluminum', 'energy', 'carbon products', 'caustic soda', 'raw materials', 'freight costs']
+
+relationships: ['asset: facilities, location: refining locations, ownership: Company, commodity: alumina'], 
+['asset: equipment, location: smelting locations, ownership: Company, commodity: aluminum'], 
+['asset: mining operations, location: Western Australia, ownership: Company, commodity: bauxite'],
+
+Chunk ID: 20
+physical assets: [facilities, equipment, infrastructure]
+locations: [seven countries] 
+ownerships: [Alcoa, Alumina Limited, Saudi Arabian Mining Company (Ma’aden)]
+commodities: [bauxite, alumina, aluminum]
+relationships: [asset: facilities, location: seven countries, ownership: Alcoa and Alumina Limited, commodity: bauxite], [asset: equipment, location: seven countries, ownership: Alcoa and Alumina Limited, commodity: alumina], [asset: infrastructure, location: seven countries, ownership: Alcoa and Alumina Limited, commodity: aluminum]
+
+Chunk ID: 21
+physical assets:  []
+ownerships: []
+commodities: [ aluminum, alumina ]
+
+relationships: []
+
+Chunk ID: 22
+physical assets: ["Massena West smelter", "Warrick smelter"]
+locations: ["New York", "USA"] 
+ownerships: ["AofA"]
+commodities: ["aluminum"]
+
+relationships: [asset: "Massena West smelter", location: "New York", ownership: "AofA", commodity: "aluminum"], [asset: "Warrick smelter", location: "USA", ownership: "AofA", commodity: "aluminum"]
+
+Chunk ID: 23
+physical assets:  properties, facilities
+locations: [ ]
+ownerships: [Company] 
+commodities: [energy]
+
+relationships: [asset: properties, location: Spain, ownership: Company, commodity: energy], [asset: facilities, location:  [ ], ownership: Company, commodity: energy]
+
+Chunk ID: 24
+physical assets:  [facilities, equipment, infrastructure]
+locations: [United States, Asia, Brazil, Canada, EU, Jarrah Forest, Amazon ]
+ownerships: [Company]
+commodities: [energy, aluminum, copper, gold, electricity, renewable energy]
+
+relationships: [asset: facilities, location: United States, ownership: Company, commodity: energy], [asset: equipment, location: Asia, ownership: Company, commodity: energy], [asset: infrastructure, location: Brazil, ownership: Company, commodity: energy], [asset: facilities, location: Canada, ownership: Company, commodity: aluminum], [asset: equipment, location: EU, ownership: Company, commodity: copper], [asset: infrastructure, location: Jarrah Forest, ownership: Company, commodity: gold], [asset: facilities, location: Amazon, ownership: Company, commodity: electricity]
+
+Chunk ID: 25
+physical assets:  []
+locations: []
+ownerships:  [ ]
+commodities: []
+relationships:
+
+Chunk ID: 26
+physical assets: [ impoundment structures, tailing facilities, residue storage areas, structural impoundments ]
+locations: [ ]
+ownerships: [ Alcoa ]
+
+Chunk ID: 27
+locations: [Australia, Brazil, Canada, Luxembourg, the Netherlands, Norway, and Switzerland]
+ownerships: [the Company, the Borrower, the material domestic wholly-owned subsidiaries of the Company, and the material foreign wholly-owned subsidiaries of the Company]
+commodities: []
+
+Chunk ID: 28
+physical assets: []
+locations: []
+ownerships: []
+commodities: [] 
+relationships: []
+
+Chunk ID: 29
+physical assets: []
+locations: []
+ownerships: []
+commodities: []
+relationships:  []
+

@@ -1,0 +1,293 @@
+physical asset,location,ownership,commodity,Countries,USA states
+Mining Pit,['Casa Berardi'],Hecla Mining Company,Gold,Canada,
+330 Fire Creek  Facility,['Nevada'],Hecla Mining Company,Silver,USA,['Nevada']
+330 Fire Creek  Facility,['Nevada'],Hecla Mining Company,Gold,USA,['Nevada']
+330 Fire Creek  Facility,['Nevada'],Hecla Mining Company,Lead,USA,['Nevada']
+330 Fire Creek  Facility,['Nevada'],Hecla Mining Company,Zinc,USA,['Nevada']
+330 Fire Creek  Facility,['Nevada'],Hecla Mining Company,Copper,USA,['Nevada']
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Gold,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Gold,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Gold,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Silver,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Silver,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Silver,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Lead,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Lead,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Lead,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Zinc,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Zinc,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Equipment,"['Rock Creek', 'Alaska', 'Yukon', 'Casa Berardi', 'Nevada', 'Greens Creek', 'Keno Hill', 'Hollister Mine', 'Montana', 'San Sebastian', 'Remote Locations', 'Idaho']",Hecla Mining Company,Zinc,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Silver,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Silver,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Silver,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Gold,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Gold,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Gold,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Lead,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Lead,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Lead,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Zinc,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Zinc,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Facilities,"['Montana', 'Alaska', 'Quebec', 'Nevada', 'Yukon', 'Idaho']",Hecla Mining Company,Zinc,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Gold,Canada,['Idaho']
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Gold,USA,['Idaho']
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Silver,Canada,['Idaho']
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Silver,USA,['Idaho']
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Lead,Canada,['Idaho']
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Lead,USA,['Idaho']
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Zinc,Canada,['Idaho']
+Ball Mill,"['Casa Berardi', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Zinc,USA,['Idaho']
+Casa Berardi Mine,"['Casa Berardi', 'Abitibi Region of Quebec']",Hecla Mining Company,Gold,Canada,
+Casa Berardi Mine,"['Casa Berardi', 'Abitibi Region of Quebec']",Hecla Mining Company,Silver,Canada,
+Casa Berardi Mine,"['Casa Berardi', 'Abitibi Region of Quebec']",Hecla Mining Company,Lead,Canada,
+Casa Berardi Mine,"['Casa Berardi', 'Abitibi Region of Quebec']",Hecla Mining Company,Zinc,Canada,
+Casa Berardi Mine,"['Casa Berardi', 'Abitibi Region of Quebec']",Hecla Mining Company,Copper,Canada,
+Casa Berardi Mine,"['Casa Berardi', 'Abitibi Region of Quebec']",Hecla Mining Company,Metals Concentrates,Canada,
+Cemented Rock Fill,['Yukon'],Hecla Mining Company,Silver,Canada,
+Cemented Rock Fill,['Yukon'],Hecla Mining Company,Zinc,Canada,
+Concentrate Pads,['Nevada'],Hecla Mining Company,Silver,USA,['Nevada']
+Concentrate Pads,['Nevada'],Hecla Mining Company,Gold,USA,['Nevada']
+Concentrate Pads,['Nevada'],Hecla Mining Company,Lead,USA,['Nevada']
+Concentrate Pads,['Nevada'],Hecla Mining Company,Zinc,USA,['Nevada']
+Construction In Progress,['Casa Berardi'],Hecla Mining Company,Metals,Canada,
+Construction In Progress,['Casa Berardi'],Hecla Mining Company,Minerals,Canada,
+cyanide leach train,['Casa Berardi  Mine'],Hecla Mining Company,Gold,Canada,
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Silver,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Silver,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Silver,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Gold,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Gold,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Gold,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Lead,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Lead,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Lead,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Zinc,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Zinc,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+Exploration Properties,"['Montana', 'Alaska', 'Yukon', 'Quebec', 'Nevada', 'British Columbia', ""Coeur d'Alene"", 'Idaho', 'Various Locations', 'Lucky Friday', 'Idaho', 'Vancouver', 'British Columbia', 'Juneau', 'Alaska', 'Wallace', 'Idaho', ""Val d'Or"", 'Quebec', 'Durango', 'Whitehorse', 'Yukon', 'Casa Berardi', 'Not Specified', 'Various Locations (as shown in the map)', 'Greens Creek', 'Nevada Operations', 'Keno Hill', 'Libby Exploration Site', 'Rock Creek']",Hecla Mining Company,Zinc,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+furnace,['Casa Berardi'],Hecla Mining Company,Gold,Canada,
+Greens Creek,"['Admiralty Island', 'Alaska']",Hecla Mining Company,Gold,USA,['Alaska']
+Greens Creek,"['Admiralty Island', 'Alaska']",Hecla Mining Company,Silver,USA,['Alaska']
+Greens Creek,"['Admiralty Island', 'Alaska']",Hecla Mining Company,Lead,USA,['Alaska']
+Greens Creek,"['Admiralty Island', 'Alaska']",Hecla Mining Company,Zinc,USA,['Alaska']
+Greens Creek,"['Admiralty Island', 'Alaska']",Hecla Mining Company,Metals Concentrates,USA,['Alaska']
+Greens Creek,"['Admiralty Island', 'Alaska']",Hecla Mining Company,Copper,USA,['Alaska']
+Hollister Mine,['Nevada'],Hecla Mining Company,Silver,USA,['Nevada']
+Hollister Mine,['Nevada'],Hecla Mining Company,Gold,USA,['Nevada']
+Hollister Mine,['Nevada'],Hecla Mining Company,Lead,USA,['Nevada']
+Hollister Mine,['Nevada'],Hecla Mining Company,Zinc,USA,['Nevada']
+Hollister Mine,['Nevada'],Hecla Mining Company,Copper,USA,['Nevada']
+Hosco Mine,['Abitibi Region Of Northwestern Quebec'],Hecla Mining Company,Silver,Canada,
+Hosco Mine,['Abitibi Region Of Northwestern Quebec'],Hecla Mining Company,Gold,Canada,
+Hosco Mine,['Abitibi Region Of Northwestern Quebec'],Hecla Mining Company,Lead,Canada,
+Hosco Mine,['Abitibi Region Of Northwestern Quebec'],Hecla Mining Company,Zinc,Canada,
+Hosco Mine,['Abitibi Region Of Northwestern Quebec'],Hecla Mining Company,Copper,Canada,
+Hosco Mine,['Abitibi Region Of Northwestern Quebec'],Hecla Mining Company,Metals,Canada,
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Silver,Canada,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Silver,Mexico,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Silver,USA,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Gold,Canada,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Gold,Mexico,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Gold,USA,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Lead,Canada,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Lead,Mexico,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Lead,USA,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Zinc,Canada,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Zinc,Mexico,"['Montana', 'Nevada']"
+infrastructure,"['Casa Berardi', 'San Sebastian', 'Yukon', 'Nevada', 'Midas Mine', 'Greens Creek', 'Montana', 'Lucky Friday', 'Keno Hill']",Hecla Mining Company,Zinc,USA,"['Montana', 'Nevada']"
+Jaw Crusher,['Casa Berardi  Mine'],Hecla Mining Company,Gold,Canada,
+Keno Hill Mine,"['Keno Hill', 'Yukon Territory']",Hecla Mining Company,Silver,Canada,
+Keno Hill Mine,"['Keno Hill', 'Yukon Territory']",Hecla Mining Company,Gold,Canada,
+Keno Hill Mine,"['Keno Hill', 'Yukon Territory']",Hecla Mining Company,Lead,Canada,
+Keno Hill Mine,"['Keno Hill', 'Yukon Territory']",Hecla Mining Company,Zinc,Canada,
+Keno Hill Mine,"['Keno Hill', 'Yukon Territory']",Hecla Mining Company,Copper,Canada,
+Keno Hill Mine,"['Keno Hill', 'Yukon Territory']",Hecla Mining Company,Metals Concentrates,Canada,
+Keno Hill Mine,"['Keno Hill', 'Yukon Territory']",Hecla Mining Company,Ore Metals,Canada,
+Knelson Concentrators,['Casa Berardi  Mine'],Hecla Quebec Inc.,Gold,Canada,
+Lucky Friday Mine,['Northern Idaho'],Hecla Mining Company,Silver,USA,['Idaho']
+Lucky Friday Mine,['Northern Idaho'],Hecla Mining Company,Gold,USA,['Idaho']
+Lucky Friday Mine,['Northern Idaho'],Hecla Mining Company,Lead,USA,['Idaho']
+Lucky Friday Mine,['Northern Idaho'],Hecla Mining Company,Zinc,USA,['Idaho']
+Midas Mine,['Nevada'],Hecla Mining Company,Silver,USA,['Nevada']
+Midas Mine,['Nevada'],Hecla Mining Company,Gold,USA,['Nevada']
+Midas Mine,['Nevada'],Hecla Mining Company,Lead,USA,['Nevada']
+Midas Mine,['Nevada'],Hecla Mining Company,Zinc,USA,['Nevada']
+Midas Mine,['Nevada'],Hecla Mining Company,Copper,USA,['Nevada']
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Silver,USA,"['Montana', 'Nevada']"
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Silver,Canada,"['Montana', 'Nevada']"
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Gold,USA,"['Montana', 'Nevada']"
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Gold,Canada,"['Montana', 'Nevada']"
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Lead,USA,"['Montana', 'Nevada']"
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Lead,Canada,"['Montana', 'Nevada']"
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Zinc,USA,"['Montana', 'Nevada']"
+mineral processing plants,"['Greens Creek', 'Lucky Friday', 'Casa Berardi', 'Keno Hill', 'Nevada', 'Montana']",Hecla Mining Company,Zinc,Canada,"['Montana', 'Nevada']"
+Mineral Reserves,['Unspecified'],Hecla Mining Company,Silver,,
+Mineral Reserves,['Unspecified'],Hecla Mining Company,Gold,,
+Mineral Reserves,['Unspecified'],Hecla Mining Company,Lead,,
+Mineral Reserves,['Unspecified'],Hecla Mining Company,Zinc,,
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Silver,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Silver,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Silver,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Gold,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Gold,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Gold,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Lead,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Lead,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Lead,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Zinc,USA,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Zinc,Canada,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mines,"['Nevada', 'British Columbia', 'Alaska', 'Montana', 'Idaho', 'Quebec', 'Yukon Territory']",Hecla Mining Company,Zinc,Mexico,"['Alaska', 'Idaho', 'Montana', 'Nevada']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Silver,Canada,"['Alaska', 'Montana']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Silver,USA,"['Alaska', 'Montana']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Gold,Canada,"['Alaska', 'Montana']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Gold,USA,"['Alaska', 'Montana']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Lead,Canada,"['Alaska', 'Montana']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Lead,USA,"['Alaska', 'Montana']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Zinc,Canada,"['Alaska', 'Montana']"
+mining claims,"['Carpenter Snow Creek Superfund Site', 'Cascade County', 'Montana', 'Admiralty Island', 'Juneau', 'Alaska', 'Yukon Territory']",Hecla Mining Company,Zinc,USA,"['Alaska', 'Montana']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Silver,USA,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Silver,Canada,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Gold,USA,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Gold,Canada,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Zinc,USA,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Zinc,Canada,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Lead,USA,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Lead,Canada,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Copper,USA,"['Montana', 'Nevada']"
+mining operations,"['Montana', 'Nevada', 'Yukon Territory', 'Fire Creek', 'Hollister', 'Midas', 'Sinter Zone', 'Heva', 'Hosco', 'Star Property', 'Bulldog', 'Equity', 'North Amethyst Veins', 'Monte Cristo', 'Rock Creek', 'Libby Exploration Project', 'Rackla-Tiger Project']",Hecla Mining Company,Copper,Canada,"['Montana', 'Nevada']"
+Montana Ore Mine,['Montana'],Hecla Mining Company,Silver,USA,['Montana']
+Montana Ore Mine,['Montana'],Hecla Mining Company,Copper,USA,['Montana']
+Monte Cristo Mine,['Nevada'],Hecla Mining Company,Gold,USA,['Nevada']
+Monte Cristo Mine,['Nevada'],Hecla Mining Company,Silver,USA,['Nevada']
+Open Pits  (Principal and West Mine Crown Pillar),['Casa Berardi'],Hecla Mining Company,Gold,Canada,
+Ore Milled,['Lucky Friday Mine'],,Silver,USA,
+Ore Milled,['Lucky Friday Mine'],,Lead,USA,
+Ore Milled,['Lucky Friday Mine'],,Zinc,USA,
+ore processing facilities,['Greens Creek'],Hecla Mining Company,Silver,USA,
+ore processing facilities,['Greens Creek'],Hecla Mining Company,Gold,USA,
+ore processing facilities,['Greens Creek'],Hecla Mining Company,Lead,USA,
+ore processing facilities,['Greens Creek'],Hecla Mining Company,Zinc,USA,
+orebodies,,Hecla Mining Company,Silver,,
+orebodies,,Hecla Mining Company,Gold,,
+Osiris Open Pit,"['Ontario', 'Casa Berardi', 'Fire Creek']",Hecla Mining Company,Silver,Canada,
+Osiris Open Pit,"['Ontario', 'Casa Berardi', 'Fire Creek']",Hecla Mining Company,Copper,Canada,
+Osiris Open Pit,"['Ontario', 'Casa Berardi', 'Fire Creek']",Hecla Mining Company,Gold,Canada,
+Osiris Open Pit,"['Ontario', 'Casa Berardi', 'Fire Creek']",Hecla Mining Company,Lead,Canada,
+Osiris Open Pit,"['Ontario', 'Casa Berardi', 'Fire Creek']",Hecla Mining Company,Zinc,Canada,
+Quartz Mineral Claims,['Yukon'],Hecla Mining Company,Gold,Canada,
+Quartz Mineral Claims,['Yukon'],Hecla Mining Company,Silver,Canada,
+Quartz Mineral Claims,['Yukon'],Hecla Mining Company,Lead,Canada,
+Quartz Mineral Claims,['Yukon'],Hecla Mining Company,Zinc,Canada,
+Roaster And Autoclave Facility,['Nevada'],Hecla Mining Company,Gold Ore,USA,['Nevada']
+Rock Creek,['Rock Creek'],Hecla Mining Company,Gold,USA,
+Rock Creek,['Rock Creek'],Hecla Mining Company,Silver,USA,
+Rock Creek,['Rock Creek'],Hecla Mining Company,Copper,USA,
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Gold,Canada,['Idaho']
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Gold,USA,['Idaho']
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Silver,Canada,['Idaho']
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Silver,USA,['Idaho']
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Lead,Canada,['Idaho']
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Lead,USA,['Idaho']
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Zinc,Canada,['Idaho']
+sag mill,"['Casa Berardi', 'Lucky Friday Mine', 'Idaho', 'Yukon Territory']",Hecla Mining Company,Zinc,USA,['Idaho']
+San Juan Silver Mine,"['San Juan County', 'Colorado']",Hecla Mining Company,Silver,USA,['Colorado']
+San Juan Silver Mine,"['San Juan County', 'Colorado']",Hecla Mining Company,Lead,USA,['Colorado']
+San Juan Silver Mine,"['San Juan County', 'Colorado']",Hecla Mining Company,Zinc,USA,['Colorado']
+San Sebastian Mine,"['San Sebastian', 'Durango']",Hecla Mining Company,Silver,Mexico,
+San Sebastian Mine,"['San Sebastian', 'Durango']",Hecla Mining Company,Gold,Mexico,
+San Sebastian Mine,"['San Sebastian', 'Durango']",Hecla Mining Company,Copper,Mexico,
+San Sebastian Mine,"['San Sebastian', 'Durango']",Hecla Mining Company,Lead,Mexico,
+San Sebastian Mine,"['San Sebastian', 'Durango']",Hecla Mining Company,Zinc,Mexico,
+Smelters,['Of America'],Hecla Mining Company,Metals Concentrates,USA,
+Tailings Impoundment Areas,['Casa Berardi'],Hecla Quebec Inc.,Gold,Canada,
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Gold,Canada,['Alaska']
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Gold,USA,['Alaska']
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Silver,Canada,['Alaska']
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Silver,USA,['Alaska']
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Lead,Canada,['Alaska']
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Lead,USA,['Alaska']
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Zinc,Canada,['Alaska']
+Tailings Storage Facilities,"['Casa Berardi', 'Greens Creek', 'Lucky Friday', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Zinc,USA,['Alaska']
+stormwater management infrastructure,,Hecla Mining Company,Metals,,
+Concentrates Production,,Hecla Mining Company,Silver,,
+Concentrates Production,,Hecla Mining Company,Gold,,
+Concentrates Production,,Hecla Mining Company,Lead,,
+Concentrates Production,,Hecla Mining Company,Zinc,,
+Waste Rock And Mine Water Management,"['Hollister', 'Nevada']",,,USA,['Nevada']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Silver,USA,['Alaska']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Silver,Canada,['Alaska']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Zinc,USA,['Alaska']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Zinc,Canada,['Alaska']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Gold,USA,['Alaska']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Gold,Canada,['Alaska']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Lead,USA,['Alaska']
+ore concentrating mill,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Lead,Canada,['Alaska']
+ship-loading facility,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Silver,USA,['Alaska']
+ship-loading facility,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Zinc,USA,['Alaska']
+ship-loading facility,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Gold,USA,['Alaska']
+ship-loading facility,"['Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Lead,USA,['Alaska']
+Mine Waste Area and Tailings Storage Facility,"['Admiralty Island', 'Southeast Alaska', 'Greens Creek', 'Lucky Friday']",Hecla Mining Company,Silver,USA,['Alaska']
+Mine Waste Area and Tailings Storage Facility,"['Admiralty Island', 'Southeast Alaska', 'Greens Creek', 'Lucky Friday']",Hecla Mining Company,Gold,USA,['Alaska']
+Mine Waste Area and Tailings Storage Facility,"['Admiralty Island', 'Southeast Alaska', 'Greens Creek', 'Lucky Friday']",Hecla Mining Company,Lead,USA,['Alaska']
+Mine Waste Area and Tailings Storage Facility,"['Admiralty Island', 'Southeast Alaska', 'Greens Creek', 'Lucky Friday']",Hecla Mining Company,Zinc,USA,['Alaska']
+drill rigs,['Greens Creek'],,Silver,USA,
+drill rigs,['Greens Creek'],,Gold,USA,
+drill rigs,['Greens Creek'],,Lead,USA,
+drill rigs,['Greens Creek'],,Zinc,USA,
+Mine and Mill Complex,['Casa Berardi'],Hecla Quebec Inc.,Gold,Canada,
+Support Facilities And Infrastructure,['Casa Berardi'],Hecla Quebec Inc.,Gold,Canada,
+high intensity leaching and electrowinning,['Casa Berardi'],Hecla Quebec Inc.,Gold,Canada,
+Surface Drilling Equipment,"['East Mine Areas', 'Casa Berardi']",Hecla Mining Company,Gold,Canada,
+Surface Drilling Equipment,"['East Mine Areas', 'Casa Berardi']",Hecla Mining Company,Silver,Canada,
+Surface Drilling Equipment,"['East Mine Areas', 'Casa Berardi']",Hecla Mining Company,Lead,Canada,
+Surface Drilling Equipment,"['East Mine Areas', 'Casa Berardi']",Hecla Mining Company,Zinc,Canada,
+Mineral Deposits,,Hecla Mining Company,Minerals,,
+concentrate storage building,['Greens Creek  Mine'],Hecla Mining Company,Lead,USA,
+On-Site Laboratories,['Greens Creek  mine'],Hecla Mining Company,,USA,
+Facilities at various locations within the historical Keno Hill Site,['Keno Hill'],Hecla Mining Company,,Canada,
+Former Troy Mine,"['Montana', 'New Mexico', 'Troy']",Hecla Mining Company,,USA,"['Montana', 'New Mexico']"
+transportation infrastructure (marine),"['Greens Creek', 'Keno Hill', 'Casa Berardi']",Third Parties,Minerals,USA,
+transportation infrastructure (marine),"['Greens Creek', 'Keno Hill', 'Casa Berardi']",Third Parties,Minerals,Canada,
+transportation infrastructure (marine),"['Greens Creek', 'Keno Hill', 'Casa Berardi']",Third Parties,Minerals,Canada,
+Mining Facility,['Alaska'],Hecla Mining Company,Metals,USA,['Alaska']
+Libby Exploration Site,"['Montana', 'Libby']",Hecla Mining Company,Silver,USA,['Montana']
+Corporate Offices,"[""Coeur D'Alene"", 'Idaho; Vancouver', 'British Columbia; Juneau', 'Alaska; Wallace', ""Idaho; Val d'or"", 'Quebec; Durango', '; Whitehorse', 'Yukon']",Hecla Mining Company,,USA,"['Alaska', 'Idaho']"
+Corporate Offices,"[""Coeur D'Alene"", 'Idaho; Vancouver', 'British Columbia; Juneau', 'Alaska; Wallace', ""Idaho; Val d'or"", 'Quebec; Durango', '; Whitehorse', 'Yukon']",Hecla Mining Company,,Canada,"['Alaska', 'Idaho']"
+Corporate Offices,"[""Coeur D'Alene"", 'Idaho; Vancouver', 'British Columbia; Juneau', 'Alaska; Wallace', ""Idaho; Val d'or"", 'Quebec; Durango', '; Whitehorse', 'Yukon']",Hecla Mining Company,,Mexico,"['Alaska', 'Idaho']"
+Manway Raise,"['Lucky Friday Mine', 'Idaho']",Hecla Mining Company,Ore,USA,['Idaho']
+Ventilation Raise,"['Lucky Friday Mine', 'Idaho']",Hecla Mining Company,Ore,USA,['Idaho']
+Quartz Mining Leases,['Yukon Territory'],Hecla Mining Company,Silver,Canada,
+Quartz Mining Leases,['Yukon Territory'],Hecla Mining Company,Silver,Mexico,
+Quartz Mining Leases,['Yukon Territory'],Hecla Mining Company,Lead,Canada,
+Quartz Mining Leases,['Yukon Territory'],Hecla Mining Company,Lead,Mexico,
+Quartz Mining Leases,['Yukon Territory'],Hecla Mining Company,Zinc,Canada,
+Quartz Mining Leases,['Yukon Territory'],Hecla Mining Company,Zinc,Mexico,
+cyanidation processing mill,['Casa Berardi  Mine'],Hecla Quebec Inc.,Gold,Canada,
+Secondary Crushing Circuit,['Casa Berardi'],Keno Hill,Silver,Canada,
+Secondary Crushing Circuit,['Casa Berardi'],Keno Hill,Zinc,Canada,
+Secondary Crushing Circuit,['Casa Berardi'],Keno Hill,Lead,Canada,
+Secondary Crushing Circuit,['Casa Berardi'],Keno Hill,Gold,Canada,
+Crusher Modifications,['Keno Hill'],,Silver,Canada,
+Crusher Modifications,['Keno Hill'],,Lead,Canada,
+Crusher Modifications,['Keno Hill'],,Zinc,Canada,
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Silver,Canada,['Alaska']
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Silver,USA,['Alaska']
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Lead,Canada,['Alaska']
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Lead,USA,['Alaska']
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Zinc,Canada,['Alaska']
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Zinc,USA,['Alaska']
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Gold,Canada,['Alaska']
+Camp Upgrades,"['Keno Hill', 'Admiralty Island', 'Southeast Alaska']",Hecla Mining Company,Gold,USA,['Alaska']
+Secondary Egress,['Lucky Friday'],,Silver,USA,
+Secondary Egress,['Lucky Friday'],,Lead,USA,
+Secondary Egress,['Lucky Friday'],,Zinc,USA,
+La Choya Mine,,Hecla Mining Company,,Mexico,
+Equipment,,Hecla Mining Company,,,
+Tailings And Waste Disposal Areas,['Alaska'],Hecla Mining Company,,USA,['Alaska']
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Silver,Canada,
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Silver,Mexico,
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Gold,Canada,
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Gold,Mexico,
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Lead,Canada,
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Lead,Mexico,
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Zinc,Canada,
+Concentrates,"['Casa Berardi', 'San Sebastian']",Hecla Mining Company,Zinc,Mexico,

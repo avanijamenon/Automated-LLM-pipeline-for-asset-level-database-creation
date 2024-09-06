@@ -1,0 +1,123 @@
+physical asset,location,ownership,commodity,status,Countries
+Facilities,"USA, Asia, Brazil, Canada, EU, Western Australia, Amazon, Juruti, Avila, A Coruña, Spain, Point Comfort, Texas, Australia,  Brazil, Canada, Europe, Guinea, Saudi Arabia, Iceland, USA, Norway, San Ciprián, Juruti, Baie-Comeau","Alcoa Corporation, PARTER Capital Group AG, Alcoa and Alumina Limited, ParentCo, Alcoa Canada Ltd., Canadian British Aluminum ","Energy, Aluminum, Bauxite, Aluminum, Energy, Electricity Production, Bauxite Residue, Primary Aluminum, Electricity, Electricity Generation","Operational, End-Of-Life, Operational, Under Construction, End-Of-Life, Curtailed","USA, Asia, Brazil, Canada, Spain, Australia, Guinea, Saudi Arabia, Iceland, Norway, Puerto Rico"
+Administrative Buildings And Workshops,"Darling Range, Western Australia; Juruti, Para State","AofA, AWA Brasil",Bauxite,Operational,"Australia, Brazil"
+Alumar Smelter,"Brazil, Sao Luis, Washington, Becancour, San Ciprian, Australia, Southern Brazil, Lista, Norway, Warrick, Europe, Wenatchee, Canada, Quebec, Massena, New York,  Kwinana, Portland, Iceland, Addy, Indiana, Western Australia","Alcoa Corporation, Subsidiaries of Alcoa Corporation, AWAC joint venture, Alcoa AlumÃ­nio (60%), South32 (40%), Manicouagan Power Limited Partnership, Hydro-Quebec, Portland Aluminium joint venture ","Aluminum, Primary Aluminum, Alumina Production, Magnesium","Operational, Under Construction, Restarting, Curtailed, Temporarily Curtailed, End-Of-Life","Brazil, USA, Australia, Norway, Canada, Spain 
+"
+Alumina ,"Australia, Brazil, Canada, Spain, Saudi Arabia","Alcoa Corporation (60%), Alumina Limited (40%) ","Aluminum, Alumina 
+",Operational,"Australia, Brazil, Canada, Spain, Saudi Arabia"
+Aluminum,"Globally, Avila, A Coruña, Canada, Portland, Australia, Baie-Comeau, Saudi Arabia, Addy, Washington,  San Ciprián, Intalco, Brazil, USA, Iceland, Norway, Spain, Wenatchee","Alcoa Corporation, PARTER Capital Group AG, Alcoa and Alumina Limited, Alcoa Corporation (60%), Alumina Limited (40%)","Aluminum, Primary Aluminum Products","Operational, Under Construction, End-Of-Life, Curtailed, Dismantled","Canada, Australia, Saudi Arabia, USA, Spain, Brazil, Iceland, Norway"
+Aluminum Facilities in Avila and A Coruña,"Avila, A Coruña, Spain","PARTER Capital Group AG, Alcoa Corporation","Aluminum, Silver, Gold, Lead, Zinc","End-Of-Life, Divested, Insolvent, Operational, Under Construction",Spain
+Aluminum Smelter And Casthouse,"Saudi Arabia, Canada, Australia, Baie-Comeau, Spain, Brazil,  Warrick Operations (Indiana)","Alcoa Corporation, Alumina Limited, Ma'aden,  Alcoa AlumÃÂ­nio, South32 ","Aluminum, Primary Aluminum Products, Alumina","Operational, Dismantled, Operated, Curtailed","Saudi Arabia, Canada, Australia, Spain, Brazil, USA"
+Aluminum Smelting Technology,"Canada, Australia","Alcoa Corporation, Alumina Limited",Aluminum,Operational,"Canada, Australia"
+Bauxite,"Australia, Guinea, Brazil, Saudi Arabia, Pocos De Caldas, Spain, Western Australia, Canada, Darling Range, Juruti","Alcoa Corporation, Alumina Limited, Ma'aden, MBAC, AWAC","Aluminum, Bauxite",Operational,"Australia, Guinea, Brazil, Saudi Arabia, Spain, Canada"
+Bauxite Deposits,"Huntly, Willowdale",Alcoa Corporation,Bauxite,Operational,Australia
+Bauxite Mine And Alumina Refinery,"Saudi Arabia, Alumar, Guinea, Brazil, Suriname","Alcoa Corporation, Ma'aden, Alumina Limited  ","Bauxite, Alumina",Operational,"Saudi Arabia, Guinea, Brazil, Suriname"
+Bauxite Residue Areas,"Pocos De Caldas, Brazil","Alcoa Corporation, Copano Enterprises LLC, Alcoa  and AWAC","Bauxite, Mining Waste, Aluminum Production","Under Construction, End-Of-Life, Operational, Underway",Brazil
+Casthouses,,Alcoa Corporation,Aluminum,Operational,N/A
+drillholes,"Baie-Comeau, Quebec",Alcoa Corporation,"Minerals, Aluminum",Operational,Canada
+Eastalco Site,"Eastalco, Maryland",Alcoa Corporation,Waste Processing,"Operational, In End-Of-Life  
+
+",USA
+equipment,"Australia, Brazil, Canada, Guinea, Saudi Arabia, USA","Alumina Limited, Alcoa Corporation, ParentCo","Bauxite, Aluminum, Alumina, Flat-rolled aluminum, Primary aluminum",Operational,"Australia, Brazil, Canada, Guinea, Saudi Arabia, USA"
+Gum Springs Waste Treatment Facility,"Gum Springs, Arkansas","Alcoa Corporation, Elemental Environmental Solutions LLC (EES)",Waste Processing,"End of Life, Sold",USA
+Huntly Mine,"Darling Range, Western Australia",Alcoa Corporation,Bauxite,Operational,Australia
+Hydroelectric Generation Facility,"Brazil, Canada, USA",Alcoa Corporation,"Electricity,Hydroelectric Power",Operational,"Brazil, Canada, USA"
+Hydroelectric Power Plant,,Alcoa Corporation,,Operational,
+Impoundment Structures,,Alcoa Corporation,"Bauxite,Alumina,Aluminum",Operational,
+infrastructure,"Aluminum Smelters, Iceland, Norway, Juruti, Brazil",Alcoa Corporation,"Bauxite,Primary aluminum",Operational,"Iceland, Norway, Brazil"
+Intalco Smelter,"Intalco, Washington",Alcoa Corporation  and Subsidiaries,"Aluminum, Primary Aluminum",Permanently Closed,USA
+Juruti Bauxite Mine,"Juruti, Para","AWAB, Ma'aden, Alcoa Corporation","Bauxite, Alumina",Operational,Brazil
+Kwinana Refinery,"Kwinana, Spain, Brazil, Pinjarra, Wagerup,  San Ciprián","Alcoa Corporation, Alumina Limited (10%), Alcoa AlumÃ­nio (14.04%), South32 (36%) ","Alumina, Aluminum, Bauxite, Carbon Dioxide, Calcined Coke, Steam And Electricity,  Aluminum Refining","Curtailed, Operational, Partially Curtailed, Operational With Lower Grade Bauxite, Operational With Instability In Power Supply, End-Of-Life, In A Three-Year Cumulative Loss Position","Spain, Brazil, Australia"
+Land and Industrial Assets  at Rockdale Smelter Site,"Texas, Maryland",Alcoa Corporation,Waste Processing,"In End-Of-Life, Previously Closed, Sold",USA
+Land and Mines,,Alcoa Corporation,"Bauxite, Aluminum",Operational,
+Lista Aluminum Smelter,"Norway, Canada, Australia, Baie-Comeau, Saudi Arabia, Spain, Brazil, Iceland, USA","Alcoa Corporation, Alcoa and Alumina Limited, Alcoa Corporation and Alumina Limited, AWAC, Ma'aden, Alcoa Corporation (60%), Alumina Limited (40%)","Aluminum, Primary Aluminum Products, Smelting","Operational, Dismantled, Operated, Curtailed, Partially Curtailed, Under Construction, End-Of-Life","Norway, Canada, Australia, Saudi Arabia, Spain, Brazil, Iceland, USA"
+Machinery And Equipment,,Alcoa Corporation,"Alumina, Bauxite, Aluminum  
+",Operational,
+Massena East Smelter,"Massena, New York","Reynolds Metals Company, Alcoa Corporation","Aluminum, Primary Aluminum","In End-Of-Life, Under Construction, Operational",USA
+mines,"Australia, Brazil, Guinea,  Western Australia, Canada, Spain, Saudi Arabia","Alcoa Corporation, Alumina Limited, AWAC, South32, MRN, CBG, Alcoa AlumÃ­nio","Bauxite, Alumina","Operational, Partially Curtailed, Under Construction","Australia, Brazil, Guinea, Canada, Spain, Saudi Arabia"
+Mining Areas,Western Australia,"Alcoa Corporation, Alumina Limited",Bauxite,Operational,Australia
+Mining Operations,"Western Australia, Brazil, Guinea, Saudi Arabia, Washington, Canada, USA",Alcoa Corporation (Joint Venture),"Bauxite, Aluminum","Operational, Ceased Operations","Australia, Brazil, Guinea, Saudi Arabia, Canada, USA"
+MosjÃ¸en Smelter,"MosjÃ¸en, Norway",Alcoa Corporation,,Operational,Norway
+Open-Cut Mines,"Darling Range, Juruti, Trombetas","AofA, AWA Brasil, MRN",Bauxite,"Operational, Producing","Australia, Brazil"
+ore bodies,Baie-Comeau,,Minerals,Operational,Canada
+Plants,"Brazil, Australia","Alcoa Corporation, Alumina Limited, Alcoa AlumÃ­nio ","Bauxite, Alumina, Aluminum, Energy, Electricity","Operational, Under Construction, End-Of-Life","Brazil, Australia"
+Point Comfort Alumina Refinery,"Point Comfort, Texas; Saudi Arabia; Alumar","Alcoa Corporation, Ma'aden","Industrial Wastes, Alumina","In End-Of-Life, Under Construction, Operated, Operational","USA, Saudi Arabia"
+Portland Aluminium Joint Venture,"Australia, Saudi Arabia",Alcoa Corporation (25.1% interest),Aluminum,Operational,"Australia, Saudi Arabia"
+Portland Aluminum Smelter,"Portland, Australia; Warrick Operations, Indiana, Canada; Baie-Comeau, Saudi Arabia; San CipriÃ¡n, Spain; Brazil; Iceland; Norway; Spain; USA","Alcoa Corporation, Alumina Limited","Aluminum, Primary Aluminum Products, Aluminum Smelting","Operational, Under Construction, Dismantled, Operated, Curtailed, Partially Curtailed, End-Of-Life","Australia, Canada, Saudi Arabia, Spain, Brazil, Iceland, Norway, USA"
+Power Plant,"Warrick County, Indiana, Iceland, United States, North America, Brazil","Alcoa Corporation, Landsvirkjun","Electricity, Aluminum, Energy",Operational,"USA, Iceland, Brazil"
+Process Plant,"Darling Range, Huntly, Willowdale",Alcoa Corporation,Bauxite,Operational,Australia
+Properties,"Brazil, Guinea, Saudi Arabia, Australia, USA, Canada","Alcoa Corporation (60%), Alumina Limited (40%)","Bauxite, Alumina, Primary Aluminum, Aluminum, Energy","Operational, Under Construction, End-Of-Life","Brazil, Guinea, Saudi Arabia, Australia, USA, Canada"
+Reclaiming Site,,,,Reclamation,N/A
+Refineries,"Europe, Australia, Brazil, China, Spain, Saudi Arabia, Western Australia,  Canada","Alcoa Corporation (25.1% interest), Alcoa Corporation (60%), Alumina Limited (40%), AWAC, MBAC","Aluminum, Bauxite, Alumina","Operational, Under Construction, Partial Curtailment","Spain, Australia, Brazil, China, Canada, Saudi Arabia"
+Remediating Site,,,,Remediation,N/A
+Rockdale Site,"Rockdale, TX",Alcoa Corporation,Waste Processing,Operational,USA
+rolling mill,"Indiana, Warrick","Alcoa Corporation (25.1%), Kaiser Aluminum Corporation, Ma'aden ","Aluminum, Aluminum Rolling, Rolled Metal Products, Aluminum Production","End-Of-Life, Sold, Operational",USA
+San CipriÃ¡n Alumina Refinery,"Spain, Saudi Arabia,  San CipriÃ¡n,  EspaÃ±ola","Alcoa Corporation, Ma'aden, Alumina EspaÃ±ola, S.A.","Aluminum, Alumina","Curtailed, Operated, Operational, Under Construction, End Of Life","Spain, Saudi Arabia, Puerto Rico"
+Smelters,"Europe, Quebec, Massena, New York, Portland, Australia, Western Australia, Brazil, USA, Canada, Iceland, Norway, Spain, Washington, San CipriÃ¡n, Intalco","Alcoa Corporation, AofA","Aluminum, Electricity, Natural Gas","Operational, Under Construction, Idle, Curtailed, End-Of-Life, Undergoing Maintenance","Europe, Canada, USA, Australia, Brazil, Iceland, Norway, Spain"
+Smelting joint venture company,Saudi Arabia,Alcoa Corporation (25.1%),Aluminum,Operational,Saudi Arabia
+smelting potlines,"Warrick Operations, Indiana","Alcoa Corporation, Alumina Limited",Aluminum,"Curtailed, Operational",USA
+St. Croix Alumina Facility,St. Croix,Alcoa Corporation (ParentCo),,Operational,St. Croix
+Structural Impoundments,,Alcoa Corporation,,Operational,N/A
+Sao Luis Refinery Expansion,"Sao Luis, Brazil","AWAB, Alcoa Corporation","Bauxite, Alumina",Operational,Brazil
+Tailing Facilities,,Alcoa Corporation,,Operational,N/A
+Wagerup Refinery,"Western Australia, Wagerup,  Waroona, Willowdale mining area, San CipriÃ¡n, Brazil, Kwinana, Pinjarra, Kwinana refinery, San CipriÃ¡n refinery, Australia refineries, Alumar refinery, Waroona","Alcoa Corporation, Alumina Limited, AWAB (39.96%), Rio Tinto (10%), Alcoa AlumÃ­nio (14.04%), South32 (36%)","Bauxite, Carbon Dioxide, Alumina, Calcined Coke, Steam And Electricity,Aluminum","Operational, Curtailed, Partially Curtailed, Operational With Lower Grade Bauxite, Operational With Instability In Power Supply, End-Of-Life","Australia, Brazil"
+Warrick Operations,"Indiana, Warrick County","Alcoa Corporation, AofA, Kaiser Aluminum Corporation","Aluminum, Primary Aluminum","Operational, Partially Curtailed, Sold",USA
+Wenatchee Aluminum Smelter,"Wenatchee, Washington,  Warrick Operations, Canada, Portland, Australia, Baie-Comeau, Saudi Arabia, San CipriÃ¡n","Alcoa Corporation, Alumina Limited, AWAC, Ma'aden","Aluminum, Primary Aluminum Products","End-Of-Life, Operational, Dismantled, Operated, Curtailed","USA, Canada, Australia, Saudi Arabia"
+Willowdale Mine,"Darling Range, Western Australia",Alcoa Corporation,Bauxite,Operational,Australia
+aluminum smelting and casting facilities,"Avila, Spain","Alcoa Corporation, PARTER Capital Group AG","Aluminum,  Smelting And Casting","Operational, Under Construction, End-Of-Life, Curtailed",Spain
+refining,"Australia, Spain, Brazil, Canada","Alcoa Corporation, Alumina Limited","Alumina, Aluminum",Operational,"Australia, Spain, Brazil, Canada"
+Bauxite Consortium,Guinea,Alcoa Corporation and Alumina Limited,Bauxite,Operational,Guinea
+"Refinery, Alumina Assets",Spain,Alcoa Corporation,Alumina,Operational,Spain
+Refinery Assets,"Texas, Brazil, Canada, USA, San CipriÃ¡n, Spain, Southern Brazil, Kwinana, Pinjarra, Wagerup, Australia ","Alcoa Corporation, Alumina Limited, AWAB (39.96%), Rio Tinto (10%), Alcoa AlumÃ­nio (14.04%), South32 (36%)","Alumina, Aluminum, Electricity, Power, Carbon Dioxide, Calcined Coke, Steam And Electricity,  Carbon Dioxide Emissions, Alumina Refining","Closed, Operational, Curtailed, Partially Curtailed, Operational With Lower Grade Bauxite, Operational With Instability In Power Supply, End-Of-Life, In A Three-Year Cumulative Loss Position","Brazil, Canada, Spain, Australia, USA"
+Mine and Refinery  in Suriname,Suriname,Alcoa Corporation,"Bauxite, Alumina",Unknown,Suriname
+Strathcona Calciner,Southern Brazil,"Alcoa Corporation (39%), Rio Tinto (61%)",Calcined Coke,"Operational, Idled",Brazil
+Barra Grande Hydropower Plant,Southern Brazil,Alcoa AlumÃ­nio (42.2%),,Operational,Brazil
+Estreito HPP,Northern Brazil,Alcoa AlumÃ­nio (25.5%),,Operational,Brazil
+Serra Do Facão HPP,Central Brazil,Alcoa AlumÃ­nio (35%),,Operational,Brazil
+Manicouagan Hydroelectric Project,"Quebec, Canada","Affiliates Of Alcoa And Hydro-Quebec, Alcoa Corporation(40%)",,Operational,Canada
+Huntly And Willowdale Bauxite Mines,"Western Australia, Brazil, Guinea, Spain, Saudi Arabia, Canada, Darling Range, Juruti,  Huntly mining areas, Willowdale mining area","Alcoa Corporation, Alumina Limited, AWAC, MBAC","Bauxite, Alumina, Aluminum","Operational, Partially Curtailed, Under Construction","Australia, Brazil, Guinea, Spain, Saudi Arabia, Canada"
+Jarrahdale Mining Center,Darling Range,WANL  (later Western Australia NL),Bauxite,Operational,Australia
+Refinery  located at Pinjarra,"Pinjarra, Kwinana, Waroona, Southwestern Australia",Alcoa Corporation,"Alumina, Bauxite",Operational,Australia
+"Alumar Smelter  Sao Luis, Brazil","Sao Luis, Brazil",Alcoa Corporation,"Alumina, Aluminum",Operational,Brazil
+Myara North  Mine,Western Australia,Alcoa Corporation,Bauxite,Under Construction,Australia
+Holyoake  Mine,Western Australia,Alcoa Corporation,Bauxite,Under Construction,Australia
+Residue Storage Facilities,Australia,Alcoa Corporation,,Operational,Australia
+Pier,Kwinana Refinery,Alcoa Corporation,Bauxite,Operational,Australia
+Worldwide Smelting And Casthouse System,"Multiple Countries, Canada, Usa",Alcoa Corporation,"Primary Aluminum, Alumina",Operational,"Canada, Usa"
+Portfolio of energy facilities,"Brazil, Canada, USA",Alcoa Corporation,Energy,Operational,"Brazil, Canada, USA"
+Magnesium Smelter  in Addy,"Addy, Washington",Alcoa Corporation,"Metals, Magnesium","End-Of-Life, Closed",USA
+Pocos de Caldas Smelter,Brazil,Alcoa Corporation,"Alumina,",End-Of-Life,Brazil
+Transmission Assets,"Indiana, Tennessee, New York, Washington",Alcoa Power Generating Inc.,Electricity Transmission,Operational,USA
+Ore Crushing Equipment,"Darling Range, Trombetas",AofA,Bauxite,Operational,"Australia, Brazil"
+crushers,"Darling Range, WA",AofA,Bauxite,Operational,Australia
+Long-Distance Conveyors,Darling Range,AofA,Bauxite,Operational,Australia
+Fixed Plant For Ore Crushing And Washing,"Juruti, Trombetas",AWA Brasil,Bauxite,Operational,Brazil
+Water Supply Pumps And Pipeline,"Juruti, Para",AWA Brasil,Bauxite,Operational,Brazil
+Ore Stockpiles,"Juruti, Para",AWA Brasil,Bauxite,Operational,Brazil
+railroad,"Juruti, Para",AWA Brasil,Bauxite,Operational,Brazil
+tailings thickening and settling ponds,"Juruti, Brazil","AWA Brasil, Alcoa Corporation","Bauxite 
+
+
+Let me know if you have another cell value you'd like me to clean!",Operational,Brazil
+Port,"Juruti, Para  State",AWA Brasil,Bauxite,Operational,Brazil
+Ship Loader,"Juruti, Para",AWA Brasil,Bauxite,Operational,Brazil
+aluminum manufacturing facilities,"Australia, Brazil, Canada, Iceland, Norway, Spain, USA","Alcoa Corporation, PARTER Capital Group AG","Aluminum, Primary Aluminum","Operational, Under Construction, End-Of-Life, Curtailed","Australia, Brazil, Canada, Iceland, Norway, Spain, USA"
+Ship Unloaders,Sao Luis,Alcoa Corporation,Bauxite,Damaged,Brazil
+Becancour Smelter,Becancour,Alcoa Corporation,Aluminum,Restarted,Canada
+Brazilian Hydroelectric Facilities,Brazil,Alcoa Corporation,Electricity,Operational,Brazil
+La Coruna Aluminum Facilities,"Avila, A Coruña, Spain","Alcoa Corporation, PARTER Capital Group AG",Aluminum,"Divested, Operational, Under Construction, End-Of-Life, Curtailed, Insolvent",Spain
+Coal Mine,Huntly  Mine,Alcoa Corporation,Bauxite,Operational,Australia
+Sherwin Alumina Refinery,"Sherwin, Texas, Saudi Arabia","Copano Enterprises LLC, Ma'aden, Alcoa Corporation","Bauxite, Alumina","Planned, Operated, Operational","USA, Saudi Arabia"
+Land And Buildings,,ParentCo,,Operational,
+Alumina Refinery,,ParentCo,,Operational,
+Vehicles,,ParentCo,,Operational,
+Dampier To Bunbury Natural Gas Pipeline,Western Australia,Alcoa Corporation,Gas Supply,Operational,Australia
+Office Facilities,Domestically And Internationally,Alcoa Corporation,,Operational,
+Production Sites,Domestically And Internationally,Alcoa Corporation,"Bauxite, Alumina, Aluminum",Operational,"
+
+"
+"Refineries (Pinjarra, Kwinana, Wagerup)","Pinjarra, Kwinana, Wagerup, Western Australia",Alcoa Corporation,Aluminum,Operational,Australia
+Alcoa's Darling Range Mining Operations,Darling Range,Alcoa Corporation,Bauxite,Operational,Australia
+Alcoa AlumÃ­nio S.A. Smelter,"Po�os de Caldas, Brazil",Alcoa Corporation,,Closed,Brazil
+Smelter Sites at Fusina and Portovesme,"Fusine, Italy; Portovesme, Italy",Alcoa Trasformazioni S.r.l.,,Under Construction,Italy
+Mining Areas And Refineries,"Hurricane Creek, AR",Alcoa Corporation,,Ongoing,USA
